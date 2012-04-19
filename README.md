@@ -13,3 +13,5 @@ We hope to add simple html versions soon too.
 In the meantime, enjoy.
 
 Chris Leonard | Editorial Director | QScience.com | cjamesleonard@qf.org.qa
+
+PS: Yes, we are looking at this as way to facilitate peer review too!
