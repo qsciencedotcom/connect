@@ -1,0 +1,3166 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+</publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">1</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2012.1</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Feasibility study of sulfates as oxygen carriers for chemical looping processes</article-title> 
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>         
+<given-names>Ganesh</given-names>
+<x> </x>               
+<surname>Kale</surname>  </string-name> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref></contrib> 
+<aff>National Chemical Laboratory, Dr. Homi Bhabha Road, Pune, Maharashtra, India</aff></contrib-group>
+
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>gr.kale@ncl.res.in</corresp>
+<fn id="FN2">
+<label>Academic Editor: </label>
+<p>Dr. Erik Jerndal, Chalmers University of Technology, Gothenburg, Sweden</p></fn></author-notes> 
+
+
+<pub-date pub-type="pub"> 
+<day>27</day>
+<month>1</month>
+<year>2012</year></pub-date> 
+<issue content-type="issue-sequence">2012</issue>
+<elocation-id>1</elocation-id> 
+<history> 
+<date date-type="received">
+<day>15</day>
+<month>9</month>
+<year>2011</year></date> 
+<date date-type="accepted">
+<day>16</day>
+<month>1</month>
+<year>2012</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2012 Kale, licensee
+Bloomsbury Qatar Foundation Journals. This is an open access article distributed
+under the terms of the Creative Commons Attribution License CC BY 3.0 which
+permits unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement> 
+<copyright-year>2012</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.1.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+<abstract>
+<title>Abstract</title>
+<p>The operational feasibility temperature range of chemical looping combustion (CLC) and chemical looping reforming (CLR) of the fuels methane, propane, iso-octane and ethanol was explored using the common sulphates <!--\xdollar\rm -->            Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->, <!--\xdollar\rm -->            CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->            MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;as oxygen carriers. The chemical reaction equations for each oxygen carrier and fuel were formulated and fed into the Chemical Equations module of HSC Chemistry 5.1 software to obtain the Gibbs free energy change (<mml:math altimg="e1.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G) of the chemical reaction within the temperature range (200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->). The CLC and CLR process operational feasibility temperature range for the fuel-oxygen carrier combination was mapped excluding the undesirable formation of <!--\xdollar\rm -->            SO
+<sub>2</sub><!--\xdollar-->&#x00A0;in CLC and <!--\xdollar\rm -->            H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;and S in CLR. <!--\xdollar\rm -->            Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->            CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;were found to be suitable for all CLC and CLR systems. <!--\xdollar\rm -->            MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;was not found to be a suitable candidate for CLC or CLR processes irrespective of the fuel considered. Methane was found to be better than the other fuels studied as the operational temperature range of CLC and CLR processes were wide for all the sulphates. This short cut methodology presented in this paper can be used to predict the operational feasibility of CLC and CLR processes of different fuels and oxygen carriers.</p></abstract>
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>Chemical looping combustion</kwd>
+<x>, </x>
+<kwd>chemical looping reforming</kwd>
+<x>, </x>
+<kwd>thermodynamic study</kwd>
+<x>, </x>
+<kwd>syngas
+generation</kwd>
+<x>, </x>
+<kwd>oxygen carriers</kwd>
+<x>, </x>
+<kwd>sulfates</kwd></kwd-group> 
+</article-meta>  
+</front> 
+<body>
+<sec>
+<title>Background</title>
+<p><!--\xdollar\rm -->       CO
+<sub>2</sub><!--\xdollar-->&#x00A0;emission
+control through new processes has been widely researched to date. Chemical looping
+combustion (CLC) is an accepted technology to produce energy with the advantage of <!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar-->&#x00A0;separation
+and sequestration. Chemical looping reforming (CLR) is a technology
+similar to CLC, differing slightly in that it uses the minimum amount
+of oxygen to limit the fuel-oxygen carrier reaction to produce syngas (<!--\xdollar\rm -->H
+<sub>2</sub>+CO<!--\xdollar-->) only.
+CLC and CLR are emerging technologies that utilize indirect combination of fuel and
+oxygen to produce thermal energy (CLC) or syngas (CLR). CLC and CLR have
+several benefits over direct oxidation such as safe indirect reaction of fuel and air
+using an oxygen carrier as an intermediate. Both processes are operated in fluidized
+bed reactor systems. The system consists of two reactors wherein fuel is oxidized by
+the oxygen carrier in a fuel reactor (FR) and the reduced oxygen carrier is
+regenerated by air in the oxidation reactor (AR). The process operates continuously
+and many oxygen carriers have been evaluated for long-term durability of
+oxidation&#x2013;reduction cycles. Common fuels such as methane or petroleum
+coke&#x00A0;<xref ref-type="bibr" rid="b1">[1]</xref> react with oxygen carriers at high temperatures (above 700<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;as
+they are highly thermodynamically stable), to become partially oxidized
+(CLR-producing syngas) or completely oxidized (CLC-producing huge thermal
+energy). Many oxides are used in chemical looping studies of fuels.</p>
+<sec>
+<title>Oxides as oxygen carriers</title>
+<p>Inorganic oxygen containing compounds such as NiO have been used as oxygen carriers
+in CLC of syngas and natural gas&#x00A0;<xref ref-type="bibr" rid="b2">[2]</xref>, methane&#x00A0;<xref ref-type="bibr" rid="b3
+b4 b5 b15">[3&#x2013;5,15]</xref> and solid fuels&#x00A0;<xref ref-type="bibr" rid="b6">[6]</xref> successfully. NiO based oxygen
+carriers have also been studied for CLR of waste cooking oil&#x00A0;<xref ref-type="bibr" rid="b7">[7]</xref> and
+methane&#x00A0;<xref ref-type="bibr" rid="b8 b9 b10 b11 b12 b13 b14 b15 b16">[8&#x2013;16]</xref>. Cu based oxygen
+carriers have been studied in CLC of methane&#x00A0;<xref ref-type="bibr" rid="b17 b22">[17,22]</xref>, <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;<xref ref-type="bibr" rid="b18">[18]</xref>, light
+hydrocarbons (LHC) (<!--\xdollar\rm -->         C
+<sub>2</sub>H
+<sub>6</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->C
+<sub>3</sub>H
+<sub>8</sub><!--\xdollar-->)&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>,
+syngas&#x00A0;<xref ref-type="bibr" rid="b20 b21">[20,21]</xref> and solid fossil fuels&#x00A0;<xref ref-type="bibr" rid="b23
+b24">[23,24]</xref>. CuO has also been used in CLR of syngas successfully&#x00A0;<xref ref-type="bibr" rid="b25">[25]</xref>.
+Iron oxides have reportedly been studied for CLC of coal&#x00A0;<xref ref-type="bibr" rid="b26">[26]</xref>,
+methane&#x00A0;<xref ref-type="bibr" rid="b27">[27]</xref>, petroleum coke, charcoal, lignite and bituminous
+coals&#x00A0;<xref ref-type="bibr" rid="b28">[28]</xref>, solid fuels&#x00A0;<xref ref-type="bibr" rid="b29">[29]</xref>, natural
+gas&#x00A0;<xref ref-type="bibr" rid="b31">[31]</xref> and coal and biomass&#x00A0;<xref ref-type="bibr" rid="b30">[30]</xref>. Iron based
+oxygen carriers have also been studied for CLR of natural gas&#x00A0;<xref ref-type="bibr" rid="b32">[32]</xref>
+and methane&#x00A0;<xref ref-type="bibr" rid="b33">[33]</xref>. Other oxygen carriers have been used in chemical
+looping studies such as manganese oxides (CLC of natural gas)&#x00A0;<xref ref-type="bibr" rid="b34">[34]</xref>
+and cerium oxide (CLR of methane)&#x00A0;<xref ref-type="bibr" rid="b35">[35]</xref>. A comparison of
+iron, nickel, copper and manganese based oxygen carriers has been carried
+out for chemical-looping combustion&#x00A0;<xref ref-type="bibr" rid="b36">[36]</xref>. Although metal
+oxides are popular as oxygen carriers, the drawbacks are their cost, their high
+weight/mole characteristics and some can be hazardous to the environment,
+which prevent their application in large-scale chemical-looping combustion
+systems&#x00A0;<xref ref-type="bibr" rid="b37">[37]</xref>. Some transition metal oxides have more than one
+valancy which gives rise to unwanted byproducts in chemical looping systems. This
+has prompted the use of sulfates as oxygen carriers as they serve several
+advantages such as low cost, easy availability and superior oxygen transfer
+capacity&#x00A0;<xref ref-type="bibr" rid="b38">[38]</xref>.</p>
+</sec>
+<sec>
+<title>Sulfates as oxygen carriers</title>
+<p>The use of sulfates such as <!--\xdollar\rm -->         BaSO
+<sub>4</sub><!--\xdollar-->, <!--\xdollar\rm -->SrSO
+<sub>4</sub><!--\xdollar-->&#x00A0;<xref ref-type="bibr" rid="b39">[39]</xref>
+and <!--\xdollar\rm -->          CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;have
+been reported only in CLC systems by researchers to date. Amongst these, <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;is
+the most widely used sulfate in chemical looping research studies. Zheng
+et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b40">[40]</xref> presented the thermodynamics and kinetics of <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;reduction with
+coal via a gasification intermediate in a CLC process and found that an increase in the steam/<!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar-->&#x00A0;ratio
+of the gasification intermediate increased the <!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar-->&#x00A0;generating efficiency and
+reduced the <!--\xdollar\rm -->         SO
+<sub>2</sub><!--\xdollar-->&#x00A0;environmental
+impact. Deng et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b41">[41]</xref> developed a reaction kinetics model of a CLC fuel reactor (<!--\xdollar\rm -->CaSO
+<sub>4</sub>+H
+<sub>2</sub><!--\xdollar-->) using FLUENT, and
+reported a low fuel (<!--\xdollar\rm -->         H
+<sub>2</sub><!--\xdollar-->)
+conversion rate (34%) due to fast, large bubbles rising through
+the reactor, low bed temperature and large particle diameter.
+Shen et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b42">[42]</xref> studied the possibility of utilizing <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;as an oxygen
+carrier in CLC and found that the suitable temperature of the air reactor was between 1050&#x2013;1150<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->,
+while the optimal temperature of the fuel reactor was between 900&#x2013;950<!--\xdollar\rm --><sup>&#x2218;</sup><!--\xdollar-->C. Jin et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b43">[43]</xref> studied the effects of partial pressure of <!--\xdollar\rm -->H
+<sub>2</sub><!--\xdollar-->&#x00A0;on the
+performance of CLC using the reaction kinetics model of the fuel reactor <!--\xdollar\rm -->CaSO
+<sub>4</sub>+H
+<sub>2</sub><!--\xdollar-->, and found that the
+concentration of <!--\xdollar\rm -->         H
+<sub>2</sub><!--\xdollar-->&#x00A0;enhanced
+the CLC performance. Song et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b44">[44]</xref> conducted a reactivity study of <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;in
+CLC of methane in a laboratory-scale fixed-bed reactor and also studied the <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;release
+behavior during reduction and oxidation. These researchers
+also&#x00A0;<xref ref-type="bibr" rid="b45">[45]</xref> experimentally studied the CLC with <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;using
+reducing simulated coal gas, simultaneously oxidizing it back to <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;at 950<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;in
+a fluidized bed reactor at atmospheric pressure, with <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;reactivity
+lasting for 15 cycles. Tian et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b46">[46]</xref> studied the decomposition mechanism
+of <!--\xdollar\rm -->           CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;in
+a different simulated atmosphere of CLC using a simultaneous thermal analyzer at five
+different heating rates. Song et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b47">[47]</xref> investigated the reduction kinetics of
+<!--\xdollar\rm -->       CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;as
+an oxygen carrier using the shrinking unreacted-core model and evaluated
+the apparent kinetic parameters of the kinetic equation that predicted
+the experimental data. Song et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b48">[48]</xref> experimentally
+investigated the CLC of methane with calcium sulfate and reported significant <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+at higher temperatures. No other common sulfates other than <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;have been used due to
+the problems of <!--\xdollar\rm -->          SO
+<sub>2</sub><!--\xdollar-->,
+S and <!--\xdollar\rm -->          H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation
+in the CLC&#x2013;CLR systems. Researchers are currently working on new and
+innovative ways of overcoming these issues. Tian et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b49">[49]</xref>
+investigated carbon deposition and sulfur evolution in the reduction of <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;oxygen
+carrier with a typical syngas using thermodynamic simulations and
+reported the conditions for preventing the release of sulfurous
+gases. Solunke et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b50">[50]</xref> studied the effect of <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;from
+coal-derived syngas on the stability and redox kinetics of Ni- and Cu-based
+nanostructured oxygen carriers and reported that the carriers showed great potential
+for use in CLC of high-sulfur fuels.</p>
+<p>The reactivity of the oxygen carriers differ with the fuel used in CLC and CLR
+processes. CLC and CLR process design requires the right compatibility of
+fuel and oxygen carrier. A particular oxygen carrier cannot deliver the best
+performance for all kinds of fuels. Hence there is a basic need to investigate the
+reaction compatibility of a oxygen carrier for a particular fuel in CLC or
+CLR processes. Such an investigation can be carried out experimentally but
+can prove to be costly and sometimes dangerous and therefore theoretical
+study is the best method to predict the fuel-oxygen carrier compatibility.
+Thermodynamics is the backbone for process development. Gibbs free energy of a
+chemical reaction is a fundamental thermodynamic property often used in
+process design, which shows the temperature (or temperature range) for
+reaction feasibility. This thermodynamic aspect is used in this study to design a
+shortcut technique to obtain process operational feasibility for the fuel-oxygen
+carrier combination for CLC or CLR processes. This technique works in two
+steps. The first step determines the temperatures for reaction feasibility (the
+reaction is feasible if the Gibbs free energy of the reaction is negative at that
+particular temperature). The second step determines process operational
+feasibility by limiting the temperature range to safely eliminate the feasibility of
+undesired by-product formation and melting of solids in the reaction system.
+Wider process operational feasibility temperature ranges are desirable for the
+fuel-oxygen carrier combination. Practical chemical reactors do not always work
+isothermally and wide temperature ranges can therefore help the operation of the
+reactor.</p>
+<p>This paper presents a short cut technique to find operational temperature ranges of
+some common sulfates as oxygen carriers for different categories of fuels, which is
+aimed at determining the best fuel-oxygen carrier combinations avoiding undesired
+sulfur byproducts. Once an oxygen carrier &#x2013; fuel combination obtaining a wide
+operational feasibility temperature range has been determined, detailed reaction
+feasibility studies can then be done.</p>
+</sec>
+</sec>
+<sec>
+<title>Methodology</title>
+<p>The feasibility of using <!--\xdollar\rm -->         Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->,
+<!--\xdollar\rm -->       MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;as
+oxygen carriers for CLC and CLR reactions was explored in this paper due to their
+common availability, non-toxic nature and high melting temperatures (above 850<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->).
+The common metal sulfates with their respective melting points are listed
+in
+<xref rid="tbl1">Table&#x00A0;1</xref>&#x00A0;<xref ref-type="bibr" rid="b51 b52">[51,52]</xref>. Ba, Pb and Cd compounds
+were neglected in this investigation as they are generally toxic and are not
+easily available. Complex compounds such as hydroxides, carbonates,
+bicarbonates of Na, Ca and Mg metals were also neglected in this investigation
+as they exist as stable solids at the reaction temperatures. Fuels such as <!--\xdollar\rm -->CH
+<sub>4</sub><!--\xdollar-->&#x00A0;(natural
+gas), propane (liquefied petroleum gas), iso-octane (gasoline) and ethanol (bio-fuels)
+were considered in this study. The reaction feasibility was explored by using the
+Chemical Equations module of HSC Chemistry 5.1 software&#x00A0;<xref ref-type="bibr" rid="b53">[53]</xref>.
+<table-wrap  id="tbl1">  
+<label>Table&#x00A0;1</label> <!--view=normal--><caption> 
+<title>Melting point of compounds. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Compound                                                                                                 </td> 
+<td align="left">Melting point (<!--\xdollar\rm --><sup>&#x2218;</sup><!--\xdollar-->C) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        SnSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->360                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        FeSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->400                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        Fe
+<sub>2</sub>(SO
+<sub>4</sub>)
+<sub>3</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->480                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        BaSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left">1580                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        K
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->588                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        CuSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->600                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        MnSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->700                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        ZnSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->740                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        Al
+<sub>2</sub>(SO
+<sub>4</sub>)
+<sub>3</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->770                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        NiSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->840                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        Li
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->860                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        CoSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->880                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left"><!--\0-->884                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        CdSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left">1000                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        PbSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left">1170                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        MgSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left">1185                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        CaSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left">1450                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        SrSO
+<sub>4</sub><!--\xdollar--> </td> 
+<td align="left">1580                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        Na
+<sub>2</sub>S<!--\xdollar--> </td> 
+<td align="left">1180                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">MgS                                                                                                               </td> 
+<td align="left">2000                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">CaS                                                                                                               </td> 
+<td align="left">2525                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        Na
+<sub>2</sub>O<!--\xdollar--> </td> 
+<td align="left">1132                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">CaO                                                                                                              </td> 
+<td align="left">2572                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">MgO                                                                                                              </td> 
+<td align="left">2800                                                                                                                                      </td>
+</tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [t]{tbl1}--></p>
+<p>The chemical reaction equations for each oxygen carrier and fuel were
+formulated and fed into the software to obtain the Gibbs free energy change
+(<mml:math altimg="e2.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G)
+of the chemical reaction within the temperature range of 200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. The lower temperature
+range of 200&#x2013;400<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;was
+chosen to accommodate ethanol fuel. The feed species used for the study
+were sulfur, sulfate, sulfide and oxides of Na, Mg and Ca as solid and <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->, <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->, <!--\xdollar\rm -->H
+<sub>2</sub><!--\xdollar-->, CO, <!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar-->, <!--\xdollar\rm -->H
+<sub>2</sub>O<!--\xdollar-->, <!--\xdollar\rm -->CH
+<sub>4</sub><!--\xdollar-->,
+ethanol, iso-octane and propane in gaseous state. The reaction feasibility data was
+generated, analyzed and discussed. The feasibility study was done by plotting
+<mml:math altimg="e3.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+(kJ/mol) against reaction temperatures. The reaction feasibility in the
+desired direction was established for temperature ranges where the
+<mml:math altimg="e4.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+values became negative suggesting a spontaneous reaction. The melting point data of
+the solids involved was also taken into consideration to map the boundaries of
+reaction feasibility. The overview of CLC reactions and CLR reactions considered in
+this study are presented in
+<xref rid="tbl2">Tables&#x00A0;2</xref>,
+<xref rid="tbl3">3</xref> and
+<xref rid="tbl4">4</xref> respectively.
+<table-wrap  id="tbl2">  
+<label>Table&#x00A0;2</label>  
+<caption> 
+<title>Overview of CLC reactions considered in this study. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/></colgroup> 
+<tbody>
+<tr valign="top"> 
+<td align="left">Fuel Reactor: <!--\vspace *{3pt}-->                                                                                                           </td> 
+<td align="left">A1&#x00A0;<!--\xdollar\rm -->            C
+<sub>
+<italic>m</italic></sub>H
+<sub>
+<italic>n</italic></sub>O
+<sub>
+<italic>y</italic></sub>+<!--\xdollar--> B1&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub>=<!--\xdollar--> C1&#x00A0;<!--\xdollar\rm -->            CO
+<sub>2</sub>+<!--\xdollar--> D1&#x00A0;<!--\xdollar\rm -->            H
+<sub>2</sub>O+<!--\xdollar--> E1&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>S<!--\xdollar-->                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Air Reactor: <!--\vspace *{3pt}-->                                                                                                                  </td> 
+<td align="left">E1&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>S+<!--\xdollar--> F1&#x00A0;<!--\xdollar\rm -->            O
+<sub>2</sub>=<!--\xdollar--> B1&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub><!--\xdollar-->                                                                                                                                                                                                                                                                                                                                                                          </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        SO
+<sub>2</sub><!--\xdollar--> formation: </td> 
+<td align="left">A2&#x00A0;<!--\xdollar\rm -->            C
+<sub>
+<italic>m</italic></sub>H
+<sub>
+<italic>n</italic></sub>O
+<sub>
+<italic>y</italic></sub>+<!--\xdollar--> B2&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub>=<!--\xdollar--> C2&#x00A0;<!--\xdollar\rm -->            CO
+<sub>2</sub>+<!--\xdollar--> D2&#x00A0;<!--\xdollar\rm -->            H
+<sub>2</sub>O+<!--\xdollar--> G1&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>O+<!--\xdollar--> H1&#x00A0;<!--\xdollar\rm -->            SO
+<sub>2</sub><!--\xdollar--> </td>
+</tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [b]{tbl2}--><table-wrap  id="tbl3">  
+<label>Table&#x00A0;3</label>  
+<caption> 
+<title>Overview of CLR reactions considered in this study. A1, B1, C1, D1, E1,
+F1, A2, B2, C2, D2, G1, H1, A3, B3, I1, J1, E2, E3, F2, B3, A4, B4, I2, J2, G2, K1, A5,
+B5, I3, J3, G3, L1 represent the coefficients of moles in CLC and CLR reaction schemes. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/></colgroup> 
+<tbody>
+<tr valign="top"> 
+<td align="left">Fuel Reactor: <!--\vspace *{3pt}-->                                                                                              </td> 
+<td align="left">A3&#x00A0;<!--\xdollar\rm -->            C
+<sub>
+<italic>m</italic></sub>H
+<sub>
+<italic>n</italic></sub>O
+<sub>
+<italic>y</italic></sub>+<!--\xdollar--> B3&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub>=<!--\xdollar--> I1&#x00A0;<!--\xdollar\rm -->            CO+<!--\xdollar--> J1&#x00A0;<!--\xdollar\rm -->            H
+<sub>2</sub>+<!--\xdollar--> E2&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>S<!--\xdollar-->                                                                                                                    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Air Reactor: <!--\vspace *{3pt}-->                                                                                                    </td> 
+<td align="left">E3&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>S+<!--\xdollar--> F2&#x00A0;<!--\xdollar\rm -->            O
+<sub>2</sub>=<!--\xdollar--> B3&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub><!--\xdollar-->                                                                                                                                                                                                                                                                                                                                                                                        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left"><!--\xdollar\rm -->        H
+<sub>2</sub>S<!--\xdollar--> <!--\vspace *{3pt}--> </td> 
+<td align="left">Formation: A4&#x00A0;<!--\xdollar\rm -->            C
+<sub>
+<italic>m</italic></sub>H
+<sub>
+<italic>n</italic></sub>O
+<sub>
+<italic>y</italic></sub>+<!--\xdollar--> B4&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub>=<!--\xdollar--> I2&#x00A0;<!--\xdollar\rm -->            CO+<!--\xdollar--> J2&#x00A0;<!--\xdollar\rm -->            H
+<sub>2</sub>+<!--\xdollar--> G2&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>O+<!--\xdollar--> K1&#x00A0;<!--\xdollar\rm -->            H
+<sub>2</sub>S<!--\xdollar--> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">S formation:                                                                                                     </td> 
+<td align="left">A5&#x00A0;<!--\xdollar\rm -->            C
+<sub>
+<italic>m</italic></sub>H
+<sub>
+<italic>n</italic></sub>O
+<sub>
+<italic>y</italic></sub>+<!--\xdollar--> B5&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>SO
+<sub>4</sub>=<!--\xdollar--> I3&#x00A0;<!--\xdollar\rm -->            CO+<!--\xdollar--> J3&#x00A0;<!--\xdollar\rm -->            H
+<sub>2</sub>+<!--\xdollar--> G3&#x00A0;<!--\xdollar\rm -->            M
+<sub>
+<italic>x</italic></sub>O+<!--\xdollar--> L1&#x00A0;S                                                                                                                                   </td>
+</tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [b]{tbl3}--><table-wrap  id="tbl4">  
+<label>Table&#x00A0;4</label>  
+<caption> 
+<title>Abbrevations for CLC and CLR reaction schemes in the above Tables. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">
+<bold>Variable</bold>                                                                       </td> 
+<td align="left">Methane </td> 
+<td align="left">Propane </td> 
+<td align="left">Iso-octane </td> 
+<td align="left">Ethanol                                                                                                                                                                                              </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e5.gif" display="inline">
+<mml:mi>m</mml:mi></mml:math> </td> 
+<td align="left">1           </td> 
+<td align="left">3          </td> 
+<td align="left"><!--\0-->8             </td> 
+<td align="left">2                                                                                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e6.gif" display="inline">
+<mml:mi>n</mml:mi></mml:math> </td> 
+<td align="left">4           </td> 
+<td align="left">8          </td> 
+<td align="left">18           </td> 
+<td align="left">6                                                                                                                                                                                                       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e7.gif" display="inline">
+<mml:mi>y</mml:mi></mml:math> </td> 
+<td align="left">0           </td> 
+<td align="left">0          </td> 
+<td align="left"><!--\0-->0             </td> 
+<td align="left">1 <!--\hline -->                                                                                                                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="5"  align="left"><!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->: <!--\xdollar\rm -->            M=Na<!--\xdollar-->, 
+<mml:math altimg="e8.gif" display="inline">
+<mml:mi>x</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>2</mml:mn></mml:math>
+ </td></tr> 
+<tr valign="top"> 
+<td colspan="5"  align="left"><!--\xdollar\rm -->        CaSO
+<sub>4</sub><!--\xdollar-->: <!--\xdollar\rm -->            M=Ca<!--\xdollar-->, 
+<mml:math altimg="e9.gif" display="inline">
+<mml:mi>x</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>1</mml:mn></mml:math>
+ </td></tr> 
+<tr valign="top"> 
+<td colspan="5"  align="left"><!--\xdollar\rm -->        MgSO
+<sub>4</sub><!--\xdollar-->: <!--\xdollar\rm -->            M=Mg<!--\xdollar-->, 
+<mml:math altimg="e10.gif" display="inline">
+<mml:mi>x</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>1</mml:mn></mml:math>
+ </td></tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [t]{tbl4}--></p>
+<p>The formation of undesired sulfur byproducts was taken into consideration for both
+CLC and CLR reaction systems. The CLC process usually uses a higher quantity of
+oxygen carrier to ensure the complete conversion of fuel and therefore the possibility of <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+was considered in the CLC process (<xref rid="tbl2">Table&#x00A0;2</xref>, reaction 3). Similarly, in order to avoid complete conversion of fuel to <!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->H
+<sub>2</sub><!--\xdollar-->O&#x00A0;in the CLR
+process, a limited amount of oxygen carrier is used, which often leads to the formation of <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;and S
+in the CLR system. This point was also taken into consideration (<xref rid="tbl3">Table&#x00A0;3</xref>, reactions 3 &#x0026; 4). The unwanted formation of <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;in the CLC reaction is an
+oxidized state while <!--\xdollar\rm -->         H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;and
+S are reduced states of sulfur. It is electrochemically known that <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;on
+further reduction forms sulfur, it was therefore assumed that
+suppression of sulfur formation could be ensured by avoiding <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation
+in CLR system. Consequently only the <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation
+reaction (<xref rid="tbl3">Table&#x00A0;3</xref>, reaction 3) was taken into further consideration when mapping the
+operational temperature boundary of the CLR systems. The desired process operational
+feasibility was established by cutting off the temperature range where the undesirable <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->, <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;or S
+products were formed and also where the solid compound melting point was
+exceeded. This point is explained in detail in the next section. No other
+reactions involving products, byproducts or inerts were considered in this
+study.<!--\setFloat [b]{fig1}--></p>
+</sec>
+<sec>
+<title>Results</title>
+<p>The Gibbs free energy of oxidation (regeneration) reactions of <!--\xdollar\rm -->Na
+<sub>2</sub>S<!--\xdollar-->, CaS and MgS with oxygen
+gave negative values (<mml:math altimg="e11.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;negative)
+showing feasibility in the temperature range of 200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. No
+unwanted toxic product formation occurs in the air reactor. These factors are
+sufficient to establish the operational feasibility of the air reactor in the desired
+temperature range. Hence the air reactor operational feasibility details were not
+discussed in detail in this paper and the study was more focused on the operational
+feasibility details of the fuel reactor.</p>
+<sec>
+<title>Methane</title>
+<p>Methane is an important hydrocarbon for any reaction study. It is abundantly available as natural
+gas. The 
+<mml:math altimg="e12.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+data of methane CLC reactions of the three sulfates (with <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation)
+was plotted against temperature to determine the reaction feasibility, as shown
+in
+<xref rid="fig1">Fig.&#x00A0;1</xref>. It can be seen that reactions A1 and B1 represent the CLC fuel reactor and CLC <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+reactions (explained in
+<xref rid="tbl2">Table&#x00A0;2</xref>) for methane fuel. The Gibbs free energy reaction
+value for reaction A1 became negative after a temperature of 353.2<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;showing its feasibility in the
+353.2&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;range. As
+the melting point of <!--\xdollar\rm -->         Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;is
+884<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->,
+the temperature for the CLC operation was limited to 884<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. The Gibbs free
+energy value for reaction B1 did not become negative in the entire temperature range of 200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, implying that <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation did not occur in
+the methane&#x2013;<!--\xdollar\rm -->         Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system in the desired temperature range. The methane&#x2013;<!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC system is
+therefore technically feasible for process operation between the temperature ranges 353.2&#x2013;884<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. Similarly, considering
+the methane&#x2013;<!--\xdollar\rm -->         CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+reactions (A2 and B2), it was observed that reaction A2 gave negative Gibbs free energy values from
+200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->,
+thus showing feasibility in the complete temperature range (200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->). The Gibbs free energy
+of <!--\xdollar\rm -->          SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+reaction (B2) attained negative values after a temperature of 840.8<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->,
+with feasibility in the temperature ranges 840.8&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. Hence to avoid <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation, the CLC of
+methane&#x2013;<!--\xdollar\rm -->          CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;system
+was operated below the temperature 840.8<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. Thus methane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system operation showed feasibility between the temperature ranges 200&#x2013;840.8<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->.
+A similar technique was adopted for all the reaction systems and the
+feasible temperature ranges for operation were mapped. The methane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;400<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;as <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation occurred after a
+temperature of 400<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->.
+The net heat obtained from the methane CLC system was &#x2212;802.56 kJ per
+mole of methane, which reacted irrespective of the sulfate considered. The
+<mml:math altimg="e13.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+data of methane CLR reactions of three sulfates (with <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation
+reaction) was plotted against temperature as shown in
+<xref rid="fig2">Fig.&#x00A0;2</xref>. The methane&#x2013;<!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between the temperatures 547&#x2013;732.15<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;and
+operational feasibility was also detected for the methane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system at temperatures between 487.23&#x2013;520.95<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. The methane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR system
+however did not show operational feasibility in the temperature range considered in this study as <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation occurred at
+temperatures as low as 200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->.
+The net heat generated from the methane CLR system was &#x2212;24.95 kJ (500<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) per mole
+of methane consumed for each sulfate considered generating 3 moles of syngas. All three
+sulfates studied were found to be good candidates for methane fuel for the CLC system. <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;were
+found to give the most wide operational feasibility temperature ranges
+for methane CLC and CLR systems respectively. The methane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;system was found
+to have the widest operational temperature feasibility range for the CLC system, while methane&#x2013;<!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;combination
+gave the widest operational temperature range (547&#x2013;732.15<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) for
+CLR.  
+<fig  id="fig1">  
+<label>Figure.&#x00A0;1</label>  
+<caption> 
+<title>CLC reactions of methane. </title> 
+</caption>       
+<graphic xlink:href="gr1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<fig  id="fig2">  
+<label>Figure.&#x00A0;2</label>  
+<caption> 
+<title>CLR reactions of methane. </title> 
+</caption>       
+<graphic xlink:href="gr2.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [b]{fig2}--></p>
+</sec>
+<sec>
+<title>Propane</title>
+<p>Propane is a major constituent of liquefied petroleum gas (LPG), which is naturally
+available worldwide.
+<xref rid="fig3">Figure&#x00A0;3</xref> shows the 
+<mml:math altimg="e14.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+data plotted against temperature for propane CLC reactions (with <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+reaction) for the three sulfates. The propane&#x2013;<!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 238.71&#x2013;884<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, the propane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC system
+(also separately studied&#x00A0;<xref ref-type="bibr" rid="b54">[54]</xref>) showed operational feasibility between 200&#x2013;782.8<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;while the propane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;357.69<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, without the problem
+of <!--\xdollar\rm -->          SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation.
+The net heat obtained from the propane CLC system was found to be &#x2212;2043.97 kJ
+heat per mole of propane consumed irrespective of the sulfate considered. The
+<mml:math altimg="e15.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+(kJ) data of propane CLR reactions of the three sulfates (with <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation)
+was plotted against temperature as shown in
+<xref rid="fig4">Fig.&#x00A0;4</xref>. The propane&#x2013;<!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between 385.46&#x2013;574<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, propane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between 329.14&#x2013;368.96<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;while propane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system was not operationally feasible in the temperature range considered as <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation started
+at 200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->.
+The net heat generated from the propane CLR system was found to be &#x2212;207.47 kJ (500<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) per mole of
+propane consumed for each sulfate considered, producing 7 moles of syngas. All three sulfates
+showed good feasibility for propane fuel in both CLC and CLR systems except the propane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;system
+which was not operationally feasible in the given temperature range. <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;gave
+the narrowest temperature feasibility ranges for CLC (200&#x2013;357.69<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) and CLR
+(329.14&#x2013;368.96<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->)
+systems respectively. Considering the data obtained in the study, <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;were
+found to be the best candidates for propane CLC system, while <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;was
+the best sulfate for the propane CLR system.  
+<fig  id="fig3">  
+<label>Figure.&#x00A0;3</label>  
+<caption> 
+<title>CLC reactions of
+propane. </title> 
+</caption>       
+<graphic xlink:href="gr3.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig3}--><fig  id="fig4">  
+<label>Figure.&#x00A0;4</label>  
+<caption> 
+<title>CLR reactions of propane. </title> 
+</caption>       
+<graphic xlink:href="gr4.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig4}--></p>
+</sec>
+<sec>
+<title>Iso-octane</title>
+<p>Iso-octane is a popular surrogate for gasoline fuel that is easily available in almost all
+countries. The feasibility of iso-octane CLC reactions with the three sulfates (with <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+reaction) was investigated by plotting the reaction
+<mml:math altimg="e16.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G (kJ)
+against temperature (<xref rid="fig5">Fig.&#x00A0;5</xref>). The iso-octane-<!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 208.76&#x2013;884<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->; iso-octane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;758.36<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, while iso-octane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;344.3<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, without <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+in each reaction. The net heat obtained from the iso-octane CLC system was &#x2212;5101.58
+kJ per mole of iso-octane used irrespective of the sulfate considered. The
+<mml:math altimg="e17.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+(kJ) data of iso-octane CLR reactions (with <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation
+reactions) of the three sulfates was plotted against temperature as shown
+in
+<xref rid="fig6">Fig.&#x00A0;6</xref>. The iso-octane&#x2013;<!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between 339.84&#x2013;525.44<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, while the iso-octane&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between 285.75&#x2013;326.49<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. The iso-octane&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR system
+however was not found to be operationally feasible in the temperature range considered (200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) as <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation started
+at 200<!--\xdollar\rm --><sup>&#x2218;</sup><!--\xdollar-->C. The net heat generated from the iso-octane CLR systems was found to be &#x2212;626 kJ (500<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) per
+mole of iso-octane converted for all sulfates producing 17 moles of syngas. All three
+sulfates showed good feasibility for iso-octane fuel in both CLC and CLR systems except <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x2013;CLR system
+which did not seem to be operationally feasible in the temperature range considered. <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;gave
+the narrowest temperature feasibility ranges for CLC and CLR systems respectively. <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;(208.76&#x2013;884<!--\xdollar\rm --><sup>&#x2218;</sup><!--\xdollar--> C) and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;(200&#x2013;758.36<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->)
+were found to be the best candidates for iso-octane CLC systems while <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;(339.84&#x2013;525.44<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->) was
+determined as the best sulfate for iso-octane CLR system.  
+<fig  id="fig5">  
+<label>Figure.&#x00A0;5</label>  
+<caption> 
+<title>CLC
+reactions of iso-octane. </title> 
+</caption>       
+<graphic xlink:href="gr5.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig5}--><fig  id="fig6">  
+<label>Figure.&#x00A0;6</label>  
+<caption> 
+<title>CLR reactions of iso-octane. </title> 
+</caption>       
+<graphic xlink:href="gr6.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [b]{fig6}--></p>
+</sec>
+<sec>
+<title>Ethanol</title>
+<p>Ethanol is a representative of the biofuels family. Bio-ethanol, biodiesel and many
+other biofuels are rapidly gaining utilization potential due to their green chemistry
+and current environmental pollution concerns. Depleting coal, oil and natural gas
+reserves, with the availability of cheap biofuels can easily make ethanol a potential
+fuel in future. The feasibility of ethanol CLC reactions with the three sulfates (with <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation
+reaction) was studied by plotting the reaction
+<mml:math altimg="e18.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G (kJ)
+against temperature (<xref rid="fig7">Fig.&#x00A0;7</xref>). The ethanol&#x2013;<!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;884<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->; ethanol&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;727.21<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, while ethanol&#x2013;<!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+system showed operational feasibility between 200&#x2013;315.64<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->, without <!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->&#x00A0;formation.
+The net heat obtained from the ethanol CLC system was &#x2212;1277.69 kJ
+per mole of ethanol consumed for all the sulfates considered. The
+<mml:math altimg="e19.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G
+(kJ) data of ethanol CLR reactions of the three sulfates (with <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation
+reactions) was plotted against temperature as shown in
+<xref rid="fig8">Fig.&#x00A0;8</xref>. The ethanol&#x2013;<!--\xdollar\rm -->        Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between 265.11&#x2013;368.46<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->; ethanol&#x2013;<!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+system showed operational feasibility between 235.88&#x2013;260<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;without <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;formation, while
+ethanol&#x2013;<!--\xdollar\rm -->          MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLR
+reaction did not show operational feasibility between 200&#x2013;1200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->. The
+ethanol CLR system was very mildly endothermic requiring 29.54 kJ (500<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->)
+per mole of ethanol consumed, generating 5 moles of syngas. <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;showed
+good operational feasibility for ethanol CLC and CLR processes, while <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;showed
+operational feasibility only for the ethanol CLC process. <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;were
+judged as the best candidates for ethanol CLC system, but they
+had very narrow temperature ranges for CLR process operation. <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;also
+showed a very narrow operational temperature range for ethanol CLC system but
+could not be used as an oxygen carrier in the ethanol CLR process.  
+<fig  id="fig7">  
+<label>Figure.&#x00A0;7</label>
+<caption> 
+<title>CLC reactions of ethanol. </title> 
+</caption>       
+<graphic xlink:href="gr7.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig7}--><fig  id="fig8">  
+<label>Figure.&#x00A0;8</label>  
+<caption> 
+<title>CLR reactions of ethanol. </title> 
+</caption>       
+<graphic xlink:href="gr8.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig8}--></p>
+</sec>
+</sec>
+<sec>
+<title>Discussion</title>
+<p>The feasibility study of <!--\xdollar\rm -->         Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->,
+<!--\xdollar\rm -->       CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;as
+suitable oxygen carriers for different categories of fuels for CLC and CLR using a
+short cut methodology gave some interesting results. The enthalpy of the CLC and
+CLR reactions depended on the fuel irrespective of the oxygen carrier used
+as the theoretic enthalpy of the CLC system is the same as conventional
+combustion (CLC merely splits the combustion reaction in two steps), but the best
+operational feasible temperature range depended on each fuel-oxygen carrier
+combination. All three sulphates were found suitable for all CLC systems but only <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;were suitable for all CLR
+systems. <!--\xdollar\rm -->          MgSO
+<sub>4</sub><!--\xdollar-->&#x00A0;was
+not found to be a suitable candidate for CLR processes irrespective of the fuel considered. <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->&#x2013;CLR
+system was not found operationally feasible as <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;was produced at temperatures
+as low as 200<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->,
+and although it was feasible for CLC systems, it did not have a wide enough
+operational feasibility temperature range compared to the other sulphates. <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;was
+found to be the best sulphate for both CLC and CLR systems for all fuels
+considered, with the exception of the methane&#x2013;CLC system in which <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;had a larger operating
+temperature range. <!--\xdollar\rm -->         Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;CLC
+and CLR systems required higher temperatures than corresponding systems of <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->MgSO
+<sub>4</sub><!--\xdollar-->. The use of <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;in ethanol
+CLR system gave very narrow operational feasibility temperature ranges and it was the only
+endothermic system found in this study. From the data obtained, it can be concluded that <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;is the best
+sulphate for each type of hydrocarbon studied, as the formation of undesirable products i.e.&#x00A0;<!--\xdollar\rm -->SO
+<sub>2</sub><!--\xdollar-->, <!--\xdollar\rm -->H
+<sub>2</sub>S<!--\xdollar-->&#x00A0;and S
+occurred at comparatively higher temperatures. Methane was found to be a better fuel
+than propane, iso-octane and ethanol as the temperature ranges of CLC and CLR
+operations was wider for each of the sulphates. It was also seen that the formation of <!--\xdollar\rm -->CO
+<sub>2</sub>+H
+<sub>2</sub>O<!--\xdollar-->&#x00A0;via the
+CLC reaction was favoured at comparatively lower temperatures than the formation of <!--\xdollar\rm -->CO+H
+<sub>2</sub><!--\xdollar-->&#x00A0;via
+the CLR reaction, however the reaction enthalpy of CLC reactions was higher
+than corresponding CLR reactions. Iso-octane could be a good choice
+for the production of syngas in CLR processes as it gave 17 moles of <!--\xdollar\rm -->H
+<sub>2</sub>+CO<!--\xdollar-->&#x00A0;per
+mole compared to methane (3 moles), propane (7 moles) and
+ethanol (5 moles) fuels. The feasibility study done by the
+<mml:math altimg="e20.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>G procedure at lower
+temperatures (200&#x2013;400<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->)
+may need extra verification such as reaction kinetics and conversion in reactions, due
+to the slow nature of these types of reactions to achieve equilibrium conversions.
+Although this feasibility study highlights the potential of sulfates as oxygen carriers,
+experimental verification is also necessary to ascertain the performance of these
+oxygen carriers for numerous oxidation/reduction cycles in CLC and CLR
+processes.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>The study concluded that easily and cheaply available sulphates such as <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;and <!--\xdollar\rm -->Na
+<sub>2</sub>SO
+<sub>4</sub><!--\xdollar-->&#x00A0;can
+serve as excellent oxygen carrier materials for chemical looping processes involving
+the fuels methane, propane, iso-octane and ethanol. The results of this study
+highlight the operating temperature ranges for CLC and CLR operations for
+each fuel-oxygen carrier combination. The results can be used for detailed
+thermodynamic modeling studies to find the maximum fuel conversions and optimum
+temperatures for the operation of fuel reactors. This shortcut technique study can
+be used for other fuel-oxygen carrier combinations to find their operating
+temperature ranges before investing heavily on detailed process design and
+experimentation.</p>
+<p><!--\begin {query}{Table 4 is not cited in the text. Please cite it.}\end {query}--></p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<label>[1]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Teyssie</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Leion</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Schwebel</surname>
+<x>, </x>
+<given-names>G.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2011</year>
+<x>). </x>
+<article-title>Influence of lime addition to ilmenite in chemical-looping combustion (CLC)
+with solid fuels</article-title>
+<x>. </x>
+<source>Energy &#x0026; Fuels</source>
+<x>, </x>
+<volume>25</volume>
+<x>, </x>
+<fpage>3843</fpage>
+<x>&#x2013;</x>
+<lpage>3853</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b2">
+<label>[2]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Johansson</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Thunman</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Combustion of syngas and natural gas in a 300 W chemical-looping
+combustor</article-title>
+<x>. </x>
+<source>Trans IChemE, Part A, Chem. Eng. Res. Des</source>
+<x>, </x>
+<volume>84</volume>
+<x>, </x>
+<fpage>819</fpage>
+<x>&#x2013;</x>
+<lpage>827</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<label>[3]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kuusik</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Trikkel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>High temperature behavior of NiO-based oxygen carriers for chemical looping
+combustion</article-title>
+<x>. </x>
+<source>Energy Procedia</source>
+<x>, </x>
+<volume>1</volume>
+<x>, </x>
+<fpage>3885</fpage>
+<x>&#x2013;</x>
+<lpage>3892</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<label>[4]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kuusik</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Trikkel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Investigation of NiO-based mixed oxides in a 300-W chemical-looping
+combustor</article-title>
+<x>. </x>
+<source>Chem. Eng. Res. Des.</source>
+<x>, </x>
+<volume>88</volume>
+<x>, </x>
+<fpage>661</fpage>
+<x>&#x2013;</x>
+<lpage>672</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b5">
+<label>[5]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Johansson</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>The use of NiO as an oxygen carrier in chemical-looping combustion</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>85</volume>
+<x>,
+</x>
+<fpage>736</fpage>
+<x>&#x2013;</x>
+<lpage>747</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<label>[6]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Leion</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Solid fuels in chemical-looping combustion using a NiO-based oxygen carrier</article-title>
+<x>.
+</x>
+<source>Chem. Eng. Res. Des</source>
+<x>, </x>
+<volume>87</volume>
+<x>, </x>
+<fpage>1543</fpage>
+<x>&#x2013;</x>
+<lpage>1550</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b7">
+<label>[7]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pimenidou</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rickett</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Dupont</surname>
+<x>, </x>
+<given-names>V.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Twigg</surname>
+<x>, </x>
+<given-names>M.V.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Chemical looping reforming of waste cooking oil in packed bed reactor</article-title>
+<x>.
+</x>
+<source>Bioresour. Technol.</source>
+<x>, </x>
+<volume>101</volume>
+<x>, </x>
+<fpage>6389</fpage>
+<x>&#x2013;</x>
+<lpage>6397</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b8">
+<label>[8]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ortiz</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Synthesis gas generation by chemical-looping reforming using a Ni based
+oxygen carrier</article-title>
+<x>. </x>
+<source>Energy Procedia</source>
+<x>, </x>
+<volume>1</volume>
+<x>, </x>
+<fpage>3</fpage>
+<x>&#x2013;</x>
+<lpage>10</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b9">
+<label>[9]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ortiz</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<article-title>Hydrogen production by chemical-looping reforming in a circulating fluidized
+bed reactor using Ni-based oxygen carriers</article-title>
+<x>. </x>
+<source>J. Power Sources</source>
+<x>, </x>
+<volume>192</volume>
+<x>(</x>
+<issue>1</issue>
+<x>), </x>
+<fpage>27</fpage>
+<x>&#x2013;</x>
+<lpage>34</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b10">
+<label>[10]</label>
+<mixed-citation publication-type="other">    Johannes,  B.N.,   Proll,  T.,   Kolbitsch,  P., &#x0026;   Hermann,  H.
+Performance of a NiO-based oxygen carrier for chemical looping combustion and
+reforming in a 120 kW unit. GHGT-9 2009;1;19&#x2013;25.</mixed-citation> </ref>
+<ref id="b11">
+<label>[11]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Johannes</surname>
+<x>, </x>
+<given-names>B.N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Proll</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kolbitsch</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Hermann</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Syngas and a separate nitrogen/argon stream via chemical looping
+reforming&#x2014;A 140 kW pilot plant study</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>89</volume>
+<x>, </x>
+<fpage>1249</fpage>
+<x>&#x2013;</x>
+<lpage>1256</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b12">
+<label>[12]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ortiz</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Francisco</surname>
+<x>, </x>
+<given-names>G.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Hydrogen production by auto-thermal chemical-looping reforming in a
+pressurized fluidized bed reactor using Ni-based oxygen carriers</article-title>
+<x>. </x>
+<source>Int. J. Hydrogen
+Energy</source>
+<x>, </x>
+<volume>35</volume>
+<x>, </x>
+<fpage>151</fpage>
+<x>&#x2013;</x>
+<lpage>160</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b13">
+<label>[13]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ryden</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Johansson</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>NiO supported on Mg-<!--\xdollar\rm -->        ZrO
+<sub>2</sub><!--\xdollar-->&#x00A0;as
+oxygen carrier for chemical-looping combustion and chemical-looping reforming</article-title>
+<x>.
+</x>
+<source>Energy Environ. Sci.</source>
+<x>, </x>
+<volume>2</volume>
+<x>, </x>
+<fpage>970</fpage>
+<x>&#x2013;</x>
+<lpage>981</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b14">
+<label>[14]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ortiz</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Francisco</surname>
+<x>, </x>
+<given-names>G.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Synthesis gas generation by chemical-looping reforming in a batch fluidized
+bed reactor using Ni-based oxygen carriers</article-title>
+<x>. </x>
+<source>Chem. Eng. J.</source>
+<x>, </x>
+<volume>144</volume>
+<x>, </x>
+<fpage>289</fpage>
+<x>&#x2013;</x>
+<lpage>298</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b15">
+<label>[15]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ryden</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Chemical-looping combustion and chemical-looping reforming in a circulating
+fluidized-bed reactor using Ni-based oxygen carriers</article-title>
+<x>. </x>
+<source>Energy Fuels</source>
+<x>, </x>
+<volume>22</volume>
+<x>, </x>
+<fpage>2585</fpage>
+<x>&#x2013;</x>
+<lpage>2597</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b16">
+<label>[16]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sturzenegger</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>D&#x2019;Souza</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Struis</surname>
+<x>, </x>
+<given-names>R.P.W.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Stucki</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Oxygen transfer and catalytic properties of nickel iron oxides for steam
+reforming of methane</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>10&#x2013;11</volume>
+<x>, </x>
+<fpage>1599</fpage>
+<x>&#x2013;</x>
+<lpage>1602</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b17">
+<label>[17]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ad&#x00E1;nez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gay&#x00E1;n</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Modelling of the chemical-looping combustion of methane using a Cu-based
+oxygen carrier</article-title>
+<x>. </x>
+<source>Combust. Flame</source>
+<x>, </x>
+<volume>157</volume>
+<x>, </x>
+<fpage>602</fpage>
+<x>&#x2013;</x>
+<lpage>615</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b18">
+<label>[18]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Forero</surname>
+<x>, </x>
+<given-names>C.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Effect of gas composition in chemical-looping combustion with copper-based
+oxygen carriers: fate of sulphur</article-title>
+<x>. </x>
+<source>Int. J Greenhouse Gas Control</source>
+<x>, </x>
+<volume>5</volume>
+<x>, </x>
+<fpage>750</fpage>
+<x>&#x2013;</x>
+<lpage>5836</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b19">
+<label>[19]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Forero</surname>
+<x>, </x>
+<given-names>C.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Effect of gas composition in chemical-looping combustion with copper-based
+oxygen carriers: fate of light hydrocarbons</article-title>
+<x>. </x>
+<source>Int. J Greenhouse Gas Control</source>
+<x>, </x>
+<volume>4</volume>
+<x>, </x>
+<fpage>13</fpage>
+<x>&#x2013;</x>
+<lpage>22</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b20">
+<label>[20]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Forero</surname>
+<x>, </x>
+<given-names>C.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Syngas combustion in a 500 Wth chemical-looping combustion system using
+an impregnated Cu-based oxygen carrier</article-title>
+<x>. </x>
+<source>Fuel Process. Technol.</source>
+<x>, </x>
+<volume>90</volume>
+<x>, </x>
+<fpage>1471</fpage>
+<x>&#x2013;</x>
+<lpage>1479</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b21">
+<label>[21]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>De Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Garc&#x00ED;a-Labiano</surname>
+<x>, </x>
+<given-names>F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Corbella</surname>
+<x>, </x>
+<given-names>B.M.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Palacios</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2004</year>
+<x>). </x>
+<article-title>Development of Cu-based oxygen carriers for chemical-looping combustion</article-title>
+<x>.
+</x>
+<source>Fuel</source>
+<x>, </x>
+<volume>83</volume>
+<x>(</x>
+<issue>13</issue>
+<x>), </x>
+<fpage>1749</fpage>
+<x>&#x2013;</x>
+<lpage>1757</lpage>
+<x>. </x></element-citation></ref>
+<!--\begin {query}{Please check the author names in Ref. [21] and correct if necessary.}\end {query}--><ref id="b22">
+<label>[22]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Adanez</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Labiano</surname>
+<x>, </x>
+<given-names>F.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>de Diego</surname>
+<x>, </x>
+<given-names>L.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gayan</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Modeling of the chemical-looping combustion of methane using a Cu-based
+oxygen-carrier</article-title>
+<x>. </x>
+<source>Combust. Flame</source>
+<x>, </x>
+<volume>157</volume>
+<x>, </x>
+<fpage>602</fpage>
+<x>&#x2013;</x>
+<lpage>615</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b23">
+<label>[23]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dennis</surname>
+<x>, </x>
+<given-names>J.S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Scott</surname>
+<x>, </x>
+<given-names>S.A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>In situ gasification of a lignite coal and <!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar-->&#x00A0;separation
+using chemical looping with a Cu-based oxygen carrier</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>89</volume>
+<x>, </x>
+<fpage>1623</fpage>
+<x>&#x2013;</x>
+<lpage>1640</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b24">
+<label>[24]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chuang</surname>
+<x>, </x>
+<given-names>S.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Dennis</surname>
+<x>, </x>
+<given-names>J.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hayhurst</surname>
+<x>, </x>
+<given-names>A.N.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Scott</surname>
+<x>, </x>
+<given-names>S.A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Development and performance of Cu-based oxygen carriers for chemical-looping
+combustion</article-title>
+<x>. </x>
+<source>Combust. Flame</source>
+<x>, </x>
+<volume>154</volume>
+<x>, </x>
+<fpage>109</fpage>
+<x>&#x2013;</x>
+<lpage>121</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b25">
+<label>[25]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Real</surname>
+<x>, </x>
+<given-names>S.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Seok</surname>
+<x>, </x>
+<given-names>G.K.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Done</surname>
+<x>, </x>
+<given-names>K.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Thermo gravimetric analysis of copper oxide for chemical-looping hydrogen
+generation</article-title>
+<x>. </x>
+<source>Ind. Eng. Chem. Res</source>
+<x>, </x>
+<volume>48</volume>
+<x>, </x>
+<fpage>380</fpage>
+<x>&#x2013;</x>
+<lpage>387</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b26">
+<label>[26]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lu</surname>
+<x>, </x>
+<given-names>Z.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zhang</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Pressurized chemical-looping combustion of coal with an iron ore-based
+oxygen carrier</article-title>
+<x>. </x>
+<source>Combust. Flame</source>
+<x>, </x>
+<volume>157</volume>
+<x>, </x>
+<fpage>1140</fpage>
+<x>&#x2013;</x>
+<lpage>1153</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b27">
+<label>[27]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Cho</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2001</year>
+<x>). </x>
+<article-title>The use of iron oxide as an oxygen carrier in
+chemical-looping combustion of methane with inherent separation of <!--\xdollar\rm -->CO
+<sub>2</sub><!--\xdollar--></article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>,
+</x>
+<volume>80</volume>
+<x>, </x>
+<fpage>1953</fpage>
+<x>&#x2013;</x>
+<lpage>1962</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b28">
+<label>[28]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Leion</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jerndal</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Steenari</surname>
+<x>, </x>
+<given-names>B.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hermansson</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Israelsson</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jansson</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Johnsson</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Thunberg</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Vadenbo</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Solid fuels in chemical-looping combustion using oxide scale and unprocessed
+iron ore as oxygen carriers</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>88</volume>
+<x>, </x>
+<fpage>1945</fpage>
+<x>&#x2013;</x>
+<lpage>1954</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b29">
+<label>[29]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rubel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Neathery</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Taulbee</surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Oxygen carriers for chemical looping combustion of solid fuels</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>88</volume>
+<x>,
+</x>
+<fpage>876</fpage>
+<x>&#x2013;</x>
+<lpage>884</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b30">
+<label>[30]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cormos</surname>
+<x>, </x>
+<given-names>C.C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Evaluation of iron based chemical looping for hydrogen and electricity
+co-production by gasification process with carbon capture and storage</article-title>
+<x>. </x>
+<source>Int. J.
+Hydrogen Energy</source>
+<x>, </x>
+<fpage>2278</fpage>
+<x>&#x2013;</x>
+<lpage>2289</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b31">
+<label>[31]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Johansson</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>The use of iron oxide as oxygen carrier in a chemical-looping reactor</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>,
+</x>
+<volume>86</volume>
+<x>, </x>
+<fpage>1021</fpage>
+<x>&#x2013;</x>
+<lpage>1035</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b32">
+<label>[32]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chiesa</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lozza</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Malandrino</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Romano</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Piccolo</surname>
+<x>, </x>
+<given-names>V.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Three-reactor chemical looping process for hydrogen production</article-title>
+<x>. </x>
+<source>Int. J.
+Hydrogen Energy</source>
+<x>, </x>
+<volume>33</volume>
+<x>, </x>
+<fpage>2233</fpage>
+<x>&#x2013;</x>
+<lpage>2245</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b33">
+<label>[33]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Go</surname>
+<x>, </x>
+<given-names>K.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Son</surname>
+<x>, </x>
+<given-names>S.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kim</surname>
+<x>, </x>
+<given-names>S.D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kang</surname>
+<x>, </x>
+<given-names>K.S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Park</surname>
+<x>, </x>
+<given-names>C.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Hydrogen production from two-step steam methane reforming in a fluidized
+bed reactor</article-title>
+<x>. </x>
+<source>Int. J. Hydrogen Energy</source>
+<x>, </x>
+<volume>34</volume>
+<x>, </x>
+<fpage>1301</fpage>
+<x>&#x2013;</x>
+<lpage>1309</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b34">
+<label>[34]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Abad</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Ryden</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Chemical-looping combustion in a 300 W continuously operating
+reactor system using a manganese-based oxygen carrier</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>85</volume>
+<x>, </x>
+<fpage>1174</fpage>
+<x>&#x2013;</x>
+<lpage>1185</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b35">
+<label>[35]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fang</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Yonggang</surname>
+<x>, </x>
+<given-names>W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Haibin</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Hua</surname>
+<x>, </x>
+<given-names>W.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Synthesis gas generation by chemical-looping reforming using Ce-based
+oxygen carriers modified with Fe, Cu, and Mn oxides</article-title>
+<x>. </x>
+<source>Energy Fuels</source>
+<x>, </x>
+<volume>23</volume>
+<x>, </x>
+<fpage>2095</fpage>
+<x>&#x2013;</x>
+<lpage>2102</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b36">
+<label>[36]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Cho</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2004</year>
+<x>). </x>
+<article-title>Comparison of iron-, nickel-, copper- and manganese-based oxygen carriers
+for chemical-looping combustion</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>83</volume>
+<x>, </x>
+<fpage>1215</fpage>
+<x>&#x2013;</x>
+<lpage>1225</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b37">
+<label>[37]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tian</surname>
+<x>, </x>
+<given-names>H.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Guo</surname>
+<x>, </x>
+<given-names>Q.J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Investigation into the behavior of reductive decomposition of calcium sulfate
+by carbon monoxide in chemical-looping combustion</article-title>
+<x>. </x>
+<source>Industrial &#x0026; Engineering
+Chemistry Research</source>
+<x>, </x>
+<volume>48</volume>
+<x>, </x>
+<fpage>5624</fpage>
+<x>&#x2013;</x>
+<lpage>5632</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b38">
+<label>[38]</label>
+<mixed-citation publication-type="other">    Wang,  B.W.,   Yan,  R.,   Zheng,  Y.,   Zhao,  H., &#x0026;   Zheng,  C.G.
+Simulation of sulfur distribution in chemical looping combustion (CLC) using <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;as
+oxygen carrier. Proceedings Of The 6th International Symposium On Coal
+Combustion, 2007;693&#x2013;699.</mixed-citation> </ref>
+<ref id="b39">
+<label>[39]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Jerndal</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mattisson</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lyngfelt</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Thermal analysis of chemical-looping combustion</article-title>
+<x>. </x>
+<source>Chemical Engineering
+Research &#x0026; Design</source>
+<x>, </x>
+<volume>84</volume>
+<x>, </x>
+<fpage>795</fpage>
+<x>&#x2013;</x>
+<lpage>806</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b40">
+<label>[40]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Zheng</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>&#x00A0;</x>
+<month>September</month>
+<x>).  </x>
+<article-title>Reduction  of  <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;oxygen
+carrier with coal in chemical-looping combustion: effects of temperature
+and gasification intermediate</article-title>
+<x>. </x>
+<source>Int. J. Greenhouse Gas Control</source>
+<x>, </x>
+<volume>4</volume>
+<x>(</x>
+<issue>5</issue>
+<x>), </x>
+<fpage>716</fpage>
+<x>&#x2013;</x>
+<lpage>728</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b41">
+<label>[41]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Deng</surname>
+<x>, </x>
+<given-names>Z.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jin</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Numerical simulation of chemical looping combustion process with <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->oxygen carrier</article-title>
+<x>. </x>
+<source>Int. J. Greenhouse Gas Control</source>
+<x>, </x>
+<volume>3</volume>
+<x>, </x>
+<fpage>368</fpage>
+<x>&#x2013;</x>
+<lpage>375</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b42">
+<label>[42]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zheng</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>A mechanistic investigation of a calcium-based oxygen carrier for chemical
+looping combustion</article-title>
+<x>. </x>
+<source>Combust. Flame</source>
+<x>, </x>
+<volume>154</volume>
+<x>, </x>
+<fpage>489</fpage>
+<x>&#x2013;</x>
+<lpage>506</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b43">
+<label>[43]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Baosheng</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rui</surname>
+<x>, </x>
+<given-names>X.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zhongyi</surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Computational fluid dynamics modeling of chemical looping combustion
+process with calcium sulphate oxygen carrier</article-title>
+<x>. </x>
+<source>Int. J. Chem. Reactor Eng</source>
+<x>, </x>
+<volume>7</volume>
+<x>, </x>
+<fpage>A19</fpage>
+</element-citation></ref>
+<ref id="b44">
+<label>[44]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Deng</surname>
+<x>, </x>
+<given-names>Z.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Zhang</surname>
+<x>, </x>
+<given-names>M.Y.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Reactivity of a <!--\xdollar\rm -->        CaSO
+<sub>4</sub><!--\xdollar-->-oxygen
+carrier in chemical-looping combustion of methane in a fixed bed reactor</article-title>
+<x>. </x>
+<source>Korean J.
+Chem. Eng.</source>
+<x>, </x>
+<volume>26</volume>
+<x>, </x>
+<fpage>592</fpage>
+<x>&#x2013;</x>
+<lpage>602</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b45">
+<label>[45]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Deng</surname>
+<x>, </x>
+<given-names>Z.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zheng</surname>
+<x>, </x>
+<given-names>W.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Multicycle study on chemical-looping combustion of simulated coal gas with a <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;oxygen
+carrier in a fluidized bed reactor</article-title>
+<x>. </x>
+<source>Energy Fuels</source>
+<x>, </x>
+<volume>22</volume>
+<x>, </x>
+<fpage>3661</fpage>
+<x>&#x2013;</x>
+<lpage>3672</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b46">
+<label>[46]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tian</surname>
+<x>, </x>
+<given-names>H.J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Guo</surname>
+<x>, </x>
+<given-names>Q.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Chang</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Investigation into Decomposition Behavior of <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;in
+chemical-looping combustion</article-title>
+<x>. </x>
+<source>Energy Fuels</source>
+<x>, </x>
+<volume>22</volume>
+<x>, </x>
+<fpage>3915</fpage>
+<x>&#x2013;</x>
+<lpage>3921</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b47">
+<label>[47]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Deng</surname>
+<x>, </x>
+<given-names>Z.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zheng</surname>
+<x>, </x>
+<given-names>W.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Effect of temperature on reduction of <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;oxygen
+carrier in chemical-looping combustion of simulated coal gas in a fluidized bed
+reactor</article-title>
+<x>. </x>
+<source>Ind. Eng. Chem. Res.</source>
+<x>, </x>
+<volume>47</volume>
+<x>, </x>
+<fpage>8148</fpage>
+<x>&#x2013;</x>
+<lpage>8159</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b48">
+<label>[48]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Song</surname>
+<x>, </x>
+<given-names>Q.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Deng</surname>
+<x>, </x>
+<given-names>Z.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zheng</surname>
+<x>, </x>
+<given-names>W.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Shen</surname>
+<x>, </x>
+<given-names>L.H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Chemical-looping combustion of methane with <!--\xdollar\rm -->CaSO
+<sub>4</sub><!--\xdollar-->&#x00A0;oxygen
+carrier in a fixed bed reactor</article-title>
+<x>. </x>
+<source>Energy Convers. Manage</source>
+<x>, </x>
+<volume>49</volume>
+<x>, </x>
+<fpage>3178</fpage>
+<x>&#x2013;</x>
+<lpage>3187</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b49">
+<label>[49]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tian</surname>
+<x>, </x>
+<given-names>H.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Guo</surname>
+<x>, </x>
+<given-names>Q.J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2011</year>
+<x>). </x>
+<article-title>Thermodynamic investigation into carbon deposition and sulfur evolution in
+a Ca-based chemical-looping combustion system</article-title>
+<x>. </x>
+<source>Chemical Engineering Research &#x0026;
+Design</source>
+<x>, </x>
+<volume>89</volume>
+<x>, </x>
+<fpage>1524</fpage>
+<x>&#x2013;</x>
+<lpage>1532</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b50">
+<label>[50]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Solunke</surname>
+<x>, </x>
+<given-names>R.D.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Veser</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Nanocomposite oxygen carriers for chemical-looping combustion of
+sulfur-contaminated synthesis gas</article-title>
+<x>. </x>
+<source>Energy &#x0026; Fuels</source>
+<x>, </x>
+<volume>23</volume>
+<x>, </x>
+<fpage>4787</fpage>
+<x>&#x2013;</x>
+<lpage>4796</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b51">
+<label>[51]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perry</surname>
+<x>, </x>
+<given-names>R.H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Green</surname>
+<x>, </x>
+<given-names>D.W.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1997</year>
+<x>). </x>
+<source>Perry&#x2019;s Chemical Engineers&#x2019; Handbook</source>
+<x>. </x>
+<edition>7th Edition</edition>
+<x>, </x>
+<publisher-name>McGraw-Hill</publisher-name></element-citation></ref>
+<ref id="b52">
+<label>[52]</label>
+<mixed-citation publication-type="other"> 
+<uri xlink:href="http://www.sciencelab.com/msds.php?msdsId=9925085">http://www.sciencelab.com/msds.php?msdsId=9925085</uri>.</mixed-citation>
+</ref>
+<ref id="b53">
+<label>[53]</label>
+<mixed-citation publication-type="other">  HSC Chemistry [software], Version 5.1. Pori; Outokumpu Research Oy, 2002.</mixed-citation> </ref>
+<ref id="b54">
+<label>[54]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kale</surname>
+<x>, </x>
+<given-names>G.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kulkarni</surname>
+<x>, </x>
+<given-names>B.D.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Joshi</surname>
+<x>, </x>
+<given-names>A.R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Thermodynamic study of combining chemical looping combustion and
+combined reforming of propane</article-title>
+<x>. </x>
+<source>Fuel</source>
+<x>, </x>
+<volume>89</volume>
+<x>, </x>
+<fpage>3141</fpage>
+<x>&#x2013;</x>
+<lpage>3146</lpage>
+<x>. </x></element-citation></ref>
+</ref-list>
+</back></article>

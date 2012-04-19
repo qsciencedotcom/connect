@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name> </publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">2</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2011.2</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research
+article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Evaluation of potential dietary toxicity of heavy metals in some common Nigerian beverages: A look at antimony, tin and mercury</article-title> 
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>           
+<given-names>I.I.</given-names>
+<x> </x>                
+<surname>Roberts</surname></string-name>                
+<x> and  </x></contrib>  
+<contrib contrib-type="author">
+<string-name>                  
+<given-names>O.E.</given-names>
+<x> </x>
+<surname>Orisakwe</surname> </string-name> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref>              
+<x> </x></contrib> 
+<aff>Department of Clinical Pharmacy, Faculty of Pharmaceutical
+Sciences, University of Port Harcourt, Rivers State, Nigeria <!--\newline ~\\[-5pt]--> Academic Editor:
+Dr.&#x00A0;Qaisar&#x00A0;Mahmood, COMSATS Institute of Information Technology, Abbottabad,
+Pakistan</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>eorish@aol.com</corresp></author-notes> 
+<pub-date pub-type="pub"> 
+<day>18</day> 
+<month>11</month> 
+<year>2011</year> </pub-date> 
+<issue content-type="issue-sequence">2011</issue> 
+<elocation-id>2</elocation-id> 
+<history> 
+<date date-type="received">
+<day>28</day>
+<month>6</month>
+<year>2011</year></date> 
+<date date-type="accepted">
+<day>25</day>
+<month>8</month>
+<year>2011</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2011 Roberts &#x0026; Orisakwe, licensee
+Bloomsbury Qatar Foundation Journals. This is an open access article distributed
+under the terms of the Creative Commons Attribution License CC BY 3.0 which
+permits unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement> 
+<copyright-year>2011</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2011.2.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+<abstract>
+<title>Abstract</title>
+<p>There is currently little information on the composition of heavy metals in beverages imported and locally produced in Nigeria. The study quantitatively determined the composition of antimony (Sb), tin (Sn) and mercury (Hg) in 50&#x00A0;different beverage samples and evaluated the extent of violation of guideline values. Analysis of the beverage samples for the presence of Sb, Sn, and Hg was carried out using an atomic absorption spectrophotometer (AAS) 929. The mean values detected for mercury, tin and antimony (&#x00B1;SE) in fruit juices and soft drinks were <!--\xdollar\rm -->            2.39&#x00B1;0.25<!--\xdollar-->, <!--\xdollar\rm -->            3.66&#x00B1;0.22<!--\xdollar--> and <!--\xdollar\rm -->            0.49&#x00B1;0.048&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->; <!--\xdollar\rm -->            2.93&#x00B1;0.34<!--\xdollar-->, <!--\xdollar\rm -->            3.60&#x00B1;0.46<!--\xdollar--> and <!--\xdollar\rm -->            0.49&#x00B1;0.10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar--> in dairy drinks and <!--\xdollar\rm -->            0.94&#x00B1;0.02<!--\xdollar-->, <!--\xdollar\rm -->            4.34&#x00B1;0.48<!--\xdollar--> and <!--\xdollar\rm -->            0.48&#x00B1;0.05&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar--> in bottled water samples respectively. While antimony detected in all products was below guideline values, mercury and tin were above the acceptable levels established by the World Health Organization, United States Environmental Protection Agency and European Union in most samples tested.</p></abstract>
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>beverage</kwd>
+<x>, </x>
+<kwd>heavy metal</kwd>
+<x>, </x>
+<kwd>food contaminants</kwd>
+<x>, </x>
+<kwd>toxicology</kwd>
+<x>, </x>
+<kwd>risk assessment</kwd>
+<x>, </x>
+<kwd>public
+health</kwd></kwd-group> 
+<kwd-group kwd-group-type="classifications">
+<title>Classifications</title>
+<kwd>biology</kwd>
+<x>, </x>
+<kwd>chemistry</kwd>
+<x>, </x>
+<kwd>medicine</kwd></kwd-group> 
+</article-meta>  
+</front> 
+<body>
+<sec>
+<title>Introduction</title>
+<p>The industrial processes of extraction and distribution of mineral resources which
+undergo synthetic changes yield chemicals such as heavy metals that have an atomic
+weight and density almost five times that of water. The pollution of our soil,
+atmosphere, underground and surface water with effluents of such industrial activities
+inevitably results in chemicals finding their way into our food chain and consequently
+into our foods and beverages. The presence of heavy metals in beverages has been
+documented in a number of worldwide studies. A recent study of beverages produced
+in Poland detected increased heavy metal content in fruit juice samples  (<xref ref-type="bibr" rid="b12">
+Krejpc&#x0131;o, S&#x0131;onkowsk&#x0131; &#x0026; Bartela, 2005</xref> ). This study highlighted the fact that
+beverages are rarely free from heavy metal contamination regardless of the
+environment they are produced. In particular, foodstuffs produced in regions
+suffering from high levels of pollution and environmental problems such as
+Nigeria, are thought to be more prone to violating guideline values of the
+permissible amounts of heavy metals in locally produced products. The recent
+proliferation of a number of different brands of Nigerian beverages has also
+necessitated the study of the extent of heavy metal contamination of these
+products.</p>
+<p>Heavy metals such as mercury (Hg), antimony (Sb) and tin (Sn) are known to have
+toxic effects when administered acutely and chronically to laboratory animals.
+Although studies of heavy metal contamination in beverages have shown that
+concentrations are generally too low to cause any immediate toxic effects,
+chronic exposure has the potential to cause severe adverse effects to human
+health.</p>
+<p>Antimony a suspected carcinogen with unknown biological function and effects on
+long term exposure is used as a catalyst in the production of polyethylene
+terephthalate (PET) plastics, with many applications including its use in the
+packaging of beverages and foodstuffs  (<xref ref-type="bibr" rid="b9">Hansen et&#x00A0;al., 2010</xref> ). Low doses of
+antimony is known to cause headaches, dizziness and depression, but in larger doses
+can cause violent and frequent vomiting.</p>
+<p>Food and water are the main sources of mercury in non-occupationally
+exposed populations. According to  
+<xref ref-type="bibr" rid="b8">Galal-Gorchev (1991)</xref>, the
+average daily intake of mercury from food and water ranges from 2&#x2013;20&#x00A0;<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g<!--\xdollar-->.
+Acute administration of mercury was found to induce severe vacuolation of the renal
+tubular epithelium and nephropathy in the kidneys  (<xref ref-type="bibr" rid="b4"> Carmignani, Boscolo
+&#x0026; Preziosi, 1989</xref> ) and caused a decrease in seminiferous tubule diameter,
+spermatogenic cell counts and leydig&#x2019;s cell nuclear diameter in the male reproductive
+structure  (<xref ref-type="bibr" rid="b13">Lamperti and Printz, 1973</xref> ). A study carried out by the  
+<xref ref-type="bibr" rid="b21">WHO
+(1990)</xref>, found mercury to be a neurotoxin particularly affecting the developing brain
+and causing mental retardation to the unborn foetus due to its ability to cross the
+placenta.</p>
+<p>Tin was found to cause testicular degeneration in rats at a dose of 10&#x00A0;mg/kg daily for
+13&#x00A0;weeks <!--\unskip \break --> (<xref ref-type="bibr" rid="b6"> de Groot, Feron &#x0026; Til, 1973</xref> ) and was carcinogenic at doses of
+between 0&#x2013;2000&#x00A0;mg in B6C3F1 mice with increased incidence of hepatocellular
+adenomas  (<xref ref-type="bibr" rid="b1">ATSDR, 2003</xref> ). Higher concentrations of tin are typically
+found in canned foodstuffs as a result of dissolution of the tin coating or
+tin plate, the levels depending largely on the type and acidity of the food,
+the presence of oxidants, the duration and temperature of storage and the
+presence of air in the can headspace  (<xref ref-type="bibr" rid="b20"> Vannoort, Cressey &#x0026; Silvers, 2000</xref>
+).</p>
+<p>Several studies of Nigerian soft drinks and juice drinks  (<xref ref-type="bibr" rid="b16"> Orisakwe, Oragwu,
+Maduabuchi, Nzegwu &#x0026; Nduka, 2009</xref>; 
+<xref ref-type="bibr" rid="b14">Maduabuchi et&#x00A0;al., 2008</xref> ), dairy drinks and
+drinking water  (<xref ref-type="bibr" rid="b15">Orisakwe et&#x00A0;al., 2006</xref> ) have detected the presence of trace
+quantities of heavy metals that have exceeded the maximum contaminant
+levels (MCL) recommended by the United States Environmental Protection
+Agency (USEPA), European Union (EU) and World Health Organization
+(WHO).</p>
+<p>A recent renowned study of the concentration of antimony in 42 commercial juices  (<xref ref-type="bibr" rid="b9">Hansen et&#x00A0;al., 2010</xref> ), found eight of the products to have antimony concentrations
+that were up by a factor of&#x00A0;2.7 above the EU limit for drinking water. Studies of
+mercury and tin in various foodstuffs have also indicated the presence of these heavy
+metals in excess of safety limits.</p>
+<p>Many studies to date have described environmental exposure of humans to heavy
+metals in African populations, however little is known about the exposure to heavy
+metal toxins from processed or unprocessed foods consumed in Africa. No
+data currently exists on the concentrations of antimony, tin and mercury
+in Nigerian beverages and findings from studies conducted worldwide are
+varied.</p>
+<p>This study determined the concentrations of antimony, tin and mercury in a number
+of commonly sold and consumed beverages in Nigeria and assessed the extent
+of the violation of recommended limits set by the USEPA, EU and WHO
+guidelines.</p>
+</sec>
+<sec>
+<title>Materials and Methods</title>
+<p>Fifty different samples of beverages were utilized in the study including dairy drinks,
+soft drinks, water, and various types of juice drinks such as fresh juice, juice
+concentrates and mixed fruit juices, which were purchased in May&#x00A0;2010 in the Niger
+Delta area of Nigeria. The samples chosen were considered to be a fair representation
+of the beverages available on the Nigerian market, with the minor exception of
+a few products that were newly introduced to the market such as energy
+drinks.</p>
+<p>The samples were prepared for analysis by hydrolysing 20&#x00A0;ml of
+the beverage with 10&#x00A0;ml of hydrochloride (HCL) and 20&#x00A0;ml water (<!--\xdollar\rm -->H
+<sub>2</sub>O<!--\xdollar-->).
+The hyrdrolyzed samples were well shaken and transferred to a centrifuge
+tube for centrifugation at the rate of 3000&#x00A0;rpm to remove solid particles. The
+resulting homogenised samples were thoroughly mixed before sub-samples
+were taken for analysis to ensure homogeneity of the mixture. The presence
+of antimony and tin were analysed in samples using the Unicam Atomic
+Absorption Spectrophotometer (AAS) Model&#x00A0;929, employing an air-acetylene
+oxidizing (lean, blue) flame at the recommended wavelength of 217&#x00A0;nm and a
+nitrous-oxide-acetylene reducing (rich red) flame of wavelength 286.3&#x00A0;nm for antimony
+and tin respectively. Determining the presence of tin and antimony in dairy drinks
+involved precipitation of the milk proteins including casein by adding trichloroacetic
+acid (TCA) to the samples. All other determinations were carried out in malt
+drinks, soft drinks, energy drinks and the table waters by the direct aspiration
+method.</p>
+<p>Mercury was determined by the cold vapour technique after reduction with stannous chloride
+<!--\xdollar\rm -->       (SnCl
+<sub>2</sub>)<!--\xdollar-->,
+in order to release the mercury in the sample solution. Precaution was taken at all
+times due to the toxic nature of mercury. A Stock Standard Solution was prepared by
+dissolving 1.08&#x00A0;g of mercury (II) oxide, in a minimum volume of 1:1 HCL and
+diluted to 1&#x00A0;litre with de-ionised water. This solution was then analysed by the
+AAS using an air-acetylene, oxidizing (lean, blue) flame at a wavelength of
+253.7&#x00A0;nm.</p>
+<p>The concentration of the contaminant was calculated using the arithmetic
+mean according to  
+<xref ref-type="bibr" rid="b17">Parkhurst (1998)</xref>, by multiplying the amount of
+the chemical element/volume of the sample beverage. The volume of one
+and a half litres was assumed in the calculations of the concentration of
+antimony, tin and mercury, as it was considered the average intake volume for
+adults.</p>
+<p>Appropriate quality procedures and precautions were carried out to assure the
+reliability of the results. Reagents used to calibrate the instrumentation were of
+analytical grades. A spike-and-recovery analysis was performed to assess the accuracy
+of the analytical techniques used. Post-analysed samples were spiked and
+homogenized with varying amounts of the standard solutions of the different metals.
+The spiked samples were then processed for the analysis by the dry ashing
+method.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>The results of the analysed samples were grouped into three subgroups: fruit juices
+and soft drinks, dairy drinks and bottled waters, as shown in
+<xref rid="tbl1 tbl2 tbl3">Tables&#x00A0;1&#x2013;3</xref>. The group with the highest and broadest concentration
+ranges of the heavy metals studied were of the fruit juices and soft drinks
+group.
+<table-wrap  id="tbl1">  
+<label>Table&#x00A0;1</label> <!--view=landscape--><caption> 
+<title> Antimony, tin and mercury (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->) levels in fruit juices and soft drinks.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/> </colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Product name     </td> 
+<td align="left">Producer          </td> 
+<td align="left">Place
+of
+manufacture </td> 
+<td align="left">Batch
+number                                    </td> 
+<td align="left">Antimony
+(<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td> 
+<td align="left">Tin       (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td> 
+<td align="left">Mercury            (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">GRAND MALT                </td> 
+<td align="left">PABOD
+BREWERIES
+LTD.             </td> 
+<td align="left">Nigeria </td> 
+<td align="left">C2262130                                  </td> 
+<td align="left">0.57      </td> 
+<td align="left">5.43      </td> 
+<td align="left">3.16             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">COCA-COLA                 </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY NIG   </td> 
+<td align="left">Nigeria </td> 
+<td align="left">R300:37072F                                </td> 
+<td align="left">0.41      </td> 
+<td align="left">4.22      </td> 
+<td align="left">0.61             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">GINGER BEER               </td> 
+<td align="left">SUN MARK LTD  </td> 
+<td align="left">UK </td> 
+<td align="left">L22730                                    </td> 
+<td align="left">0.22      </td> 
+<td align="left">6.33      </td> 
+<td align="left">3.11             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">FANTA
+ORANGE                     </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">AB305:12051F                              </td> 
+<td align="left">0.52      </td> 
+<td align="left">0.97      </td> 
+<td align="left">0.96             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">SPRITE                      </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">AB301:42005F                              </td> 
+<td align="left">0.24      </td> 
+<td align="left">3.06      </td> 
+<td align="left">0.88             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">SCHWEPPES
+BITTER
+LEMON                      </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">AB301:48007F                              </td> 
+<td align="left">0.24      </td> 
+<td align="left">4.21      </td> 
+<td align="left">1.03             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">RUBICON
+GUAVA                      </td> 
+<td align="left">RUBICON
+DRINKS LTD     </td> 
+<td align="left">UK </td> 
+<td align="left">9324                                       </td> 
+<td align="left">0.33      </td> 
+<td align="left">4.22      </td> 
+<td align="left">4.63             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">FAYROUZ
+PREMIUM
+SOFT DRINK                 </td> 
+<td align="left">NIGERIAN
+BREWERIES PLC </td> 
+<td align="left">Nigeria </td> 
+<td align="left">-                                      </td> 
+<td align="left">0.44      </td> 
+<td align="left">5.06      </td> 
+<td align="left">1.59             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">CAPRI-SONNE
+ORANGE
+DRINK                       </td> 
+<td align="left">CHI LTD         </td> 
+<td align="left">Nigeria </td> 
+<td align="left">Z130910A5                                 </td> 
+<td align="left">0.46      </td> 
+<td align="left">5.22      </td> 
+<td align="left">1.21             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">DANSA  FRUIT
+DRINKS                      </td> 
+<td align="left">DANSA    FOODS
+LTD             </td> 
+<td align="left">Nigeria </td> 
+<td align="left">01414:11:08                                 </td> 
+<td align="left">0.41      </td> 
+<td align="left">4.26      </td> 
+<td align="left">2.83             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">DELITE
+ORANGE
+FRUIT JUICE                 </td> 
+<td align="left">UAC DAIRES     </td> 
+<td align="left">Nigeria </td> 
+<td align="left">24/2D                                     </td> 
+<td align="left">0.61      </td> 
+<td align="left">4.06      </td> 
+<td align="left">1.22             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">CHIVITA
+PREMIUM
+PINEAPPLE
+JUICE                       </td> 
+<td align="left">CHI LTD         </td> 
+<td align="left">Nigeria </td> 
+<td align="left">Z010710B9                                 </td> 
+<td align="left">0.61      </td> 
+<td align="left">3.14      </td> 
+<td align="left">1.01             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">CHI     EXOTIC
+PINEAPPLE
+AND
+COCONUT
+NECTAR                     </td> 
+<td align="left">CHI LTD         </td> 
+<td align="left">Nigeria </td> 
+<td align="left">Z160610C9                                 </td> 
+<td align="left">0.36      </td> 
+<td align="left">1.66      </td> 
+<td align="left">1.14             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">TROPICAL
+PURE    FRUIT
+JUICE                       </td> 
+<td align="left">DANSA    FOODS
+LTD             </td> 
+<td align="left">Nigeria </td> 
+<td align="left">00703:50:26                                 </td> 
+<td align="left">0.21      </td> 
+<td align="left">1.26      </td> 
+<td align="left">1.87             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">ICE           TEA
+LEMON                      </td> 
+<td align="left">CHI LTD         </td> 
+<td align="left">Nigeria </td> 
+<td align="left">Z020610A12                                </td> 
+<td align="left">1.86      </td> 
+<td align="left">4.16      </td> 
+<td align="left">1.33             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">LUCOMALT                  </td> 
+<td align="left">GLAXOSMITHKLINE </td> 
+<td align="left">Nigeria </td> 
+<td align="left">ETSILN                                   </td> 
+<td align="left">0.54      </td> 
+<td align="left">3.64      </td> 
+<td align="left">4.03             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">5           ALIVE
+BERRY BLAST               </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">ADJ322:44063                              </td> 
+<td align="left">0.46      </td> 
+<td align="left">2.45      </td> 
+<td align="left">1.57             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">LUCOZADE
+BOOST                       </td> 
+<td align="left">GLAXOSMITHKLINE </td> 
+<td align="left">Nigeria </td> 
+<td align="left">DT2IER                                   </td> 
+<td align="left">0.25      </td> 
+<td align="left">3.74      </td> 
+<td align="left">1.87             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">RIBENNA
+BLACKCURRENT             </td> 
+<td align="left">GLAXOSMITHKLINE </td> 
+<td align="left">Nigeria </td> 
+<td align="left">ET17OR                                   </td> 
+<td align="left">0.36      </td> 
+<td align="left">3.27      </td> 
+<td align="left">1.59             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">FRUCHTEGUT               </td> 
+<td align="left">MERTINGER     </td> 
+<td align="left">Germany </td> 
+<td align="left">EHM4                                     </td> 
+<td align="left">0.87      </td> 
+<td align="left">3.51      </td> 
+<td align="left">5.87             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">LA      CASERA
+APPLE DRINK                </td> 
+<td align="left">CLASSIC
+BEVERAGES
+NIG. LTD         </td> 
+<td align="left">Nigeria </td> 
+<td align="left">522032511                                  </td> 
+<td align="left">0.39      </td> 
+<td align="left">4.01      </td> 
+<td align="left">1.33             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">BOBO   APPLE
+MILK DRINK                 </td> 
+<td align="left">BOBO        FOOD
+AND BEVERAGE
+LTD             </td> 
+<td align="left">Nigeria </td> 
+<td align="left">A-03                                      </td> 
+<td align="left">0.31      </td> 
+<td align="left">3.66      </td> 
+<td align="left">2.14             </td>
+</tr> 
+<tr valign="top"><!--\tabularBreak[]--><td align="left">V8       SPLASH
+BERRY BLEND               </td> 
+<td align="left">CAMPBELL
+SOUP COMPANY </td> 
+<td align="left">USA </td> 
+<td align="left">CUBTZL0503                               </td> 
+<td align="left">0.44      </td> 
+<td align="left">3.21      </td> 
+<td align="left">5.41             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">FUZE
+HEALTHY
+INFUZIONS                   </td> 
+<td align="left">FUZ
+BEVERAGES LLC </td> 
+<td align="left">USA </td> 
+<td align="left">UTDU01576756                             </td> 
+<td align="left">0.26      </td> 
+<td align="left">3.64      </td> 
+<td align="left">3.84             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">SPRITE                      </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">A0621:16038                                </td> 
+<td align="left">0.69      </td> 
+<td align="left">2.44      </td> 
+<td align="left">1.06             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">SANS   CREAM
+SODA                        </td> 
+<td align="left">PHARMA   DEKO
+PLC             </td> 
+<td align="left">Nigeria </td> 
+<td align="left">A328                                      </td> 
+<td align="left">0.33      </td> 
+<td align="left">4.36      </td> 
+<td align="left">2.41             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">SCHWEPPES
+BITTER
+LEMON                      </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">AFS11:10166F                              </td> 
+<td align="left">0.26      </td> 
+<td align="left">1.33      </td> 
+<td align="left">1.63             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">COCA-COLA                 </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">AD612:48041                               </td> 
+<td align="left">0.54      </td> 
+<td align="left">4.02      </td> 
+<td align="left">1.31             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">FANTA
+ORANGE                     </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">AD611:01089                               </td> 
+<td align="left">0.51      </td> 
+<td align="left">4.17      </td> 
+<td align="left">1.24             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">TANGO                      </td> 
+<td align="left">BALL            </td> 
+<td align="left">UK </td> 
+<td align="left">RO3L0134                                  </td> 
+<td align="left">0.54      </td> 
+<td align="left">5.79      </td> 
+<td align="left">3.16             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">OLD  JAMAICA
+GINGER BEER               </td> 
+<td align="left">COTT
+BEVERAGES
+LTD             </td> 
+<td align="left">UK </td> 
+<td align="left">5814148                                    </td> 
+<td align="left">0.51      </td> 
+<td align="left">1.34      </td> 
+<td align="left">4.88             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">AMSTEL
+MALTA                      </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">O:35556Z1316                               </td> 
+<td align="left">0.79      </td> 
+<td align="left">5.47      </td> 
+<td align="left">3.26             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">BETAMALT                  </td> 
+<td align="left">INTERNATIONAL
+BREWERIES PLC
+(NID.)            </td> 
+<td align="left">Nigeria </td> 
+<td align="left">31081017:02                                </td> 
+<td align="left">0.26      </td> 
+<td align="left">2.79      </td> 
+<td align="left">4.26             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">NESTLE
+MILO ENERGY
+DRINK                       </td> 
+<td align="left">NIHON
+CANPACK        </td> 
+<td align="left">Malaysia </td> 
+<td align="left">OU20155BA                                </td> 
+<td align="left">0.39      </td> 
+<td align="left">2.35      </td> 
+<td align="left">2.53             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">ROBUST
+SUGAR FREE                 </td> 
+<td align="left">SUN MARK LTD  </td> 
+<td align="left">UK </td> 
+<td align="left">8E01D14A                                 </td> 
+<td align="left">0.45      </td> 
+<td align="left">5.36      </td> 
+<td align="left">6.04             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">SEVEN UP                   </td> 
+<td align="left">SEVEN           UP
+BOTTLING
+COMPANY PLC   </td> 
+<td align="left">Nigeria </td> 
+<td align="left">-                                      </td> 
+<td align="left">0.98      </td> 
+<td align="left">4.82      </td> 
+<td align="left">0.84             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">COCA     COLA
+(Glass Bottle)                  </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY       </td> 
+<td align="left">Nigeria </td> 
+<td align="left">-                                      </td> 
+<td align="left">2.77      </td> 
+<td align="left">0.45      </td> 
+<td align="left">1.38 <!--\vspace *{8pt}-->            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">                             </td> 
+<td align="left">                 </td> 
+<td align="left">   </td> 
+<td align="left">                                          </td> 
+<td align="left">EU&#x00A0;(<!--\xdollar\rm -->5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)    </td> 
+<td align="left">EU   (No
+Limit)*   </td> 
+<td align="left">EU&#x00A0;(<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+89.2%           </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">% (number) of products Violating the WHO, USEPA and EU Limits for Heavy Metals in drinking water </td> 
+<td align="left">WHO&#x00A0;(<!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)    </td> 
+<td align="left">WHO    (<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+86.5%    </td> 
+<td align="left">WHO&#x00A0;(<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+89.2%           </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">                             </td> 
+<td align="left">                 </td> 
+<td align="left">   </td> 
+<td align="left">                                          </td> 
+<td align="left">USEPA&#x00A0;(<!--\xdollar\rm -->6&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)    </td> 
+<td align="left">USEPA
+(No
+Limit)*   </td> 
+<td align="left">USEPA&#x00A0;(<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+43.2%           </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF1.1">
+<p>Mercury Range: 0.61&#x2013;6.04; Mean Value <!--\xdollar\rm -->=2.39&#x00B1;0.25<!--\xdollar--> (<!--\xdollar\rm --><italic>n</italic>=37<!--\xdollar-->); Antimony Range: 0.21&#x2013;1.86;
+Mean Value: <!--\xdollar\rm -->          0.49&#x00B1;0.05<!--\xdollar--> (<!--\xdollar\rm --><italic>n</italic>=37<!--\xdollar-->); Tin Range: 0.97&#x2013;6.33;
+Mean Value: <!--\xdollar\rm -->          3.70&#x00B1;0.22<!--\xdollar-->(<!--\xdollar\rm --><italic>n</italic>=37<!--\xdollar-->).</p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setFloat [pos=t]{tbl1}--><table-wrap  id="tbl2">  
+<label>Table&#x00A0;2</label> <!--view=landscape--><caption> 
+<title> Antimony, tin and mercury (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->) levels in dairy drinks.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/> </colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Product name        </td> 
+<td align="left">Producer           </td> 
+<td align="left">Place
+of
+manufacture </td> 
+<td align="left">Batch
+number                                 </td> 
+<td align="left">Antimony
+(<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td> 
+<td align="left">Tin    (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td> 
+<td align="left">Mercury          (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">THREE CROWNS
+EVAPORATED
+MILK                          </td> 
+<td align="left">FRIESLAND
+COMPINIA
+WAMCO NIG. LTD </td> 
+<td align="left">Nigeria </td> 
+<td align="left">11:47:39                                 </td> 
+<td align="left">0.32      </td> 
+<td align="left">6.17    </td> 
+<td align="left">1.44            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">HOLLANDIA
+YOGHURT
+DRINK                         </td> 
+<td align="left">CHI LTD          </td> 
+<td align="left">Nigeria </td> 
+<td align="left">Z190810C9                              </td> 
+<td align="left">0.47      </td> 
+<td align="left">3.22    </td> 
+<td align="left">1.84            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">YO!     YOGHURT
+FLAVOURED
+DRINK                         </td> 
+<td align="left">PZ  CUSSONS  NIG
+PLC              </td> 
+<td align="left">Nigeria </td> 
+<td align="left">175P                                   </td> 
+<td align="left">0.49      </td> 
+<td align="left">2.46    </td> 
+<td align="left">2.67            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">ZIZA         DAIRY
+PRODUCTS                    </td> 
+<td align="left">DANSA      FOODS
+LTD              </td> 
+<td align="left">Nigeria </td> 
+<td align="left">01313:32:58                              </td> 
+<td align="left">0.37      </td> 
+<td align="left">3.44    </td> 
+<td align="left">2.34            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">DICTA
+YOGHURT
+PLAIN                         </td> 
+<td align="left">DICTACHI FOODS
+NIG. LTD          </td> 
+<td align="left">Nigeria </td> 
+<td align="left">526XXXXXX                            </td> 
+<td align="left">0.44      </td> 
+<td align="left">2.64    </td> 
+<td align="left">2.06            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">GARDEN    CITY
+YOGHURT                     </td> 
+<td align="left">SIMPLEX
+PACKAGES    AND
+ALLIED
+RESOURCES LTD  </td> 
+<td align="left">Nigeria </td> 
+<td align="left">21217                                   </td> 
+<td align="left">1.35      </td> 
+<td align="left">3.54    </td> 
+<td align="left">2.95            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">VIJU MILK                     </td> 
+<td align="left">VIJU INDUCTRIES
+(NIG.) LTD        </td> 
+<td align="left">Nigeria </td> 
+<td align="left">A2-03                                   </td> 
+<td align="left">0.33      </td> 
+<td align="left">5.14    </td> 
+<td align="left">3.85            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">VITAMILK                     </td> 
+<td align="left">GREEN SPOT LTD </td> 
+<td align="left">Thailand </td> 
+<td align="left">31-1-11135-2-001                          </td> 
+<td align="left">0.34      </td> 
+<td align="left">2.47    </td> 
+<td align="left">4.88            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">PEAK
+CONDENSED
+MILK                          </td> 
+<td align="left">FRIESLAND
+COMPINIA        </td> 
+<td align="left">Holland </td> 
+<td align="left">NPOLIA07:21                            </td> 
+<td align="left">0.49      </td> 
+<td align="left">5.22    </td> 
+<td align="left">4.06            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">NUTRICIMA
+YOGHURT
+FLAVOURED
+DRINK                         </td> 
+<td align="left">NUTRICIMA
+INDUSTRIES      </td> 
+<td align="left">Nigeria </td> 
+<td align="left">NA                                   </td> 
+<td align="left">0.28      </td> 
+<td align="left">1.69    </td> 
+<td align="left">3.16 <!--\vspace *{8pt}-->           </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">                                                                                         </td> 
+<td align="left">EU       (<!--\xdollar\rm -->5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)     </td> 
+<td align="left">EU(No
+Limit)* </td> 
+<td align="left">EU                (<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+100%          </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">% (number) of products Violating the WHO, USEPA and EU Limits for Heavy Metals in drinking water </td> 
+<td align="left">WHO&#x00A0;(<!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)   </td> 
+<td align="left">WHO (<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+90%    </td> 
+<td align="left">WHO             (<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+100%          </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">                                                                                         </td> 
+<td align="left">USEPA&#x00A0;(<!--\xdollar\rm -->6&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)     </td> 
+<td align="left">USEPA
+(No
+Limit)* </td> 
+<td align="left">USEPA&#x00A0;(<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+80%           </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF2.1">
+<p>Mercury (Range: 1.44&#x2013;4.88; Mean Value <!--\xdollar\rm -->=2.93&#x00B1;0.34<!--\xdollar--> (<!--\xdollar\rm --><italic>n</italic>=10<!--\xdollar-->), Tin (Range: 1.69&#x2013;6.17;
+Mean Value <!--\xdollar\rm -->          =3.60&#x00B1;0.46<!--\xdollar--> (<!--\xdollar\rm --><italic>n</italic>=10<!--\xdollar-->),Antimony (Range:
+0.28&#x2013;1.35; Mean Value <!--\xdollar\rm -->         =0.49&#x00B1;0.10<!--\xdollar-->(<!--\xdollar\rm --><italic>n</italic>=10<!--\xdollar-->).</p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setFloat [pos=t]{tbl2}--><table-wrap  id="tbl3">  
+<label>Table&#x00A0;3</label> <!--view=landscape--><caption> 
+<title> Antimony, tin and mercury (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->) levels in bottled water samples.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/> </colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Product name           </td> 
+<td align="left">Producer        </td> 
+<td align="left">Place
+of
+manufacture </td> 
+<td align="left">Batch
+number                                 </td> 
+<td align="left">Antimony
+(<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td> 
+<td align="left">Tin         (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td> 
+<td align="left">Mercury            (<!--\xdollar\rm --><!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">EVA            TABLE
+WATER                          </td> 
+<td align="left">NIGERIAN
+BOTTLING
+COMPANY     </td> 
+<td align="left">Nigeria </td> 
+<td align="left">A0313:52                                </td> 
+<td align="left">0.55      </td> 
+<td align="left">5.26       </td> 
+<td align="left">0.91             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">LA VOLTIC TABLE
+WATER                          </td> 
+<td align="left">VOLTIC LTD   </td> 
+<td align="left">Nigeria </td> 
+<td align="left">29/06/RSP                              </td> 
+<td align="left">0.37      </td> 
+<td align="left">4.11       </td> 
+<td align="left">0.97             </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">PURE             LIFE
+PREMIUM
+DRINKING WATER               </td> 
+<td align="left">NESTLE
+NIGERIA PLC  </td> 
+<td align="left">Nigeria </td> 
+<td align="left">102323087                               </td> 
+<td align="left">0.51      </td> 
+<td align="left">3.66       </td> 
+<td align="left">0.94 <!--\vspace *{8pt}-->            </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">                                                                                         </td> 
+<td align="left">EU        (<!--\xdollar\rm -->5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->)
+0% (0)      </td> 
+<td align="left">EU      (No
+Limit)*    </td> 
+<td align="left">EU                   (<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;l<!--\xdollar-->)
+0% (0)           </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">% (number) of products Violating the WHO, USEPA and EU Limits for Heavy Metals in drinking water </td> 
+<td align="left">WHO     (<!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)    </td> 
+<td align="left">WHO      (<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+100% (0)   </td> 
+<td align="left">WHO               (<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)           </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="4"  align="left">                                                                                         </td> 
+<td align="left">USEPA  (<!--\xdollar\rm -->6&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)      </td> 
+<td align="left">USEPA
+(No
+Limit)*    </td> 
+<td align="left">USEPA             (<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+0% (0)           </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF3.1">
+<p>Mercury (Range: 0.91&#x2013;0.97; Mean Value <!--\xdollar\rm -->=0.94&#x00B1;0.02<!--\xdollar--> (<!--\xdollar\rm --><italic>n</italic>=3<!--\xdollar-->), Tin (Range: 3.66&#x2013;5.26;
+Mean Value <!--\xdollar\rm -->          =4.34&#x00B1;0.48<!--\xdollar--> (<!--\xdollar\rm --><italic>n</italic>=3<!--\xdollar-->), Antimony (Range:
+0.37&#x2013;0.55; Mean Value <!--\xdollar\rm -->         =0.48&#x00B1;0.05<!--\xdollar-->(<!--\xdollar\rm --><italic>n</italic>=3<!--\xdollar-->).</p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setFloat [pos=t]{tbl3}--></p>
+<p>The results of the analyses of mercury, tin and antimony in 37&#x00A0;fruit juice and soft
+drink samples are shown in
+<xref rid="tbl1">Table&#x00A0;1</xref>. Tin had the highest concentration recorded amongst all heavy metals
+analysed. The concentration range of tin within the fruit juices and soft drinks group was <!--\xdollar\rm -->0.97&#x2212;6.33&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->, which represented a mean
+concentration of <!--\xdollar\rm -->          3.70&#x00B1;0.22&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->.
+Both mercury and antimony were also of the highest concentrations recorded
+within the fruit juice and soft drinks group. Mercury ranged from <!--\xdollar\rm -->0.61&#x2212;6.04&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->, giving a mean concentration of <!--\xdollar\rm -->2.39&#x00B1;0.25&#x00A0;g&#x002F;L<!--\xdollar--> and antimony ranged
+between <!--\xdollar\rm -->         0.21&#x2212;1.86&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> with a mean
+concentration of <!--\xdollar\rm -->          0.49&#x00B1;0.05&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->.</p>
+<p><xref rid="tbl2">Table&#x00A0;2</xref> shows the levels of mercury, tin and antimony detected in ten dairy drinks. Amongst
+all the beverage samples, mercury was calculated as having the highest mean concentration
+of <!--\xdollar\rm -->           2.93&#x00B1;0.34&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->,
+owing to the lesser variation of concentrations detected, <!--\xdollar\rm -->1.44&#x2212;4.88&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->. The
+mean concentration of tin was the lowest detected within this group and levels of
+antimony recorded were similar to that of the fruit juices and soft drinks
+group.</p>
+<p>In the bottled water sample group tin had a narrower range of concentrations
+recorded, however the mean concentration calculated for tin was the
+highest of all the beverage samples. The mean concentration of <!--\xdollar\rm -->4.34&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> was
+detected for tin, while conversely the mean values of mercury and antimony were the
+lowest recorded amongst all the samples, as shown in
+<xref rid="tbl3">Table&#x00A0;3</xref>.</p>
+<p>On comparison of the levels of the three heavy metals in the fruit juices and soft
+drinks, dairy drinks and bottled water samples with standards set by the WHO,
+USEPA and EU, as shown in
+<xref rid="tbl4 tbl5 tbl6">Tables&#x00A0;4&#x2013;6</xref>, the dairy drinks group were found in most violation of
+mercury 100%, 100% and 80% violating the EU, WHO and USEPA guidelines
+respectively. Fruit juices and soft drinks were found 89.2%, 43.2% and 89.2% in
+violation of WHO, USEPA and EU permissible levels of mercury respectively.
+<table-wrap  id="tbl4">  
+<label>Table&#x00A0;4</label>   
+<caption> 
+<title> Heavy metal content of different brands of fruit juice and soft drinks.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/> </colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left">       </td> 
+<td align="left">       </td> 
+<td colspan="2"  align="center">WHO limits     </td> 
+<td colspan="2"  align="center">USEPA Limits </td> 
+<td colspan="2"  align="center">EU Limits   </td> 
+<td align="left">                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Heavy
+metal                        </td> 
+<td align="left">Average </td> 
+<td align="left">Range  </td> 
+<td align="left">Lower  </td> 
+<td align="left">Upper   </td> 
+<td align="left">Lower </td> 
+<td align="left">Upper   </td> 
+<td align="left">Lower </td> 
+<td align="left">Upper  </td> 
+<td align="left">Percentage
+of        samples
+in       violation
+(WHO/EPA/EU) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">Mercury                     </td> 
+<td align="left">2.35   </td> 
+<td align="left">0.61   -
+6.04   </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->  </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">89.20%
+/,   43.24%   /   &#x0026;
+89.20%        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Tin                         </td> 
+<td align="left">3.88   </td> 
+<td align="left">0.97   -
+6.33   </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L&#x2217;<!--\xdollar--> </td> 
+<td align="left">-        </td> 
+<td align="left">-     </td> 
+<td align="left">-        </td> 
+<td align="left">-     </td> 
+<td align="left">-      </td> 
+<td align="left">86.50% *       </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Antimony                    </td> 
+<td align="left">0.50   </td> 
+<td align="left">0.22   -
+1.86   </td> 
+<td align="left">-       </td> 
+<td align="left"><!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->  </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">Nil            </td>
+</tr> 
+</tbody> 
+</table> 
+</table-wrap>
+<!--\setFloat [pos=b!]{tbl4}--><table-wrap  id="tbl5">  
+<label>Table&#x00A0;5</label>   
+<caption> 
+<title> Heavy metal content of different brands of dairy drinks.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/> </colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">            </td> 
+<td align="left">       </td> 
+<td align="left">       </td> 
+<td colspan="2"  align="center">WHO limits     </td> 
+<td colspan="2"  align="center">USEPA Limits </td> 
+<td colspan="2"  align="center">EU Limits   </td> 
+<td align="left">                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Heavy
+metal                       </td> 
+<td align="left">Average </td> 
+<td align="left">Range  </td> 
+<td align="left">lower   </td> 
+<td align="left">upper   </td> 
+<td align="left">lower </td> 
+<td align="left">upper    </td> 
+<td align="left">lower </td> 
+<td align="left">upper  </td> 
+<td align="left">Percentage
+of        samples
+in       violation
+(WHO/EPA/EU) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">Mercury                     </td> 
+<td align="left">2.93    </td> 
+<td align="left">1.44   -
+4.88   </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->6&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->  </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">100%  /,  80%  &#x0026;
+100%          </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Tin                         </td> 
+<td align="left">3.60    </td> 
+<td align="left">1.69   -
+6.17   </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L&#x2217;<!--\xdollar--> </td> 
+<td align="left">-        </td> 
+<td align="left">-     </td> 
+<td align="left">-        </td> 
+<td align="left">-     </td> 
+<td align="left">-      </td> 
+<td align="left">90%*          </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Antimony                    </td> 
+<td align="left">0.49    </td> 
+<td align="left">0.28   -
+1.35   </td> 
+<td align="left">-       </td> 
+<td align="left"><!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->  </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">Nil            </td>
+</tr> 
+</tbody> 
+</table> 
+</table-wrap>
+<!--\setFloat [pos=b!]{tbl5}--><table-wrap  id="tbl6">  
+<label>Table&#x00A0;6</label>   
+<caption> 
+<title> Heavy metal content of different brands of bottled water.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/>    
+<col align="left"/> </colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">            </td> 
+<td align="left">       </td> 
+<td align="left">       </td> 
+<td colspan="2"  align="center">WHO limits     </td> 
+<td colspan="2"  align="center">USEPA Limits </td> 
+<td colspan="2"  align="center">EU Limits   </td> 
+<td align="left">                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Heavy
+metal                       </td> 
+<td align="left">Average </td> 
+<td align="left">Range  </td> 
+<td align="left">lower   </td> 
+<td align="left">upper   </td> 
+<td align="left">lower </td> 
+<td align="left">upper    </td> 
+<td align="left">lower </td> 
+<td align="left">upper  </td> 
+<td align="left">Percentage
+of        samples
+in       violation
+(WHO/EPA/EU) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">Mercury                     </td> 
+<td align="left">0.94    </td> 
+<td align="left">0.91   -
+0.94   </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->6&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->  </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">Nil            </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Tin                         </td> 
+<td align="left">4.34    </td> 
+<td align="left">3.66   -
+5.25   </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-        </td> 
+<td align="left">-     </td> 
+<td align="left">-        </td> 
+<td align="left">-     </td> 
+<td align="left">-      </td> 
+<td align="left">100%*         </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Antimony                    </td> 
+<td align="left">0.48    </td> 
+<td align="left">0.37   -
+0.55   </td> 
+<td align="left">-       </td> 
+<td align="left"><!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->  </td> 
+<td align="left">-     </td> 
+<td align="left"><!--\xdollar\rm -->5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> </td> 
+<td align="left">Nil            </td>
+</tr> 
+</tbody> 
+</table> 
+</table-wrap>
+<!--\setFloat [pos=b!]{tbl6}--></p>
+<p>Tin however was in most violation in the bottled water group with 100% of samples
+violating the WHO permissible levels and 90% and 86.5% estimated violations within
+the dairy drink and fruit juices and soft drink groups respectively. Antimony on
+the other hand was found to be generally low in comparison to the other
+heavy metals detected, with none of the samples violating the guideline
+values.</p>
+<p>The &#x2018;worst case scenario&#x2019; estimation of the intake of the heavy metals as a result of
+consumption of beverages from each sample group, on an average weekly basis
+volume of 4.5&#x00A0;L (1.5&#x00A0;L of the three most contaminated beverage products) was <!--\xdollar\rm -->26.63&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->, <!--\xdollar\rm -->5.64&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->&#x002F;L<!--\xdollar--> and <!--\xdollar\rm -->17.79&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->respectively, as shown in
+<xref rid="tbl7">Table&#x00A0;7</xref>.
+<table-wrap  id="tbl7">  
+<label>Table&#x00A0;7</label>   
+<caption> 
+<title> Example of calculating heavy metal weekly intake.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="center"/></colgroup> 
+<tbody>
+<tr valign="top"> 
+<td align="center">True Sb intake <!--\xdollar\rm -->            =1.5&#x2217;&#x00D7;1.86+1.5&#x00D7;0.55+1.5&#x00D7;1.35=5.64&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> Sb </td>
+</tr> 
+<tr valign="top"> 
+<td align="center"> True Hg intake <!--\xdollar\rm -->            =1.5&#x00D7;6.04+1.5&#x00D7;0.94+1.5&#x00D7;4.88=17.79&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> Hg  </td>
+</tr> 
+<tr valign="top"> 
+<td align="center"> True Sn intake <!--\xdollar\rm -->            =1.5&#x00D7;6.33+1.5&#x00D7;5.25+1.5&#x00D7;6.17=26.63&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar--> Sn  </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF7.1">
+<p>*(1.5 L is assumed the weekly beverage consumption, which is multiplied by the
+highest concentration of heavy metal contaminant from each beverage group: the
+volume of the each beverage was assumed to be one litre).</p></fn>  
+</table-wrap-foot></table-wrap>
+<!--\setFloat [pos=b!]{tbl7}--></p>
+</sec>
+<sec>
+<title>Discussion</title>
+<p>On analysis of the levels of antimony, tin and mercury detected in the beverage
+samples, it was found that the concentration of heavy metals varied considerably
+between each sample group. Some samples were below the recommended safety
+limits, others within this and some exceeding the threshold limits established by the
+European Union, World Health Organization and the US Environmental Protection
+Agency guidelines.</p>
+<p>The levels of antimony recorded in this study were found to be within the limits stipulated by the
+WHO (<!--\xdollar\rm -->          20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->),
+EU (<!--\xdollar\rm -->          5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->) and
+USEPA (<!--\xdollar\rm -->          2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+for antimony in drinking water  (<xref ref-type="bibr" rid="b23">WHO, 2003</xref>; 
+<xref ref-type="bibr" rid="b19">USEPA, 2011</xref> ). These levels
+reported however, were much lower than the antimony levels recorded in the study by
+<xref ref-type="bibr" rid="b9">Hansen et&#x00A0;al. (2010)</xref>, despite the beverage samples similarly having been packed in
+PET containers. The different instrumentation techniques may have accounted in
+part for the difference in antimony levels detected.</p>
+<p>The intake estimates for antimony calculated using the arithmetic mean
+for a Nigerian consuming one and half litres of beverages per week was <!--\xdollar\rm -->5.64&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->, which was found
+to be in line with the World Health Organization recommended daily tolerable intake of antimony
+at <!--\xdollar\rm -->           6.0&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;kgbw&#x002F;day<!--\xdollar-->&#x00A0;
+(<xref ref-type="bibr" rid="b7"> Egan, Tao, Pennington &#x0026; Bolger, 2002</xref> ).</p>
+<p>Alarmingly the mercury levels analysed in 100% of dairy drinks and
+89.2% fruit juices and soft drinks were found to violate both the WHO (<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->), EU (<!--\xdollar\rm -->1&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->) and USEPA
+(<!--\xdollar\rm -->           2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+regulations  (<xref ref-type="bibr" rid="b23">WHO, 2003</xref>; 
+<xref ref-type="bibr" rid="b19">USEPA, 2011</xref> ). These results are contrary to findings
+by  
+<xref ref-type="bibr" rid="b5"> Cheung Chung, Kwong, Yau &#x0026; Wong (2008)</xref>, who reported extremely low
+mercury concentrations in Nigerian beverages. Considering the daily intake of these
+beverages in particular dairy drinks by children, young adults and pregnant
+women, it is feared that long-term exposure may pose significant health
+risks.</p>
+<p>Although fish and other seafood products have been documented as being the main
+source of mercury in the diet  (<xref ref-type="bibr" rid="b21">WHO, 1990</xref> ), this has been disproved by our
+findings due to the high levels of total mercury that were detected in both the dairy
+drinks group and fruit juices and soft drink samples.</p>
+<p>Although previous authors have recorded detectable concentrations of tin in
+beverages such as tea, carbonates, fruit drinks, bottled water, herbal
+drinks and iced tea (MAFF UK 1998) these levels were all below 1&#x00A0;mg/kg
+and lower than the regulatory limit set by the WHO The Tin in Food
+Regulations (1992) of 200&#x00A0;mg/kg. In this study however, the levels of tin
+were found to violate 100%, 88.9% and 90% of bottled water samples, fruit
+juices and soft drinks and dairy products respectively, exceeding the WHO (<!--\xdollar\rm -->2&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;L<!--\xdollar-->)
+regulation.</p>
+<p>The present study has confirmed that contrary to common belief, beverages sold and
+consumed in Nigeria are not free of contamination of the toxic heavy metals tin and
+mercury. The values of tin and mercury detected were both found in severe violation
+of WHO, USEPA and EU safety standards.</p>
+<p>Possible routes that are believed to result in the contamination of beverages during
+the production process include the use of contaminated water, poor assaying of raw
+materials, poor hygiene, low quality packaging materials and inadequate storage
+conditions.</p>
+<p>Imported beverages were also found to contain high levels of the contaminants, which
+implies that heavy metals are yet to be regulated and consequently Nigeria
+has become a dumping ground for beverages untested for these toxic heavy
+metals.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>As the heavy metal content in beverages constitutes a significant source of exposure
+to the general population, increased consumption of beverages unregulated for such
+contaminants represents a worrying problem. Limited studies of the chronic effects of
+some of these heavy metals warrants further investigation to determine blood
+concentrations of highly susceptible population groups such as in children and
+pregnant women.</p>
+<p>This study also calls for mandatory testing of heavy metals in beverages and food as
+a way of monitoring the extent of violation of guideline values. Tighter regulation on
+the composition of beverages locally produced and imported into Nigeria would help
+to greatly reduce the extent of this problem.</p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<mixed-citation publication-type="other">  Agency for Toxic Substance and Disease Registry. (2003). Toxicological Profile for
+Mercury, U.S. Department of Health and Humans Services, Public Health Service,
+Centers for Disease Control, Atlanta, GA.</mixed-citation> </ref>
+<ref id="b2">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Blunden
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Wallace
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003 Dec</year>
+<x>). </x>
+<article-title>Tin in canned food: a review and understanding of occurrence and effect</article-title>
+<x>.
+</x>
+<source>Food Chem Toxicol</source>
+<x>, </x>
+<volume>41</volume>
+<x>(</x>
+<issue>12</issue>
+<x>), </x>
+<fpage>1651</fpage>
+<x>&#x2013;</x>
+<lpage>1662</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Boogaard
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>P.J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boisset
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Blunden
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Davies
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ong
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>T.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Taverne
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003&#x00A0;Dec</year>
+<x>). </x>
+<article-title>Comparative assessment of gastrointestinal irritant potency in man of
+tin(II) chloride and tin migrated from packaging</article-title>
+<x>. </x>
+<source>Food Chem Toxicol</source>
+<x>, </x>
+<volume>41</volume>
+<x>(</x>
+<issue>12</issue>
+<x>),
+</x>
+<fpage>1663</fpage>
+<x>&#x2013;</x>
+<lpage>1670</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Carmignani
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boscolo
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Preziosi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1989</year>
+<x>). </x>
+<article-title>Renal ultrastructural alterations and cardiovascular functional changes in rats
+exposed to mercuric chloride</article-title>
+<x>. </x>
+<source>Archives of Toxicology</source>
+<x>, </x>
+<volume>13</volume>
+<x>, </x>
+<fpage>353</fpage>
+<x>&#x2013;</x>
+<lpage>356</lpage>
+<x>. </x>
+<comment>Supplement.</comment></element-citation></ref>
+<ref id="b5">
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chung
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>Cheung</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kwong
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>Stephen Wai</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Yau
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>Ka Ping</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Wong
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>Joan</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>July&#x00A0;2008</year>
+<x>). </x>
+<article-title>Waiky Dietary exposure to antimony, lead and mercury of secondary
+school students in Hong Kong</article-title>
+<x>. </x>
+<source>Food Additives and Contaminants, Volume 25,
+Number 7</source>
+<x>. </x>
+<fpage>831</fpage>
+<x>&#x2013;</x>
+<lpage>840</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>de Groot
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Feron
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>V.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Til
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>H.P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1973</year>
+<x>). </x>
+<source>Food Cosmet Toxicol</source>
+<x>, </x>
+<volume>11</volume>
+<x>, </x>
+<fpage>19</fpage>
+<x>&#x2013;</x>
+<lpage>30</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b7">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Egan
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.K.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tao
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.S.H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Pennington
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.A.T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Bolger
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>P.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>US Food and Drug Administration&#x2019;s Total Diet Study: intake of nutritional
+and toxic elements, 1991&#x2013;96</article-title>
+<x>. </x>
+<source>Food Additives and Contaminants</source>
+<x>, </x>
+<volume>19</volume>
+<x>(</x>
+<issue>2</issue>
+<x>), </x>
+<fpage>103</fpage>
+<x>&#x2013;</x>
+<lpage>125</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b8">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Galal-Gorchev
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1991</year>
+<x>). </x>
+<article-title>Dietary intake of pesticide residues, cadmium, mercury, and lead</article-title>
+<x>. </x>
+<source>Food
+Additives and Contaminants</source>
+<x>, </x>
+<volume>8</volume>
+<x>, </x>
+<fpage>793</fpage>
+<x>&#x2013;</x>
+<lpage>806</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b9">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hansen
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tsirigotaki
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bak
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Pergantis
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>St&#x00FC;rup
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gammelgaard
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Hansen
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>H.R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010&#x00A0;April&#x00A0;9</year>
+<x>). </x>
+<article-title>Elevated antimony concentrations in commercial juices</article-title>
+<x>. </x>
+<source>J Environ
+Monit</source>
+<x>, </x>
+<volume>12</volume>
+<x>(</x>
+<issue>4</issue>
+<x>), </x>
+<fpage>822</fpage>
+<x>&#x2013;</x>
+<lpage>824</lpage>
+<x>. </x>
+<comment>Epub 2010 Feb 17.</comment></element-citation></ref>
+<ref id="b10">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Iyengar
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>G.V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tanner
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Wolf
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>W.R.</given-names></string-name>
+<x>&#x00A0;</x>
+<etal/></person-group>
+<x></x>
+<x>(</x>
+<year>1987</year>
+<x>). </x>
+<source>Sci Total Environ</source>
+<x>, </x>
+<volume>61</volume>
+<x>, </x>
+<fpage>235</fpage>
+<x>&#x2013;</x>
+<lpage>252</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b11">
+<mixed-citation publication-type="other">  JECFA, 1989 Evaluation of certain food additives and contaminants: thirty-third
+report of the Joint FAO/WHO Expert Committee on Food Additives. Geneva, World
+Health Organization (WHO Technical Report Series No.&#x00A0;776).</mixed-citation> </ref>
+<ref id="b12">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Krejpc&#x0131;o
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>Z.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>S&#x0131;onkowsk&#x0131;<!--~--><x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Bartela
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>Safety of fresh fruits and juices available on the Polish market as determined
+by heavy metal residues</article-title>
+<x>. </x>
+<source>Polish Journal of Environmental Studies</source>
+<x>, </x>
+<volume>14</volume>
+<x>, </x>
+<fpage>877</fpage>
+<x>&#x2013;</x>
+<lpage>881</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b13">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lamperti
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Printz
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>R.H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1973</year>
+<x>). </x>
+<article-title>Effects of mercuric chloride on the reproductive cycle of the female hamster</article-title>
+<x>.
+</x>
+<source>Biology of Reproduction</source>
+<x>, </x>
+<volume>8</volume>
+<x>, </x>
+<fpage>378</fpage>
+<x>&#x2013;</x>
+<lpage>387</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b14">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Maduabuchi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.-M.U.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Nzegwu
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Adigba
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>E.O.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Oragwu
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.I.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Agbo
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>F.N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Agbata
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ani
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>G.C.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Orisakwe
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>O.E.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Iron, Manganese and Nickel exposure from beverages in Nigeria: a public
+health concern?</article-title>
+<x>&#x00A0;</x>
+<source>J Health Sci</source>
+<x>, </x>
+<volume>34</volume>
+<x>, </x>
+<fpage>335</fpage>
+<x>&#x2013;</x>
+<lpage>338</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b15">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Orisakwe
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>O.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Igwilo
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>I.O.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Afonne
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>O.J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Maduabuchi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.U.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Obi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Nduka
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<source>Heavy Metal Hazards of Sachet Water in Nigeria Archives of Environmental &#x0026;
+Occupational Health</source>
+<x>, </x>
+<volume>61</volume>
+<x>(</x>
+<issue>XXXX</issue>
+<x>).</x></element-citation></ref>
+<ref id="b16">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Orisakwe
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>O.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Oragwu
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.I.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Maduabuchi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.M.U.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Nzegwu
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.N.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Nduka
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.K.C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>February&#x00A0;2009</year>
+<x>). </x>
+<article-title>Copper, selenium and zinc content of canned and non-canned
+beverages in Nigeria</article-title>
+<x>. </x>
+<source>African Journal of Environmental Science and Technology</source>
+<x>, </x>
+<volume>3</volume>
+<x>(</x>
+<issue>1</issue>
+<x>),
+</x>
+<fpage>042</fpage>
+<x>&#x2013;</x>
+<lpage>049</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b17">
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Parkhurst
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>D.F.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1998</year>
+<x>). </x>
+<article-title>Arithmetic versus geometric means for environmental Concentration data</article-title>
+<x>.
+</x>
+<source>Environ Sci Technol</source>
+<x>, </x>
+<volume>32</volume>
+<x>, </x>
+<fpage>92A</fpage>
+<x>&#x2013;</x>
+<lpage>98A</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b18">
+<mixed-citation publication-type="other">  The Tin in Food Regulations 1992 (S.I. [1992] No.&#x00A0;469). The Stationery Office.</mixed-citation> </ref>
+<ref id="b19">
+<mixed-citation publication-type="other">  US Environmental Protection Agency (2011). Drinking Water Standards and
+Health Advisories.</mixed-citation> </ref>
+<ref id="b20">
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Vannoort
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Cressey
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Silvers
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<source>1997/1998 New Zealand Total Diet Survey. Part 2: Elements</source>
+<x>. </x>
+<publisher-name>Ministry of
+Health, World Health Organization</publisher-name>
+<x>, </x>
+<publisher-loc>Geneva</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b21">
+<mixed-citation publication-type="other">  World Health Organization (WHO). Methylmercury.Environmental
+Health Criteria 101. Geneva: WHO;1990. Available from:
+<uri xlink:href="http://www.inchem.org/documents/ehc/ehc/ehc101.htm">http://www.inchem.org/documents/ehc/ehc/ehc101.htm</uri>.</mixed-citation>
+</ref>
+<ref id="b22">
+<mixed-citation publication-type="other">   World Health Organization. (2003).
+<uri xlink:href="http://www.who.int/watersanitationhealth/dwq/chemicals/antimony/en/">http://www.who.int/watersanitationhealth/dwq/chemicals/antimony/en/</uri>accessed
+on May 1, 2006.</mixed-citation> </ref>
+<ref id="b23">
+<mixed-citation publication-type="other">  WHO. Guidelines for Drinking-Water Quality. 2nd ed., Vol&#x00A0;1. Recommendations,
+2003. World Health Organization, Geneva.</mixed-citation> </ref>
+</ref-list>
+</back></article>

@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+</publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">4</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2011.4</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Language and cognition influence on evolution of cultures</article-title> 
+
+<trans-title-group  xml:lang="AR">
+<trans-title>
+تأثير اللّغة والإدراك على تطوّر الثقافات
+</trans-title>
+</trans-title-group>
+
+
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>          
+<given-names>Leonid</given-names>
+<x> </x>               
+<surname>Perlovsky</surname> </string-name> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref>                </contrib> 
+<aff>School of Engineering &#x0026;
+Applied Science, Harvard University, Boston, USA</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>leonid@seas.harvard.edu</corresp></author-notes> 
+<pub-date pub-type="pub"> 
+<day>18</day> 
+<month>11</month> 
+<year>2011</year> </pub-date> 
+<issue content-type="issue-sequence">2011</issue> 
+<elocation-id>4</elocation-id>
+<history> 
+<date date-type="received">
+<day>08</day>
+<month>5</month>
+<year>2011</year></date> 
+<date date-type="accepted">
+<day>20</day>
+<month>7</month>
+<year>2011</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2011 Perlovsky, licensee Bloomsbury Qatar Foundation Journals.
+This is an open access article distributed under the terms of the Creative
+Commons Attribution License CC BY 3.0 which permits unrestricted
+use, distribution and reproduction in any medium, provided the original
+work is properly cited.</copyright-statement> 
+<copyright-year>2011</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2011.4.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+<abstract>
+<title>Abstract</title>
+<p>Evolution of cultures is influenced by languages. To understand this influence the paper analyzes how language and cognition interact in thinking. Is language just used for communication of completed thoughts, or is it fundamental for thinking? We review a hypothesis that language and cognition are two separate but closely interacting mechanisms, and identify each of them. Language accumulates cultural wisdom; cognition develops mental representations modeling surrounding world and adapts cultural knowledge to concrete circumstances of life. Language is acquired from surrounding language &#x2018;ready-made&#x2019; and therefore can be acquired early in life. Cognition can not be acquired directly from experience; language is a necessary intermediary, a &#x201C;teacher.&#x201D; This model is consistent with recent neuroimaging data about cognition, remaining unnoticed by other theories. The proposed theory explains a number of properties of language and cognition, which previously seemed mysterious. It suggests mechanisms by which language grammars influence emotionality of languages and directs cultural evolution. This theory may explain specifics of English and Arabic cultures. We review theoretical and experimental evidence and discuss future directions</p></abstract>
+
+
+
+<trans-abstract xml:lang="AR"><title>الملخّص</title>
+<p>
+    يتأثر تطور الثقافات باللغات. ولفهم هذا التأثير، تحلّل هذه الدراسة كيفية تفاعل اللغة مع الإدراك أثناء التفكير. هل تستخدم اللغة لمجرد تبادل الأفكار المكتملة، أم أنها عنصر أساسي للتفكير؟ علينا إعادة النظر في الفرضية القائلة بأن اللغة والإدراك هما آليتين مستقلتين، لكنهما تتفاعلان بصورة وثيقة، كما نحدّد هوية كل منهما.
+</p>
+<p>
+    تعمل اللغة علي تراكم الحكمة الثقافية؛ ويطوّر الإدراك تمثيلات عقلية لنمذجة العالم المحيط، ويكيّف المعرفة الثقافية وفقا للظروف الملموسة للحياة. يتم اكتساب اللغة من المفردات "الجاهزة" المحيطة بالمرء، وبالتالي يمكن اكتسابها في مرحلة مبكرة من الحياة. ولا يمكن اكتساب المعرفة من التجربة بصورة مباشرة؛ فاللغة تمثل وسيطا ضروريا، أو "مُعلم". وهذا النموذج يتفق مع أحدث بيانات التصوير العصبي حول الإدراك، الأمر الذي لم تنتبه إليه وتلاحظه النظريات الأخرى.
+</p>
+<p>
+ تفسّر النظرية المقترحة عددا من خصائص اللغة والإدراك، والتي كانت تبدو غامضة في السابق. وهي تقترح آليات تؤثر من خلالها القواعد النحوية للّغة على الجوانب العاطفية والانفعالية للغات وتوجّه التطور الثقافي. ومن الممكن أن تفسر هذه النظرية خصوصيات الثقافتين الإنجليزية والعربية. ونستعرض في دراستنا الأدلة النظرية والتجريبية، كما نناقش التوجّهات المستقبلية.   
+</p>
+</trans-abstract>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>language</kwd>
+<x>, </x>
+<kwd>cognition</kwd>
+<x>, </x>
+<kwd>thinking</kwd>
+<x>, </x>
+<kwd>concepts</kwd>
+<x>, </x>
+<kwd>emotions</kwd>
+<x>, </x>
+<kwd>knowledge instinct</kwd>
+<x>, </x>
+<kwd>dynamic
+logic</kwd>
+<x>, </x>
+<kwd>mind</kwd>
+<x>, </x>
+<kwd>hierarchy</kwd>
+<x>, </x>
+<kwd>cultural evolution</kwd></kwd-group> 
+</article-meta>  
+</front> 
+<body>
+<sec>
+<title>The Dual model of Language and Cognition Interaction</title>
+<p>Languages affect cultures. Let us first look into how language is related to thinking.
+Do we use phrases to label situations that we already have understood, or the other
+way around, do we just talk with words without understanding any cognitive
+meanings? It is obvious that different people have different cognitive and
+linguistic abilities and may tend to different poles in the cognitive-language
+continuum, while most people are somewhere in the middle in using cognition
+to help with language, and vice versa. What are the neural mechanisms
+that enable this flexibility? How do we learn which words and objects come
+together? If there is no specific language module, as assumed by cognitive
+linguists, why do kids learn a language by 5 or 7, but do not think like adults?
+And why there are no animals thinking like humans but without human
+language?</p>
+<p>Little is known about neural mechanisms for integrating language and cognition.
+Here we review a computational model that potentially can answer the above
+questions&#x00A0;<xref ref-type="bibr" rid="b1 b2 b3 b4 b5 b6 b7 b8 b9 b10 b11">[1&#x2013;11]</xref>.</p>
+</sec>
+<sec>
+<title>Dual model</title>
+<p>Consider first how is it possible to learn which words correspond to which objects?
+Contemporary psycholinguists follow ancient Locke idea, &#x2018;associationsim&#x2019;:
+associations between words and object are just remembered. But this is
+mathematically impossible. The number of combinations among 100 words and 100
+objects is larger than all elementary particle interactions in the Universe.
+Combinations of 30,000 words and objects are practically infinite. No experience
+would be sufficient to learn associations. No mathematical theory of language offers
+any solution. NMF-DL solves this problem using the Dual model&#x00A0;<xref ref-type="bibr" rid="b1
+b2 b3">[1&#x2013;3]</xref>. Every mental representation consists of a pair of models, or two
+model aspects, cognitive and language. Mathematically, every concept-model <!--\xdollar\rm --><bold>M</bold>
+<sub>
+<italic>m</italic></sub><!--\xdollar--> has two parts,
+linguistic <!--\xdollar\rm --><bold>ML</bold>
+<sub>
+<italic>m</italic></sub><!--\xdollar--> and
+cognitive <!--\xdollar\rm --><bold>MC</bold>
+<sub>
+<italic>m</italic></sub><!--\xdollar-->:
+<disp-formula id="FD1">
+<label>(1)</label> 
+<mml:math altimg="e1.gif" display="block">
+<mml:msub>
+<mml:mrow >
+<mml:mi>M</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>m</mml:mi></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mrow>
+<mml:mo>&#x007B;</mml:mo>
+<mml:mi>M</mml:mi>
+<mml:msub>
+<mml:mrow >
+<mml:mi>L</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>m</mml:mi></mml:mrow></mml:msub >
+<mml:mo>,</mml:mo>
+<mml:mi>M</mml:mi>
+<mml:msub>
+<mml:mrow >
+<mml:mi>C</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>m</mml:mi></mml:mrow></mml:msub >
+<mml:mo>&#x007D;</mml:mo></mml:mrow>
+<mml:mo>.</mml:mo></mml:math></disp-formula></p>
+<p>This Dual-model equation suggests that the connection between language and
+cognitive models is inborn. In a newborn mind both types of models are vague
+placeholders for future cognitive and language contents. An image, say of a chair, and
+the sound &#x201C;chair&#x201D; do not exist in a newborn mind. But the neural connections
+between the two types of models are inborn; therefore the brain does not have to
+learn associations between words and objects: which concrete word goes with which
+concrete object. Models acquire specific contents in the process of growing up and
+learning, linguistic and cognitive contents are always staying properly connected.
+Zillions of combinations need not be considered. Initial implementations
+of these ideas lead to encouraging results&#x00A0;<xref ref-type="bibr" rid="b4 b5 b6 b7 b8
+b9">[4&#x2013;9]</xref>.</p>
+</sec>
+<sec>
+<title>Dual hierarchy</title>
+<p>Consider language hierarchy higher up from words,
+<xref rid="fig1">Fig.&#x00A0;1</xref>. Phrases are made up from words similar to situations made up from
+objects. Because of linear structure, language actually is simpler than situations;
+rules of syntax can be learned similar to learning objects and relations using
+markers, as described in the previous section. The reason computers do not
+talk human languages used to be the fundamental problem of combinatorial
+complexity&#x00A0;<xref ref-type="bibr" rid="b10">[10]</xref>.</p>
+<p>The next step beyond current mathematical linguistics is modeling interaction
+between language and cognition. It is fundamental because cognition cannot be
+learned without language. Consider a widely-held belief that cognition 
+<italic>can</italic> be learned
+from experience in the world. This belief is na&#x00EF;ve and mathematically untenable. The
+reason is that abstract concepts-representations consist of a set of relevant bottom-up
+signals, which should be learned among practically infinite number of possible
+random subsets (their number is much larger than the Universe). No amount
+of experience would be sufficient for learning useful subsets from random
+ones.
+<fig  id="fig1">  
+<label>Figure.&#x00A0;1</label> <!--,aboveskip=.8pc,abovecapskip=-.5pc,belowskip=-.5pc--><caption> 
+<title> Parallel hierarchies of language and cognition consist of lower level
+concepts (like situations consist of objects). A set of objects (or lower level concepts)
+relevant to a situation (or higher level concept) should be learned among practically
+infinite number of possible random subsets (as discussed, larger than the Universe).
+No amount of experience would be sufficient for learning useful subsets from random
+ones. The previous section overcame combinatorial complexity of 
+<italic>learning</italic>, given
+that the sufficient 
+<italic>information</italic> is present. However, theories of mathematical
+linguistics offer no explanation where this information would come from.</title> 
+</caption>       
+<graphic xlink:href="gr1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [bh!]{fig1}--></p>
+<p>NMF-DL with the Dual model and dual hierarchy suggests that information is
+coming from language. This is the reason why no animal without human-type
+language can achieve human-level cognition. This is the reason why humans
+learn language early in life, but learning cognition (making cognitive
+representations-models as crisp and conscious as language ones) takes a lifetime.
+Information for learning language is coming from the surrounding language at all
+levels of the hierarchy. Language model-representations exist in the surrounding
+language &#x2018;ready-made.&#x2019; Learning language is thus grounded in the surrounding
+language.</p>
+<p>For this reason language models-representations become less vague and more specific
+by 5&#x00A0;years of age, much faster than the corresponding cognitive models for the reason
+that language models are acquired ready-made from the surrounding language. This
+is especially true about the contents of abstract models, which cannot be directly
+perceived by the senses, such as &#x201C;law,&#x201D; &#x201C;abstractness,&#x201D; &#x201C;rationality,&#x201D; etc. While
+language models are acquired ready-made from the surrounding language, cognitive
+models remain vague and gradually acquire more concrete contents throughout life
+guided by experience and language. According to the dual-model, this is an
+important aspect of the mechanism of what is colloquially called &#x201C;acquiring
+experience.&#x201D;</p>
+<p>Human learning of cognitive models continues through the lifetime and is guided by
+language models. If we imagine a familiar object with closed eyes, this imagination is
+not as clear and conscious as perception with opened eyes. With opened eyes it is
+virtually impossible to remember imaginations. Language plays a role of eyes
+for abstract thoughts. On one hand, abstract thoughts are only possible
+due to language, on the other, language &#x201C;blinds&#x201D; our mind to vagueness
+of abstract thoughts. Whenever one can talk about an abstract topic, he
+(or she) might think that the thought is clear and conscious in his (or her)
+mind. But the above discussion suggests that we are conscious about the
+<italic>language</italic> models of the dual hierarchy. The cognitive models in most cases may
+remain vague and unconscious. During conversation and thinking, the mind
+smoothly glides among language and cognitive models, using those that are
+crisper and more conscious &#x2013; &#x2018;more available.&#x2019; Scientists, engineers, and
+creative people in general are trained to differentiate between their own
+thoughts and what they read in a book or paper, but usually people do
+not consciously notice if they use representations deeply thought through,
+acquired from personal experience, or what they have read or heard from
+teachers or peers. The higher up in the hierarchy the vaguer are the contents
+of abstract cognitive representations, while due to crispness of language
+models we may remain convinced that these are our own clear conscious
+thoughts.</p>
+<p>Animal vocalizations are inseparable from instinctual needs and emotional
+functioning. The Dual model has enabled separation of semantic and emotional
+contents, which made possible deliberate thinking. Yet operations of the Dual
+model, connecting sounds and meanings, require motivation. Motivation in
+language is carried by sounds&#x00A0;<xref ref-type="bibr" rid="b11">[11]</xref>. Future research will have to
+address remaining emotionality of human languages, mechanisms involved,
+emotional differences among languages, and effects of language emotionalities on
+cultures.</p>
+<p>Evolution of the language ability required rewiring of human brain. Animal
+brains cannot develop ability for deliberate discussions because conceptual
+representations, emotional evaluations, and behavior including vocalization are
+unified, undifferentiated states of the mind. Language required freeing vocalization
+from emotions, at least partially&#x00A0;<xref ref-type="bibr" rid="b11 b12">[11,12]</xref>. This process led to
+evolution of ability for music&#x00A0;<xref ref-type="bibr" rid="b12">[12]</xref>.</p>
+<p>Another mystery of human-cognition, which is not addressed by current
+mathematical linguistics, is basic human irrationality. This has been widely
+discussed and experimentally demonstrated following discoveries of Tversky and
+Kahneman&#x00A0;<xref ref-type="bibr" rid="b13">[13]</xref>, leading to the 2002 Nobel Prize. According
+to NMF-DL, the &#x201C;irrationality&#x201D; originates from the discussed dichotomy
+between cognition and language. Language is crisp and conscious in the human
+brain, while cognition might be vague. Yet, collective wisdom accumulated in
+language may not be properly adapted to one&#x2019;s personal circumstances, and
+therefore be irrational in a concrete situation. Possibly Adam was expelled
+from paradise because he refused original thinking using his own cognitive
+models, but ate from the tree of knowledge and acquired collective wisdom of
+language.</p>
+<p>The dual-model also suggests that the inborn neural connection between cognitive
+brain models and language brain models is sufficient to set humans on an
+evolutionary path separating us from the animal kingdom. Neural connections
+between these parts of cortex existed millions of years ago due to mirror neuron
+system, what Arbib called &#x201C;language prewired brain&#x201D;&#x00A0;<xref ref-type="bibr" rid="b14">[14]</xref>.</p>
+<p>The combination of NMF-DL and the dual hierarchy introduces new mechanisms of
+language and its interaction with cognition. These mechanisms suggest solutions to a
+number of psycholinguistic mysteries, which have not been addressed by existing
+theories. These include fundamental cognitive interaction between cognition and
+language, similarities and differences between these two mechanisms; word-object
+associations; why children learn language early in life, but cognition is acquired much
+later; why animals without human language cannot think like humans. These
+mechanisms also connected language cognition dichotomy to &#x2018;irrationality&#x2019; of the
+mind discovered by Tversky-Kahneman, and to the story of the Fall and Original
+sin&#x00A0;<xref ref-type="bibr" rid="b15">[15]</xref>.</p>
+<p>The mathematical mechanisms of NMF-DL-Dual model are relatively simple (see
+details in the given references). These mathematical mechanisms correspond to the
+known structure and experimental data about the brain-mind. In addition to
+conceptual mechanisms of cognition they also describe emotional mechanisms and
+their fundamental role in cognition and world understanding, including role of
+aesthetic emotions, beautiful, sublime, and musical emotions&#x00A0;<xref ref-type="bibr" rid="b16
+b17">[16,17]</xref>.</p>
+</sec>
+<sec>
+<title>Experimental data</title>
+<p>An experimental indication in support of the Dual model has appeared
+in&#x00A0;<xref ref-type="bibr" rid="b18">[18]</xref>. That publication has demonstrated that the categorical
+perception of color in prelinguistic infants is based in the right brain hemisphere.
+When language is learned and access to lexical color codes becomes more automatic,
+categorical perception of color moves to the left hemisphere (between two and five
+years) and adult&#x2019;s categorical perception of color is only based in the left
+hemisphere.</p>
+<p>This provides evidence for neural connections between perception and language, a
+foundation of the Dual model. It supports another aspect of the Dual model: the
+crisp and conscious language part of the model hides from our consciousness the
+vaguer cognitive part of the model. This is similar to what we observed in the
+close&#x2013;open eye experiment: with opened eyes we are not conscious about vague
+imaginations.</p>
+<p>Another experimental evidence for the Dual model is Mirror neuron system
+(MNS)&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>. In humans, primates, and some other social animals
+there are neurons that are excited when manipulating objects, and the same neurons
+are excited, when observing another animal making similar gestures. MNS involves
+areas of brain near Broca area, where today resides human language ability. M.
+Arbib suggested that language system was built on top of the MNS; he called
+it &#x201C;language prewired brain&#x201D;&#x00A0;<xref ref-type="bibr" rid="b20 b21">[20,21]</xref>. The Dual
+model proposed here models this hypothesis: before language evolves there
+are already connections between language and perception/cognition brain
+areas.</p>
+</sec>
+<sec>
+<title>Language Emotionality, Grammar and Cultural Evolution</title>
+<p>Every complex functioning neural mechanism requires motivation, correspondingly,
+functioning of the Dual model, requires motivations, or emotions, connecting
+language and cognitive sides of the Dual model, as illustrated in
+<xref rid="fig2">Fig.&#x00A0;2</xref>.
+<fig  id="fig2">  
+<label>Figure.&#x00A0;2</label> <!--,aboveskip=.8pc,abovecapskip=-.5pc,belowskip=-.5pc--><caption> 
+<title> Developing meanings by connecting language and cognition
+requires motivation, in other words, emotions. If language emotionality is
+too weak, language is disconnected from the world, meanings are lost, and
+cultures disintegrate. If language emotionality is too strong, connections
+could not evolve, cultures stagnate. Is it possible to keep the balance?.</title> 
+</caption>       
+<graphic xlink:href="gr2.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [bh!]{fig2}--></p>
+<p>Emotionality of languages resides in their sounds, like the sound of music moves us
+emotionally. Animal voicing is fused with emotions; animals lack volunteer control
+over voice muscles, and therefore cannot develop language. Evolution of language
+required rewiring the brain, so that automatic connection of voice and emotions
+severed. Language and voice started separating from ancient emotional centers
+possibly millions of years ago. Nevertheless, emotions are present in language. Most
+of these emotions originate in cortex and are controllable aesthetic emotions.
+Emotional centers in cortex are neurally connected to old emotional limbic centers, so
+both influences, new and old are present. Emotionality of languages is carried in
+language sounds, what linguists call prosody or melody of speech. This ability of
+human voice to affect us emotionally is most pronounced in songs (Perlovsky
+2010).</p>
+<p>Emotionality of everyday speech is low, unless affectivity is specifically intended. We
+may not notice emotionality of everyday &#x201C;non-affective&#x201D; speech. Nevertheless, &#x201C;the
+right level&#x201D; of emotionality is crucial for developing cognitive parts of models. If
+language parts of models were highly emotional, any discourse would immediately
+resort to fights and there would be no room for language development (as among
+primates). If language parts of models were non-emotional at all, there would be no
+motivational force to engage into conversations, to develop the Dual model. Dual
+model is fundamental for developing representations of situations and higher
+cognition (Perlovsky, 2004; 2006a,c; 2007b; 2009). The motivation for developing
+higher cognitive models would be reduced.</p>
+<p>Primordial fused language-cognition-emotional models, as discussed, have
+differentiated long ago. The involuntary connections between voice-emotion-cognition
+have dissolved with emergence of language. They have been replaced with
+habitual connections. Sounds of all languages have changed in history and
+sound-emotion-meaning connections in languages could have severed. However, if
+the sounds of a language change slowly the connections between sounds
+and meanings persist and consequently the emotion-meaning connections
+persist. This persistence is a foundation of meanings because meanings imply
+motivations. If the sounds of a language change too fast, the cognitive models are
+severed from motivations, and meanings disappear. If the sounds change too
+slowly the meanings are nailed emotionally to the old ways, and culture
+stagnates.</p>
+<p>These arguments suggest that an important step toward understanding cultural
+evolution is to identify mechanisms determining changes of the language sounds.
+These changes are controlled by grammar. In inflectional languages, affixes,
+endings, fusion, and other inflectional devices are fused with sounds of word
+roots. Pronunciation-sounds of affixes and other inflections are controlled
+by few rules, which persist over thousands of words. These few rules are
+manifest in every phrase. Therefore every child learns to pronounce them
+correctly. Positions of vocal tract and mouth muscles for pronunciation of
+inflections are fixed throughout population and are conserved throughout
+generations. Correspondingly, pronunciation of whole words cannot vary too much,
+and language sound changes slowly. Inflections therefore play a role of &#x201C;tail
+that wags the dog&#x201D; as they anchor language sounds and preserve meanings.
+This, I think is what Humboldt&#x00A0;<xref ref-type="bibr" rid="b22">[22]</xref> meant by &#x201C;firmness&#x201D; of
+inflectional languages. When inflections disappear, this anchor is no more and
+nothing prevents the sounds of language to become fluid and change with every
+generation.</p>
+<p>This has happened with English language after transition from Middle English to
+Modern English near the 15th c.&#x00A0;<xref ref-type="bibr" rid="b23">[23]</xref>, most of inflections have
+disappeared and sound of the language started changing within each generation, this
+process continues today. English evolved into a powerful tool of cognition
+unencumbered by excessive emotionality. English language spread democracy,
+science, and technology around the world. This has been made possible by conceptual
+differentiation empowered by language, not constrained by emotional mechanisms.
+But the loss of emotionality has also led to ambiguity of meanings and values.
+Current English language cultures face internal crises, uncertainty about
+meanings and purposes. Many people cannot cope with diversity of life.
+Future research in psycholinguistics, anthropology, history, historical and
+comparative linguistics, and cultural studies will examine interactions between
+languages and cultures. Initial experimental evidence suggests emotional
+differences among languages consistent with this hypothesis&#x00A0;<xref ref-type="bibr" rid="b24
+b25">[24,25]</xref>.</p>
+<p>Arabic language is highly inflected. Inflection mechanism called fusion affects the
+entire word sounds, the meaning of the word changes with changing sounds; also
+suffixes control verbs and moods. Therefore sounds are closely fused with meanings.
+This strong connection between sounds and meanings contributes to beauty and
+affectivity of Classical Arabic texts including Quran. On the other hand, creation of
+new meanings in Classical Arabic is difficult because of this strong connections,
+remaining unchanged for centuries, and also because of religious restrictions. Arabic
+language leads to a culture, where meanings and values are strong, but conceptual
+culture development is slow. There are significant differences between Classical
+Arabic and street Arabic languages, however, this topic requires separate
+study.</p>
+<p>Neural mechanisms of grammar, language sound, related emotions-motivations, and
+meanings hold a key to connecting neural mechanisms in the individual brains to
+evolution of cultures. Studying them experimentally is a challenge for future research.
+It is not even so much a challenge, because experimental methodologies are at hand;
+they just should be applied to these issues. The following sections develop
+mathematical models based on existing evidence that can guide this future
+research.</p>
+</sec>
+<sec>
+<title>Future Research</title>
+<p>The Dual model implies a relatively minimal neural change from the animal to the
+human mind. It could emerge through combined cultural and genetic evolution and
+this cultural evolution might continue today. DL resolves a long-standing mystery of
+how human language, thinking, and culture could have evolved in a seemingly single
+big step, too large for an evolutionary mutation, too fast and involving too many
+advances in language, thinking, and culture, happening almost momentarily around
+50,000 years ago&#x00A0;<xref ref-type="bibr" rid="b26 b27">[26,27]</xref>. DL along with the Dual model
+explains how changes, which seem to involve improbable steps according to logical
+intuition, actually occur through continuous dynamics. The proposed theory provides
+a mathematical basis for the concurrent emergence of hierarchical human language
+and cognition.</p>
+<p>Initial neuro-imaging evidence supports the DL mechanism proposed in this paper,
+still much remains unknown. DL was experimentally demonstrated for the visual
+perception; these experiments should be extended to language and interaction of
+language and cognition. Evolution of languages can be studied using the developed
+theory and societies of intelligent agents&#x00A0;<xref ref-type="bibr" rid="b28">[28]</xref>.</p>
+<p>Cognitive models of some of the mechanisms of evolving languages and cultures have
+been discussed in&#x00A0;<xref ref-type="bibr" rid="b1 b2 b3 b10 b11">[1&#x2013;3,10,11]</xref>. Future
+research should address evolutionary separation of cognition from direct
+emotional-motivational control and immediate behavioral connections. The suggested
+here relations between grammar and language sound should be further verified
+experimentally and theoretically. Relative roles of religions and languages in cultures
+should be understood. The cultural role of street Arabic languages should be studied.
+Emotionalities of different languages and their effects on cultural evolution shall be
+addressed.</p>
+</sec>
+<sec>
+<title>Acknowledgment</title>
+<p>I am thankful to M. Alexander, M. Bar, R. Brockett, M. Cabanac, R. Deming, F.
+Lin, J. Gleason, R. Kozma, D. Levine, A. Ovsich, and B. Weijers for valuable
+suggestions.</p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<label>[1]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2004</year>
+<x>). </x>
+<article-title>Integrating Language and Cognition</article-title>
+<x>. </x>
+<source>IEEE Connections, Feature Article</source>
+<x>,
+</x>
+<volume>2</volume>
+<x>(</x>
+<issue>2</issue>
+<x>), </x>
+<fpage>8</fpage>
+<x>&#x2013;</x>
+<lpage>12</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b2">
+<label>[2]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Cognitive high level information fusion</article-title>
+<x>. </x>
+<source>Information Sciences</source>
+<x>, </x>
+<volume>177</volume>
+<x>, </x>
+<fpage>2099</fpage>
+<x>&#x2013;</x>
+<lpage>2118</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<label>[3]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Symbols: Integrated Cognition and Language</article-title>
+<x>. </x>
+<source>Chapter in Semiotics and
+Intelligent Systems Development</source>
+<x>. </x>
+<x>Eds. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>Gudwin
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>R.</given-names>
+<x> &#x0026; </x></string-name> 
+<string-name>
+<surname>Queiroz
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>J.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>Idea Group</publisher-name>
+<x>,
+</x>
+<publisher-loc>Hershey, PA</publisher-loc>
+<x>. </x>
+<fpage>21</fpage>
+<x>&#x2013;</x>
+<lpage>151</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<label>[4]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fontanari
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tikhanoff
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Cangelosi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ilin
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Cross-situational learning of object&#x2013;word mapping using Neural Modeling
+Fields</article-title>
+<x>. </x>
+<source>Neural Networks</source>
+<x>, </x>
+<volume>22</volume>
+<x>(</x>
+<issue>5&#x2013;6</issue>
+<x>), </x>
+<fpage>579</fpage>
+<x>&#x2013;</x>
+<lpage>585</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b5">
+<label>[5]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Neural Networks, Fuzzy Models and Dynamic Logic</article-title>
+<x>. </x>
+<source>In Aspects of Automatic
+Text Analysis (Festschrift in Honor of Burghard Rieger)</source>
+<x>. </x>
+<x>Eds. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>K&#x00F6;hler
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>R.</given-names>
+<x> &#x0026; </x></string-name>
+<string-name>
+<surname>Mehler
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>A.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>Springer</publisher-name>
+<x>, </x>
+<publisher-loc>Germany</publisher-loc>
+<x>. </x>
+<fpage>363</fpage>
+<x>&#x2013;</x>
+<lpage>386</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<label>[6]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tikhanoff
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Fontanari
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Cangelosi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Language and cognition integration through modeling field theory: category
+formation for symbol grounding</article-title>
+<x>. </x>
+<source>In Book Series in Computer Science</source>
+<x>. </x>
+<volume>v. 4131</volume>
+<x>,
+</x>
+<publisher-name>Springer</publisher-name>
+<x>, </x>
+<publisher-loc>Heidelberg</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b7">
+<label>[7]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fontanari
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Evolving Compositionality in Evolutionary Language Games</article-title>
+<x>. </x>
+<source>IEEE Transactions
+on Evolutionary Computations</source>
+<x>, </x>
+<volume>11</volume>
+<x>(</x>
+<issue>6</issue>
+<x>), </x>
+<fpage>758</fpage>
+<x>&#x2013;</x>
+<lpage>769</lpage>
+<x>. </x>
+<pub-id pub-id-type="doi">10.1109/TEVC.2007.892763</pub-id>
+<x>. </x></element-citation></ref>
+<ref id="b8">
+<label>[8]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fontanari
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>How language can help discrimination in the Neural Modeling Fields
+framework</article-title>
+<x>. </x>
+<source>Neural Networks</source>
+<x>, </x>
+<volume>21</volume>
+<x>(</x>
+<issue>2&#x2013;3</issue>
+<x>), </x>
+<fpage>250</fpage>
+<x>&#x2013;</x>
+<lpage>256</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b9">
+<label>[9]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fontanari
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>A game theoretical approach to the evolution of structured communication
+codes</article-title>
+<x>. </x>
+<source>Theory in Biosciences</source>
+<x>, </x>
+<volume>127</volume>
+<x>, </x>
+<fpage>205</fpage>
+<x>&#x2013;</x>
+<lpage>214</lpage>
+<x>. </x>
+<pub-id pub-id-type="doi">10.1007/s12064-008-0024-1</pub-id>
+<x>. </x></element-citation></ref>
+<ref id="b10">
+<label>[10]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Ilin
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Neurally and Mathematically Motivated Architecture
+for Language and Thought</article-title>
+<x>. </x>
+<source>Special Issue Brain and Language
+Architectures: Where We are Now? The Open Neuroimaging Journal</source>
+<x>, </x>
+<volume>4</volume>
+<x>,
+</x>
+<fpage>70</fpage>
+<x>&#x2013;</x>
+<lpage>80</lpage>
+<x>. </x>
+<comment>
+<uri xlink:href="http://www.bentham.org/open/tonij/openaccess2.htm">http://www.bentham.org/open/tonij/openaccess2.htm</uri>.</comment></element-citation></ref>
+<ref id="b11">
+<label>[11]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Language and Emotions: Emotional Sapir-Whorf Hypothesis</article-title>
+<x>. </x>
+<source>Neural
+Networks</source>
+<x>, </x>
+<volume>22</volume>
+<x>(</x>
+<issue>5&#x2013;6</issue>
+<x>), </x>
+<fpage>518</fpage>
+<x>&#x2013;</x>
+<lpage>526</lpage>
+<x>. </x>
+<pub-id pub-id-type="doi">10.1016/j.neunet.2009.06.034</pub-id>
+<x>. </x></element-citation></ref>
+<ref id="b12">
+<label>[12]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>Musical emotions: Functions, origin, evolution</article-title>
+<x>. </x>
+<source>Physics of Life Reviews</source>
+<x>, </x>
+<volume>7</volume>
+<x>(</x>
+<issue>1</issue>
+<x>),
+</x>
+<fpage>2</fpage>
+<x>&#x2013;</x>
+<lpage>27</lpage>
+<x>. </x>
+<pub-id pub-id-type="doi">10.1016/j.plrev.2009.11.001</pub-id>
+<x>. </x></element-citation></ref>
+<ref id="b13">
+<label>[13]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tversky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Kahneman
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1974</year>
+<x>). </x>
+<article-title>Judgment under Uncertainty: Heuristics and Biases</article-title>
+<x>. </x>
+<source>Science</source>
+<x>, </x>
+<volume>185</volume>
+<x>, </x>
+<fpage>1124</fpage>
+<x>&#x2013;</x>
+<lpage>1131</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b14">
+<label>[14]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Arbib
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>M.A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>From monkey-like action recognition to human language: An evolutionary
+framework for neurolinguistics</article-title>
+<x>. </x>
+<source>Behavioral and Brain Sciences</source>
+<x>, </x>
+<volume>28</volume>
+<x>, </x>
+<fpage>105</fpage>
+<x>&#x2013;</x>
+<lpage>167</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b15">
+<label>[15]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Levine
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>D.S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Neuroscientific Insights on Biblical Myths: Simplifying Heuristics versus
+Careful Thinking: Scientific Analysis of Millennial Spiritual Issues</article-title>
+<x>. </x>
+<source>Zygon, Journal of
+Science and Religion</source>
+<x>, </x>
+<volume>43</volume>
+<x>(</x>
+<issue>4</issue>
+<x>), </x>
+<fpage>797</fpage>
+<x>&#x2013;</x>
+<lpage>821</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b16">
+<label>[16]</label>
+<mixed-citation publication-type="other">    Perlovsky,  L.I..  Music &#x2013; The First Priciple. Musical Theatre, 2006;
+<uri xlink:href="http://www.ceo.spb.ru/libretto/kon&#x005F;lan/ogl.shtml">http://www.ceo.spb.ru/libretto/kon&#x005F;lan/ogl.shtml</uri>.</mixed-citation>
+</ref>
+<ref id="b17">
+<label>[17]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Music and Consciousness, Leonardo</article-title>
+<x>. </x>
+<source>Journal of Arts, Sciences and
+Technology</source>
+<x>, </x>
+<volume>41</volume>
+<x>(</x>
+<issue>4</issue>
+<x>), </x>
+<fpage>420</fpage>
+<x>&#x2013;</x>
+<lpage>421</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b18">
+<label>[18]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Franklin
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Drivonikou
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>G.V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bevis
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Davie
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>I.R.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kay
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Regier
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Categorical perception of color is lateralized to the right hemisphere
+in infants, but to the left hemisphere in adults</article-title>
+<x>. </x>
+<source>PNAS</source>
+<x>, </x>
+<volume>105</volume>
+<x>(</x>
+<issue>9</issue>
+<x>), </x>
+<fpage>3221</fpage>
+<x>&#x2013;</x>
+<lpage>3225</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b19">
+<label>[19]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rizzolatti
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>The mirror neuron system and its function in humans</article-title>
+<x>. </x>
+<source>Anatomy and
+Embryology</source>
+<x>, </x>
+<volume>210</volume>
+<x>(</x>
+<issue>5&#x2013;6</issue>
+<x>), </x>
+<fpage>419</fpage>
+<x>&#x2013;</x>
+<lpage>421</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b20">
+<label>[20]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rizzolatti
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Arbib
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>M.A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1998</year>
+<x>). </x>
+<article-title>Language within our grasp</article-title>
+<x>. </x>
+<source>Trends in Neurosciences</source>
+<x>, </x>
+<volume>21</volume>
+<x>(</x>
+<issue>5</issue>
+<x>), </x>
+<fpage>188</fpage>
+<x>&#x2013;</x>
+<lpage>194</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b21">
+<label>[21]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Arbib
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>M.A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>From monkey-like action recognition to human language: An evolutionary
+framework for neurolinguistics</article-title>
+<x>. </x>
+<source>Behavioral and Brain Sciences</source>
+<x>, </x>
+<volume>28</volume>
+<x>, </x>
+<fpage>105</fpage>
+<x>&#x2013;</x>
+<lpage>124</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b22">
+<label>[22]</label>
+<mixed-citation publication-type="other">    von Humboldt,  W..  1836/1967. &#x00DC;ber die Verschiedenheit des menschlichen
+Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts.
+Berlin: F.&#x00A0;Dummler. Also in Lehmann, W.P. Ed. A Reader in Nineteenth Century
+Historical Indo-European Linguistics. Indiana University Press, Bloomington, IN.</mixed-citation> </ref>
+<ref id="b23">
+<label>[23]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lerer
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<source>Inventing English</source>
+<x>. </x>
+<publisher-name>Columbia University Press</publisher-name>
+<x>, </x>
+<publisher-loc>Chichester, NY</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b24">
+<label>[24]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Guttfreund
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>D.G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1990</year>
+<x>). </x>
+<article-title>Effects of language usage on the emotional experience of Spanish&#x2013;English and
+English&#x2013;Spanish bilinguals</article-title>
+<x>. </x>
+<source>Journal of Consulting and Clinical Psychology</source>
+<x>, </x>
+<volume>58</volume>
+<x>,
+</x>
+<fpage>604</fpage>
+<x>&#x2013;</x>
+<lpage>607</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b25">
+<label>[25]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Harris
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>C.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ay&#x00E7;i&#x00E7;egi
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gleason
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>J.B.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003</year>
+<x>). </x>
+<article-title>Taboo words and reprimands elicit greater autonomic reactivity in a first
+language than in a second language</article-title>
+<x>. </x>
+<source>Applied Psycholinguistics</source>
+<x>, </x>
+<volume>24</volume>
+<x>, </x>
+<fpage>561</fpage>
+<x>&#x2013;</x>
+<lpage>579</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b26">
+<label>[26]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Deacon
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>T.W.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1997</year>
+<x>). </x>
+<source>The symbolic species: the co-evolution of language and the brain</source>
+<x>. </x>
+<publisher-name>Norton</publisher-name>
+<x>,
+</x>
+<publisher-loc>New York</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b27">
+<label>[27]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mithen
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1998</year>
+<x>). </x>
+<article-title>A creative explosion? Theory of mind, language, and the disembodied mind
+of the Upper Paleolithic</article-title>
+<x>. </x>
+<source>In Mithen, Steven, ed. Creativity in Human Evolution and
+Prehistory</source>
+<x>. </x>
+<publisher-name>Routledge</publisher-name>
+<x>, </x>
+<publisher-loc>London and New York</publisher-loc>
+<x>. </x>
+<fpage>165</fpage>
+<x>&#x2013;</x>
+<lpage>191</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b28">
+<label>[28]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Perlovsky
+<x xml:space="preserve"/></surname>
+<x>, </x>
+<given-names>L.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>Evolving Agents: Communication and Cognition</article-title>
+<x>. </x>
+<source>Chapter in Autonomous
+Intelligent Systems: Agents and Data Mining</source>
+<x>. </x>
+<x>Eds. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>Gorodetsky
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>V.</given-names>
+<x>, </x></string-name> 
+<string-name>
+<surname>Liu
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>J.</given-names>
+<x> &#x0026; </x></string-name>
+<string-name>
+<surname>Skormin
+<x xml:space="preserve"/> </surname>
+<x>, </x>
+<given-names>V.A.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>Springer-Verlag</publisher-name>
+<x>, </x>
+<publisher-loc>GmbH</publisher-loc>
+<x>. </x>
+<fpage>37</fpage>
+<x>&#x2013;</x>
+<lpage>49</lpage>
+<x>. </x></element-citation></ref>
+</ref-list>
+</back></article>

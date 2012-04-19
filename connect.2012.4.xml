@@ -1,0 +1,2414 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+</publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">4</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2012.4</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Determining the age of Qatari Jabal Jassasiyah Petroglyphs</article-title> 
+
+
+<trans-title-group  xml:lang="AR">
+<trans-title>
+    تأريخ نقوش جبل الجساسية بقطر 
+</trans-title>
+</trans-title-group>
+
+
+
+
+</title-group> 
+
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>         
+<given-names>Raid</given-names>
+<x> </x>                
+<surname>Hassiba</surname> </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>               
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>               
+<given-names>Gerald Benjamin</given-names>
+<x> </x>
+<surname>Cieslinski</surname>    </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<x><sup>,</sup></x> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref>              
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>              
+<given-names>Brandon</given-names>
+<x> </x>               
+<surname>Chance</surname> </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>              
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>
+<given-names>Faisal</given-names>
+<x> </x>                 
+<surname>Abdulla Al-Naimi</surname> </string-name> 
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>                
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>                
+<given-names><!--\break--> Michael</given-names>
+<x> </x>
+<surname>Pilant</surname> </string-name> 
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>               
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>               
+<given-names>Marvin W.</given-names>
+<x> </x>                
+<surname>Rowe</surname> </string-name> 
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+<x><sup>,</sup></x>
+<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>               
+<x>
+</x></contrib> 
+<aff id="aff1"><sup>1</sup>Texas A&#x0026;M University at Qatar, Doha</aff> 
+<aff id="aff2"><sup>2</sup>Qatar Museum Authority, Antiquities
+Department, Doha, Qatar</aff> 
+<aff id="aff3"><sup>3</sup>Department of Mathematics, Texas A&#x0026;M University,
+College Station, TX 77832-3255, USA</aff> 
+<aff id="aff4"><sup>4</sup>Department of Chemistry, Texas A&#x0026;M
+University, College Station, TX 77843-3255, USA</aff> 
+<aff id="aff5"><sup>5</sup>Conservation Laboratory,
+Museum of New Mexico, Santa Fe, NM, USA</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>Email: benjamin.cieslinski@qatar.tamu.edu</corresp> 
+<fn id="FN1">
+<label>Academic Editor: </label>
+<p>Dr. Robert G.
+Bednarik, International Federation of Rock Art Organisations, Australia</p></fn></author-notes> 
+<pub-date pub-type="pub">
+<day>4</day> 
+<month>4</month> 
+<year>2012</year> </pub-date> 
+<issue content-type="issue-sequence">2012</issue>
+<elocation-id>4</elocation-id> 
+<history> 
+<date date-type="received">
+<day>26</day>
+<month>1</month>
+<year>2012</year></date> 
+<date date-type="accepted">
+<day>19</day>
+<month>3</month>
+<year>2012</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2012 Rowe et&#x00A0;al., licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement> 
+<copyright-year>2012</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.4.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>  
+<abstract>
+<title>Abstract</title>
+<p>The petroglyph site in Jabal Jassasiyah Qatar is located approximately 60&#x00A0;km northeast of the capital city of Doha and has over 900 different types of petroglyphs. The most commonly found petroglyphs are cupules, which are almost always arranged in geometric patterns. A number of petroglyphs of boats are also found, usually seen from above, with a few seen in profile. As there is little evidence of what age to assign to these petroglyphs, samples of the calcium oxalate containing layers covering the petroglyphs were sent for radiocarbon dating to determine the minimum age they were created. The minimum ages of nine samples taken for analysis were found to be very short, the oldest minimum age being only 235&#x00A0;years BP (before present). No evidence was found for the petroglyphs dating back a few millennia as was previously postulated. Due to the lack of chronological data for Qatar&#x2019;s archaeological past, the study data cannot completely rule out the petroglyphs dating back to ancient times.</p></abstract>
+ 
+<trans-abstract xml:lang="AR">
+<p>
+تتوزع النقوش الصخرية على جبل الجساسية بقطر الذي يبعد حوالي 60 كيلومترًا شمال شرق مدينة الدوحة. وتحتوي تلك المرتفعات على 900 نوع مختلف من النقوش الصخرية. توجد معظم النقوش على شكل قبيبات منسقة غالبًا في أنماط هندسية. كما يظهر عدد من المنحوتات على شكل قوارب عند مشاهدتها من الأعلى بينما لا يتضح بعضها من زاوية جانبية. 
+</p>
+<p>
+ونتيجةتغطي النقوش للتأريخ بالكربون المشع لمعرفة أدنى عمر لوجودها. وتبين من تحليل تسع عينات قِصر عمر النقوش،  لقلة توافر الأدلة التي تحدد عمر تلك المنحوتات، فقد أُخضعت عينات من طبقات أوكسالات الكالسيوم التي حيث يعود أقدم وقت لنحتها قبل 235 عامًا من الآن. ولم يثبت العثور على نقوش يرجع تاريخها إلى بضعة آلاف السنين كما كان يعتقد سابقًا. ونظرًا إلى نقص المعلومات التاريخية حول التراث القطري فإن بيانات الدراسة لا يمكن أن تستبعد تمامًا عودة تاريخ تلك النقوش إلى العصور القديمة.
+</p>
+</trans-abstract>
+</article-meta>  
+</front> 
+<body>
+<sec>
+<title>Introduction</title>
+<p><!--\begin {query}{Please check whether the affiliations assigned to authors are correct.}\end {query}--> Qatar, a Middle Eastern emirate, is a very small peninsular desert state, extending
+northward off Saudi Arabia into the Arabian Gulf, as seen in
+<xref rid="fig1">Fig.&#x00A0;1</xref>.
+<xref rid="fig2">Figure&#x00A0;2</xref> shows a map of an expanded view of Qatar. The Jabal Jassasiyah
+petroglyph site is shown approximately in the northeast corner of Qatar.
+<!--\begin {query}{Please check whether the author names given are ok.}\end {query}--></p>
+<p>The terminology used for petroglyphs is often inconsistent and confusing.<xref ref-type="fn" rid="FN2"><sup>2</sup></xref>
+<fn id="FN2">
+<label><sup>2</sup></label>
+<p>For good discussions on petroglyphs refer to 
+<xref ref-type="bibr" rid="b24 b2">[24,2]</xref>.</p></fn>
+Essentially, there are two different morphological types of petroglyphs, those defined
+by color contrast and those defined by relief depth. The first type of petroglyphs are
+created by rock removal from a dark, patinated surface exposing a lighter colored
+petroglyph. Most of the petroglyphs have been formed in this way. As for
+relief petroglyphs, the visual aspect is defined by the depth of the material
+or rock removed. The petroglyphs of Qatar are of this variety. Worldwide,
+petroglyphs are formed via surface removal using friction, percussion or
+rotation. The images produced as petroglyphs vary between abstract to
+depictions of animals and humans, they also vary immensely from site to
+site around the world. In Qatar, most of the petroglyphs are of cupules,
+some abstract designs, and a few that are more representational of boats
+viewed in profile and from above. Two of the most commonly asked questions
+about petroglyphs and rock art in general, are: (1) What do they mean? and
+(2) How old are they? For the most part, the meaning of petroglyphs still
+remains unclear. It is was the second question that this study sought to
+elucidate.  
+<fig  id="fig1">  
+<label>Figure&#x00A0;1.</label>  
+<caption> 
+<title>&#x00A0;A map of the Middle East. Qatar is a peninsula
+arising to the north from Saudi Arabia into the Persian Gulf. Courtesy of
+the University of Texas Libraries, The University of Texas at Austin. </title> 
+</caption>       
+<graphic xlink:href="gr1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [t]{fig1}--><fig  id="fig2">  
+<label>Figure&#x00A0;2.</label>  
+<caption> 
+<title>&#x00A0;A map of Qatar is shown. The approximate location of the Jabal Al
+Jassasiyah rock art site is indicated on the map by the red crescent in the
+northeastern corner of Qatar. </title> 
+</caption>       
+<graphic xlink:href="gr2.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig2}--></p>
+</sec>
+<sec>
+<title>Petroglyphs: cupules dominate</title>
+<p>Petroglyphs in Qatar were first discovered by Glob 
+<xref ref-type="bibr" rid="b9">[9]</xref>. Virtually all
+the introductory and general material reported here about the Qatar petroglyphs is
+based on Nayeem&#x2019;s 
+<xref ref-type="bibr" rid="b25">[25]</xref> and Rice&#x2019;s&#x00A0;<xref ref-type="bibr" rid="b26">[26]</xref> books. In
+fact, much has been written, but there is little known beyond a cataloging of the
+petroglyphs, and some suppositions about the function of the petroglyphs, which
+ironically were all ultimately rejected by both authors. The petroglyphs are found
+approximately 60&#x00A0;km north of the capital city of Doha, near the northeastern coast,
+nominally between the small villages of Safiyaa Fuwairit, Al Marrawnah and Al
+Huwailah. A total of more than 900 petroglyphs of different figures are formed
+on low-lying limestone outcrops (called jabals) among the sand dunes at
+the Jabal Jassasiyah site 
+<xref ref-type="bibr" rid="b25">[25]</xref>. The outcrops are subtle,
+never rising more than a few meters above sea level and the sand dunes in
+which they are found. The entire site is encompassed in an area of about <!--\xdollar\rm -->1&#x00D7;5&#x00A0;km<!--\xdollar-->.
+<xref rid="fig3">Fig.&#x00A0;3</xref>a (on the left) shows a view facing east towards a rock art
+outcrop at Jabal Jassasiyah in the middle of the picture, with the
+Arabian Gulf in the background near the horizon. It can be seen just
+how close many of the petroglyphs are to the Arabian Gulf, only about <!--\xdollar\rm -->0.5<!--\mbox{\unskip-->&#x2013;<!--}-->3&#x00A0;km<!--\xdollar--> from
+the seashore. Sand dunes alternating with more or less parallel limestone outcrops
+occur among flat caliche soil and stunted scrub brush.
+<xref rid="fig3">Fig.&#x00A0;3</xref>b (on the right) is the view to the west where jabals are seen in the
+background, as well as in the middle foreground.
+<fig  id="fig3">  
+<label>Figure&#x00A0;3.</label>  
+<caption> 
+<title>&#x00A0;(a and b) Petroglyphs are on the limestone outcrops of both
+photographs. The figure on the left is facing east. Low sand dunes, a jabal, trees next
+to a villa and the Gulf are on the horizon. The Figure on the right is facing west.
+Jabals, two women in the center of the photograph and low sand dunes are seen. </title> 
+</caption>       
+<graphic xlink:href="gr3.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [t]{fig3}--></p>
+<p>The very low rise of the jabals can be seen above surrounding caliche and sand. The
+Jabal Jassassiyah petroglyph site is the most extensive of several sites in
+Qatar. There are various kinds of petroglyphs, including different kinds of
+boat images, geometric patterns and anthropomorphs or animal images. No
+anthropomorphs however have been reported in Qatar 
+<xref ref-type="bibr" rid="b8">[8]</xref>; Rice 1994;
+<xref ref-type="bibr" rid="b25 b6">[25,6]</xref>. As pointed out by Querejazu 
+<xref ref-type="bibr" rid="b27">[27]</xref>,
+&#x201C;Cupules are one of the commonest forms of rock art throughout the world&#x201D;, and
+that is certainly true of the small country of Qatar. By far the most common types of
+petroglyphs in Qatar are cupules, usually in arrangements of double rows of seven to
+nine cupules and roseate shaped patterns usually made up of seven to nine cupules
+around a larger cupule. Gillespie&#x00A0;<xref ref-type="bibr" rid="b6">[6]</xref> suggests that the rosette forms
+could possibly have been game &#x2018;boards&#x2019; known as 
+<italic>Al Aila</italic> in Qatar. However, she also
+contends the board game theory in the case of the Jabal Jassasiyah petroglyphs,
+primarily due to the great numbers of them. There are simply far too many &#x2018;boards&#x2019;,
+many more than would expected to be needed. It is unclear why a particular site
+was selected for the creation of petroglyphs as various other smooth jabals
+did not appear to be carved upon. This phenomenon occurs around the
+world and it is not known for certain why this is the case. The photograph
+in
+<xref rid="fig4">Fig.&#x00A0;4</xref> shows cupules that are arranged in four typical roseate forms (rosettes),
+each rosette consisting of eight smaller cupules arranged in a circle around a larger
+central depression. Robert Bednarik, a world-renowned researcher in rock art
+commented (personal communication): &#x201C;The arrangements of cupules you [MWR]
+mention (&#x2018;rosettes&#x2019;, connected cupules) are very common in the southernmost parts
+of Saudi Arabia, where they occur in &#x2018;fairly oldish&#x2019; contexts. Yours, on the
+other hand, are clearly rather recent, being on limestone&#x201D;. One of the major
+differences in the cupules of Saudi Arabia is that they are usually produced in
+sandstone, while the cupules identified in Qatar are formed in limestone. Those
+produced in sandstone are thought to last a longer than those formed in the
+softer, more soluble limestone. Another more unusual petroglyph shown
+in
+<xref rid="fig4">Fig.&#x00A0;4</xref> includes a crossed square. Overall, cupules at the Jabal Jassasiyah site vary in size from <!--\xdollar\rm -->&#x223C;1<!--\mbox{\unskip-->&#x2013;<!--}-->25&#x00A0;cm<!--\xdollar--> in diameter
+and <!--\xdollar\rm -->           &#x223C;1<!--\mbox{\unskip-->&#x2013;<!--}-->15&#x00A0;cm<!--\xdollar-->&#x00A0;in
+depth.
+<fig  id="fig4">  
+<label>Figure&#x00A0;4.</label>  
+<caption> 
+<title>&#x00A0;Several grouping of cupules and other petroglyphs are depicted here.
+Roseates of cupules, eight circled smaller cupules around larger central ones are
+shown. A 10&#x00A0;cm scale is included for scale. It is anchored by a rock against the gusty
+winds. </title> 
+</caption>       
+<graphic xlink:href="gr4.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig4}--></p>
+<p>One striking depression was found no further than 100&#x00A0;m from the other petroglyphs
+that were studied. This circular feature was found to be 2&#x00A0;m in diameter and <!--\xdollar\rm -->6<!--\mbox{\unskip-->&#x2013;<!--}-->10&#x00A0;cm<!--\xdollar--> deep,
+with a similar patina on the edges of many of the other, smaller, cupules. Patina is
+defined as &#x201C;a visually obvious skin on rock surfaces which differs in colour or chemical
+composition from the unaltered rock whose development is a function of time&#x201D;
+<xref ref-type="bibr" rid="b2">[2,&#x00A0;208]</xref>. Bednarik&#x00A0;<xref ref-type="bibr" rid="b3">[3]</xref> describes cupules as, &#x201C;small,
+cup-shaped feature &#x2026;roughly hemispherical features &#x2026;&#x00A0;pounded into horizontal,
+inclined or vertical rock surfaces, probably constitute the most common
+motif in world rock art&#x201D;. According to Bednarik&#x2019;s definition, this very large
+diameter shallow depression found is something other than a cupule. At first, we
+had no idea what the feature could be. However, Bednarik wrote (personal
+communication, 2008): &#x201C;The large basins [sic; there is only one and it is pictured
+in
+<xref rid="fig5">Fig.&#x00A0;5</xref>] you illustrate are clearly kamenitza (kamenitsa, kamenica, Opferkessel,
+Verwitterungswanne, solution pan, pan hole, tinajita, Kamenitza, lakouva,
+ythrolakkos, bljudce, cuenco, tinajita, erime tavasi, skalne kotlice, scalba, skalnica), a
+typical karst [a region of carbonate rock characterized by underground drainage]
+phenomenon [such as caves, sinkholes, cenotes, kamenitzas, etc.] which archaeologists
+in the past claimed to be man-made and used for sacrifices. These various names are
+used for the same phenomena that occur in many parts of the world but no single
+name has been adopted for overall usage in rock art research. These phenomena also
+occur on non-carbonate rocks in various forms, including sandstone and
+granite and also have appeared on Uluru (a sandstone megalith in Australia)&#x201D;.
+These features are discussed further in Bednarik&#x2019;s comprehensive paper
+(2008).
+<fig  id="fig5">  
+<label>Figure&#x00A0;5.</label>  
+<caption> 
+<title>&#x00A0;This is a photograph of a likely kamenitza, i.e.&#x00A0;a karst phenomenon.The
+villa in the background is the same one seen in
+<xref rid="fig3">Fig.&#x00A0;3</xref>. Brandon Chance, Raid Hassiba and Faisal Al-Naimi are standing near the
+kamenitza to provide scale. </title> 
+</caption>       
+<graphic xlink:href="gr5.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig5}--></p>
+<p>The next series of photographs shows some of the variety in the cupules that appear
+at the Jabal Jassassiyah site. Cupules, only slightly larger than average (about
+5&#x2013;10&#x00A0;cm), but much smaller than the kamenitza (<xref rid="fig5">Fig.&#x00A0;5</xref>) are shown in
+<xref rid="fig6">Fig.&#x00A0;6</xref>. The black deposit on the inside walls of both cupules contains calcium
+oxalate. It is unclear what gives the coating its black color, but it is often seen in
+petroglyphs in other parts of the world. There are several hypotheses on the origin of
+calcium oxalate coatings, which range from those that consider them the result of
+human activity 
+<xref ref-type="bibr" rid="b28">[28]</xref>, to those suggesting they are produced
+naturally by the metabolic activity of lichens, bacteria, and microbes living in the
+outer layers of rock faces 
+<xref ref-type="bibr" rid="b1 b10 b11 b12">[1,10&#x2013;12]</xref>. We consider
+the metabolic activity of lichens a likely candidate for the origin of calcium oxalate
+crusts.
+<fig  id="fig6">  
+<label>Figure&#x00A0;6.</label>  
+<caption> 
+<title>&#x00A0;A photograph showing two medium sized cupules. The black coating
+on the inside of the cupules contains calcium oxalate, the carbonaceous material used
+for dating. An AA battery is included for scale. </title> 
+</caption>       
+<graphic xlink:href="gr6.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig6}--></p>
+<p><xref rid="fig7">Figure&#x00A0;7</xref> shows numerous rectangle petroglyphs, the largest surrounded by
+cupules. Rectangular forms similar to those shown are rare. A roseate form of cupules
+appears near the center of the photograph with a central larger cupule surrounded by
+nine smaller ones.
+<fig  id="fig7">  
+<label>Figure&#x00A0;7.</label>  
+<caption> 
+<title>&#x00A0;A photograph showing some of a few rectangular petroglyphs
+identified at the site which are associated with a circle of cupules surrounding one (on
+the left center) and others nearby a roseate form with a larger cupule surrounded by
+nine smaller ones. </title> 
+</caption>       
+<graphic xlink:href="gr7.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig7}--></p>
+<p><xref rid="fig8">Figure&#x00A0;8</xref> illustrates one of several images that feature a cupule with lines
+radiating outward in a down hill direction. A sample was extracted from one of the
+radiating lines containing calcium oxalate for the purposes of radiocarbon
+dating.
+<fig  id="fig8">  
+<label>Figure&#x00A0;8.</label>  
+<caption> 
+<title>&#x00A0;A photograph showing one of a few cupules that have lines radiating
+from them. These radiating lines generally follow a down hill direction in the
+petroglyphs. There is an IFRAO scale partially covered by a rock between the two
+right most lines. </title> 
+</caption>       
+<graphic xlink:href="gr8.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig8}--></p>
+<p>In an attempt to understand the purpose of the cupules that have been found in
+Qatar, three main propositions have been put forward by Rice (1994): (1) That they
+represent a &#x201C;proliferation of vulvas&#x201D;; (2) that they &#x201C;were boards for playing the game
+called in Arabia 
+<italic>huwais</italic>, but which is known throughout the world under different
+names and many forms&#x201D; (see
+<xref rid="fig9">Fig.&#x00A0;9</xref>) and (<xref rid="fig3">3</xref>) that they &#x201C;were associated in some way with the pearl trade&#x201D;, possibly used
+to sort pearls. Rice himself, however, rejects all three previous theories with
+convincing arguments. He also noted, as were seen by our own observations, that
+&#x201C;They [the petroglyphs] seem to be distributed at random over the surface of the
+little hills; they appear to follow no evident orientation, neither solar, lunar or
+stellar&#x201D;.
+<xref rid="fig9">Fig.&#x00A0;9</xref> shows a modern depiction of a game being played in Mozambique that
+involves &#x2018;cupules&#x2019; made in sand.
+<fig  id="fig9">  
+<label>Figure&#x00A0;9.</label>  
+<caption> 
+<title>&#x00A0;A photograph of a modern depiction of a game that has been played
+throughout the Arab world using &#x2018;cupules&#x2019; made in sand with small pebbles.
+This photograph was taken in Mozambique and used with permission from
+Chase Nye, United States Peace Corps, Inhamussua, Mozambique. </title> 
+</caption>       
+<graphic xlink:href="gr9.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [t]{fig9}--></p>
+<p>Rarer at the Jabal Jassasiyah petroglyph site and of considerable interest, are
+the petroglyphs of boats. Most are depicted as they would be seen from
+above; few are depicted in profile. Examples of both types of views are shown
+in
+<xref rid="fig10">Figs.&#x00A0;10</xref>&#x2013;
+<xref rid="fig12">12</xref>.
+<xref rid="fig10">Figure&#x00A0;10</xref> shows a detailed petroglyph of a boat as viewed from above,
+with 20 or so &#x2018;oars&#x2019; emitting from the sides of the boat. The petroglyph is
+accompanied by a paired set of cupules with eight on a side. Radiating from the
+end of the boat a tail is seen that ends in a cross. The tail is thought to
+represent a water trail. What is represented by the cross is not known. It is
+important to note however that the boat petroglyph is thought to be slightly
+altered from its original form, presumably due to casts being made of these
+images.
+<fig  id="fig10">  
+<label>Figure&#x00A0;10.</label>  
+<caption> 
+<title>&#x00A0;One of the boat petroglyphs taken from above. Note the long &#x2018;tail&#x2019;
+that trails from the rear of the boat and ends in a cross. It is assumed that the lines
+emitting from the sides of the boat represent oars. An AA battery is shown for scale. </title> 
+</caption>
+<graphic xlink:href="gr10.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>    
+</fig>
+<!--\setFloat [t]{fig10}--></p>
+<p><xref rid="fig11">Figure&#x00A0;11</xref> shows a photograph with five or more boat petroglyphs taken from
+slightly above. Two of these were quite large in size, others being much smaller and
+some smaller boat petroglyphs not appearing to have been completed. This series of
+boats was found on one of the field trips by Rachel, and Josia Schrodl who are shown
+in
+<xref rid="fig11">Fig.&#x00A0;11</xref> and illustrate the relatively large size of these petroglyphs.
+<fig  id="fig11">  
+<label>Figure&#x00A0;11.</label>  
+<caption> 
+<title>&#x00A0;A series of boat petroglyphs seen at the site. Note the
+presence of cupules inside the larger boats. Rachel and Josia Schrodl are
+shown and provide a rough scale of the size of these boat petroglyphs. </title> 
+</caption>       
+<graphic xlink:href="gr11.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [t]{fig11}--></p>
+<p>The final type of petroglyph that was observed at the site was the boat petroglyph
+shown in profile (<xref rid="fig12">Fig.&#x00A0;12</xref>). Very few of these petroglyphs were found and only three had been seen
+during many field trips to the site. Samples of the the boat petroglyphs shown
+in
+<xref rid="fig12">Fig.&#x00A0;12</xref> were not taken as they lacked the patina that might indicate the
+presence of calcium oxalate, which is necessary for radiocarbon dating.
+<fig  id="fig12">  
+<label>Figure&#x00A0;12.</label>  
+<caption> 
+<title>&#x00A0;This photograph shows one of the very few petroglyphs of boats
+that are shown in profile. A 10&#x00A0;cm scale is shown. </title> 
+</caption>       
+<graphic xlink:href="gr12.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig12}--></p>
+</sec>
+<sec>
+<title>Ages of the Jabal Jassasiyah Perroglyphs?</title>
+<p>The ages of the petroglyphs found in Qatar are thought to vary in the range from
+only a few hundred years old up to 3500&#x00A0;years old. Nayeem&#x00A0;<xref ref-type="bibr" rid="b25">[25]</xref>
+wrote, &#x201C;In Qatar there is no evidence of any kind to date these scores of cup-marks
+found at [sic] several places&#x201D;. This conclusion was also echoed by Rice (1994). Similar
+carved rows found elsewhere in the Middle East, however, are thought to be
+as old as the 15th century BC, but it is not known how the antiquity of
+these have been estimated. Cupules similar to those identified at the Jabal
+Jassasiyah site have been found in neighboring Bahrain. These are thought to
+date back to the third millennium BC (Rice 1994), again, it is not known
+how exactly the antiquity of these cupules were estimated and it is very
+difficult to assign an age for cupules based on other archaeological inference.
+The limestone outcrops on which the Qatari petroglyphs are made are soft
+and are likely to erode rapidly, especially due to the frequent sandstorms
+that occur in the region. Given the latter, petroglyphs dating back several
+millennia are unlikely to be found in limestone jabals in Qatar and neighboring
+countries.</p>
+</sec>
+<sec>
+<title>Determining minimum ages</title>
+<p>In desert areas around the world calcium oxalate usually admixed with newly formed
+calcium carbonate (calcite) forms the layers over any petroglyph formation.
+Numerous attempts have been made to determine the age of rock art by radiocarbon
+analysis of oxalates <!--\begin {query}{Edwards et al. 1998 has been changed to match the author name/date in the reference list. Please check here and in subsequent occurrences, and correct if necessary.}\end {query}--><xref ref-type="bibr" rid="b4 b5 b7 b30 b31 b32 b33 b34 b35 b36
+b37 b38 b39">[4,5,7,30&#x2013;39]</xref>. <!--\begin {query}{Rice (1994) cited in text, but not provided in the reference list. Please cite it in the text part.}\end {query}--></p>
+<p>A schematic representation depicting the process of oxalate formation is shown
+in
+<xref rid="fig13">Fig.&#x00A0;13</xref>. While the exact process for the production of oxalates is still unknown,
+there seems to be consensus that it forms from ambient carbon dioxide. One expert,
+Jon Russ (personal communication, 2009) wrote, &#x201C;I&#x2019;m starting to be convinced that
+the oxalates are produced almost entirely by microbes. While lichen could
+produce some, I&#x2019;m more inclined to think more microbial&#x201D;. Such a process
+would mean that the carbon that is incorporated in the calcium oxalate (<!--\xdollar\rm -->CaC
+<sub>2</sub>O
+<sub>4</sub><!--\xdollar-->) can
+be used to provide information on the age of associated rock art. Before petroglyph
+production, natural weathering of the surface of limestone results in the formation of
+an oxalate crust, often mixed with more abundant calcite (calcium carbonate)
+(<xref rid="fig13">Fig.&#x00A0;13</xref>a). The effect of carving into the surface results in the oxalate crust being
+removed (<xref rid="fig13">Fig.&#x00A0;13</xref>b). A renewed layer of oxalate crust is deposited onto the exposed
+surfaces from natural weathering. Thus at the time in which a sample is taken for
+radiocarbon dating, the newly formed crust over the carved surface would give an
+indication when approximately the new oxalate layer was deposited, presumably
+starting soon after the petroglyph was made (<xref rid="fig13">Fig.&#x00A0;13</xref>c). Sometimes rock paintings are applied on other oxalate containing
+layers allowing maximum age constraints, but that is not the case with petroglyphs.
+So for petroglyphs, we were limited to obtaining minimum ages.</p>
+<p>Jon Russ further added in personal communication that (2009), &#x201C;&#x2026;there will be a slow
+almost continuous (or sporadic) production of oxalates&#x201D;. In other words, the sporadic
+deposition of oxalates may occur continuously on an archaeological time scale of
+hundreds of years. These factors mean that the age determined of newly formed
+oxalates is only a 
+<italic>minimum</italic> age and not an indication of the time in which the
+carving was actually formed. The age of the new oxalate layer, however, helps to
+narrow down or constrain the time the period in which the petroglyphs were
+formed.
+<fig  id="fig13">  
+<label>Figure&#x00A0;13.</label>  
+<caption> 
+<title>&#x00A0;The schematic diagram is shown depicting the process of oxalate
+deposit on a petroglyph. The oxalate that forms over the newly exposed surfaces of
+removed rock material collects over time and provides a sample for radiocarbon
+dating. The radiocarbon date of the oxalate sample gives a minimum age of the
+petroglyph. </title> 
+</caption>       
+<graphic xlink:href="gr13.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig13}--></p>
+</sec>
+<sec>
+<title>Experimental procedure</title>
+</sec>
+<sec>
+<title>Detecting the presence of oxalates in the qatar petroglyphs</title>
+<p>Dating the production time, i.e.,&#x00A0;the age of petroglyphs is very challenging. There is
+no generally accepted method for determining the age of petroglyphs, especially those
+produced in limestone, as are the Qatar petroglyphs. With no accepted means for
+determining the age, we sought to constrain the ages using a technique of dating the
+oxalate layers coating the petroglyphs or paintings to obtain the minimum and
+sometimes the maximum ages of production. Researchers however have been
+successful in obtaining constraining dates from oxalates associated with rock art
+using these methods 
+<xref ref-type="bibr" rid="b4 b7 b30 b31 b32 b33 b34 b35 b36 b37
+b38 b39">[4,7,30&#x2013;39]</xref>.</p>
+<p>In order to detect the presence of oxalates of the Jabal Jassasiyah petroglyphs,
+nine samples were taken from the interior of some cupules, one from
+a radiating line, one from the kamenitza and one from two different boat
+surfaces. The samples were analyzed using the Perkin Elmer Spectrum One
+Fourier Transform Infrared (FTIR) Spectrometer, Serial Number 9700, with
+Universal Attenuated Total Reflectance Sampling Accessory. Spectra were
+taken using a 3 bounce diamond/zinc selenide crystal. The spectra were
+collected according to standard operating procedures of four scans in the range <!--\xdollar\rm -->4000<!--\mbox{\unskip-->&#x2013;<!--}-->650&#x00A0;cm<sup>&#x2212;1</sup><!--\xdollar--> with a resolution
+of <!--\xdollar\rm -->           4&#x00A0;cm<sup>&#x2212;1</sup><!--\xdollar-->.
+The detection of calcium oxalate in one sample is shown in
+<xref rid="fig14">Fig.&#x00A0;14</xref>; the spectrum shows distinct negative &#x2018;peaks&#x2019; that are attributable to
+the calcium oxalate on the limestone surface. The presence of oxalate confirmed by
+the spectrography made it possible for the petroglyphs to be sent for radiocarbon
+dating.
+<fig  id="fig14">  
+<label>Figure&#x00A0;14.</label>  
+<caption> 
+<title>&#x00A0;An FTIR-ATP analysis confirmed the presence
+of calcium oxalate due to the negative peaks seen. O: calcium
+oxalate; C: calcite (calcium carbonate); A: rock mineral, apatite (<!--\xdollar\rm -->Ca
+<sub>5</sub>(PO
+<sub>4</sub>)
+<sub>3</sub>(F,Cl,OH)<!--\xdollar-->). </title> 
+</caption>       
+<graphic xlink:href="gr14.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig>
+<!--\setFloat [t]{fig14}--></p>
+</sec>
+<sec>
+<title>Radiocarbon dating of petroglyphs</title>
+<p>To obtain minimum radiocarbon ages of the Jabal Jassasiyah petroglyphs, samples
+were taken by scraping a small amount of the surface oxalate layer from nine different
+petroglyphs. The analysis was limited to petroglyphs, however, the same
+reasoning and procedure can apply to the analysis of paintings that also have
+oxalate coatings 
+<xref ref-type="bibr" rid="b4 b7 b30 b31 b32 b33 b34 b35 b36
+b37 b38 b39">[4,7,30&#x2013;39]</xref>. Carbonates were present in the samples taken of
+amounts much greater than oxalates. It was therefore necessary to remove
+these carbonates by placing the samples in a 1 molar (M) phosphoric acid (<!--\xdollar\rm -->H
+<sub>3</sub>PO
+<sub>4</sub><!--\xdollar-->)
+solution in order to dissolve the calcium carbonate. The resulting solution containing
+the calcium oxalate as an undissolved solid was then filtered to extract the
+solid oxalates, along with other extraneous solids such as calcium oxide and
+quartz that do not interfere with the dating procedure. The solid filtrate
+remaining was washed well with a 1.0 M NaOH solution, after which was
+rinsed with 1 M phosphoric acid to desorb any adsorbed carbon dioxide
+remaining in the sample solution. The calcium oxalate solution containing the
+associated inorganic minerals were sent to the Center for Accelerator Mass
+Spectrometry of the Lawrence Livermore National Laboratory for radiocarbon
+analyses.</p>
+<p>As was previously mentioned, these measurements yield 
+<italic>minimum</italic> ages, not the time
+of production. The samples were taken from the petroglyph surfaces, so the oxalate
+could only have begun to form after a clean new surface was exposed. Because the
+oxalate may be deposited from the time of carving into modern times, the &#x2018;age&#x2019;
+obtained for the oxalate is a weighted &#x2018;average&#x2019; that is less than the true age of the
+carving.</p>
+<p>We calculated the radiocarbon date of what would be the minimum age of petroglyph
+production, assuming that the formation of the oxalate was constant and
+uniform and that the &#x2018;modern&#x2019; radiocarbon content was that of 1950, i.e.,&#x00A0;before
+atomic bomb tests starting in the mid-1950s). Our calculations are shown
+in
+<xref rid="fig15">Fig.&#x00A0;15</xref>.</p>
+</sec>
+<sec>
+<title>Results and discussion</title>
+<p>The results of the radiocarbon analyses (<xref rid="tbl1">Table&#x00A0;1</xref>) suggest the ages of the nine petroglyph samples tested are no more than
+a few hundred years old. Unfortunately, there is little archaeological inference with
+which to further estimate the ages of the Jabal Jassasiyah petroglyphs. However,
+Gillespie 
+<xref ref-type="bibr" rid="b6">[6]</xref> has noted &#x201C;that the boats depicted with metal anchors
+cannot be older than 700&#x00A0;years at the most&#x201D;, which is broadly consistent with the
+dates of the boat petroglyphs that were analyzed in this study. It is conceivable
+however that the ages of the petroglyphs tested could be much older than the results
+indicate. This may be due to the poor weather conditions which scour away
+newly formed calcium oxalate layers during sand storms. If this was recurrent
+throughout the past 1000&#x00A0;years, the remaining oxalates layers would only be
+those that have recently formed before the time of sampling. In this case, a
+younger chronology of the petroglyph would be indicated by the oxalate date,
+regardless of whether the petroglyph formation had occurred much earlier on in
+time.</p>
+<p>Another scenario which is thought to indicate a younger age for a much older
+petroglyph event, may in part, be due to the geochemical environment that for some
+reason or another, may not have been conducive to significant oxalate formation until
+very recently. As a result of the delayed oxalate formation, this process could
+misrepresent the actual age of a petroglyph event.</p>
+<p>To obtain more accurate production dates of Jabal Jassasiyah petroglyphs is
+currently very difficult, requiring the development of new techniques for doing so. All
+current new techniques of which the authors were aware of, are aimed at dating the
+graffiti (defined as color contrast petroglyphs), not the relief type of petroglyphs that
+are found in Qatar 
+<xref ref-type="bibr" rid="b13 b14 b15 b16 b17 b18 b19 b20 b21 b22
+b23 b29">[13&#x2013;23,29]</xref>.<!--\begin {query}{Please check the footnote given for Table 1 and correct if necessary.}\end {query}--><table-wrap  id="tbl1">  
+<label>Table&#x00A0;1.</label>  
+<caption> 
+<title>&#x00A0;Results of the radiocarbon analyses of the petroglyphs
+at the Jabal Jassasiyah rock art site in Qatar. The results show no
+evidence of petroglyphs dating more than a few hundred years old. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Sample                                  </td> 
+<td align="left">Radiocarbon date </td> 
+<td align="left">CAMS #
+<xref rid="TF1.a"><sup>a</sup></xref> </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">Cupule 1 (<xref rid="fig6">Fig.&#x00A0;6</xref>)                     </td> 
+<td align="left">Modern              </td> 
+<td align="left">141902    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Cupule 2 (not shown)                      </td> 
+<td align="left">170&#x00A0;&#x00B1;&#x00A0;35&#x00A0;years BP
+<xref rid="TF1.b"><sup>b</sup></xref>     </td> 
+<td align="left">141903    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Cupule 3 (not shown)                      </td> 
+<td align="left">115&#x00A0;&#x00B1;&#x00A0;35&#x00A0;years BP     </td> 
+<td align="left">141904    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Boat (<xref rid="fig10">Fig.&#x00A0;10</xref> &#x0026;  
+<xref rid="fig11">Fig.&#x00A0;11</xref>)     </td> 
+<td align="left">Modern              </td> 
+<td align="left">141905    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Cupule 4 (<xref rid="fig4">Fig.&#x00A0;4</xref>, upper roseate) </td> 
+<td align="left">235&#x00A0;&#x00B1;&#x00A0;35&#x00A0;years BP     </td> 
+<td align="left">141906    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Cupule 5 (not shown)                      </td> 
+<td align="left">Modern              </td> 
+<td align="left">141907    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Cupule 6 (<xref rid="fig8">Fig.&#x00A0;8</xref>, radiating line) </td> 
+<td align="left">Modern              </td> 
+<td align="left">150813    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Cupule 7 (<xref rid="fig5">Fig.&#x00A0;5</xref>, kamenitza)      </td> 
+<td align="left">Modern              </td> 
+<td align="left">150814    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Boat (<xref rid="fig10">Fig.&#x00A0;10</xref> &#x0026;  
+<xref rid="fig11">Fig.&#x00A0;11</xref>)     </td> 
+<td align="left">Modern              </td> 
+<td align="left">150817    </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF1.a">
+<label>a</label>
+<p>This is the identification number of the Center for Accelerator Mass Spectrometry
+at the Lawrence Livermore National Laboratory.</p></fn> 
+<fn id="TF1.b">
+<label>b</label>
+<p>BP Radiocarbon age estimates
+are typically expressed in years BP, i.e.,&#x00A0;years before present. By common
+agreement, the radiocarbon dating community defines A.D. 1950 as 0 BP.</p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setFloat [t]{fig15}--> <!--\setTable [t]{tbl1}--></p>
+</sec>
+<sec>
+<title>Estimating ages from oxalate dates</title>
+<p><list list-type="order">
+<list-item>
+<p>Assume a uniform deposition rate of oxalate layer over time.</p></list-item>
+<list-item>
+<p>Assume at time 
+<mml:math altimg="e1.gif" display="inline">
+<mml:mi>t</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>0</mml:mn></mml:math>
+    a cupule is carved out of the rock.</p></list-item>
+<list-item>
+<p>Assume that the current time 
+<mml:math altimg="e2.gif" display="inline">
+<mml:mi>t</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mi>T</mml:mi></mml:math>.</p></list-item>
+<list-item>
+<p>Assume that the rate of deposition of oxalate is 
+<mml:math altimg="e3.gif" display="inline">
+<mml:mi>h</mml:mi>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>t</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow></mml:math>,
+    and the current thickness is 
+<mml:math altimg="e4.gif" display="inline">
+<mml:mi>H</mml:mi></mml:math>.</p></list-item>
+<list-item>
+<p>Assume that the sample taken has a cross section area 
+<mml:math altimg="e5.gif" display="inline">
+<mml:mi>A</mml:mi></mml:math>.</p></list-item>
+<list-item>
+<p>Assume that the density of carbon atoms is given by 
+<mml:math altimg="e6.gif" display="inline">
+<mml:mi>&#x03C1;</mml:mi></mml:math>.</p></list-item>
+<list-item>
+<p>Assume that the decay rate of <!--\xdollar\rm --><sup>14</sup>C<!--\xdollar-->&#x00A0;is
+    
+<mml:math altimg="e7.gif" display="inline">
+<mml:mi>&#x03BB;</mml:mi></mml:math>.</p>
+</list-item>
+</list>
+Discrete approximation: Assume a thickness
+<mml:math altimg="e8.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi></mml:math>
+(<mml:math altimg="e9.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi></mml:math>
+refers to a change in a quantity) is laid down in the first year. The number of <!--\xdollar\rm --><sup>14</sup>C<!--\xdollar--> atoms is equal to
+the volume 
+<mml:math altimg="e10.gif" display="inline">
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi></mml:math>&#x00A0;times
+the density 
+<mml:math altimg="e11.gif" display="inline">
+<mml:mi>&#x03C1;</mml:mi></mml:math>. After
+a length of time 
+<mml:math altimg="e12.gif" display="inline">
+<mml:mi>T</mml:mi></mml:math>,
+with decay rate 
+<mml:math altimg="e13.gif" display="inline">
+<mml:mi>&#x03BB;</mml:mi></mml:math>,
+the number of atoms is:
+<disp-formula>
+<mml:math altimg="e14.gif" display="block">
+                           
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x03BB;</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup >
+<mml:mo>.</mml:mo>
+</mml:math></disp-formula></p>
+<p>The second layer, at 
+<mml:math altimg="e15.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>t</mml:mi></mml:math>
+later, contributes:
+<disp-formula>
+<mml:math altimg="e16.gif" display="block">
+                     
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x03BB;</mml:mi>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mspace width="1em" class="quad"/>
+<mml:mtext>and&#x00A0;so&#x00A0;on.</mml:mtext>
+</mml:math></disp-formula></p>
+<p>The total number of&#x00A0;<!--\xdollar\rm --><sup>14</sup>C<!--\xdollar-->&#x00A0;atoms
+is given by the summation of the series:
+<disp-formula>
+<mml:math altimg="e17.gif" display="block">
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x03BB;</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup >
+<mml:mo>+</mml:mo>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mstyle mathvariant="normal">
+<mml:mi>h</mml:mi></mml:mstyle>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x03BB;</mml:mi>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mo>+</mml:mo>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x03BB;</mml:mi>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mo>+</mml:mo>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>&#x03BB;</mml:mi>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mo>+</mml:mo>
+<mml:mo>&#x22EF;</mml:mo>
+<mml:mo>+</mml:mo>
+<mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>A</mml:mi>
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi>
+<mml:mo>)</mml:mo></mml:mrow>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:mo>.</mml:mo>
+</mml:math></disp-formula></p>
+<p>In the limit of infinitely small changes in thickness and time,
+<mml:math altimg="e18.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>h</mml:mi></mml:math> and
+<mml:math altimg="e19.gif" display="inline">
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>t</mml:mi></mml:math>, this becomes
+an integral: 
+<disp-formula> 
+<mml:math altimg="e20.gif" display="block">
+<mml:msubsup>
+<mml:mrow >
+<mml:mo>&#x222B;</mml:mo></mml:mrow>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:msubsup >
+<mml:mi>A</mml:mi>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi><!--\left--><mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn><!--\right--><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mi>d</mml:mi>
+<mml:mi>h</mml:mi> 
+<mml:mo>=</mml:mo>
+<mml:msubsup>
+<mml:mrow > 
+<mml:mo>&#x222B;</mml:mo></mml:mrow>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:msubsup >
+<mml:mi>A</mml:mi>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:msup>
+<mml:mrow >
+<mml:mi>e</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi><!--\left--><mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn><!--\right--><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>d</mml:mi>
+<mml:mi>h</mml:mi></mml:mrow> 
+<mml:mrow >
+<mml:mi>d</mml:mi>
+<mml:mi>t</mml:mi></mml:mrow></mml:mfrac> 
+<mml:mi>d</mml:mi>
+<mml:mi>t</mml:mi>
+<mml:mo>.</mml:mo></mml:math></disp-formula></p>
+<p>Assuming a constant rate of deposition, and a final thickness
+<mml:math altimg="e21.gif" display="inline">
+<mml:mi>H</mml:mi></mml:math>, then
+<mml:math altimg="e22.gif" display="inline">
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>d</mml:mi>
+<mml:mi>h</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>d</mml:mi>
+<mml:mi>t</mml:mi></mml:mrow></mml:mfrac> 
+<mml:mo>=</mml:mo> 
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>H</mml:mi></mml:mrow> 
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac> </mml:math> yields:
+<disp-formula>
+<mml:math altimg="e23.gif" display="block">
+<mml:mi>A</mml:mi>
+<mml:mi>&#x03C1;</mml:mi>
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>H</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac>
+<mml:msubsup>
+<mml:mrow > 
+<mml:mo>&#x222B;</mml:mo></mml:mrow>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:msubsup >
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi><!--\left--><mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn><!--\right--><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mi>d</mml:mi>
+<mml:mi>t</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>V</mml:mi> 
+<mml:mi>&#x03C1;</mml:mi></mml:mrow> 
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac>
+<mml:msubsup>
+<mml:mrow > 
+<mml:mo>&#x222B;</mml:mo></mml:mrow>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:msubsup >
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi><!--\left--><mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mi>T</mml:mi>
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn><!--\right--><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup >
+<mml:mi>d</mml:mi>
+<mml:mi>t</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>V</mml:mi> 
+<mml:mi>&#x03C1;</mml:mi></mml:mrow> 
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac>
+<mml:msup>
+<mml:mrow > 
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup >
+<mml:msubsup>
+<mml:mrow >
+<mml:mo>&#x222B;</mml:mo></mml:mrow>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:msubsup >
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mi>k</mml:mi>
+<mml:mi>t</mml:mi></mml:mrow></mml:msup >
+<mml:mi>d</mml:mi>
+<mml:mi>t</mml:mi><!--\nonumber\\--><mml:mo>=</mml:mo> 
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>V</mml:mi> 
+<mml:mi>&#x03C1;</mml:mi></mml:mrow> 
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac>
+<mml:msup>
+<mml:mrow > 
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup ><!--\left--><mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mfrac>
+<mml:mrow >
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mi>k</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup > 
+<mml:mo>&#x2212;</mml:mo> 
+<mml:mn>1</mml:mn></mml:mrow>
+    
+<mml:mrow >
+<mml:mi>k</mml:mi></mml:mrow></mml:mfrac>    <!--\right--><mml:mo>)</mml:mo></mml:mrow> 
+<mml:mo>=</mml:mo> 
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>V</mml:mi> 
+<mml:mi>&#x03C1;</mml:mi></mml:mrow> 
+<mml:mrow >
+<mml:mi>k</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac><!--\left--><mml:mrow>
+<mml:mo>(</mml:mo>
+<mml:mn>1</mml:mn> 
+<mml:mo>&#x2212;</mml:mo>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mi>k</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup ><!--\right--><mml:mo>)</mml:mo></mml:mrow>
+<mml:mo>.</mml:mo></mml:math>
+</disp-formula></p>
+<p>By way of comparison, a core sample of volume
+<mml:math altimg="e24.gif" display="inline">
+<mml:mi>V</mml:mi> </mml:math> and age
+<mml:math altimg="e25.gif" display="inline">
+<mml:mi>T</mml:mi></mml:math> would
+have: 
+<disp-formula> 
+<mml:math altimg="e26.gif" display="block">
+<mml:mfrac>
+<mml:mrow >
+<mml:mi>V</mml:mi> 
+<mml:mi>&#x03C1;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>T</mml:mi></mml:mrow></mml:mfrac>
+<mml:msup>
+<mml:mrow > 
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>k</mml:mi>
+<mml:mi>T</mml:mi></mml:mrow></mml:msup >
+<mml:mo>.</mml:mo></mml:math></disp-formula>
+<xref rid="fig15">Figure&#x00A0;15</xref> below illustrates the difference between the two functions,
+<mml:math altimg="e27.gif" display="inline">
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>x</mml:mi></mml:mrow></mml:msup ></mml:math> on top,
+and 
+<mml:math altimg="e28.gif" display="inline">
+<mml:mfrac>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mo>&#x2212;</mml:mo>
+<mml:msup>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>e</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2212;</mml:mo>
+<mml:mi>x</mml:mi></mml:mrow></mml:msup ></mml:mrow>
+   
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow></mml:mfrac>   </mml:math>
+on bottom.
+<fig  id="fig15">  
+<label>Figure&#x00A0;15.</label>  
+<caption> 
+<title>&#x00A0;Calculation of the age of the petroglyph by using two assumptions:
+(1) The left-most blue line assumes that all the oxalate was deposited essentially
+instantaneously just after petroglyph formation. (2) The right-most red line assumes
+a continuous formation of the oxalate over the entire lifetime of the petroglyph. </title> 
+</caption>       
+<graphic xlink:href="gr15.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+</fig></p>
+<p>The y-axis measures the ratio of the radioactivity of the sample to a current sample
+(with the same volume).</p>
+<p>Clearly, given two hypothetical samples with equal radioactivity&#x2014;one
+deposited continuously over the entire time lapse after formation of the
+petroglyph, and one deposited immediately after the formation of the
+petroglyph in a short period of time (tens of years), the continuously deposited
+sample will yield an age that appears to be older. The decay rate of <!--\xdollar\rm --><sup>14</sup>C<!--\xdollar--> atoms is <!--\xdollar\rm -->1.21&#x00D7;10<sup>&#x2212;4</sup>&#x002F;year<!--\xdollar-->, and
+has a half life of 5688&#x00A0;years. If the continuously deposited sample has half the
+radioactivity, it will appear over 13,000&#x00A0;years old, while the actual age of the
+petroglyph production would be under half that age.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>The study of nine different petroglyphs at the Jabal Jassasiyah site in Qatar found
+dateable calcium oxalate in the samples taken. On radiocarbon analysis the dates of
+the samples were found to range from modern day to only a few hundred years old.
+Thus, no chronological evidence was obtained to suggest an antiquity of a few
+millennia for the petroglyphs analyzed. Although it cannot be ruled out by the
+present study, it would be surprising if the ages of any of the Jabal Jassasiyah
+petroglyphs could be dated back to 3000&#x2013;3500&#x00A0;years ago as there is little other
+chronological data for Qatar&#x2019;s archaeological past. In order to obtain more accurate
+dates of petroglyphs will require the development of a new technique directed to
+relief petroglyphs made in limestone.</p>
+</sec>
+<sec>
+<title>Acknowledgements</title>
+<p>This work was funded by the Undergraduate Research Experience Program Fund of
+the Qatar Foundation grant # 5-3-3. We also thank Texas A&#x0026;M University - Qatar for
+their support of this project. We are especially grateful to Robert Bednarik, whose
+insightful comments not only improved this paper, but saved the authors from
+making some mistakes. The comments of Jon Russ and Saffiyah Al-Nuaimi
+were also very useful in improving this paper. Several other people helped
+us in various ways: Emair Al-Naimi; Ashfaq Bengali; Lala Howard; Lacie
+Martin; Kathleen Rowe; Layne Sarvela, and Hans, Daniela, Rachel, and Josia
+Schrodl. We obtained permission from Himyan J. Al-Kuwari, and Dr. Faisal
+Abdulla Al-Naimi, Qatar Museum and Antiquities Authority, to conduct this
+research.</p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<label>[1]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Beazley</surname>
+<x>, </x>
+<given-names>M.J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rickman</surname>
+<x>, </x>
+<given-names>R.D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ingram</surname>
+<x>, </x>
+<given-names>D.K.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boutton</surname>
+<x>, </x>
+<given-names>T.W.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>Natural Abundances of Carbon Isotopes (<!--\xdollar\rm --><sup>14</sup>C,<sup>13</sup>C<!--\xdollar-->) in
+Lichens and Calcium Oxalate Pruina: Implications for Archaeological and
+Paleoenvironmental Studies</article-title>
+<x>. </x>
+<source>Radiocarbon</source>
+<x>, </x>
+<volume>44</volume>
+<x>, </x>
+<fpage>675</fpage>
+<x>&#x2013;</x>
+<lpage>683</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b2">
+<label>[2]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bednarik</surname>
+<x>, </x>
+<given-names>R.G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<source>Rock Art Science: The Study of Palaeoart</source>
+<x>. </x>
+<publisher-name>Aryan Books International</publisher-name>
+<x>, </x>
+<publisher-loc>New
+Delhi, India</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<label>[3]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bednarik</surname>
+<x>, </x>
+<given-names>R.G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Cupules</article-title>
+<x>. </x>
+<source>Rock Art Research</source>
+<x>, </x>
+<volume>25</volume>
+<x>, </x>
+<fpage>61</fpage>
+<x>&#x2013;</x>
+<lpage>100</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<label>[4]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Campbell</surname>
+<x>, </x>
+<given-names>J.B.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Cole</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hatte</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tuniz</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Watchman</surname>
+<x>, </x>
+<given-names>A.L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1996</year>
+<x>). </x>
+<article-title>Dating of rock surface accretions with Aboriginal paintings and engravings in
+North Queensland. In Australian Archaeology &#x2019;95: Proceedings of the 1995</article-title>
+<x>.
+</x>
+<source>Australian Archaeological Association Annual Conference (Tempus 6)</source>
+<x>. </x>
+<x>Eds. </x>
+<person-group person-group-type="editor">
+<string-name>
+<surname>Ulm</surname>
+<x>, </x>
+<given-names>S.</given-names>
+<x>, </x></string-name> 
+<string-name>
+<surname>Lilley</surname>
+<x>, </x>
+<given-names>I.</given-names>
+<x> &#x0026; </x></string-name> 
+<string-name>
+<surname>Ross</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>University of Queensland</publisher-name>
+<x>, </x>
+<publisher-loc>St. Lucia</publisher-loc>
+<x>. </x>
+<fpage>231</fpage>
+<x>&#x2013;</x>
+<lpage>239</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b5">
+<label>[5]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Edwards</surname>
+<x>, </x>
+<given-names>H.G.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Drummond</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1998</year>
+<x>). </x>
+<article-title>Fourier-transform Raman spectrometric study of pigments in native
+American Indian rock art: Seminole Canyon</article-title>
+<x>. </x>
+<source>Spectrochimica Acta</source>
+<x>, </x>
+<volume>A54</volume>
+<x>, </x>
+<fpage>1849</fpage>
+<x>&#x2013;</x>
+<lpage>1856</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<label>[6]</label>
+<mixed-citation publication-type="other">    Gillespie,  F.   (2009) Qatar Rock Carvings, QatarVisitor,
+<uri xlink:href="http://www.qatarvisitor.com">http://www.qatarvisitor.com</uri>&#x00A0;7 pp.</mixed-citation> </ref>
+<ref id="b7">
+<label>[7]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gillespie</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1997</year>
+<x>). </x>
+<article-title>On human blood, rock art and calcium oxalate: further studies on organic
+carbon content and radiocarbon age of materials relating to Australian rock art</article-title>
+<x>.
+</x>
+<source>Antiquity</source>
+<x>, </x>
+<volume>71</volume>
+<x>, </x>
+<fpage>430</fpage>
+<x>&#x2013;</x>
+<lpage>437</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b8">
+<label>[8]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Glob</surname>
+<x>, </x>
+<given-names>P.V.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1956</year>
+<x>). </x>
+<article-title>Rekognoscering pa Qatar (Reconnaissance in Qatar)</article-title>
+<x>. </x>
+<source>Kuml</source>
+<x>, </x>
+<fpage>199</fpage>
+<x>&#x2013;</x>
+<lpage>202</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b9">
+<label>[9]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Glob</surname>
+<x>, </x>
+<given-names>P.V.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1957</year>
+<x>). </x>
+<article-title>Oltidsfund i Qatar (Prehistoric discoveries in Qatar)</article-title>
+<x>. </x>
+<source>Kuml</source>
+<x>, </x>
+<fpage>167</fpage>
+<x>&#x2013;</x>
+<lpage>78</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b10">
+<label>[10]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hernanz</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gavira</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ruiz</surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Edwards</surname>
+<x>, </x>
+<given-names>H.G.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>A comprehensive micro-Raman spectroscopic study of prehistoric rock
+paintings from the Sierra de las Cuerdas, Cuenca, Spain</article-title>
+<x>. </x>
+<source>Journal of Raman
+Spectroscopy</source>
+<x>, </x>
+<volume>39</volume>
+<x>, </x>
+<fpage>972</fpage>
+<x>&#x2013;</x>
+<lpage>984</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b11">
+<label>[11]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Hess</surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Coker</surname>
+<x>, </x>
+<given-names>D.J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Loutsch</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Production of Oxalates In Vitro by Microbes Isolated from Rock Surfaces
+with Prehistoric Paints in the Lower Pecos Region, Texas.</article-title>
+<x>. </x>
+<source>Geoarchaeology</source>
+<x>, </x>
+<volume>23</volume>
+<x>,
+</x>
+<fpage>3</fpage>
+<x>&#x2013;</x>
+<lpage>11</lpage>
+<x>. </x>
+<comment>Kapel, H. 1983. Rock carvings at Jabel Jusasiyah, Qatar, Arrayan 8:1&#x2013;126 &#x0026;
+appendix 1&#x2013;53</comment></element-citation></ref>
+<ref id="b12">
+<label>[12]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Krumbein</surname>
+<x>, </x>
+<given-names>W.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Brehm</surname>
+<x>, </x>
+<given-names>U.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gerdes</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gorbushina</surname>
+<x>, </x>
+<given-names>A.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Levit</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Palinska</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003</year>
+<x>). </x>
+<source>Biofilm, Biodictyon, and Biomat - Biolaminites, Oolites, Stromatolites -
+Geophysiology, Global mechanisms and Parahistol</source>
+<x>. </x>
+<x>Eds. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>Krumbein</surname>
+<x>, </x>
+<given-names>W.E.</given-names>
+<x>, </x></string-name>
+<string-name>
+<surname>Paterson</surname>
+<x>, </x>
+<given-names>D.W.</given-names>
+<x> &#x0026; </x></string-name> 
+<string-name>
+<surname>Zavarzin</surname>
+<x>, </x>
+<given-names>G.A.</given-names></string-name></person-group>
+<x>, </x>
+<series>In Fossil and recent Biofilms. A natural
+History of Life on Earth</series>
+<x>, </x>
+<publisher-name>Kluwer Academic Press Publishers</publisher-name>
+<x>, </x>
+<publisher-loc>Dordrecht</publisher-loc>
+<x>. </x>
+<fpage>1</fpage>
+<x>&#x2013;</x>
+<lpage>28</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b13">
+<label>[13]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003</year>
+<x>). </x>
+<article-title>Blind testing of rock varnish microstratigraphy as a chronometric
+indicator: results on late Quaternary lava flows in the Mojave Desert, California</article-title>
+<x>.
+</x>
+<source>Geomorphology</source>
+<x>, </x>
+<volume>53</volume>
+<x>, </x>
+<fpage>209</fpage>
+<x>&#x2013;</x>
+<lpage>234</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b14">
+<label>[14]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Rock varnish evidence for Holocene climate variations in the Great Basin of
+the western United States</article-title>
+<x>. </x>
+<source>Geological Society of America Abstracts</source>
+<x>, </x>
+<volume>31</volume>
+<x>, </x>
+<fpage>418</fpage>
+<x>.</x></element-citation></ref>
+<ref id="b15">
+<label>[15]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<article-title>How fast does rock varnish grow?</article-title>
+<x>. </x>
+<source>Geology</source>
+<x>, </x>
+<volume>28</volume>
+<x>, </x>
+<fpage>183</fpage>
+<x>&#x2013;</x>
+<lpage>186</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b16">
+<label>[16]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2001</year>
+<x>). </x>
+<article-title>Rock varnish: recorder of desert wetness?</article-title>
+<x>. </x>
+<source>GSA Today</source>
+<x>, </x>
+<volume>11</volume>
+<x>, </x>
+<fpage>4</fpage>
+<x>&#x2013;</x>
+<lpage>10</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b17">
+<label>[17]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Holocene rock varnish microstratigraphy and its chronometric application in
+the drylands of western USA</article-title>
+<x>. </x>
+<source>Geomorphology</source>
+<x>, </x>
+<volume>84</volume>
+<x>, </x>
+<fpage>1</fpage>
+<x>&#x2013;</x>
+<lpage>21</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b18">
+<label>[18]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Rock varnish microlamination dating of late Quaternary features in the
+drylands of western USA</article-title>
+<x>. </x>
+<source>Geomorphology</source>
+<x>, </x>
+<volume>93</volume>
+<x>, </x>
+<fpage>501</fpage>
+<x>&#x2013;</x>
+<lpage>523</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b19">
+<label>[19]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Rock varnish evidence for latest Pleistocene millennial-scale wet events in the
+drylands of western United States</article-title>
+<x>. </x>
+<source>Geology</source>
+<x>, </x>
+<volume>36</volume>
+<x>, </x>
+<fpage>403</fpage>
+<x>&#x2013;</x>
+<lpage>406</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b20">
+<label>[20]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Broecker</surname>
+<x>, </x>
+<given-names>W.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bell</surname>
+<x>, </x>
+<given-names>J.W.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mandeville</surname>
+<x>, </x>
+<given-names>C.W.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<article-title>Terminal Pleistocene wet event recorded in rock varnish from the Las Vegas
+Valley, southern Nevada</article-title>
+<x>. </x>
+<source>Paleogeography, Paleoclimatology, Paleoecology</source>
+<x>, </x>
+<volume>161</volume>
+<x>,
+</x>
+<fpage>423</fpage>
+<x>&#x2013;</x>
+<lpage>433</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b21">
+<label>[21]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Liu</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Dorn</surname>
+<x>, </x>
+<given-names>R.I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1996</year>
+<x>). </x>
+<article-title>Understanding the spatial variability of environmental change in drylands
+with rock varnish microlaminations</article-title>
+<x>. </x>
+<source>Annals of the Association of American
+Geographers</source>
+<x>, </x>
+<volume>86</volume>
+<x>, </x>
+<fpage>187</fpage>
+<x>&#x2013;</x>
+<lpage>212</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b22">
+<label>[22]</label>
+<mixed-citation publication-type="other">    Lytle,  F., &#x0026;   Lytle,  M.   (2010) Final report: dating Black Canyon
+petroglyphs by XRF chemical analysis. U.S. Fish and Wildlife Services, Contract
+Number GS-10F-0183P, 42 pp.</mixed-citation> </ref>
+<ref id="b23">
+<label>[23]</label>
+<mixed-citation publication-type="other">   Lytle,  F.,   Lytle,  M.,   Rogers,  A.K.,   Garfinkel,  A.P., &#x0026;   Cole,  C.
+(2008) An experimental technique for measuring age of petroglyph production: results
+on Coso petroglyphs. Paper presented at the 31 st Great Basin Anthropological
+Conference, Portland, OR.</mixed-citation> </ref>
+<ref id="b24">
+<label>[24]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Maynard</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1977</year>
+<x>). </x>
+<article-title>Classification and terminology in Australian rock art</article-title>
+<x>. </x>
+<source>Form in Indigineous
+Rock Art</source>
+<x>. </x>
+<x> Ed. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>Ucho</surname>
+<x>, </x>
+<given-names>P.J.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>Gerald Duckworth and Co., Ltd</publisher-name>
+<x>, </x>
+<publisher-loc>London</publisher-loc>
+<x>. </x>
+<fpage>387</fpage>
+<x>&#x2013;</x>
+<lpage>402</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b25">
+<label>[25]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Muhammed Abdul</surname>
+<x>, </x>
+<given-names>Nayeem</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1998</year>
+<x>). </x>
+<source>Qatar: Prehistory and Protohistory from the Most Ancient Times (Ca.
+1,000,000 to End of B.C. Era)</source>
+<x>. </x>
+<publisher-name>Hyberadad Publishers</publisher-name>
+<x>, </x>
+<publisher-loc>Hyberadad, India</publisher-loc>
+<x>. </x>
+<comment>Printed at
+Techno Printing Press, Riyadh</comment></element-citation></ref>
+<ref id="b26">
+<label>[26]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rice</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1994</year>
+<x>). </x>
+<source>The Archaeology of the Arabian Gulf</source>
+<x>. </x>
+<publisher-name>Routledge</publisher-name>
+<x>, </x>
+<publisher-loc>London</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b27">
+<label>[27]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Querejuza</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Dialogues 3: Cupules in rock art</article-title>
+<x>. </x>
+<source>La Pintura</source>
+<x>, </x>
+<volume>33</volume>
+<x>, </x>
+<fpage>4</fpage>
+<x>&#x2013;</x>
+<lpage>5</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b28">
+<label>[28]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rampazzi</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2004</year>
+<x>). </x>
+<article-title>Analytical investigation of calcium oxalate films on marble monuments</article-title>
+<x>.
+</x>
+<source>Talanta</source>
+<x>, </x>
+<volume>63</volume>
+<x>, </x>
+<fpage>967</fpage>
+<x>&#x2013;</x>
+<lpage>977</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b29">
+<label>[29]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rogers</surname>
+<x>, </x>
+<given-names>A.K.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>A chronology of six rock art motifs in the Cosa Range, eastern California</article-title>
+<x>.
+</x>
+<source>American Indian Rock Art</source>
+<x>, </x>
+<volume>36</volume>
+<x>, </x>
+<fpage>23</fpage>
+<x>&#x2013;</x>
+<lpage>36</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b30">
+<label>[30]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Rowe</surname>
+<x>, </x>
+<given-names>M.W.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Steelman</surname>
+<x>, </x>
+<given-names>K.L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003</year>
+<x>). </x>
+<article-title>Comment on some evidence of a date of first humans to arrive in Brazil</article-title>
+<x>.
+</x>
+<source>Journal of Archaeological Science</source>
+<x>, </x>
+<volume>30</volume>
+<x>, </x>
+<fpage>1349</fpage>
+<x>&#x2013;</x>
+<lpage>1351</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b31">
+<label>[31]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ruiz</surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Mas</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hernanz</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rowe</surname>
+<x>, </x>
+<given-names>M.W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Steelman</surname>
+<x>, </x>
+<given-names>K.L.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Gavira</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>First radiocarbon dating of oxalate crusts over Spanish Prehistoric Rock Art</article-title>
+<x>.
+</x>
+<source>International Newsletter on Rock Art</source>
+<x>, </x>
+<volume>46</volume>
+<x>, </x>
+<fpage>1</fpage>
+<x>&#x2013;</x>
+<lpage>5</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b32">
+<label>[32]</label>
+<mixed-citation publication-type="other">   Ruiz L&#x00F3;pez,  J.F.,   Rowe,  M.W.,   Hernanz Gismero,  A.,   Gavira Vallejo,  J.M.,   Vi&#x00E3;as Vallverd&#x00FA;,  R., &#x0026;   Rubio i Mora,  A.
+(2009) Cronolog&#x00ED;a del arte rupestre postpaleol&#x00ED;tico y dataci&#x00F3;n absoluta de p&#x00E1;tinas de
+oxalato c&#x00E1;lcico. Primeras experiencias en Castilla &#x2013; La Mancha (2004&#x2013;2007). In El
+Arte Rupestre del Arco Mediterrneo de la Pen&#x00ED;sula Ib&#x00E9;rica, pp. 280&#x2013;294.</mixed-citation> </ref>
+<ref id="b33">
+<label>[33]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Palma</surname>
+<x>, </x>
+<given-names>R.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Loyd</surname>
+<x>, </x>
+<given-names>D.H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Farwell</surname>
+<x>, </x>
+<given-names>D.W.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Edwards</surname>
+<x>, </x>
+<given-names>H.G.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1995</year>
+<x>). </x>
+<article-title>Analysis of the rock accretions in the Lower Pecos region of southwest Texas</article-title>
+<x>.
+</x>
+<source>Geoarchaeology</source>
+<x>, </x>
+<volume>10</volume>
+<x>, </x>
+<fpage>43</fpage>
+<x>&#x2013;</x>
+<lpage>63</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b34">
+<label>[34]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kaluarchi</surname>
+<x>, </x>
+<given-names>W.D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Drummond</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Edwards</surname>
+<x>, </x>
+<given-names>H.M.G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>The nature of a whewellite-rich rock crust associated with pictographs in SW
+Texas</article-title>
+<x>. </x>
+<source>Studies in Conservation</source>
+<x>, </x>
+<volume>44</volume>
+<x>, </x>
+<fpage>91</fpage>
+<x>&#x2013;</x>
+<lpage>103</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b35">
+<label>[35]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Loyd</surname>
+<x>, </x>
+<given-names>D.H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Boutton</surname>
+<x>, </x>
+<given-names>T.W.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<article-title>A paleoclimate reconstruction for southwestern Texas using oxalate residue
+from lichen as a paleoclimate indicator</article-title>
+<x>. </x>
+<source>Quaternary International</source>
+<x>, </x>
+<volume>67</volume>
+<x>, </x>
+<fpage>29</fpage>
+<x>&#x2013;</x>
+<lpage>36</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b36">
+<label>[36]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Steelman</surname>
+<x>, </x>
+<given-names>K.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rickman</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rowe</surname>
+<x>, </x>
+<given-names>M.W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boutton</surname>
+<x>, </x>
+<given-names>T.W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Russ</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Guidon</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>Accelerator mass spectrometry radiocarbon ages of an oxalate accretion and
+rock paintings at Toca do Serrote da Bastiana, Brazil</article-title>
+<x>. </x>
+<source>Archaeological Chemistry VI:
+Materials, Methods, and Meaning</source>
+<x>. </x>
+<x> Ed. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>Jakes</surname>
+<x>, </x>
+<given-names>K. A.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>American Chemical Society</publisher-name>
+<x>,
+</x>
+<publisher-loc>Washington, DC</publisher-loc>
+<x>. </x>
+<comment>pp. 22&#x2013;35</comment></element-citation></ref>
+<ref id="b37">
+<label>[37]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Watchman</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1990</year>
+<x>). </x>
+<article-title>A summary of occurrences of oxalate-rich crusts in Australia</article-title>
+<x>. </x>
+<source>Rock Art
+Research</source>
+<x>, </x>
+<volume>7</volume>
+<x>, </x>
+<fpage>44</fpage>
+<x>&#x2013;</x>
+<lpage>50</lpage>
+<x>. </x>
+<comment>Watchman, A. (1991). Age and composition of oxalate-rich
+crusts in the Northern Territory, Australia,Studies in Conservation 36: 24&#x2013;32</comment></element-citation></ref>
+<ref id="b38">
+<label>[38]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Watchman</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1993</year>
+<x>). </x>
+<article-title>Evidence of a 25,000-year-old pictograph in northern Australia</article-title>
+<x>. </x>
+<source>Geoarchaeology</source>
+<x>,
+</x>
+<volume>8</volume>
+<x>, </x>
+<fpage>465</fpage>
+<x>&#x2013;</x>
+<lpage>473</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b39">
+<label>[39]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Watchman</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ta&#x00E7;on</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Fullagar</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Head</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<article-title>Minimum ages for pecked rock markings from Jinmium, north western
+Australia</article-title>
+<x>. </x>
+<source>Archaeology of Oceania</source>
+<x>, </x>
+<volume>35</volume>
+<x>, </x>
+<fpage>1</fpage>
+<x>&#x2013;</x>
+<lpage>10</lpage>
+<x>. </x></element-citation></ref>
+</ref-list>
+</back></article>

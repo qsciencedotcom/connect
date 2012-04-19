@@ -1,0 +1,2020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="pmc">connect</journal-id>
+			<journal-id journal-id-type="publisher-id">connect</journal-id>
+			<journal-title-group>
+				<journal-title>QScience Connect</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2223-506X</issn>
+			<publisher>
+				<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">2</article-id>
+			<article-id pub-id-type="doi">10.5339/connect.2012.2</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Synthesis and stereochemistry of 6-membered ring phosphonates</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<string-name>
+						<given-names>Michael D.</given-names>
+						<x> </x>
+						<surname>Pungente</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+					<x>
+						<sup>,</sup>
+					</x>
+					<xref ref-type="corresp" rid="c1">
+						<sup>*</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<string-name>
+						<given-names>Larry</given-names>
+						<x> </x>
+						<surname>Weiler</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+					<xref ref-type="fn" rid="FN2">
+						<sup>**</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1">
+					<sup>1</sup>Current Address: Premedical Unit, Weill Cornell Medical
+College in Qatar, <!--\unskip \break -->P.O. Box 24144, Doha, Qatar</aff>
+				<aff id="aff2">
+					<sup>2</sup>Department of Chemistry,
+University of British Columbia, Vancouver, British Columbia, Canada, V6T
+1Z1</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<sup>*</sup>Email: mdp2001@qatar-med.cornell.edu, Tel.: +974 4492 8216, fax: +974 4492 8222</corresp>
+				<fn id="FN1">
+					<label>Academic Editors: </label>
+					<p>Gabor Tigyi, University of Tennessee Health Science
+Centre, Memphis, TN 28163, USA, Herbert H&#x00F6;pfl, Universidad Aut&#x00F3;noma del
+Estado de Morelos, Morelos 62209, Mexico</p>
+				</fn>
+				<fn id="FN2">
+					<label>
+						<sup>**</sup>
+					</label>
+					<p>Deceased, April 28, 1999.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="pub">
+				<day>5</day>
+				<month>3</month>
+				<year>2012</year>
+			</pub-date>
+			<issue content-type="issue-sequence">2012</issue>
+			<elocation-id>2</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>23</day>
+					<month>12</month>
+					<year>2011</year>
+				</date>
+				<date date-type="accepted">
+					<day>27</day>
+					<month>2</month>
+					<year>2012</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>&#x00A9;&#x00A0;2012 Pungente and Weiler, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement>
+				<copyright-year>2012</copyright-year>
+				<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="connect.2012.2.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+			<abstract abstract-type="graphical">
+				<title>Abstract</title>
+				<p>
+					<graphic xlink:href="fx1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+				</p>
+					<p>
+					<italic>Background</italic>: Organophosphorus compounds have important industrial and biomedical applications as pharmaceutical and agrochemical agents, as well as transition state analogs for the production of monoclonal antibodies.</p>
+				<p>
+					<italic>Methods</italic>: Two diastereomers of a 6-membered ring, cyclic phenyl phosphonate were synthesized in 8 steps from 1,3-butanediol.</p>
+				<p>
+					<italic>Results</italic>: The stereochemistry of the diastereomers was elucidated on the basis of 
+<mml:math altimg="e1.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P NMR signals, together with 
+<mml:math altimg="e2.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR nuclear Overhauser effects (NOE) difference experiments.</p>
+				<p>
+					<italic>Conclusions</italic>: Such cyclic phosphonates may have utility serving as transition state analogs for the production of monoclonal antibodies.</p>
+			</abstract>
+			<trans-abstract xml:lang="AR"><title>التركيب البنائي والفراغي لمركبات الفوسفونات سداسية الحلقات</title>
+<p>
+نبذة: لمركبات الفسفور العضوي استخدامات هامة في مجالي الصناعة والطب الحيوي، باعتبارها مستحضرات دوائية ومواد كيميائية زراعية. كما يمكن استخدامها كمضاهئات للحالة الانتقالية أثناء إنتاج الأجسام المضادة وحيدة النسيلة.
+</p>
+<p>
+   الوسائل: تشكيل مقابلين غير ضوئيين لمركب فوسفونات الفينيل الحلقي سداسي الأوجه من مركب 1,3-بوتانديول في ثمان خطوات. 
+</p>
+<p>
+النتائج: استنباط التشكيل الفراغي للمقابلات غير الضوئية اعتمادًا على دلالات الفروق الناتجة عن تجارب تأثير أوفرهاوزر النووي (NOE) على إشارات الرنين المغناطيسي النووي لذرات  الفوسفور 31P والرنين المغناطيسي النووي لذرات الهيدروجين 1H.
+</p>
+<p>الاستنتاجات: يمكن الاستفادة من مثل تلك الفوسفونات الحلقية كمضاهئات للحالة الانتقالية عند إنتاج الأجسام المضادة وحيدة النسيلة.</p>
+</trans-abstract>
+			<kwd-group kwd-group-type="author">
+				<title>Keywords</title>
+				<kwd>Cyclic phosphonates</kwd>
+				<x>, </x>
+				<kwd>6-membered</kwd>
+				<x>, </x>
+				<kwd>stereochemistry</kwd>
+				<x>, </x>
+				<kwd>NOE</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<title>Introduction</title>
+			<p>Organophosphorus compounds have received widespread interest as pharmaceutical
+<xref ref-type="bibr" rid="b1 b2 b3 b4 b5 b6 b7">[1&#x2013;7]</xref> and agrochemical 
+<xref ref-type="bibr" rid="b8">[8]</xref>
+agents as a result of the inherent physiological stability associated with the
+carbon&#x2013;phosphorus bond capable of avoiding enzymatic degradation by phosphatases.
+Notably cyclic phosphonate analogues of hexopyranoses 
+<xref ref-type="bibr" rid="b9 b10 b11
+b12 b13 b14">[9&#x2013;14]</xref> are potential inhibitors of glycosidases
+<xref ref-type="bibr" rid="b15">[15]</xref>.
+Furthermore, cyclic phosphonate esters have found use as haptens for the production
+of catalytic antibodies
+<xref ref-type="bibr" rid="b16 b17 b18">[16&#x2013;18]</xref>. Previously we reported
+<xref ref-type="bibr" rid="b16">[16]</xref> the production of a monoclonal antibody raised against a
+macrocyclic phosphonate transition state analogue that catalyzed an intramolecular
+transesterification of the corresponding hydroxy ester to give a 14-membered
+ring lactone. Furthermore, the synthesis and stereochemical elucidation of
+the 14-membered ring phenyl phosphonate leading to the hapten has been
+reported&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>. Herein we report the synthesis of the cyclic
+phosphonate 
+<bold>1a</bold> and 
+<bold>1b</bold> (<xref rid="fig1">Fig.&#x00A0;1</xref>), along with the stereochemical assignments of these diastereomers elucidated on the basis
+of 
+<mml:math altimg="e3.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>3</mml:mn>
+							<mml:mn>1</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>P NMR signals,
+together with 
+<mml:math altimg="e4.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>1</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>H
+NMR nuclear Overhauser effects (NOE) difference experiments.  
+<fig id="fig1">
+					<label>Figure&#x00A0;1 </label>
+					<caption>
+						<title>Cyclic
+phosphonates 1a and 1b. </title>
+					</caption>
+					<graphic xlink:href="gr1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+				</fig>
+				<!--\setFloat [h]{fig1}-->
+			</p>
+		</sec>
+		<sec>
+			<title>Results and Discussion</title>
+			<sec>
+				<title>The synthesis of diastereomeric cyclic phosphonates, 1a and 1b</title>
+				<p>The synthesis of 
+<bold>1a</bold> and 
+<bold>1b</bold> (<xref rid="sch1">Scheme&#x00A0;1</xref> ) began with the conversion of the primary hydroxyl of
+1,3-butanediol to the corresponding benzyl ether to give 
+<bold>2</bold> in 58% yield.
+The secondary hydroxyl of 
+<bold>2</bold> was then protected as the tetrahydropyranyl
+(THP) ether 
+<bold>3</bold> in 76% yield. This addition of the THP group created a
+second chiral center in 
+<bold>3</bold>, and therefore, two diastereomers of 
+<bold>3</bold> were obtained.
+The two diastereomers were obtained in a 1:1 ratio according to the
+<mml:math altimg="e5.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H
+NMR spectrum of 
+<bold>3</bold>, which reveals two methyl doublets of equal intensity and two
+methine multiplets, corresponding to the methine proton of the THP group (data not
+shown). Hydrogenolysis of the benzyl moiety of compound 
+<bold>3</bold> gave alcohol 
+<bold>4</bold> in an
+isolated yield of 85%. Alcohol 
+<bold>4</bold> was then oxidized under the Swern conditions to give
+the aldehyde 
+<bold>5</bold> in 96% yield. Aldehyde 
+<bold>5</bold> was subsequently reacted with the stabilized
+Wittig reagent 
+<bold>6</bold>&#x00A0;<xref ref-type="bibr" rid="b20">[20]</xref> to give the trans vinyl phosphonate 
+<bold>7</bold> in a
+moderate yield of 55%. The vinyl phosphonate 
+<bold>7</bold> was then reacted with
+p-toluenesulphonic acid to liberate the secondary hydroxyl compound 
+<bold>8</bold> in 70%
+yield. Removal of the THP group from 
+<bold>7</bold> eliminated one of two stereogenic
+centers in the molecule giving a single set of optical isomers, reflected in the
+<mml:math altimg="e6.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H
+NMR spectrum of 
+<bold>8</bold>, which contains only one methyl doublet. The alkene 
+<bold>8</bold> was then
+reduced to give the saturated diphenyl phosphonate 
+<bold>9</bold> in 93% yield. Finally, the
+hydroxy diphenyl phosphonate 
+<bold>9</bold> was reacted with n-butyl lithium in THF at &#x2212;78<!--\xdollar\rm -->
+					<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;to
+produce the cyclic diastereomeric phosphonates 
+<bold>1a</bold> and 
+<bold>1b</bold> in isolated yields of 82%
+and 16% (5:1 ratio), respectively, as colorless oils upon purification by silica gel flash
+chromatography using 1:1 petroleum ether and ethyl acetate.  
+<fig id="sch1">
+						<label>Scheme&#x00A0;1. </label>
+						<caption>
+							<title>Synthesis of cyclic phosphonates 
+<bold>1a</bold> and 
+<bold>1b</bold>. </title>
+						</caption>
+						<graphic xlink:href="sch1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+					</fig>
+					<!--\setFloat [t]{sch1}-->
+				</p>
+			</sec>
+			<sec>
+				<title>Stereochemical elucidation of diastereomeric cyclic phosphonates, 1a and
+1b</title>
+				<p>
+					<xref rid="fig2">Figure&#x00A0;2. </xref> illustrates the relative stereochemical assignments of three sets of cyclic
+phosphonates, including 
+<bold>1a</bold> and 
+<bold>1b</bold>, cyclic phosphonate analogs of pentoses, 
+<bold>10a</bold> and
+<bold>10b</bold>&#x00A0;<xref ref-type="bibr" rid="b15">[15]</xref>, and finally macrocyclic phosphonates 
+<bold>11a</bold> and
+<bold>11b</bold>&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>. Support for the axial assignment of the OPh
+moiety on the phosphorus atom of 
+<bold>1a</bold> comes from correlations between the
+<mml:math altimg="e7.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P
+NMR chemical shift data (<xref rid="tbl1">Table&#x00A0;1</xref>). It has been observed that the
+<mml:math altimg="e8.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P
+NMR signal for the axial P-OR isomer is approximately 2-ppm higher field
+than the corresponding equatorial isomer in the cyclic phosphonates
+of hexopyranoses 
+<xref ref-type="bibr" rid="b15 b21 b22">[15,21,22]</xref> and in other
+six-membered ring phosphonates 
+<xref ref-type="bibr" rid="b23 b24">[23,24]</xref>. The
+<mml:math altimg="e9.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P
+NMR shifts for compounds 
+<bold>1a</bold> and 
+<bold>1b</bold>, listed in
+<xref rid="tbl1">Table&#x00A0;1</xref>, are in agreement with the trends described above for the pair of cyclic
+phosphonate analogs of pentoses, 
+<bold>10a</bold> and 
+<bold>10b</bold>, reported by Harvey et&#x00A0;al.,
+<xref ref-type="bibr" rid="b15">[15]</xref> and those described by Pungente et&#x00A0;al. 
+<xref ref-type="bibr" rid="b19">[19]</xref>
+for the pair of 14-membered ring phosphonates, 
+<bold>11a</bold> and 
+<bold>11b</bold>. That is, the
+<mml:math altimg="e10.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P
+signal for phosphonate 
+<bold>1a</bold>, with the OPh group in the axial position, is at higher field
+than the corresponding equatorial isomer, 
+<bold>1b</bold>.
+<table-wrap id="tbl1">
+						<label>Table&#x00A0;1.</label>
+						<caption>
+							<title>
+								<mml:math altimg="e11.gif" display="inline">
+									<mml:msup>
+										<mml:mrow/>
+										<mml:mrow>
+											<mml:mn>3</mml:mn>
+											<mml:mn>1</mml:mn>
+										</mml:mrow>
+									</mml:msup>
+								</mml:math>P NMR chemical shifts
+(<mml:math altimg="e12.gif" display="inline">
+									<mml:mi>&#x03B4;</mml:mi>
+								</mml:math> values) for cyclic phosphonates. </title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup>
+								<col align="left"/>
+								<col align="left"/>
+								<col align="left"/>
+								<col align="left"/>
+							</colgroup>
+							<thead>
+								<tr valign="top">
+									<td align="left">Compound          </td>
+									<td align="left">P-OR stereochemistry </td>
+									<td align="left">
+										<mml:math altimg="e13.gif" display="inline">
+											<mml:mi>&#x03B4;</mml:mi>
+											<mml:msup>
+												<mml:mrow>
+													<mml:mspace width="0.16667em"/>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mn>3</mml:mn>
+													<mml:mn>1</mml:mn>
+												</mml:mrow>
+											</mml:msup>
+											<mml:mstyle mathvariant="normal">
+												<mml:mi>P</mml:mi>
+											</mml:mstyle>
+										</mml:math> (ppm) </td>
+									<td align="left">
+										<mml:math altimg="e14.gif" display="inline">
+											<mml:mi>&#x0394;</mml:mi>
+										</mml:math>(eq-ax) </td>
+								</tr>
+							</thead>
+							<tbody>
+								<tr valign="top">
+									<td align="left">1a                               </td>
+									<td align="left">ax                           </td>
+									<td align="left">20.49                                                                                                           </td>
+								</tr>
+								<tr valign="top">
+									<td align="left">1b                               </td>
+									<td align="left">eq                           </td>
+									<td align="left">23.39                                                                                                           </td>
+									<td align="left">2.9                                                                                                              </td>
+								</tr>
+								<tr valign="top">
+									<td align="left">10a&#x00A0;<xref ref-type="bibr" rid="b15">[15]</xref>
+									</td>
+									<td align="left">ax                           </td>
+									<td align="left">14.06                                                                                                           </td>
+								</tr>
+								<tr valign="top">
+									<td align="left">10b&#x00A0;<xref ref-type="bibr" rid="b15">[15]</xref>
+									</td>
+									<td align="left">eq                           </td>
+									<td align="left">16.37                                                                                                           </td>
+									<td align="left">2.3                                                                                                              </td>
+								</tr>
+								<tr valign="top">
+									<td align="left">11a&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>
+									</td>
+									<td align="left">pseudo-ax                 </td>
+									<td align="left">27.80                                                                                                           </td>
+								</tr>
+								<tr valign="top">
+									<td align="left">11b&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>
+									</td>
+									<td align="left">pseudo-eq                 </td>
+									<td align="left">29.60                                                                                                           </td>
+									<td align="left">1.8                                                                                                              </td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+					<!--\setTable [t]{tbl1}-->
+					<fig id="fig2">
+						<label>Figure&#x00A0;2. </label>
+						<caption>
+							<title>Relative stereochemical assignments of 6-membered ring
+phosphonates 
+<bold>1a</bold> and 
+<bold>1b</bold>, cyclic phosphonate analogs of pentoses, 
+<bold>10a</bold> and
+<bold>10b</bold>&#x00A0;<xref ref-type="bibr" rid="b15">[15]</xref>, and finally macrocyclic phosphonates 
+<bold>11a</bold> and
+<bold>11b</bold>&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>. </title>
+						</caption>
+						<graphic xlink:href="gr2.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+					</fig>
+					<!--\setFloat [t]{fig2}-->
+				</p>
+				<p>Finally, the stereochemical assignments for compounds 
+<bold>1a</bold> and 
+<bold>1b</bold> were confirmed on the
+basis of 
+<mml:math altimg="e15.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H
+NMR NOE difference experiments. Irradiation of the methine signal at 4.51 ppm of
+phosphonate 
+<bold>1a</bold> resulted in enhancement of the phenyl signal between 7.4 and 7.2
+ppm, whereas, irradiation of the corresponding methine signal for 
+<bold>1b</bold> failed to
+produce an enhanced signal in the phenyl region (<xref rid="fig3">Fig.&#x00A0;3</xref>). This NOE data is consistent with the stereochemical assignments for
+compounds 
+<bold>1a</bold> and 
+<bold>1b</bold>. Furthermore, these NOE results are consistent with those
+obtained from the pair of cyclic phosphonate analogs of pentoses, 
+<bold>10a</bold> and 
+<bold>10b</bold>,
+reported by Harvey et&#x00A0;al. 
+<xref ref-type="bibr" rid="b15">[15]</xref>. They reported an NOE enhancement
+of H-2 in 
+<bold>10a</bold> when the phosphorus methyl was irradiated, consistent with these
+two substituents having a 1,3-diaxial relationship. <!--\begin {query}{Please provide better quality figure for Fig. 3.}\end {query}-->
+					<fig id="fig3">
+						<label>Figure&#x00A0;3. </label>
+						<caption>
+							<title>Selected
+<mml:math altimg="e16.gif" display="inline">
+									<mml:msup>
+										<mml:mrow/>
+										<mml:mrow>
+											<mml:mn>1</mml:mn>
+										</mml:mrow>
+									</mml:msup>
+								</mml:math>H
+NMR NOE difference experiments that distinguish between the two diastereomers of
+cyclic phosphonates 
+<bold>1a</bold> and 
+<bold>1b</bold>. </title>
+						</caption>
+						<graphic xlink:href="gr3.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+					</fig>
+					<!--\setFloat [b]{fig3}-->
+				</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>General Chemical Methods</title>
+			<p>Unless otherwise stated, all reactions were performed under a <!--\xdollar\rm -->N
+<sub>2</sub>
+				<!--\xdollar-->&#x00A0;atmosphere
+using flame-dried glassware. Cold temperature baths were prepared as follows: &#x2212;78<!--\xdollar\rm -->
+				<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;(dry ice&#x2013;acetone) and 0<!--\xdollar\rm -->
+				<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;(ice&#x2013;water).
+Anhydrous reagents and solvents were purified and prepared according to literature
+procedures 
+<xref ref-type="bibr" rid="b25">[25]</xref>. Chromatographic solvents and reagents were
+used as received unless noted otherwise. The low boiling fraction (35&#x2013;60<!--\xdollar\rm -->
+				<sup>&#x2218;</sup>C<!--\xdollar-->) of
+petroleum ether was used. All reagents were supplied by the Aldrich Chemical Co.
+and unless otherwise stated were used without further purification. n-Butyl lithium
+(n-BuLi) was standardized by titration against 2,2-diphenylacetic acid in THF at
+room temperature to the appearance of a faint yellow color.</p>
+			<p>All reactions were monitored by thin layer chromatography (TLC) and judged to
+be complete when the starting material was consumed as determined by
+TLC. In the description of reaction work-ups, washing with brine refers to a
+saturated solution of NaCl, drying of the organic phase was accomplished with <!--\xdollar\rm -->MgSO
+<sub>4</sub>
+				<!--\xdollar-->&#x00A0;and
+removal of solvent in vacuo or concentration of solvent refers to the use
+of a rotary evaporator using a water aspirator and heating using a water
+bath.</p>
+			<p>Preparative flash chromatography 
+<xref ref-type="bibr" rid="b26">[26]</xref> was performed using
+230&#x2013;400 mesh ASTM silica gel supplied by E. Merck Co. As an indicator of
+purity, all compounds were purified such that a single spot was evident by
+TLC.</p>
+			<p>Infrared (IR) spectra were recorded on a Bomem Michelson 100 FT-IR spectrometer
+using internal calibration. IR spectra were recorded on the neat liquid or as a
+chloroform solution using NaCl solution cells.</p>
+			<p>Except where noted, proton nuclear magnetic resonance
+(<mml:math altimg="e17.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>1</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>H
+NMR) spectra were recorded in deuteriochloroform solutions on a
+Bruker AC-200 (200 MHz) or Bruker WH-400 (400 MHz) spectrometer.
+Chemical shifts are reported in parts per million (ppm) on the
+<mml:math altimg="e18.gif" display="inline">
+					<mml:mi>&#x03B4;</mml:mi>
+				</mml:math> scale versus
+chloroform (<mml:math altimg="e19.gif" display="inline">
+					<mml:mi>&#x03B4;</mml:mi>
+				</mml:math>
+7.24 ppm) as an internal standard. Signal multiplicity, spin spin-coupling
+constants (where possible) and integration ratios are indicated in
+parentheses. Carbon nuclear magnetic resonance (13C NMR) spectra were
+recorded in deuteriochloroform solutions on a Bruker WH-400 (100 MHz)
+spectrometer. Chemical shifts are reported in parts per million (ppm) on the
+<mml:math altimg="e20.gif" display="inline">
+					<mml:mi>&#x03B4;</mml:mi>
+				</mml:math> scale versus
+chloroform (<mml:math altimg="e21.gif" display="inline">
+					<mml:mi>&#x03B4;</mml:mi>
+				</mml:math>
+77.0 ppm) as an internal standard. Phosphorus nuclear magnetic resonance (31P NMR)
+spectra with proton decoupling were recorded in deuteriochloroform solutions on a Bruker
+AC-200 (81 MHz) spectrometer. Chemical shifts are given in parts per million (ppm) on
+the 
+<mml:math altimg="e22.gif" display="inline">
+					<mml:mi>&#x03B4;</mml:mi>
+				</mml:math>
+scale versus 85% phosphoric acid as an external standard.</p>
+			<p>Low- and high-resolution electron-impact (EI) mass spectral analyses
+were performed on a Kratos-AEI model MS 50 mass spectrometer.
+Ionization energy of 70 eV was used in all measurements. Low-resolution
+desorption chemical ionization (DCI) mass spectral analyses, using <!--\xdollar\rm -->CH
+<sub>4</sub>
+				<!--\xdollar-->&#x00A0;or <!--\xdollar\rm -->NH
+<sub>3</sub>
+				<!--\xdollar-->&#x00A0;reagent
+gas as indicated, were recorded on a Delsi Nermag R10-10C mass
+spectrometer. High-resolution DCI mass spectral analyses, using <!--\xdollar\rm -->CH
+<sub>4</sub>
+				<!--\xdollar-->&#x00A0;or <!--\xdollar\rm -->NH
+<sub>3</sub>
+				<!--\xdollar-->&#x00A0;reagent
+gas as indicated, were recorded on a Kratos MS 80 RFA mass spectrometer.</p>
+			<p>Thin-layer chromatography was performed on Merck silica gel 60 F254 pre-coated aluminum
+sheets. Visualization was achieved by irradiation with ultraviolet light at 254 nm and/or
+by spraying with anisaldehyde reagent (a solution of 1 mL anisaldehyde, 5 mL conc. <!--\xdollar\rm -->H
+<sub>2</sub>SO
+<sub>4</sub>
+				<!--\xdollar-->&#x00A0;and 10
+mL glacial acetic acid in 90 mL MeOH) followed by heating.</p>
+			<p>Microanalyses were carried out at the microanalytical laboratory of the University of
+British Columbia Chemistry Department using a Carlo Erba Elemental Analyzer
+1106. Samples for microanalysis were purified by column chromatography using the
+solvent system indicated for each compound.</p>
+		</sec>
+		<sec>
+			<title>Experimental</title>
+			<sec>
+				<title>1-Benzyloxy-3-butanol (2).</title>
+				<p>1,3-Butanediol (5.0 g, 56 mmol) was dissolved in 125 mL of dry THF, and cooled to 0<!--\xdollar\rm -->
+					<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;under <!--\xdollar\rm -->N
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;prior
+to the addition of a 60% dispersion of NaH in mineral oil (2.7 g, 67 mmol) over a
+10&#x00A0;min period. Upon addition of the NaH, the mixture was stirred for 10 min, and <!--\xdollar\rm -->Bu
+<sub>4</sub>NI<!--\xdollar-->&#x00A0;(1.0 g,
+2.8 mmol) was added, followed by the drop wise addition of benzyl bromide (8.0 mL,
+67 mmol). The ice&#x2013;water bath was removed, and the reaction mixture was
+stirred at room temperature for 2.5 h before diluting the mixture with <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->, and
+quenching with water, followed by 1 M HCl. The mixture was then extracted with <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->, and the combined <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->&#x00A0;extracts were dried
+over anhydrous <!--\xdollar\rm -->          MgSO
+<sub>4</sub>
+					<!--\xdollar-->,
+filtered and solvent was evaporated under reduced pressure. The crude product was
+purified by flash chromatography using 1:1 petroleum ether and ethyl acetate to
+afford 5.8 g (58%) of 
+<bold>2</bold> as a colorless oil.</p>
+				<p>
+					<mml:math altimg="e23.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (200 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e24.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.32 (m, 5H), 4.52 (s, 2H), 4.00 (m, 1H), 3.653 (m, 2H), 2.63 (s, 1H), 1.73 (m, 2H), 1.18 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2 Hz, 3H);
+LRMS (El) 
+<mml:math altimg="e25.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 180 (2), 161 (11), 120 (15), 108 (11), 107 (46), 92 (16), 91 (100),
+79 (16), 65 (12).</p>
+			</sec>
+			<sec>
+				<title>1-Benzyloxy-3-(Tetrahydropyranyloxy) butane (3).</title>
+				<p>To a stirred solution of 
+<bold>2</bold> (260 mg, 1.44 mmol) in 5 mL of <!--\xdollar\rm -->CH
+<sub>2</sub>Cl
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;was added DHP
+(158&#x00A0;<!--\xdollar\rm -->
+					<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->,
+1.73 mmol) and p-TsOH (14 mg, 0.072 mmol), and the mixture was stirred at room temperature
+under <!--\xdollar\rm -->          N
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;for
+2 h. The solvent was then removed and the residue was diluted with <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->.
+The ether layer was washed with 2&#x00A0;&#x00D7;&#x00A0;25 mL of saturated <!--\xdollar\rm -->NaHCO
+<sub>3</sub>
+					<!--\xdollar-->,
+1&#x00A0;&#x00D7;&#x00A0;25 mL water and 1&#x00A0;&#x00D7;&#x00A0;50 mL of brine, dried over anhydrous <!--\xdollar\rm -->MgSO
+<sub>4</sub>
+					<!--\xdollar-->&#x00A0;and
+filtered. The solvent was removed under reduced pressure and the crude product was
+purified by flash chromatography using 5:1 petroleum ether and ethyl acetate to
+afford 288 mg (76%) of 
+<bold>3</bold> as a colorless oil.</p>
+				<p>
+					<mml:math altimg="e26.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (200 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e27.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.30 (m, 5H), 4.70 (m, 0.4H), 4.55 (m, 0.6H), 4.49 (m, 2H), 3.75&#x2013;4.08 (m, 2H), 3.62
+(m, 1H), 3.48 (m, 2H), 1.60&#x2013;2.00 (m, 4H), 1.40&#x2013;1.60 (m, 4H), 1.24 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz, 1.5H), 1.11 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz, 1.5H); LRMS (DCI, <!--\xdollar\rm -->NH
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e28.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 282 (M<sup> + </sup> &#x002B;&#x00A0;18, 4), 265 (M<sup> + </sup>&#x00A0;&#x002B;1, 4), 181 (66), 179 (16), 91 (88), 85 (100); HRMS (DCI, <!--\xdollar\rm -->CH
+<sub>4</sub>
+					<!--\xdollar-->) calcd. for <!--\xdollar\rm -->C
+<sub>16</sub>H
+<sub>24</sub>O
+<sub>3</sub>
+					<!--\xdollar-->:
+264.1725, found 264.1648.</p>
+			</sec>
+			<sec>
+				<title>3-(Tetrahydropyranyloxy) butan-1-ol (4).</title>
+				<p>A spatula tip of Pd-C (10%) stirring in 20 mL of EtOAc was saturated with <!--\xdollar\rm -->H
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;for 12
+h before a solution of compound 
+<bold>3</bold> (230 mg, 0.871 mmol) in 5 mL of EtOH was added
+via a steel cannula. This mixture was allowed to stir for an additional five hours under <!--\xdollar\rm -->H
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;pressure
+of one atmosphere. The reaction mixture was filtered through a Celite bed and
+concentrated under reduced pressure to give 146 mg of crude product, which was
+purified by flash chromatography using 1:1 petroleum ether and ethyl acetate to
+afford 129 mg (85%) of 
+<bold>4</bold> as a colorless oil.</p>
+				<p>IR (neat): 3408, 2918, 1447, 1376, 1322, 1260, 1201, 1128, 1027, 1001, 907, 868, 811&#x00A0;cm<sup> - 1</sup>;
+<mml:math altimg="e29.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (200 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e30.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+4.68 (m, 0.2H), 4.55 (m, 0.8H), 3.40&#x2013;4.13 (m, 6H), 2.35 (br s, 1H), 1.28 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2 Hz, 0.6H), 1.15 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz, 1.4H); LRMS (DCI, <!--\xdollar\rm -->NH
+<sub>4</sub>
+					<!--\xdollar-->)
+<mml:math altimg="e31.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 192 (M<sup> + </sup>&#x00A0;&#x002B;&#x00A0;18, 1), 175 (M<sup> + </sup> &#x002B;1, 4), 173 (2), 108 (6), 101 (13), 86 (10), 85
+(100), 55 (18).</p>
+			</sec>
+			<sec>
+				<title>3-(Tetrahydropyranyloxy) butanal (5).</title>
+				<p>To a stirred solution of oxalyl chloride (75&#x00A0;<!--\xdollar\rm -->
+					<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->, 0.86 mmol) in 10 mL
+of dry <!--\xdollar\rm -->          CH
+<sub>2</sub>Cl
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;under
+<!--\xdollar\rm -->       N
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;at &#x2212;78<!--\xdollar\rm -->
+					<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;was added DMSO (102&#x00A0;<!--\xdollar\rm -->
+					<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->, 1.44 mmol) dissolved
+in 2 mL <!--\xdollar\rm -->          CH
+<sub>2</sub>Cl
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;via
+a stainless steel cannula. After 10 min. of stirring, compound 
+<bold>4</bold> (102 mg, 0.575 mmol) in 5 mL of <!--\xdollar\rm -->CH
+<sub>2</sub>Cl
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;was added to
+the activated DMSO via a stainless steel cannula. Finally, after stirring an additional 10 min, <!--\xdollar\rm -->Et
+<sub>3</sub>N<!--\xdollar-->&#x00A0;(410&#x00A0;<!--\xdollar\rm -->
+					<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->, 2.95
+mmol) was syringed in, and the reaction mixture was allowed to warm to room
+temperature while maintaining stirring. After 3 h, the solution was diluted with 50 mL of <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->&#x00A0;followed
+by 50 mL of water. The aqueous layer was further extracted with 3&#x00A0;&#x00D7;&#x00A0;50 mL of <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->&#x00A0;and the combined <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->&#x00A0;extracts were dried
+over anhydrous <!--\xdollar\rm -->          MgSO
+<sub>4</sub>
+					<!--\xdollar-->,
+filtered and concentrated under reduced pressure to a yellow oil. The crude product
+was then purified by flash chromatography using 4:1 petroleum ether and ethyl
+acetate to afford 95 mg (96%) of 
+<bold>5</bold> as a colorless oil.</p>
+				<p>
+					<mml:math altimg="e32.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (200 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e33.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+9.80 (m, 1H), 4.68 (m, 0.8H), 4.55 (m, 0.2H), 4.18&#x2013;4.43 (m, 1H), 3.63&#x2013;3.99
+(m, 2H), 3.48 (m, 1H), 2.55 (m, 2H), 1.40&#x2013;1.85 (m, 8H), 1.26 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz, 0.6H), 1.20
+(d, J&#x00A0;<!--\xdollar\rm -->          =<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz,
+2.4H).</p>
+				<p>
+					<bold>1-Diphenylphosphinyl-4-(tetrahydropyranyloxy)-1-pentene (7).</bold> The
+Wittig reagent 
+<bold>6</bold>&#x00A0;<xref ref-type="bibr" rid="b20">[20]</xref>
+					<!--\unskip \break -->(1.9 g, 3.8 mmol) and aldehyde 
+<bold>5</bold>
+(0.43 g, 2.5 mmol) were dissolved in 40 mL of toluene and refluxed under <!--\xdollar\rm -->N
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;for
+three days. The solvent was removed under reduced pressure and the crude product
+was purified by flash chromatography using 5:1 petroleum ether and ethyl acetate to
+afford 0.55 g (55%) of 
+<bold>7</bold> as a colorless oil.</p>
+				<p>IR (neat): 2941, 2870, 1629, 1592, 1489, 1455, 1379, 1341,
+1271, 1214, 1192, 1163, 1127, 1074, 1026, 994, 934, 767&#x00A0;cm<sup>-1</sup>;
+<mml:math altimg="e34.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (200 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e35.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.10&#x2013;7.38 (m, 10H), 7.00 (m, 1H), 5.95 3 (m, 1H), 4.68 (m, 0.5H), 4.55 (m, 0.5H),
+3.73&#x2013;4.00 (m, 2H), 3.35-3.60 (m, 1H), 2.30&#x2013;2.55 (m, 2H), 1.35&#x2013;1.90 (m, 6H), 1.18 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz, 1.5H), 1.08 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz, 1.5H);
+<mml:math altimg="e36.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P NMR (81 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e37.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+10.8; LRMS (El) 
+<mml:math altimg="e38.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 402 (1), 318 (28), 301 (22), 275 (26), 274 (100), 259 (17), 181 (13), 162
+(10), 141 (13), 133 (15), 118 (18), 117 (96), 116 (65), 115 (47), 94 (85), 77 (87); HRMS calcd.
+for <!--\xdollar\rm -->           C
+<sub>22</sub>H
+<sub>27</sub>O
+<sub>5</sub>P<!--\xdollar-->:
+402.1596, found 402.1605.</p>
+			</sec>
+			<sec>
+				<title>4-Hydroxy-1-diphenylphosphinyl-1-pentene (8).</title>
+				<p>p-TsOH (26 mg, 0.14 mmol) was added to a stirred solution of compound 
+<bold>7 </bold> (0.55 g,
+1.4 mmol) in <!--\unskip \break -->20 mL of MeOH at room temperature. After 5 h, the MeOH
+was removed under reduced pressure and the resulting oil was dissolved in <!--\xdollar\rm -->Et
+<sub>2</sub>O<!--\xdollar-->,
+washed with 2&#x00A0;&#x00D7;&#x00A0;20 mL of water followed by 2&#x00A0;&#x00D7;&#x00A0;20 mL of brine, dried over anhydrous <!--\xdollar\rm -->MgSO
+<sub>4</sub>
+					<!--\xdollar-->,
+filtered and concentrated under reduced pressure. The crude oil was purified by flash
+chromatography using 1:1 petroleum ether and ethyl acetate to afford 0.31 g (70%) of
+alcohol 
+<bold>8 </bold> as a colorless oil.</p>
+				<p>IR (neat): 3403, 2971, 1629, 1592, 1489, 1456, 1198, 1164, 1120, 1072, 1025, 937, 814, 767&#x00A0;cm<sup> - 1</sup>;
+<mml:math altimg="e39.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (400 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e40.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.12&#x2013;7.35  (m,  10H),  6.94  (ddt,  J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;7.2, 17.1, 23.1&#x00A0;Hz, 1H), 5.94
+(ddt, J&#x00A0;<!--\xdollar\rm -->          =<!--\xdollar-->&#x00A0;1.4,17.1,
+23.1&#x00A0;Hz, 1H), 3.88 (m, 1H), 2.37 (dt, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;1.4, 7.7&#x00A0;Hz, 2H), 1.61 (br s,
+1H), 1.14 (d, J&#x00A0;<!--\xdollar\rm -->         =<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz,
+3H); 
+<mml:math altimg="e41.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P NMR (81
+MHz, <!--\xdollar\rm -->          CDCl
+<sub>3</sub>
+					<!--\xdollar-->)
+<mml:math altimg="e42.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>: 10.8; LRMS
+(El) 
+<mml:math altimg="e43.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math> (relative
+intensity): 318 (16), 274 (48), 259 (8), 181 (6), 133 (7), 117 (830), 94 (82), 77 (100); HRMS calcd. for <!--\xdollar\rm -->C
+<sub>17</sub>H
+<sub>19</sub>O
+<sub>4</sub>P<!--\xdollar-->: 318.1021, found 318.1014;
+Anal. Calcd. for <!--\xdollar\rm -->          C
+<sub>17</sub>H
+<sub>19</sub>O
+<sub>4</sub>P<!--\xdollar-->:
+C, 64.13; H, 6.02. Found: C, 64.03; H, 6.11.</p>
+			</sec>
+			<sec>
+				<title>1-Diphenylphosphinyl pentan-4-ol (9).</title>
+				<p>A spatula tip of Pd-C (10%) in 20 mL of EtOAc was saturated with <!--\xdollar\rm -->H
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;for 16
+h before compound 
+<bold>8</bold> (0.31 g, 0.97 mmol) in 3 mL of EtOAc was added via a steel
+cannula. This mixture was allowed to stir for an additional two days under <!--\xdollar\rm -->H
+<sub>2</sub>
+					<!--\xdollar-->&#x00A0;gas at
+a pressure slightly greater than one atmosphere. The reaction mixture was filtered
+through a Celite bed and concentrated under reduced pressure to afford 0.29 g (93%)
+of 
+<bold>9</bold> as a colorless oil.</p>
+				<p>IR (neat): 3411, 2940, 1592, 1490, 1456, 1374, 1202, 1164, 1126, 1069, 1025, 1007, 935, 763&#x00A0;cm<sup> - 1</sup>;
+<mml:math altimg="e44.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (300 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e45.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.13&#x2013;7.37 (m, 10H), 3.84 (m, 1H), 2.02&#x2013;2.22 (m, 2H), 1.76&#x2013;2.02 (m, 3H), 1.61 (dt, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.4, 7.5&#x00A0;Hz, 2H), 1.21
+(d, J&#x00A0;<!--\xdollar\rm -->          =<!--\xdollar-->&#x00A0;6.2&#x00A0;Hz,
+3H); 
+<mml:math altimg="e46.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P NMR (81 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e47.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+25.6; LRMS (El) 
+<mml:math altimg="e48.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 320 (1), 305 (10), 227 (100), 185 (15), 172 (25), 140 (25), 95 (57),
+94 (96), 91 (75), 77 (86).</p>
+			</sec>
+			<sec>
+				<title>6-Methyl-2-oxo-2-phenoxy-1,2-oxaphosphorinane (1a and 1b).</title>
+				<p>Compound 
+<bold>9</bold> (495 mg, 1.55 mmol) was dissolved in 30 mL of dry THF and stirred under <!--\xdollar\rm -->N
+<sub>2</sub>
+					<!--\xdollar-->, then cooled to &#x2212;78<!--\xdollar\rm -->
+					<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;with a dry-ice acetone
+bath. 1.2 M 
+<mml:math altimg="e49.gif" display="inline">
+						<mml:mi>n</mml:mi>
+					</mml:math>BuLi
+(94&#x00A0;<!--\xdollar\rm -->
+					<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->,
+1.1 mmol) was then added via syringe, and after stirring at &#x2212;78<!--\xdollar\rm -->
+					<sup>&#x2218;</sup>C<!--\xdollar-->&#x00A0;for 2.5
+h, the dry-ice acetone bath was removed. The solvent was removed under reduced
+pressure, and the crude product was purified by flash chromatography using 1:1
+petroleum ether and ethyl acetate to afford 0.286 g (82%) of 
+<bold>1a</bold> and 0.057 g (16%) of
+<bold>1b</bold> colorless oils.</p>
+				<p>Isomer 
+<bold>1a:</bold> IR (neat): 2946, 1592, 1491, 1455, 1384, 1302,
+1255, 1209, 1161, 1079, 1049, 1032, 980, 921, 839, 789, 765&#x00A0;cm<sup> - 1</sup>;
+<mml:math altimg="e50.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (400 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e51.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.11&#x2013;7.34 (m, 5H), 4.51 (m, 1H), 2.02&#x2013;2.20 (m, 2H), 1.94
+(m, 1H), 1.68&#x2013;1.84 (m, 2H), 1.51 (m, 1H), 1.35 (dd, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;2.3, 6.3&#x00A0;Hz, 3H);
+<mml:math altimg="e52.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+								<mml:mn>3</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>C NMR (100 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e53.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+129.80  (s),  124.68  (s),  119.99  (d,  J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;4.50&#x00A0;Hz), 78.99 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;7.73&#x00A0;Hz), 33.14 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;6.30&#x00A0;Hz), 22.61 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;7.95&#x00A0;Hz), 22.08 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;127.20&#x00A0;Hz), 21.48 (d,
+J&#x00A0;<!--\xdollar\rm -->          =<!--\xdollar-->&#x00A0;8.10&#x00A0;Hz);
+<mml:math altimg="e54.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P NMR (81 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e55.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+20.5; LRMS (El) 
+<mml:math altimg="e56.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 226 (29), 211 (6), 185 (23), 172 (25), 144 (24), 115 (9), 94 (100), 77 (18); HRMS
+calcd. for <!--\xdollar\rm -->          C
+<sub>11</sub>H
+<sub>15</sub>O
+<sub>3</sub>P<!--\xdollar-->:
+226.0759, found 226.0756;</p>
+				<p>Isomer 
+<bold>1b:</bold> IR (neat): 2943, 1593, 1491, 1383, 1291, 1250, 1210, 1153, 1026, 951, 783&#x00A0;cm<sup> - 1</sup>;
+<mml:math altimg="e57.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>H NMR (400 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e58.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+7.11&#x2013;7.34 (m, 5H), 4.68 (m, 1H), 1.96&#x2013;2.22 (m, 3H), 1.71&#x2013;1.86 (m, 2H), 1.45&#x2013;1.54 (m, 1H), 1.36 (dd, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;2.3, 6.3&#x00A0;Hz, 3H);
+<mml:math altimg="e59.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>1</mml:mn>
+								<mml:mn>3</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>C NMR (100 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e60.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+129.67  (s),  124.92  (s),  120.55  (d,  J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;4.65&#x00A0;Hz), 77.59 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar--> 5.25&#x00A0;Hz), 33.30 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;5.63&#x00A0;Hz), 22.41 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;126.80&#x00A0;Hz), 22.31 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;7.05&#x00A0;Hz), 20.42 (d, J&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;7.13&#x00A0;Hz);
+<mml:math altimg="e61.gif" display="inline">
+						<mml:msup>
+							<mml:mrow/>
+							<mml:mrow>
+								<mml:mn>3</mml:mn>
+								<mml:mn>1</mml:mn>
+							</mml:mrow>
+						</mml:msup>
+					</mml:math>P NMR (81 MHz, <!--\xdollar\rm -->CDCl
+<sub>3</sub>
+					<!--\xdollar-->)&#x00A0;<mml:math altimg="e62.gif" display="inline">
+						<mml:mi>&#x03B4;</mml:mi>
+					</mml:math>:
+23.4; LRMS (El) 
+<mml:math altimg="e63.gif" display="inline">
+						<mml:mi>m</mml:mi>
+						<mml:mo>&#x002F;</mml:mo>
+						<mml:mi>z</mml:mi>
+					</mml:math>
+(relative intensity): 226 (41), 211 (7), 185 (27), 172 (30),
+144 (26), 115 (9), 94(100), 77 (18); HRMS calcd. for <!--\xdollar\rm -->C
+<sub>16</sub>H
+<sub>24</sub>O
+<sub>3</sub>
+					<!--\xdollar-->P : 226.0759, found 226.0759;
+Anal. Calcd. for <!--\xdollar\rm -->          C
+<sub>11</sub>H
+<sub>15</sub>O
+<sub>3</sub>P<!--\xdollar-->:
+C, 58.39; H, 6.69. Found: C, 58.07; H, 6.71.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Conclusions</title>
+			<p>Two 6-membered ring, cyclic phenyl phosphonate diastereomers, 
+<bold>1a</bold> and 
+<bold>1b</bold>
+were prepared in a 6:1 ratio, respectively, in 8 steps from 1,3-butanediol.
+The stereochemistry of 
+<bold>1a</bold> and 
+<bold>1b</bold> was elucidated on the basis of
+<mml:math altimg="e64.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>3</mml:mn>
+							<mml:mn>1</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>P NMR signals,
+together with 
+<mml:math altimg="e65.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>1</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>H
+NMR nuclear Overhauser effects (NOE) difference experiments. Such cyclic
+phosphonates may have utility serving as transition state analogs for the production
+of monoclonal antibodies.</p>
+			<sec>
+				<title>Competing interests:</title>
+				<p>The authors of this work have no competing interests.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Acknowledgements</title>
+			<p>We are grateful for financial support from the Natural Sciences and
+Engineering Research Council of Canada. We also thank Mr. Peter Borda of
+the microanalytical laboratory, Ms. Marietta Austria for performing the
+<mml:math altimg="e66.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>1</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>H,
+<mml:math altimg="e67.gif" display="inline">
+					<mml:msup>
+						<mml:mrow/>
+						<mml:mrow>
+							<mml:mn>1</mml:mn>
+							<mml:mn>3</mml:mn>
+						</mml:mrow>
+					</mml:msup>
+				</mml:math>C and
+NOE NMR experiments, and finally Dr. G. Eigendorf of the Department of
+Chemistry at UBC for performing the gas chromatography-mass spectrometry and
+high-resolution mass spectrometry analyses.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="b1">
+				<label>[1]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>McReynolds</surname>
+							<x>, </x>
+							<given-names>M.D.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Dougherty</surname>
+							<x>, </x>
+							<given-names>J.M.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Hanson</surname>
+							<x>, </x>
+							<given-names>P.R.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2004</year>
+					<x>). </x>
+					<source>Chem. Rev.</source>
+					<x>, </x>
+					<volume>104</volume>
+					<x>, </x>
+					<fpage>2239</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b2">
+				<label>[2]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Kafarski</surname>
+							<x>, </x>
+							<given-names>P.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Lejczak</surname>
+							<x>, </x>
+							<given-names>B.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2001</year>
+					<x>). </x>
+					<source>Curr. Med. Chem. Anticancer Agents</source>
+					<x>, </x>
+					<volume>1</volume>
+					<x>, </x>
+					<fpage>301</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b3">
+				<label>[3]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Colvin</surname>
+							<x>, </x>
+							<given-names>O.M.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1999</year>
+					<x>). </x>
+					<source>Curr. Pharm. Des.</source>
+					<x>, </x>
+					<volume>5</volume>
+					<x>, </x>
+					<fpage>555</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b4">
+				<label>[4]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Mader</surname>
+							<x>, </x>
+							<given-names>M.M.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Bartlett</surname>
+							<x>, </x>
+							<given-names>P.A.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1997</year>
+					<x>). </x>
+					<source>Chem. Rev.</source>
+					<x>, </x>
+					<volume>97</volume>
+					<x>, </x>
+					<fpage>1281</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b5">
+				<label>[5]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Kafarski</surname>
+							<x>, </x>
+							<given-names>P.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Lejczak</surname>
+							<x>, </x>
+							<given-names>B.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1991</year>
+					<x>). </x>
+					<source>Phosphorus, Sulfur, Silicon Relat. Elem.</source>
+					<x>, </x>
+					<volume>63</volume>
+					<x>, </x>
+					<fpage>193</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b6">
+				<label>[6]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Zon</surname>
+							<x>, </x>
+							<given-names>G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1982</year>
+					<x>). </x>
+					<article-title>Cyclophosphamide analogues</article-title>
+					<x>. </x>
+					<source>Prog. Med. Chem.</source>
+					<x>, </x>
+					<volume>19</volume>
+					<x>, </x>
+					<fpage>205</fpage>
+					<x>&#x2013;</x>
+					<lpage>246</lpage>
+					<x>. </x>
+				</element-citation>
+			</ref>
+			<ref id="b7">
+				<label>[7]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Nagarajan</surname>
+							<x>, </x>
+							<given-names>R.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Kwon</surname>
+							<x>, </x>
+							<given-names>K.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Nawrot</surname>
+							<x>, </x>
+							<given-names>B.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Stec</surname>
+							<x>, </x>
+							<given-names>W.J.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Stivers</surname>
+							<x>, </x>
+							<given-names>J.T.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2005</year>
+					<x>). </x>
+					<source>Biochem.</source>
+					<x>, </x>
+					<volume>44</volume>
+					<x>, </x>
+					<fpage>11476</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b8">
+				<label>[8]</label>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Franz</surname>
+							<x>, </x>
+							<given-names>J.E.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Mao</surname>
+							<x>, </x>
+							<given-names>M.K.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Sikorski</surname>
+							<x>, </x>
+							<given-names>J.A.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1997</year>
+					<x>). </x>
+					<source>Glyphosate: A Unique Global Herbicide</source>
+					<x>. </x>
+					<publisher-name>American Chemical Society</publisher-name>
+					<x>,
+</x>
+					<publisher-loc>Washington, DC</publisher-loc>
+					<x>. </x>
+				</element-citation>
+			</ref>
+			<ref id="b9">
+				<label>[9]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Yu</surname>
+							<x>, </x>
+							<given-names>F.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Lian</surname>
+							<x>, </x>
+							<given-names>X.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Zhao</surname>
+							<x>, </x>
+							<given-names>J.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Yu</surname>
+							<x>, </x>
+							<given-names>Y.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Ma</surname>
+							<x>, </x>
+							<given-names>S.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2009</year>
+					<x>). </x>
+					<source>J. Org. Chem.</source>
+					<x>, </x>
+					<volume>74</volume>
+					<x>, </x>
+					<fpage>1130</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b10">
+				<label>[10]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Yu</surname>
+							<x>, </x>
+							<given-names>F.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Lian</surname>
+							<x>, </x>
+							<given-names>X.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Ma</surname>
+							<x>, </x>
+							<given-names>S.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2007</year>
+					<x>). </x>
+					<source>Org. Lett.</source>
+					<x>, </x>
+					<volume>9</volume>
+					<x>, </x>
+					<fpage>1703</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b11">
+				<label>[11]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Stoianova</surname>
+							<x>, </x>
+							<given-names>D.S.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Whitehead</surname>
+							<x>, </x>
+							<given-names>A.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Hanson</surname>
+							<x>, </x>
+							<given-names>P.R.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2005</year>
+					<x>). </x>
+					<source>J. Org. Chem.</source>
+					<x>, </x>
+					<volume>70</volume>
+					<x>, </x>
+					<fpage>5880</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b12">
+				<label>[12]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Cao</surname>
+							<x>, </x>
+							<given-names>Y.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Hidaka</surname>
+							<x>, </x>
+							<given-names>A.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Tajima</surname>
+							<x>, </x>
+							<given-names>T.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Fuchigami</surname>
+							<x>, </x>
+							<given-names>T.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2005</year>
+					<x>). </x>
+					<source>J. Org. Chem.</source>
+					<x>, </x>
+					<volume>70</volume>
+					<x>, </x>
+					<fpage>9614</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b13">
+				<label>[13]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Stoianova</surname>
+							<x>, </x>
+							<given-names>D.S.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Hanson</surname>
+							<x>, </x>
+							<given-names>P.R.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2001</year>
+					<x>). </x>
+					<source>Org. Lett.</source>
+					<x>, </x>
+					<volume>3</volume>
+					<x>, </x>
+					<fpage>3285</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b14">
+				<label>[14]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Darrow</surname>
+							<x>, </x>
+							<given-names>J.W.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Drueckhammer</surname>
+							<x>, </x>
+							<given-names>D.G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1994</year>
+					<x>). </x>
+					<source>J. Org. Chem.</source>
+					<x>, </x>
+					<volume>59</volume>
+					<x>, </x>
+					<fpage>2976</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b15">
+				<label>[15]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Harvey</surname>
+							<x>, </x>
+							<given-names>T.C.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Weiler</surname>
+							<x>, </x>
+							<given-names>L.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Withers</surname>
+							<x>, </x>
+							<given-names>S.G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1997</year>
+					<x>). </x>
+					<source>J. Org. Chem.</source>
+					<x>, </x>
+					<volume>62</volume>
+					<x>, </x>
+					<fpage>6722</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b16">
+				<label>[16]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Pungente</surname>
+							<x>, </x>
+							<given-names>M.D.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Weiler</surname>
+							<x>, </x>
+							<given-names>L.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Ziltener</surname>
+							<x>, </x>
+							<given-names>H.J.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2002</year>
+					<x>). </x>
+					<source>Can. J. Chem.</source>
+					<x>, </x>
+					<volume>80</volume>
+					<x>, </x>
+					<fpage>1643</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b17">
+				<label>[17]</label>
+				<mixed-citation publication-type="other">    Jacobs,  J.W.   Ph.D. Thesis, University of California, Berkeley, 1990.</mixed-citation>
+			</ref>
+			<ref id="b18">
+				<label>[18]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Napper</surname>
+							<x>, </x>
+							<given-names>A.D.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Benkovic</surname>
+							<x>, </x>
+							<given-names>S.J.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Tramontano</surname>
+							<x>, </x>
+							<given-names>A.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Lerner</surname>
+							<x>, </x>
+							<given-names>R.A.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1987</year>
+					<x>). </x>
+					<source>Science</source>
+					<x>, </x>
+					<volume>237</volume>
+					<x>, </x>
+					<fpage>1041</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b19">
+				<label>[19]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Pungente</surname>
+							<x>, </x>
+							<given-names>M.D.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Weiler</surname>
+							<x>, </x>
+							<given-names>L.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>2001</year>
+					<x>). </x>
+					<source>Org. Lett.</source>
+					<x>, </x>
+					<volume>3</volume>
+					<x>, </x>
+					<fpage>643</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b20">
+				<label>[20]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Jones</surname>
+							<x>, </x>
+							<given-names>G.H.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Hamamura</surname>
+							<x>, </x>
+							<given-names>E.K.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Moffatt</surname>
+							<x>, </x>
+							<given-names>J.G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1968</year>
+					<x>). </x>
+					<source>Tet. Lett.</source>
+					<x>, </x>
+					<fpage>5731</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b21">
+				<label>[21]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Darrow</surname>
+							<x>, </x>
+							<given-names>J.W.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Drueckhammer</surname>
+							<x>, </x>
+							<given-names>D.G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1996</year>
+					<x>). </x>
+					<source>Bioorg. Med. Chem.</source>
+					<x>, </x>
+					<volume>4</volume>
+					<x>, </x>
+					<fpage>1341</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b22">
+				<label>[22]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Hanessian</surname>
+							<x>, </x>
+							<given-names>S.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Galeotti</surname>
+							<x>, </x>
+							<given-names>N.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Rosen</surname>
+							<x>, </x>
+							<given-names>P.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Oliva</surname>
+							<x>, </x>
+							<given-names>G.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Babu</surname>
+							<x>, </x>
+							<given-names>S.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1994</year>
+					<x>). </x>
+					<source>Bioorg. Med. Chem. Lett.</source>
+					<x>, </x>
+					<volume>4</volume>
+					<x>, </x>
+					<fpage>2763</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b23">
+				<label>[23]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Gorenstein</surname>
+							<x>, </x>
+							<given-names>D.G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1987</year>
+					<x>). </x>
+					<source>Chem. Rev.</source>
+					<x>, </x>
+					<volume>87</volume>
+					<x>, </x>
+					<fpage>1047</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b24">
+				<label>[24]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Chang</surname>
+							<x>, </x>
+							<given-names>J.W.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Gorenstein</surname>
+							<x>, </x>
+							<given-names>D.G.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1987</year>
+					<x>). </x>
+					<source>Tetrahedron</source>
+					<x>, </x>
+					<volume>43</volume>
+					<x>, </x>
+					<fpage>5187</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+			<ref id="b25">
+				<label>[25]</label>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Perrin</surname>
+							<x>, </x>
+							<given-names>D.D.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Armarego</surname>
+							<x>, </x>
+							<given-names>W.L.F.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1988</year>
+					<x>). </x>
+					<source>Purification of Laboratory Chemicals</source>
+					<x>. </x>
+					<edition>3rd ed.</edition>
+					<x>, </x>
+					<publisher-name>Permagon</publisher-name>
+					<x>, </x>
+					<publisher-loc>New York, NY</publisher-loc>
+					<x>. </x>
+				</element-citation>
+			</ref>
+			<ref id="b26">
+				<label>[26]</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<string-name>
+							<surname>Still</surname>
+							<x>, </x>
+							<given-names>W.C.</given-names>
+						</string-name>
+						<x>, </x>
+						<string-name>
+							<surname>Kahn</surname>
+							<x>, </x>
+							<given-names>M.</given-names>
+						</string-name>
+						<x>, &#x0026; </x>
+						<string-name>
+							<surname>Mitra</surname>
+							<x>, </x>
+							<given-names>A.</given-names>
+						</string-name>
+					</person-group>
+					<x>&#x00A0;</x>
+					<x>(</x>
+					<year>1978</year>
+					<x>). </x>
+					<source>J. Org. Chem.</source>
+					<x>, </x>
+					<volume>43</volume>
+					<x>, </x>
+					<fpage>2923</fpage>
+					<x>.</x>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
