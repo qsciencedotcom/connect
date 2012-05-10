@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name> </publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">5</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2012.5</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research
+article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Incidence of oral indigenous bacteria in causative strains isolated from blood cultures in 759 laboratory-confirmed cases of bacteremia</article-title> 
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>           
+<given-names>Shinya</given-names>
+<x> </x>                
+<surname>Yura</surname>  </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<x><sup>,</sup></x> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref>                
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>                 
+<given-names>Sadaya</given-names>
+<x> </x>
+<surname>Matano</surname></string-name> 
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>               
+<x> </x></contrib> 
+<aff id="aff1"><sup>1</sup>Department of Oral and Maxillofacial Surgery, Tonami
+General Hospital, Tonami City, Toyama-Ken, Japan</aff> 
+<aff id="aff2"><sup>2</sup>Department of Hematology,
+Tonami General Hospital, Tonami City, Toyama-Ken, Japan</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>Corresponding author. E-mail: yura@pl.coralnet.or.jp</corresp></author-notes> 
+<pub-date pub-type="pub"> 
+<day>7</day> 
+<month>5</month> 
+<year>2012</year> </pub-date> 
+<issue content-type="issue-sequence">2012</issue>
+<elocation-id>5</elocation-id>
+<history> 
+<date date-type="received">
+<day>26</day>
+<month>9</month>
+<year>2011</year></date> 
+<date date-type="accepted">
+<day>24</day>
+<month>4</month>
+<year>2012</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2012 Yura and Matano, licensee Bloomsbury Qatar Foundation
+Journals. This is an open access article distributed under the terms of the
+Creative Commons Attribution License CC BY 3.0 which permits unrestricted
+use, distribution and reproduction in any medium, provided the original
+work is properly cited.</copyright-statement> 
+<copyright-year>2012</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.5.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>  
+<abstract>
+<title>Abstract</title>
+<p><!--\unskip --><bold>Background:</bold> The incidence of oral indigenous bacteria in cases of bacteremia has been reported in only a few studies. We investigated the annual incidence of oral indigenous bacteria isolated in blood cultures from patients with bacteremia and call into consideration the impact of oral health measures implemented at our facility.</p> 
+<p><bold>Methods:</bold> In the period from 2001 to 2006, 759 laboratory-confirmed cases of bacteremia were reported and subsequently analyzed in this study. The incidences of the causative strain and oral indigenous bacteria in blood cultures were studied by year.</p> 
+<p><bold>Results:</bold> In 759 cases of bacteremia, oral streptococci were noted in 14 (1.8%), and anaerobic bacteria were noted in 9 (1.2%). The population of microorganisms did not change significantly during the study period.</p> 
+<p><bold>Conclusions:</bold> In a previous report, oral streptococci accounted for 3.8% of those under investigation. In this study, the incidence of oral streptococci was significantly low, 1.8% specifically. A focus on oral health care at our hospital may account for a reduced incidence of oral streptococci bacteremia.</p></abstract>
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>Oral indigenous bacteria</kwd>
+<x>, </x>
+<kwd>Oral streptococci</kwd>
+<x>, </x>
+<kwd>Anaerobic bacteria</kwd>
+<x>, </x>
+<kwd>Blood culture</kwd>
+<x>, </x>
+<kwd>Bacteremia</kwd></kwd-group> 
+</article-meta>
+</front> 
+<body>
+<sec>
+<title>Background</title>
+<p>Septicemia from the oral region may occur as the result of bacteria-containing blood
+inflow from an infected odontogenic lesion in the alveolar bone, gingival bleeding, or
+stomatitis. Personal oral cleaning with regular examination and treatment
+by oral health care professionals decreases oral streptococci on teeth and
+oral mucosal surfaces and improves gingival bleeding and stomatitis. Oral
+health care in patients with compromised immunity may be effective in the
+prevention of not only aspiration pneumonitis but also septicemia from the oral
+region.</p>
+<p>The strains of microorganisms isolated from blood cultures in cases of septicemia
+have been investigated sufficiently, but the incidence of oral indigenous bacteria in
+cases of bacteremia has been reported in only a few studies&#x00A0;<xref ref-type="bibr" rid="b1 b2">[1,2]</xref>.
+We therefore investigated the annual incidence of oral indigenous bacteria isolated in
+blood cultures from patients with bacteremia.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>At Tonami General Hospital, Tonami, Japan, in the period from 2001 to 2006, 759
+laboratory-confirmed cases of bacteremia were reported and subsequently analyzed in
+this study. The incidences of the causative strain and oral indigenous bacteria in
+blood cultures were studied by year. Oral streptococci and anaerobic bacteria, such
+as 
+<italic>Peptostreptococcus</italic>, 
+<italic>Bacteroides&#x00A0;fragilis</italic>, and 
+<italic>Porphyromonas gingivaris</italic>, were
+classified as oral indigenous bacteria. Furthermore, we analyzed the differences
+according to the annual incidence of the oral indigenous bacteria using the chi-square
+distribution test.</p>
+<p>Samples were inoculated into SA aerobic and SN anaerobic blood culture
+bottles and were processed in the BacT/ALERT 120 automated system
+(BIOMERIEUX, Tokyo, Japan). Subculture and further identification of the
+isolated bacteria were performed by conventional microbiological techniques
+using the WalkAway-96 automated system (Dads Behring, Tokyo, Japan).
+Results were analyzed using a data management system (Noteware, Tokyo,
+Japan).</p>
+</sec>
+<sec>
+<title>Results</title>
+<sec>
+<title>1. Incidence of causative strains in blood cultures</title>
+<p>Bacteria isolated from blood cultures and their changes in incidence by year are
+shown in
+<xref rid="tbl1">Table&#x00A0;1</xref>. The incidence of 
+<italic>Staphylococcus</italic> was high, 30%; the incidence of
+<italic>Staphylococcus epidermidis</italic> was 13.2% and that of 
+<italic>Staphylococcus aureus</italic>
+was 10.3%. The incidence of enterobacteria was high, 25%; the incidence of
+<italic>Escherichia coli</italic> spp. was 16.2% and that of 
+<italic>Klebsiella</italic> spp. was 13.2%. The
+population of microorganisms did not change significantly during the study
+period.
+<table-wrap  id="tbl1">  
+<label>Table&#x00A0;1.</label>  
+<caption> 
+<title>&#x00A0; Positive strain in blood cutures.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="right"/>   
+<col align="right"/>   
+<col align="right"/>   
+<col align="right"/>   
+<col align="right"/>   
+<col align="right"/>   
+<col align="right"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Microorganism </td> 
+<td align="right">2001 </td> 
+<td align="right">2002 </td> 
+<td align="right">2003 </td> 
+<td align="right">2004 </td> 
+<td align="right">2005 </td> 
+<td align="right">2006 </td> 
+<td align="right">Total (%) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">
+<bold>Streptococcus</bold>                   </td> 
+<td align="right">   
+<bold>9</bold> </td> 
+<td align="right">   
+<bold>4</bold> </td> 
+<td align="right">   
+<bold>5</bold> </td> 
+<td align="right">   
+<bold>5</bold> </td> 
+<td align="right">  
+<bold>10</bold> </td> 
+<td align="right">  
+<bold>10</bold> </td> 
+<td align="right">  
+<bold>43 (5.7)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Oral streptococci               </td> 
+<td align="right">   2 </td> 
+<td align="right">   1 </td> 
+<td align="right">   1 </td> 
+<td align="right">   2 </td> 
+<td align="right">   5 </td> 
+<td align="right">   3 </td> 
+<td align="right">  14 (1.8) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Others                             </td> 
+<td align="right">   7 </td> 
+<td align="right">   3 </td> 
+<td align="right">   4 </td> 
+<td align="right">   3 </td> 
+<td align="right">   5 </td> 
+<td align="right">   7 </td> 
+<td align="right">  29 (3.8) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Peptostreptococcus</bold>            </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>3 (0.4)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Bacteroides fragilis</bold>             </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>3</bold> </td> 
+<td align="right">   
+<bold>5 (0.7)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Porphyromonas gingivalis</bold>    </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>1 (0.1)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Staphylococcus</bold>                  </td> 
+<td align="right">  
+<bold>26</bold> </td> 
+<td align="right">  
+<bold>14</bold> </td> 
+<td align="right">  
+<bold>40</bold> </td> 
+<td align="right">  
+<bold>31</bold> </td> 
+<td align="right">  
+<bold>53</bold> </td> 
+<td align="right">  
+<bold>65</bold> </td> 
+<td align="right">
+<bold>229 (30.2)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;S. epidermidis                   </td> 
+<td align="right">   7 </td> 
+<td align="right">  15 </td> 
+<td align="right">  18 </td> 
+<td align="right">  12 </td> 
+<td align="right">  26 </td> 
+<td align="right">  32 </td> 
+<td align="right">100 (13.2) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;S. aureus                          </td> 
+<td align="right">  14 </td> 
+<td align="right">   7 </td> 
+<td align="right">  13 </td> 
+<td align="right">  15 </td> 
+<td align="right">  14 </td> 
+<td align="right">  15 </td> 
+<td align="right"> 78 (10.3) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Others                             </td> 
+<td align="right">   5 </td> 
+<td align="right">   2 </td> 
+<td align="right">   9 </td> 
+<td align="right">   4 </td> 
+<td align="right">  13 </td> 
+<td align="right">  18 </td> 
+<td align="right">  51 (6.7) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Enterobacteria</bold>                  </td> 
+<td align="right">  
+<bold>36</bold> </td> 
+<td align="right">  
+<bold>31</bold> </td> 
+<td align="right">  
+<bold>29</bold> </td> 
+<td align="right">  
+<bold>43</bold> </td> 
+<td align="right">  
+<bold>57</bold> </td> 
+<td align="right">  
+<bold>43</bold> </td> 
+<td align="right">
+<bold>239 (24.5)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Klebsiella spp.                  </td> 
+<td align="right">  11 </td> 
+<td align="right">   8 </td> 
+<td align="right">   5 </td> 
+<td align="right">  10 </td> 
+<td align="right">   9 </td> 
+<td align="right">  14 </td> 
+<td align="right"> 57 (13.2) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Escherichia coli spp.           </td> 
+<td align="right">  13 </td> 
+<td align="right">  17 </td> 
+<td align="right">  17 </td> 
+<td align="right">  19 </td> 
+<td align="right">  36 </td> 
+<td align="right">  21 </td> 
+<td align="right">123 (16.2) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Enterobactor spp.              </td> 
+<td align="right">   6 </td> 
+<td align="right">   0 </td> 
+<td align="right">   3 </td> 
+<td align="right">   6 </td> 
+<td align="right">   3 </td> 
+<td align="right">   3 </td> 
+<td align="right">  21 (2.8) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Citrobactor spp.                </td> 
+<td align="right">   0 </td> 
+<td align="right">   0 </td> 
+<td align="right">   0 </td> 
+<td align="right">   0 </td> 
+<td align="right">   1 </td> 
+<td align="right">   2 </td> 
+<td align="right">   3 (0.4) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Aeromonas spp.                 </td> 
+<td align="right">   0 </td> 
+<td align="right">   0 </td> 
+<td align="right">   0 </td> 
+<td align="right">   1 </td> 
+<td align="right">   2 </td> 
+<td align="right">   0 </td> 
+<td align="right">   3 (0.4) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Serratia spp.                     </td> 
+<td align="right">   2 </td> 
+<td align="right">   4 </td> 
+<td align="right">   2 </td> 
+<td align="right">   5 </td> 
+<td align="right">   4 </td> 
+<td align="right">   2 </td> 
+<td align="right">  19 (2.5) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x00A0;&#x00A0;Proteus spp.                     </td> 
+<td align="right">   4 </td> 
+<td align="right">   2 </td> 
+<td align="right">   2 </td> 
+<td align="right">   2 </td> 
+<td align="right">   2 </td> 
+<td align="right">   1 </td> 
+<td align="right">  13 (1.7) </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Pseudomonas spp.</bold>             </td> 
+<td align="right">   
+<bold>7</bold> </td> 
+<td align="right">   
+<bold>3</bold> </td> 
+<td align="right">   
+<bold>4</bold> </td> 
+<td align="right">   
+<bold>5</bold> </td> 
+<td align="right">   
+<bold>4</bold> </td> 
+<td align="right">   
+<bold>7</bold> </td> 
+<td align="right">  
+<bold>30 (4.0)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Acinetobactor spp.</bold>             </td> 
+<td align="right">   
+<bold>9</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>0</bold> </td> 
+<td align="right">   
+<bold>2</bold> </td> 
+<td align="right">   
+<bold>1</bold> </td> 
+<td align="right">   
+<bold>4</bold> </td> 
+<td align="right">  
+<bold>16 (2.1)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Enterococcus spp.</bold>              </td> 
+<td align="right">   
+<bold>3</bold> </td> 
+<td align="right">   
+<bold>7</bold> </td> 
+<td align="right">   
+<bold>3</bold> </td> 
+<td align="right">   
+<bold>6</bold> </td> 
+<td align="right">   
+<bold>6</bold> </td> 
+<td align="right">   
+<bold>6</bold> </td> 
+<td align="right">  
+<bold>31 (4.1)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Candida spp.</bold>                    </td> 
+<td align="right">   
+<bold>7</bold> </td> 
+<td align="right">   
+<bold>5</bold> </td> 
+<td align="right">   
+<bold>8</bold> </td> 
+<td align="right">  
+<bold>15</bold> </td> 
+<td align="right">  
+<bold>11</bold> </td> 
+<td align="right">   
+<bold>8</bold> </td> 
+<td align="right">  
+<bold>54 (7.1)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Bacillus spp.</bold>                     </td> 
+<td align="right">   
+<bold>6</bold> </td> 
+<td align="right">   
+<bold>2</bold> </td> 
+<td align="right">   
+<bold>7</bold> </td> 
+<td align="right">  
+<bold>13</bold> </td> 
+<td align="right">  
+<bold>10</bold> </td> 
+<td align="right">  
+<bold>29</bold> </td> 
+<td align="right">  
+<bold>67 (8.8)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Others</bold>                             </td> 
+<td align="right">  
+<bold>11</bold> </td> 
+<td align="right">   
+<bold>6</bold> </td> 
+<td align="right">   
+<bold>5</bold> </td> 
+<td align="right">   
+<bold>8</bold> </td> 
+<td align="right">   
+<bold>6</bold> </td> 
+<td align="right">   
+<bold>5</bold> </td> 
+<td align="right">  
+<bold>41 (5.4)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>Total</bold>                               </td> 
+<td align="right"> 
+<bold>114</bold> </td> 
+<td align="right">  
+<bold>72</bold> </td> 
+<td align="right"> 
+<bold>102</bold> </td> 
+<td align="right"> 
+<bold>129</bold> </td> 
+<td align="right"> 
+<bold>160</bold> </td> 
+<td align="right"> 
+<bold>182</bold> </td> 
+<td align="right">      
+<bold>759</bold> </td>
+</tr> 
+</tbody> 
+</table> 
+</table-wrap>
+<!--\setTable [b]{tbl1}--></p>
+</sec>
+<sec>
+<title>2. Incidence of oral indigenous bacteria</title>
+<p>The incidences of oral indigenous bacteria isolated from blood cultures are shown
+in
+<xref rid="tbl1 tbl2">Tables&#x00A0;1 and 2</xref>. In 759 cases of bacteremia, oral streptococci were noted in
+14 (1.8%). 
+<italic>Streptococcus oralis</italic>, 
+<italic>S.&#x00A0;sangius</italic>, 
+<italic>S.&#x00A0;mitis</italic>, 
+<italic>S.&#x00A0;salivarius</italic>, 
+<italic>S.&#x00A0;intermedius</italic>, and
+<italic>S.&#x00A0;anginosus</italic> were isolated as oral streptococci. Anaerobic bacteria were noted in 9
+(1.2%). 
+<italic>Peptostreptococcus</italic>, 
+<italic>Bacteroides</italic>&#x00A0;<italic>fragilis</italic> and 
+<italic>Porphyromonas gingivaris</italic> were
+isolated as anaerobic bacteria. Changes in the incidence of oral indigenous bacteria
+by year are shown in
+<xref rid="tbl1">Table&#x00A0;1</xref>. The population of microorganisms did not change significantly during
+the study period.
+<table-wrap  id="tbl2">  
+<label>Table&#x00A0;2.</label>  
+<caption> 
+<title>&#x00A0; Oral indigenous bacteruim.</title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="right"/>   
+<col align="left"/>   
+<col align="right"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Oral streptococci </td> 
+<td align="right">14 </td> 
+<td align="left">Anaerobic bacterium       </td> 
+<td align="right">9 </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">S. oralis                      </td> 
+<td align="right"> 4 </td> 
+<td align="left">Peptostreptococcus         </td> 
+<td align="right">3 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">S. sangius                   </td> 
+<td align="right"> 2 </td> 
+<td align="left">Bacteroides fragilis          </td> 
+<td align="right">5 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">S. mitis                       </td> 
+<td align="right"> 3 </td> 
+<td align="left">Porphyromonas gingivalis </td> 
+<td align="right">1 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">S. salivarius                 </td> 
+<td align="right"> 3 </td> 
+<td align="left">                      </td> 
+<td align="right">  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">S. intermedius/            </td> 
+<td align="right"> 1 </td> 
+<td align="left">                      </td> 
+<td align="right">  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">milleri                        </td> 
+<td align="right"> 1 </td> 
+<td align="left">                      </td> 
+<td align="right">  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">S. Anginosus/              </td> 
+<td align="right">   </td> 
+<td align="left">                      </td> 
+<td align="right">  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">milleri                        </td> 
+<td align="right">   </td> 
+<td align="left">                      </td> 
+<td align="right">  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">                     </td>
+</tr> 
+</tbody> 
+</table> 
+</table-wrap>
+<!--\setFloat [pos=b]{tbl2}--></p>
+</sec>
+</sec>
+<sec>
+<title>Discussion</title>
+<sec>
+<title>1. Incidence of causative strains in blood cultures</title>
+<p>In this study, high frequencies of staphylococcus and enterobacteria were isolated.
+These findings agree with the results of recent studies&#x00A0;<xref ref-type="bibr" rid="b3 b4">[3,4]</xref>.
+Because the incidence of 
+<italic>Staphylococcus epidermidis</italic> is typically high, this
+microorganism may be isolated as a contaminant resulting from blood drawing.
+Among our results and those of other studies&#x00A0;<xref ref-type="bibr" rid="b3 b4">[3,4]</xref>, no significant
+difference (chi-square test) was found in the incidence of this microorganism. This
+suggests that the incidence of contamination from blood drawing in our hospital is
+not higher than in other institutions.</p>
+</sec>
+<sec>
+<title>2. Incidence of oral indigenous bacteria</title>
+<p>Few studies on oral indigenous bacteria in bacteremia have been published&#x00A0;<xref ref-type="bibr" rid="b1
+b2">[1,2]</xref>, probably because of its low incidence. In previous reports, oral streptococci and
+<italic>Streptococcus milleri</italic> accounted for 3.8%&#x00A0;<xref ref-type="bibr" rid="b2">[2]</xref> and 1.6%&#x00A0;<xref ref-type="bibr" rid="b1">[1]</xref>,
+respectively, of bacteremia cases. In this study, the incidences of oral streptococci
+and 
+<italic>Streptococcus milleri</italic> were significantly low (chi-square test), 1.8% <!--\xdollar\rm -->(p=0.040)<!--\xdollar--> and 0.3% <!--\xdollar\rm -->(p=0.008)<!--\xdollar-->,
+respectively. Personal oral cleaning with regular examination and treatment by oral
+health care professionals decreases oral streptococci on teeth and oral mucosal
+surfaces, and improves gingival bleeding and stomatitis. An oral health care team was
+established at our hospital&#x00A0;<xref ref-type="bibr" rid="b5">[5]</xref>, and has reported previous
+findings&#x00A0;<xref ref-type="bibr" rid="b6">[6]</xref>. In general hospitals with many inpatients, it is difficult
+to perform oral screening and cleaning for all inpatients. We implemented
+mandatory use of an easy assessment sheet and education of the staff members,
+leading to an increase in the incidences of screening and oral cleaning. After
+the oral care, the oral conditions improved significantly. Oral health care
+at our hospital may account for a reduced incidence of oral streptococci
+bacteremia.</p>
+<p>No study of the incidence of oral indigenous anaerobic bacteria in blood cultures
+from patients with bacteremia has been reported prior to this one. The prevention of
+anaerobic bacteria bacteremia by oral cleaning alone is difficult, because the
+anaerobic bacteria are present in anaerobic conditions with limited access such as
+abscesses in deep gingival pockets and alveolar bone. The clinical practice of
+dentistry is necessary to remove these lesions and the anaerobic bacteria that can
+cause bacteremia.</p>
+<p>The incidence of oral indigenous bacteria was low at 3%, and did not change
+significantly during the study period. These results indicate that these
+microorganisms do not increase rapidly like prophlogistic bacteria in nosocomial
+infections.</p>
+</sec>
+</sec>
+<sec>
+<title>Conclusions</title>
+<p>In 759 cases of bacteremia, we investigated the annual incidences of the causative
+strain and oral bacteria in blood cultures. Oral streptococci were found in 14 cases
+(1.8%) and anaerobic bacteria were found in 9 cases (1.2%). The population of
+microorganisms did not change significantly during the study period. In a previous
+report, oral streptococci accounted for 3.8%. In this study, the incidence of
+oral streptococci was significantly low, 1.8%. A focus on oral health care
+at our hospital may account for a reduced incidence of oral streptococci
+bacteremia.</p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<label>[1]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Casariego</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rodriguez</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Corredoira</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Alonso</surname>
+<x>, </x>
+<given-names>P.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Coira</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bal</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lopez</surname>
+<x>, </x>
+<given-names>M.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Varela</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1996</year>
+<x>). </x>
+<article-title>Prospective study of 
+<italic>Streptococcus milleri</italic> bacteremia</article-title>
+<x>. </x>
+<source>Eur J Clin Microbiol
+Infect Dis</source>
+<x>, </x>
+<volume>15</volume>
+<x>, </x>
+<fpage>194</fpage>
+<x>&#x2013;</x>
+<lpage>200</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b2">
+<label>[2]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ozaki</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Takano</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Microbiological and clinical studies of 33 cases in which viridians streprococci
+isolated from blood cultures</article-title>
+<x>. </x>
+<source>JJCM</source>
+<x>, </x>
+<volume>9</volume>
+<x>, </x>
+<fpage>232</fpage>
+<x>&#x2013;</x>
+<lpage>243</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<label>[3]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Shiobara</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Honda</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kanai</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Uehara</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Sano</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Kato</surname>
+<x>, </x>
+<given-names>Y.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Evaluation of annual changes in blood culture positive rate and isolated
+bacteria at Shinshu University Hospital</article-title>
+<x>. </x>
+<source>Shinsyu Medical Journal</source>
+<x>, </x>
+<volume>54</volume>
+<x>, </x>
+<fpage>257</fpage>
+<x>&#x2013;</x>
+<lpage>263</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<label>[4]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kuboi</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Nomura</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Clinical and microbiological characteristics in cases of positive blood cultures
+at Shin&#x2013;Kokura Hospital during a period of 5&#x00A0;years</article-title>
+<x>. </x>
+<source>J Infect Chemother</source>
+<x>, </x>
+<volume>12</volume>
+<x>, </x>
+<fpage>335</fpage>
+<x>&#x2013;</x>
+<lpage>337</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b5">
+<label>[5]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yura</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ohga</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Izumiyama</surname>
+<x>, </x>
+<given-names>Y.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Ooi</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Organization of an oral health care team at Tonami General Hospital</article-title>
+<x>.
+</x>
+<source>Hokkaido J Dent Sci.</source>
+<x>, </x>
+<volume>27</volume>
+<x>, </x>
+<fpage>24</fpage>
+<x>&#x2013;</x>
+<lpage>27</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<label>[6]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Yura</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Shima</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Oral health care assessment at general hospital: Factors related to intra-oral
+condition in inpatients</article-title>
+<x>. </x>
+<source>Oral Care</source>
+<x>, </x>
+<volume>2</volume>
+<x>, </x>
+<fpage>23</fpage>
+<x>&#x2013;</x>
+<lpage>26</lpage>
+<x>. </x></element-citation></ref>
+</ref-list>
+</back></article>
