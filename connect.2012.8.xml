@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+</publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">8</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2012.8</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Redox-responsive probes for selective chelation of bivalent cations</article-title> 
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>          
+<given-names>Noureddine</given-names>
+<x> </x>                
+<surname>Raouafi</surname>   </string-name> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref>               
+<x>, </x></contrib>  
+<contrib contrib-type="author">
+<string-name>               
+<given-names>Janet</given-names>
+<x> </x>
+<surname>Bahri</surname> </string-name>                
+<x>, </x></contrib>  
+<contrib contrib-type="author">
+<string-name>                
+<given-names>Rihab</given-names>
+<x> </x>                 
+<surname>Sahli</surname> </string-name>                
+<x>, </x></contrib>
+<contrib contrib-type="author">
+<string-name>         
+<given-names>Khaled</given-names>
+<x> </x>                
+<surname>Boujlel</surname> </string-name>               
+<x> </x></contrib> 
+<aff>University of Tunis El-Manar,
+Faculty of Sciences of Tunis, Department of Chemistry, Tunis, Tunisia</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>Email: noureddine.raouafi@gmail.com</corresp></author-notes> 
+<pub-date pub-type="pub"> 
+<day>30</day> 
+<month>8</month>
+<year>2012</year> </pub-date> 
+<issue content-type="issue-sequence">2012</issue>
+<elocation-id>8</elocation-id> 
+<history> 
+<date date-type="received">
+<day>20</day>
+<month>12</month>
+<year>2011</year></date> 
+<date date-type="accepted">
+<day>24</day>
+<month>7</month>
+<year>2012</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2012 Raouafi et&#x00A0;al., licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement> 
+<copyright-year>2012</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.8.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>  
+<abstract>
+<title>Abstract</title>
+<p>N,N-disubstituted bis(furanyl-2-methyl)aminoanilines are new electrochemically-active probes for cations relying on the phenylenediamine moiety as an electroactive transducer and the difuranylamino group as an ionophore site. The electrochemical investigations, by means of cyclic and Osteryoung square wave voltammetries (CV and SWV, respectively), showed that these compounds are able to bind Mg<sup>2+</sup>, Ca<sup>2+</sup>, Ni<sup>2+</sup> and Zn<sup>2+</sup> cations with strong affinities. The addition of catalytic amounts of trifluoromethanesulfonic acid (TfOH) was found necessary to achieve rapid cation complexation. The electroactive redox features of the probes were drastically modified when the ionophore site was bonded to the cations. The anodic potential shifts of the oxidation peaks were between 905 and 1030 mV depending on the cations. The electrochemical investigations suggested the formation of a 1:2 stoichiometric complex: <!--\xdollar\rm -->            [M(L)
+<sub>2</sub>]<sup>2+</sup><!--\xdollar-->, <!--\xdollar\rm -->            M=Mg<!--\xdollar-->, Ca, Ni and Zn. These probes were found to be selective of Ca<sup>2+</sup> and chelates, with strong preference for Ca<sup>2+</sup> even in presence of others cations (Ca<sup>2+</sup>&#x003E;&#x00A0;Mg<sup>2+</sup>, Ca<sup>2+</sup>&#x003E;&#x00A0;Ni<sup>2+</sup> and Ni<sup>2+</sup>&#x003E;&#x00A0;Zn<sup>2+</sup>). UV-visible spectrophotometric studies also showed blue shifts of the absorption bands comprising between 5 and 29 nm ligands when the metal ions were added to the solution, which confirmed the complexes formation.</p></abstract>
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>Bivalent cations</kwd>
+<x>, </x>
+<kwd>tetraalkylated p-phenylenediamine (TAPD)</kwd>
+<x>, </x>
+<kwd>electroactive
+probes</kwd>
+<x>, </x>
+<kwd>UV-visible spectrophotometry</kwd>
+<x>, </x>
+<kwd>cyclic and square wave voltammetries</kwd>
+<x>, </x>
+<kwd>selectivity</kwd></kwd-group> 
+</article-meta>
+</front> 
+<body>
+<sec>
+<title>Introduction</title>
+<p>Metal ions play pivotal roles in biological systems. Magnesium, calcium and zinc are
+undoubtedly the most abundant cations in the human body. Other cations like nickel
+are less abundant but also have great importance&#x00A0;<xref ref-type="bibr" rid="b1 b2 b3 b4">[1&#x2013;4]</xref>.
+For instance, magnesium, calcium and zinc triad are the major actors in the central
+nervous system&#x2019;s signal transmission reactions. Moreover, these cations act as enzyme
+co-factors to trigger the enzymes action as they take part in cell exocytosis and in
+immune system response&#x00A0;<xref ref-type="bibr" rid="b1 b2 b3 b4">[1&#x2013;4]</xref>. The amounts of these
+ions necessary for functionality varies, e.g.,&#x00A0;it has been proven that small
+amounts of nickel are necessary for living organisms and large amounts are
+found to be toxic&#x00A0;<xref ref-type="bibr" rid="b5">[5]</xref>. Therefore, it is imperative to be able to
+detect and evaluate the concentrations of such cations and eventually to
+monitor their fluxes in biological medium&#x00A0;<xref ref-type="bibr" rid="b6 b7">[6,7]</xref>. A plethora
+of chromogenic probes exist, which are used to determine concentration
+and to monitor the flux of ionic species in solution or biological medium.
+Reversible electrochemical probes are less known&#x00A0;<xref ref-type="bibr" rid="b8 b9
+b10">[8&#x2013;10]</xref>. Many redox reversible groups such as ruthenium complex and
+ferrocene&#x00A0;<xref ref-type="bibr" rid="b10 b11 b12">[10&#x2013;12]</xref>, and organic groups like
+phenylenediamine and phenazine&#x00A0;<xref ref-type="bibr" rid="b13 b14">[13,14]</xref>, have been used
+recently as transducers to build electrochemically responsive probes. The guest
+detection or release can be monitored through the modification of the electrochemical
+features of the redox center&#x00A0;<xref ref-type="bibr" rid="b15 b16 b17">[15&#x2013;17]</xref>. Pearson
+et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b13 b18">[13,18]</xref> and Sibert et&#x00A0;al.&#x00A0;<xref ref-type="bibr" rid="b19 b20">[19,20]</xref>
+popularized electroactive phenylenediamine-based probes containing various-sized
+crown or thiocrown ethers to chelate metals ions.</p>
+<p>Herein, we report the use of redox-responsive probes based on furanyl receptors for
+magnesium, calcium, nickel and zinc sensing in acetonitrile. Electrochemical methods
+have been used to investigate the chelation of the metal through the changes induced
+in the electrochemical features of the probes. UV-visible spectrophotometry
+was also used to detect the formation of complexes in acetonitrile solution.
+Moreover, the selectivity of these probes toward cations was examined. All
+compounds were prepared according to a previously published procedure
+(<xref rid="fig1">Fig.&#x00A0;1</xref>)&#x00A0;<xref ref-type="bibr" rid="b9">[9]</xref>.
+<fig  id="fig1">  
+<label>Figure&#x00A0;1.</label>  
+<caption> 
+<title>&#x00A0;General route to tetraalkylated phenylenediamines 
+<bold>1a-c</bold> preparation
+<italic>via</italic> reductive alkylation reaction. </title> 
+</caption>       
+<graphic xlink:href="gr1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [h]{fig1}--></p>
+</sec>
+<sec>
+<title>Experimental section</title>
+<sec>
+<title>Reagents</title>
+<p>4-Dimethylaminoaniline, 4-piperidinylaniline, 4-morpholinoaniline, sodium
+cyanoborohydride, acetic acid, perchlorate salts, tetraethylammonium
+hexafluorophosphate, trifluoromethanesulfonic acid (TfOH) and methanol were
+available from Sigma-Aldrich and were used without further purification.
+Furfuryl-2-carboxaldehyde was freshly distilled before use. AnhydroScan<sup><!--\text{-->&#x00AE;<!--}--></sup>&#x00A0;acetonitrile
+was purchased from LabScan and used as received.</p>
+</sec>
+<sec>
+<title>Preparation of the probes</title>
+<p>The reaction was performed under argon atmosphere at room temperature and
+shielded from the light by an aluminium foil. To a solution of 2.0 mmol
+of the primary aromatic amine dissolved in methanol (50 mL), 8.0 mmol
+of furfural and 10.0 mmol of acetic acid were added and the mixture was
+stirred for 12 h. Sodium cyanoborohydride (2.0 mmol) was added and stirring
+was continued for a further 4 h. The mixture was neutralized with 50 mL
+of saturated sodium bicarbonate solution and extracted twice with 20 mL
+of dichloromethane. The organic phase was washed twice with 10 mL of
+distilled water, dried over magnesium sulfate and evaporated to dryness.<!--\vadjust {\pagebreak }-->The oily brownish residue was chromatographed on silica gel and eluted
+with 30:70 ethyl acetate&#x2013;cyclohexane binary system to afford the desired
+products.</p>
+</sec>
+<sec>
+<title>Instrumentation</title>
+<p><!--\xdollar\rm --><sup>1</sup><!--\xdollar-->H,
+<!--\xdollar\rm --><sup>13</sup><!--\xdollar-->C
+NMR spectra were recorded on a Bruker Advance 300 MHz apparatus in deuterated
+solvents. Chemical shift values are given in ppm relative to tetramethylsilane as
+an internal reference. Infrared spectra were measured on a Perkin-Elmer
+spectrophotometer as KBr pellets. The electrochemical experiments were conducted
+at ambient temperatures and at potential sweep rates equal to 0.1&#x00A0;Vs<sup>-1</sup>; in 0.1 M
+tetraethylammonium hexafluorophosphate acetonitrile solution. A three-electrode
+glass cell was controlled by a Radiometer Analytical POL 150 with a MED 150
+stand. The cell was fitted with a carbon glassy disk as a working electrode
+(3&#x00A0;mm in diameter), with a platinum wire as a counter electrode and an
+<mml:math altimg="e1.gif" display="inline">
+<mml:mstyle mathvariant="normal">
+<mml:mi>Ag</mml:mi></mml:mstyle>
+<mml:mo>&#x002F;</mml:mo>
+<mml:mstyle mathvariant="normal">
+<mml:mi>AgCl</mml:mi></mml:mstyle></mml:math> (3M
+KCl) electrode used as reference electrode. Data acquisition and treatment were
+respectively performed with TraceMaster 5 Software for cyclic voltammetry (CV) and
+square wave voltammetries (SWV) experiments. The working electrode was polished
+at the beginning of each experiment.</p>
+</sec>
+<sec>
+<title>Synthesis and characterization</title>
+<p>The spectroscopic data for physical characterization of compounds 
+<bold>1a-c</bold> are given in
+the Supplementary Material File (SMF file).</p>
+</sec>
+</sec>
+<sec>
+<title>Results and Discussion</title>
+<sec>
+<title>UV-visible spectrophotometric study</title>
+<p>The UV-visible spectrum of the free probe 
+<bold>1a</bold> showed two major bands located at 267 and 326 nm
+corresponding to 
+<mml:math altimg="e2.gif" display="inline">
+<mml:mi>&#x03C0;</mml:mi> 
+<mml:mo>&#x2192;</mml:mo> 
+<mml:msup>
+<mml:mrow >
+<mml:mi>&#x03C0;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2217;</mml:mo></mml:mrow></mml:msup ></mml:math>
+and 
+<mml:math altimg="e3.gif" display="inline">
+<mml:mi>n</mml:mi> 
+<mml:mo>&#x2192;</mml:mo> 
+<mml:msup>
+<mml:mrow >
+<mml:mi>&#x03C0;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mo>&#x2217;</mml:mo></mml:mrow></mml:msup ></mml:math>
+of the aromatic moieties (<xref rid="fig2">Fig.&#x00A0;2</xref>).
+<fig  id="fig2">  
+<label>Figure&#x00A0;2.</label>  
+<caption> 
+<title>&#x00A0;UV-visible absorption spectra before (&#x2014;) and after the addition of: a- 0.5
+equivalent of Mg<sup>2+</sup><!--\unskip \break -->(<mml:math altimg="e4.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi></mml:math>),
+0.5 equivalent of Ca<sup>2+</sup>(- - -), b- 0.5 equivalent of Zn<sup>2+</sup>(- - -), 0.5 equivalent of
+Ni<sup>2+</sup>(<mml:math altimg="e5.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi></mml:math>)
+to an acetonitrile solution of 
+<bold>1a</bold> compound. </title> 
+</caption>       
+<graphic xlink:href="gr2.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [h]{fig2}--></p>
+<p>TfOH speeds up the chelation of the metal ions (<italic>vide infra</italic>), and the probes 
+<bold>1a-c</bold>
+contain two aromatic nitrogen atoms. The addition of catalytic amounts did not
+influence the positions of the absorption bands or their intensities. As shown
+in
+<xref rid="fig2">Fig.&#x00A0;2</xref>(a), the addition of a 0.5 equivalent of Mg<sup>2+</sup> to a solution of free probe
+<bold>1a</bold> induced simultaneously a 5 nm blue and an hyperchromic effect of the
+band at 267 nm. The other weak band underwent a hypsochromic shift of
+13 nm. No change was observed when 0.5 equivalent of Ca<sup>2+</sup> was added. In
+addition, a 27 nm blue shift of the band at 326 nm and an increasing of the
+absorption intensity of the band at 267 nm with a hypsochromic shift of about
+6 nm were observed when Zn<sup>2+</sup> was added. Ni<sup>2+</sup> provoked similar effects, but
+the band at 267 nm underwent a blue shift by 5 nm and saw its intensity
+reduced.<!--\pagebreak --></p>
+<p>The spectrophotometric behaviors of 
+<bold>1b</bold> and 
+<bold>1c</bold> in the presence of metal ions were
+similar to that of 
+<bold>1a</bold> (Figs. 1S-a and 1S-b see the SMF file). The absorption bands
+shifts for compounds 
+<bold>1a-c</bold> were summarized in
+<xref rid="tbl1">Table&#x00A0;1</xref>.
+<table-wrap  id="tbl1">  
+<label>Table&#x00A0;1.</label>  
+<caption> 
+<title>&#x00A0;Shifts of the UV-visible spectrophotometric absorption
+bands upon complexation of probes 
+<bold>1a-c</bold> by metallic ions in acetonitrile. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left"> </td> 
+<td colspan="2"  align="center"><!--\hspace *{-3pc}--><bold>1a</bold> (<mml:math altimg="e6.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>&#x03BB;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>max</mml:mi></mml:mstyle></mml:mrow></mml:msub >
+<mml:mo>&#x002F;</mml:mo>
+<mml:mstyle mathvariant="normal">
+<mml:mi>nm</mml:mi></mml:mstyle></mml:math>) </td> 
+<td colspan="2"  align="center"><!--\hspace *{-3pc}--><bold>1b</bold> (<mml:math altimg="e7.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>&#x03BB;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>max</mml:mi></mml:mstyle></mml:mrow></mml:msub >
+<mml:mo>&#x002F;</mml:mo>
+<mml:mstyle mathvariant="normal">
+<mml:mi>nm</mml:mi></mml:mstyle></mml:math>) </td> 
+<td colspan="2"  align="center">
+<bold>1c</bold> (<mml:math altimg="e8.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>&#x03BB;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>max</mml:mi></mml:mstyle></mml:mrow></mml:msub >
+<mml:mo>&#x002F;</mml:mo>
+<mml:mstyle mathvariant="normal">
+<mml:mi>nm</mml:mi></mml:mstyle></mml:math>)
+ </td></tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">Without     </td> 
+<td align="left">267 </td> 
+<td align="left">326                                                                                                      </td> 
+<td align="left">265 </td> 
+<td align="left">319                                                                                                      </td> 
+<td align="left">265 </td> 
+<td align="left">319                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Mg<sup>2+</sup>            </td> 
+<td align="left">262 </td> 
+<td align="left">313                                                                                                      </td> 
+<td align="left">262 </td> 
+<td align="left">310                                                                                                      </td> 
+<td align="left">265 </td> 
+<td align="left">319                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Ca<sup>2+</sup>            </td> 
+<td align="left">266 </td> 
+<td align="left">326                                                                                                      </td> 
+<td align="left">263 </td> 
+<td align="left">310                                                                                                      </td> 
+<td align="left">265 </td> 
+<td align="left">318                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Ni<sup>2+</sup>             </td> 
+<td align="left">262 </td> 
+<td align="left">326                                                                                                      </td> 
+<td align="left">261 </td> 
+<td align="left">299                                                                                                      </td> 
+<td align="left">265 </td> 
+<td align="left">319                                                                                                      </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Zn<sup>2+</sup>            </td> 
+<td align="left">261 </td> 
+<td align="left">299                                                                                                      </td> 
+<td align="left">261 </td> 
+<td align="left">299                                                                                                      </td> 
+<td align="left">262 </td> 
+<td align="left">295                                                                                                      </td>
+</tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [t]{tbl1}--></p>
+</sec>
+<sec>
+<title>Electrochemistry of free probes</title>
+<p>The cyclic voltammetry of compounds 
+<bold>1a-c</bold> shows two mono-electronic
+reversible oxidation peaks similar to those observable in tetramethylated
+<italic>para</italic>-phenylenediamine (TMPD)&#x00A0;<xref ref-type="bibr" rid="b21">[21]</xref>, corresponding respectively to
+the formation of a radical-cation and a dication. The electrochemical features of
+<bold>1a-c</bold> did not change much comparatively to TMPD, although the probes
+became less easy to oxidize likely due to an increase of inductive effects
+(<xref rid="fig3">Fig.&#x00A0;3</xref>). SWV curves are given in (Fig. 2S).
+<fig  id="fig3">  
+<label>Figure&#x00A0;3.</label>  
+<caption> 
+<title>&#x00A0;Cyclic voltammograms free probes 
+<bold>1a</bold> (&#x2014;), 
+<bold>1b</bold> (- - -) and 
+<bold>1c</bold>
+(&#x2013;<!--{ --><mml:math altimg="e9.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi></mml:math><!--} -->&#x2013;)
+(2.0 mM) in 0.1 M TEAPF
+<sub>6</sub>&#x00A0;acetonitrile solution. Glassy carbon as
+working electrode (diameter: 3&#x00A0;mm), Pt wire as counter-electrode and
+Ag<!--\unskip --><mml:math altimg="e10.gif" display="inline">
+<mml:mo>&#x002F;</mml:mo></mml:math>AgCl
+(3M) as a reference electrode. </title> 
+</caption>       
+<graphic xlink:href="gr3.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [h]{fig3}--></p>
+<p>Moreover, the addition of catalytic quantities of TfOH did not alter the
+electrochemical features of the redox system, but a 20 to 30 percent decrease in the
+peaks&#x2019; currents was observed due to the protonation of the nitrogen compounds
+(<xref rid="fig4">Fig.&#x00A0;4</xref>). Preliminary investigations showed that after several CV scans, a purple
+coloration developed slowly, probably due to electro-generated protons occurring at
+the electrode. These protons accelerated tremendously the cations&#x2019; chelation. The
+same coloration was observed and was related solely to protons since the
+same results were obtained by adding TfOH in presence and absence of the
+cations. Furthermore, the acid did not influence the oxidation potentials of the
+probes.</p>
+<p>The CV for a 2.0 mM solution of 
+<bold>1a</bold> in acetonitrile showed two anodic peaks during
+the sweep potential scan associated with two cathodic peaks in the reverse scan
+indicating that the two oxidation processes remained, as expected, reversible. Similar
+conclusions were also observed for compounds 
+<bold>1b</bold> and 
+<bold>1c</bold>&#x00A0;<xref ref-type="bibr" rid="b22
+b23">[22,23]</xref>, and these results are in agreement with our previous reported
+works&#x00A0;<xref ref-type="bibr" rid="b8 b9 b29">[8,9,29]</xref>.
+<fig  id="fig4">  
+<label>Figure&#x00A0;4.</label><!--aboveskip=3pt,abovecapskip=6pt,belowskip=3pt--><caption> 
+<title>&#x00A0;Cyclic (a) and square wave voltammograms (b) of 2.0 mM
+of free probe 
+<bold>1a</bold> (&#x2014;) and in 10 percent molar (0.2 mM) of TfOH (- - -)
+in 0.1 M TEAPF
+<sub>6</sub>&#x00A0;acetonitrile solution. Scan rate: 0.1&#x00A0;Vs<sup>-1</sup>; Glassy carbon as
+working electrode (diameter: 3&#x00A0;mm), Pt wire as counter-electrode and
+Ag<!--\unskip --><mml:math altimg="e11.gif" display="inline">
+<mml:mo>&#x002F;</mml:mo></mml:math>AgCl
+(3M) as a reference electrode. </title> 
+</caption>       
+<graphic xlink:href="gr4.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig4}--></p>
+<p>The effect of the scan rate on the first oxidation peak current
+(<mml:math altimg="e12.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>i</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>a</mml:mi></mml:mrow></mml:msub >
+<mml:mo>&#x002F;</mml:mo>
+<mml:msup>
+<mml:mrow >
+<mml:mi>&#x03BD;</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mo>&#x002F;</mml:mo>
+<mml:mn>2</mml:mn></mml:mrow></mml:msup ></mml:math>) was
+studied in the range of 0.05&#x2013;1.0 Vs<sup>-1</sup> when the potential was poised approximately to
+0.4&#x2013;0.6 V (Fig. 3S). The linearity of the straight line of the logarithm of the first
+peak current as a function of logarithm of scan rate was close to 0.5&#x00A0;V (Fig. 4S)
+indicating a diffusion-controlled electrochemical process&#x00A0;<xref ref-type="bibr" rid="b22
+b23">[22,23]</xref>.</p>
+<p>The electrochemical characteristics for the compounds 
+<bold>1a-c</bold> are summarized
+in
+<xref rid="tbl2">Table&#x00A0;2</xref>.
+<table-wrap  id="tbl2">  
+<label>Table&#x00A0;2.</label> <!--aboveskip=3pt,belowskip=3pt--><caption> 
+<title>&#x00A0;Thermodynamic data of probes 
+<bold>1a-c</bold>
+<xref rid="TF2.a"><sup>a</sup></xref>. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left"> </td> 
+<td colspan="5"  align="center">1st oxidation wave/mV                                                                                                                                                                                                                                                                                                                      </td> 
+<td colspan="4"  align="center">2nd oxidation wave/mV
+ </td></tr> 
+<tr valign="top"> 
+<td align="left">Compd.            </td> 
+<td align="left">
+<mml:math altimg="e13.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>a</mml:mi></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e14.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>c</mml:mi></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e15.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi></mml:mrow></mml:msub ></mml:math>
+<xref rid="TF2.b"><sup>b</sup></xref> </td> 
+<td align="left">
+<mml:math altimg="e16.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mo>&#x002F;</mml:mo>
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math>
+<xref rid="TF2.c"><sup>c</sup></xref> </td> 
+<td align="left">
+<mml:math altimg="e17.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>i</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>a</mml:mi></mml:mrow></mml:msub >
+<mml:mo>&#x002F;</mml:mo>
+<mml:msub>
+<mml:mrow >
+<mml:mi>i</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>c</mml:mi></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e18.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>a</mml:mi></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e19.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi>
+<mml:mi>c</mml:mi></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e20.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>&#x0394;</mml:mi>
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mi>p</mml:mi></mml:mrow></mml:msub ></mml:math>
+<xref rid="TF2.b"><sup>b</sup></xref> </td> 
+<td align="left">
+<mml:math altimg="e21.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>E</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mo>&#x002F;</mml:mo>
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math>
+<xref rid="TF2.c"><sup>c</sup></xref> </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">
+<bold>1a</bold>                </td> 
+<td align="left">300                                                                                                    </td> 
+<td align="left">190                                                                                                    </td> 
+<td align="left">110                                                                                                    </td> 
+<td align="left">250                                                                                                    </td> 
+<td align="left">0,96                                                                                                   </td> 
+<td align="left">910                                                                                                    </td> 
+<td align="left">810                                                                                                    </td> 
+<td align="left">100                                                                                                    </td> 
+<td align="left">860                                                                                                    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>1b</bold>                </td> 
+<td align="left">320                                                                                                    </td> 
+<td align="left">230                                                                                                    </td> 
+<td align="left">90                                                                                                     </td> 
+<td align="left">280                                                                                                    </td> 
+<td align="left">0,98                                                                                                   </td> 
+<td align="left">880                                                                                                    </td> 
+<td align="left">780                                                                                                    </td> 
+<td align="left">100                                                                                                    </td> 
+<td align="left">830                                                                                                    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<bold>1c</bold>                </td> 
+<td align="left">410                                                                                                    </td> 
+<td align="left">320                                                                                                    </td> 
+<td align="left">90                                                                                                     </td> 
+<td align="left">370                                                                                                    </td> 
+<td align="left">0,97                                                                                                   </td> 
+<td align="left">920                                                                                                    </td> 
+<td align="left">830                                                                                                    </td> 
+<td align="left">90                                                                                                     </td> 
+<td align="left">880                                                                                                    </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF2.a">
+<label>a</label>
+<p>0.1 M <!--\xdollar\rm -->          TEAPF
+<sub>6</sub><!--\xdollar-->&#x00A0;in
+acetonitrile, scan rate: 0.1 Vs<sup>-1</sup>; working electrode: glassy carbon
+(diameter: 3&#x00A0;mm); counter-electrode: Pt wire and reference electrode:
+<mml:math altimg="e22.gif" display="inline">
+<mml:mstyle mathvariant="normal">
+<mml:mi>Ag</mml:mi></mml:mstyle>
+<mml:mo>&#x002F;</mml:mo>
+<mml:mstyle mathvariant="normal">
+<mml:mi>AgCl</mml:mi></mml:mstyle></mml:math>;</p></fn> 
+<fn id="TF2.b">
+<label>b</label>
+<p><!--\xdollar\rm -->&#x0394;E
+<sub>p</sub>=E
+<sub>pa</sub>&#x2212;E
+<sub>pc</sub><!--\xdollar-->;</p></fn> 
+<fn id="TF2.c">
+<label>c</label>
+<p><!--\xdollar\rm -->E
+<sub>1&#x002F;2</sub>=(E
+<sub>pa</sub>+E
+<sub>pc</sub>)&#x002F;2<!--\xdollar--></p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setTable [t]{tbl2}--></p>
+</sec>
+<sec>
+<title>Sensing of calcium and magnesium</title>
+<p>CV and SWV studies in the presence of calcium or magnesium ions revealed that
+compounds 
+<bold>1a-c</bold> were able to bind these cations. As shown in
+<xref rid="fig5">Fig.&#x00A0;5</xref>, the chelation of Ca<sup>2+</sup> or Mg<sup>2+</sup> by the compound 
+<bold>1a</bold> provoked very important anodic shifts
+in the CV curves when a 0.5 equivalent of ions is added. In fact, the two peaks of oxidation (<!--\xdollar\rm -->O
+<sub>1</sub><!--\xdollar--> and <!--\xdollar\rm -->O
+<sub>2</sub><!--\xdollar-->)
+related to the free probe disappeared, and an irreversible peak (<!--\xdollar\rm -->O
+<sub>3</sub><!--\xdollar-->) was
+observed at much higher anodic potentials attributed to oxidation of the
+complexes. On the reverse scan, two reduction peaks were observed: an <!--\xdollar\rm -->R
+<sub>4</sub><!--\xdollar-->&#x00A0;peak occurred at the same
+potential as an <!--\xdollar\rm -->          R
+<sub>2</sub><!--\xdollar-->,
+indicating that the dication generated from the oxidation of the complex
+remained uncoordinated because of the electronic repulsion between
+the positive charges on the phenylenediamine moiety and the cations.
+Reduction into the neutral initial species took place at higher potentials (<!--\xdollar\rm -->R
+<sub>5</sub><!--\xdollar-->)
+compared to those without calcium or magnesium (<!--\xdollar\rm -->R
+<sub>1</sub><!--\xdollar-->),
+because the recomplexation reaction displaces the interfacial equilibrium, thus
+facilitating the electron transfer&#x00A0;<xref ref-type="bibr" rid="b24 b25">[24,25]</xref>.
+<fig  id="fig5">  
+<label>Figure&#x00A0;5.</label><!--aboveskip=3pt,abovecapskip=6pt,belowskip=3pt--><caption> 
+<title>&#x00A0;CV voltammograms of 2.0 mM solution of 
+<bold>1a</bold> in acetonitrile 0.1M
+TEAPF
+<sub>6</sub>&#x00A0;solution in the absence <!--\unskip \break -->(&#x2014;) and in presence of 0.5 equivalent of Ca<sup>2+</sup>
+(<mml:math altimg="e23.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi></mml:math>) of 0.5
+equivalent of Mg<sup>2+</sup> (- - -), b- SWV voltammograms of 2 mM solution 
+<bold>1a</bold> in acetonitrile
+0.1M TEAPF
+<sub>6</sub>&#x00A0;solution in the absence (&#x2014;) and in presence of 0.5 equivalents of Ca<sup>2+</sup>
+(<mml:math altimg="e24.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi>
+<mml:mi>&#x2022;</mml:mi></mml:math>) of
+0.5 equivalents of Mg<sup>2+</sup> (- - -). </title> 
+</caption>       
+<graphic xlink:href="gr5.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig5}--></p>
+<p>CV as well as SWV showed that the third peak <!--\xdollar\rm -->O
+<sub>3</sub><!--\xdollar--> is
+probably due to the oxidation of the furan and the chelated phenylenediamine
+rings&#x00A0;<xref ref-type="bibr" rid="b26 b27">[26,27]</xref>. The peak was more prominent in the case of
+calcium compared to magnesium.</p>
+<p>For CV, the potentials shifts reported in
+<xref rid="tbl3">Table&#x00A0;3</xref> were between 780 and 990 mV. In SWV the increases of peaks potentials
+were <!--\vadjust {\pagebreak }-->slightly less important and were between 710 and 930 mV. The substituent on
+the para position to the ionophore site affected the magnitude of the potential shifts.
+Beer et&#x00A0;al. established that the stability of the complexes was proportional to the
+potential <!--\unskip \break -->shifts&#x00A0;<xref ref-type="bibr" rid="b28">[28]</xref>.
+<table-wrap  id="tbl3">  
+<label>Table&#x00A0;3.</label> <!--aboveskip=3pt,belowskip=3pt--><caption> 
+<title>&#x00A0;CV and SWV potentials of first oxidation peak and third oxidation peak
+(complex peaks) and their differences for compounds 
+<bold>1a-c</bold> in the presence of 0.5 equivalent of
+<!--\let \rm \relax \unboldmath --> Ca<!--\xdollar\rm -->           <!--\xxUB--><sup>2<!--\xxxUB-->+</sup><!--\xdollar-->,
+Mg<!--\xdollar\rm -->          <!--\xxUB--><sup>2<!--\xxxUB-->+</sup><!--\xdollar-->, Ni<!--\xdollar\rm --><!--\xxUB--><sup>2<!--\xxxUB-->+</sup><!--\xdollar--> and Zn<!--\xdollar\rm --><!--\xxUB--><sup>2<!--\xxxUB-->+</sup><!--\xdollar--> in acetonitrile/0.1M
+TEAPF<!--\xdollar\rm -->          <!--\xxUB--><sub>6</sub><!--\xdollar-->. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">       </td> 
+<td align="left">                                                                                                                                                          </td> 
+<td align="left"><!--\xdollar\rm -->        Ca<sup>2+</sup><!--\xdollar--> </td> 
+<td align="left"><!--\xdollar\rm -->        Mg<sup>2+</sup><!--\xdollar--> </td> 
+<td align="left"><!--\xdollar\rm -->        Ni<sup>2+</sup><!--\xdollar--> </td> 
+<td align="left"><!--\xdollar\rm -->        Zn<sup>2+</sup><!--\xdollar--> </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td colspan="6"  align="center">CV Data
+ </td></tr> 
+<tr valign="top"> 
+<td  rowspan="2"  align="left">
+<bold>1a</bold> </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar-->(<!--\xdollar\rm -->            O
+<sub>1</sub><!--\xdollar-->)/mV   </td> 
+<td align="left">300                                                                                                                </td> 
+<td align="left">300                                                                                                                </td> 
+<td align="left">300                                                                                                                </td> 
+<td align="left">300                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar--> (<!--\xdollar\rm -->            O
+<sub>3</sub><!--\xdollar-->)/mV  </td> 
+<td align="left">1290                                                                                                              </td> 
+<td align="left">1230                                                                                                              </td> 
+<td align="left">1270                                                                                                              </td> 
+<td align="left">1240                                                                                                              </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        &#x0394;E
+<sub>p</sub><!--\xdollar-->/mV                                                                                                                         </td> 
+<td align="left">990                                                                                                                </td> 
+<td align="left">930 <!--\vspace *{5pt}-->                                                                                                               </td> 
+<td align="left">970                                                                                                                </td> 
+<td align="left">940                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td  rowspan="2"  align="left">
+<bold>1b</bold> </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar-->(<!--\xdollar\rm -->            O
+<sub>1</sub><!--\xdollar-->)/mV   </td> 
+<td align="left">330                                                                                                                </td> 
+<td align="left">330                                                                                                                </td> 
+<td align="left">330                                                                                                                </td> 
+<td align="left">330                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar--> (<!--\xdollar\rm -->            O
+<sub>3</sub><!--\xdollar-->) /mV </td> 
+<td align="left">1280                                                                                                              </td> 
+<td align="left">1210                                                                                                              </td> 
+<td align="left">1230                                                                                                              </td> 
+<td align="left">1300                                                                                                              </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        &#x0394;E
+<sub>p</sub><!--\xdollar-->/mV                                                                                                                         </td> 
+<td align="left">950                                                                                                                </td> 
+<td align="left">880 <!--\vspace *{5pt}-->                                                                                                               </td> 
+<td align="left">900                                                                                                                </td> 
+<td align="left">970                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td  rowspan="2"  align="left">
+<bold>1c</bold> </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar-->(<!--\xdollar\rm -->            O
+<sub>1</sub><!--\xdollar-->)/mV   </td> 
+<td align="left">430                                                                                                                </td> 
+<td align="left">430                                                                                                                </td> 
+<td align="left">430                                                                                                                </td> 
+<td align="left">430                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar--> (<!--\xdollar\rm -->            O
+<sub>3</sub><!--\xdollar-->)/mV  </td> 
+<td align="left">1210                                                                                                              </td> 
+<td align="left">1220                                                                                                              </td> 
+<td align="left">1260                                                                                                              </td> 
+<td align="left">1230                                                                                                              </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        &#x0394;E
+<sub>p</sub><!--\xdollar-->/mV                                                                                                                         </td> 
+<td align="left">780                                                                                                                </td> 
+<td align="left">790                                                                                                                </td> 
+<td align="left">830                                                                                                                </td> 
+<td align="left">800                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="6"  align="center">SWV Data
+ </td></tr> 
+<tr valign="top"> 
+<td  rowspan="2"  align="left">
+<bold>1a</bold> </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar-->(<!--\xdollar\rm -->            O
+<sub>1</sub><!--\xdollar-->)/mV   </td> 
+<td align="left">270                                                                                                                </td> 
+<td align="left">270                                                                                                                </td> 
+<td align="left">270                                                                                                                </td> 
+<td align="left">270                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar--> (<!--\xdollar\rm -->            O
+<sub>3</sub><!--\xdollar-->) /mV </td> 
+<td align="left">1120                                                                                                              </td> 
+<td align="left">1140                                                                                                              </td> 
+<td align="left">1200                                                                                                              </td> 
+<td align="left">1160                                                                                                              </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        &#x0394;E
+<sub>p</sub><!--\xdollar-->/mV                                                                                                                         </td> 
+<td align="left">850                                                                                                                </td> 
+<td align="left">870 <!--\vspace *{5pt}-->                                                                                                               </td> 
+<td align="left">930                                                                                                                </td> 
+<td align="left">890                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td  rowspan="2"  align="left">
+<bold>1b</bold> </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar-->(<!--\xdollar\rm -->            O
+<sub>1</sub><!--\xdollar-->)/mV   </td> 
+<td align="left">290                                                                                                                </td> 
+<td align="left">290                                                                                                                </td> 
+<td align="left">290                                                                                                                </td> 
+<td align="left">290                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar--> (<!--\xdollar\rm -->            O
+<sub>3</sub><!--\xdollar-->) /mV </td> 
+<td align="left">1220                                                                                                              </td> 
+<td align="left">1150                                                                                                              </td> 
+<td align="left">1260                                                                                                              </td> 
+<td align="left">1180                                                                                                              </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        &#x0394;E
+<sub>p</sub><!--\xdollar-->/mV                                                                                                                         </td> 
+<td align="left">930                                                                                                                </td> 
+<td align="left">860 <!--\vspace *{5pt}-->                                                                                                               </td> 
+<td align="left">890                                                                                                                </td> 
+<td align="left">970                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td  rowspan="2"  align="left">
+<bold>1c</bold> </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar-->(<!--\xdollar\rm -->            O
+<sub>1</sub><!--\xdollar-->)/mV   </td> 
+<td align="left">400                                                                                                                </td> 
+<td align="left">400                                                                                                                </td> 
+<td align="left">400                                                                                                                </td> 
+<td align="left">400                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        E
+<sub>pa</sub><!--\xdollar--> (<!--\xdollar\rm -->            O
+<sub>3</sub><!--\xdollar-->) /mV </td> 
+<td align="left">1150                                                                                                              </td> 
+<td align="left">1110                                                                                                              </td> 
+<td align="left">1200                                                                                                              </td> 
+<td align="left">1170                                                                                                              </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">             </td> 
+<td align="left"><!--\xdollar\rm -->        &#x0394;E
+<sub>p</sub><!--\xdollar-->/mV                                                                                                                         </td> 
+<td align="left">750                                                                                                                </td> 
+<td align="left">710                                                                                                                </td> 
+<td align="left">800                                                                                                                </td> 
+<td align="left">770                                                                                                                </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF3.1">
+<p>* <!--\xdollar\rm -->           &#x0394;E
+<sub>p</sub>=E
+<sub>pa</sub>(O
+<sub>3</sub>)&#x2212;E
+<sub>pa</sub>(O
+<sub>1</sub>).<!--\xdollar--></p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setTable [t]{tbl3}--></p>
+<sec>
+<title>Sensing of nickel and zinc</title>
+<p>Electrochemical studies of the probe 
+<bold>1a</bold> in the presence of Ni<sup>2+</sup> and Zn<sup>2+</sup> gave similar
+results to those observed with alkaline earth cations (Fig. 5S-a). The signals of
+the uncoordinated probe disappeared due to the cations&#x2019; addition along
+with the appearance of more anodic signals related to the oxidation of the
+chelated forms.<!--\vadjust {\pagebreak }--> The potential peaks&#x2019; shifts were in the range of 800 to 970 mV
+(<xref rid="tbl3">Table&#x00A0;3</xref>). For all compounds, the addition of TfOH accelerated the Zn<sup>2+</sup>
+complexation; however, the reaction could occur without it. For Ni<sup>2+</sup>, a 10 percent
+molar solution of TfOH was necessary to achieve the chelation. Effectively, if no acid
+was added and in presence of 0.5 equivalent of Ni<sup>2+</sup>, the electrochemical features of the
+free probe did change even if the Ni<sup>2+</sup>/ligand solution was kept under stirring
+overnight. Compounds 
+<bold>1b</bold> and 
+<bold>1c</bold> behaved similarly in presence of nickel.
+Probably, the complexation reaction needs a change in the conformation of
+the probes induced by the protonation followed by metal-proton exchange
+reaction.</p>
+<p>In cases of Ni<sup>2+</sup> and Zn<sup>2+</sup>, no overlapping peaks were observed in the voltammograms due
+to the oxidation of the furan ring as noticeable with the alkaline earth ions, a
+phenomenon confirmed by single peaks observed in square wave voltammetry curves
+(Fig. 5S-b).</p>
+<p>For all cations, a 1:2 metal-to-ligand ratio was observed which lead
+to the conclusion that the obtained complexes in solution were <!--\xdollar\rm -->[M(L)
+<sub>2</sub>]<sup>2+</sup><!--\xdollar-->.</p>
+</sec>
+</sec>
+<sec>
+<title>Selectivity</title>
+<p>As the studies showed, the probes can bind all the cations, and it was interesting to
+investigate the selectivity between them. First, alkaline earth ions were compared,
+then a comparison was made between Zn<sup>2+</sup> and Ni<sup>2+</sup> and finally alkaline earth were
+compared to transition metal ions. 
+<bold>1a</bold> did not allow for distinguishing between the
+ions and 
+<bold>1c</bold> was discarded because of the morpholine ring oxygen which could
+compete with the ionophore site, so 
+<bold>1b</bold> was the most fitted for this study. CV (Fig.
+6S) and SWV (<xref rid="fig6">Fig.&#x00A0;6</xref>) voltammograms showed that 
+<bold>1b</bold> in the presence of a mixture of Ca<sup>2+</sup> and
+Mg<sup>2+</sup> gave curves which were close to those of Ca<sup>2+</sup> alone, although the intensity of the
+peak current was less important. So it could be concluded that 
+<bold>1b</bold> was more selective
+to calcium over magnesium&#x00A0;<xref ref-type="bibr" rid="b29">[29]</xref>.
+<fig  id="fig6">  
+<label>Figure&#x00A0;6.</label><!--aboveskip=3pt,abovecapskip=6pt,belowskip=3pt--><caption> 
+<title>&#x00A0;SWV voltammograms of (i) metal free 
+<bold>1b</bold> (2.0mM) (), (ii) 
+<bold>1b</bold> in the
+presence of 0.5 equivalent of Mg<sup>2+</sup> (&#x2014;), (iii) 
+<bold>1b</bold> in the presence of 0.5 equivalent of Ca<sup>2+</sup>
+(&#x2013;<!--{ --><mml:math altimg="e25.gif" display="inline">
+<mml:mi>&#x25B4;</mml:mi></mml:math><!--} -->&#x2013;)
+and (iv) solution in the presence of 0.5 equivalent of Mg<sup>2+</sup> and of 0.5 equivalent of Ca<sup>2+</sup>
+(- - -) in acetonitrile/0.1M TEAPF
+<sub>6</sub>&#x00A0;solution. </title> 
+</caption>       
+<graphic xlink:href="gr6.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [h]{fig6}--></p>
+<p>In addition, analogous treatment showed that 
+<bold>1b</bold> was more selective to Ni<sup>2+</sup> over Zn<sup>2+</sup>
+(<xref rid="fig7">Fig.&#x00A0;7</xref>). In fact, even in the presence of a large amount of Zn<sup>2+</sup> (5 equivalent), the
+addition of a stoichiometric quantity of Ni<sup>2+</sup> was enough to form the 1:2 complex, thus
+zinc was ejected from the receptor ionophore site and nickel replaced it indicating
+that the probe was very selective to nickel.
+<fig  id="fig7">  
+<label>Figure&#x00A0;7.</label>  
+<caption> 
+<title>&#x00A0;SWV voltammograms of (i) metal free 
+<bold>1b</bold>
+(2.0 mM) (&#x2014;), (ii) 
+<bold>1b</bold> in the presence of 0.5 equivalent of Ni<sup>2+</sup>
+<!--\unskip \break -->(&#x2013;<!--{ --><mml:math altimg="e26.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi></mml:math><!--} -->&#x2013;), (iii) 
+<bold>1b</bold> in the presence
+of 0.5 equivalent of Zn<sup>2+</sup> (&#x2013;<!--{ --><mml:math altimg="e27.gif" display="inline">
+<mml:mi>&#x25B4;</mml:mi></mml:math><!--} -->&#x2013;)
+and (iv) solution in the presence of 0.5 equivalent of Ni<sup>2+</sup> and of 5 equivalents of Zn<sup>2+</sup> (- -
+-) in acetonitrile/0.1M TEAPF
+<sub>6</sub>&#x00A0;solution. </title> 
+</caption>       
+<graphic xlink:href="gr7.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig7}--></p>
+<p>As shown in the
+<xref rid="fig8">Fig.&#x00A0;8</xref>, only one peak was observed after the addition of a equimolar mixture of
+the Ca<sup>2+</sup> and Ni<sup>2+</sup>. The peak is almost superimposable with that of the oxidation of the
+calcium complex, which lead to the conclusion that the 
+<bold>1b</bold> compound was more
+selective to calcium over nickel. These results indicated that 
+<bold>1b</bold> was more selective to
+Ca<sup>2+</sup>&#x003E;&#x00A0;Mg<sup>2+</sup>&#x003E;&#x00A0; Ni<sup>2+</sup>&#x003E;&#x00A0;Zn<sup>2+</sup>.<!--\pagebreak --><fig  id="fig8">  
+<label>Figure&#x00A0;8.</label>  
+<caption> 
+<title>&#x00A0;SWV voltammograms of (i) metal free 
+<bold>1b</bold> (2.0mM)
+(&#x2013;<!--{ --><mml:math altimg="e28.gif" display="inline">
+<mml:mi>&#x2022;</mml:mi></mml:math><!--} -->&#x2013;), (iii)
+<bold>1b</bold> in the presence of 0.5 equivalent of Ca<sup>2+</sup> (&#x2014;), (ii) 
+<bold>1b</bold> in the presence of 0.5 equivalent of
+Ni<sup>2+</sup> (&#x2013;<!--{ --><mml:math altimg="e29.gif" display="inline">
+<mml:mi>&#x25B4;</mml:mi></mml:math><!--} -->&#x2013;)
+and (iv) solution in the presence of 0.5 equivalent of Ni<sup>2+</sup> and of 0.5 equivalent of Ca<sup>2+</sup> (-
+- -) in acetonitrile/0.1M TEAPF
+<sub>6</sub>&#x00A0;solution. </title> 
+</caption>       
+<graphic xlink:href="gr8.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [t]{fig8}--></p>
+</sec>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>In summary, UV-visible spectrophotometric, cyclic, square wave and differential pulse
+voltammetry studies showed that a series of tetraalkylated pheneylenediamines
+containing a bis(furan-2-methyl)amino group as the ionophore site were found to be
+sensitive to the presence of calcium, magnesium, nickel and zinc ions in
+solution. All the complexes were formed in 1:2 stoichiometries. Comparative
+studies showed that 
+<bold>1b</bold> was more selective to Ca<sup>2+</sup> over Mg<sup>2+</sup> and to Ni<sup>2+</sup> over
+Zn<sup>2+</sup>. Further investigation revealed that 
+<bold>1b</bold> was more selective to Ca<sup>2+</sup> over
+Ni<sup>2+</sup>.</p>
+</sec>
+<sec>
+<title>Acknowledgments</title>
+<p>The authors gratefully acknowledge the Tunisian Ministry of Higher Education and
+Scientific Research for financial help (Lab CH-02) and the DRGS-CNRS program for
+research grant (10/R-1202) for RS.</p>
+</sec>
+<sec>
+<title>Appendix. Supplementary materials</title>
+<p>Supplementary materials associated with this article can be found, in the online
+version 
+<uri xlink:href="http://dx.doi.org/10.5339/connect.2012.8">doi:10.5339/connect.2012.8</uri>.</p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<label>[1]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sigel</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Siegel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1984</year>
+<x>). </x>
+<source>Metal Ions in Biological System: Calcium and its Role in Biology</source>
+<x>. </x>
+<volume>17</volume>
+<x>, </x>
+<publisher-name>M.
+Dekker</publisher-name>
+<x>, </x>
+<publisher-loc>New York</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b2">
+<label>[2]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sigel</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Siegel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1983</year>
+<x>). </x>
+<source>Metal Ions in Biological System: Zinc and its Role in Biology and Nutrition</source>
+<x>.
+</x>
+<volume>15</volume>
+<x>, </x>
+<publisher-name>M. Dekker</publisher-name>
+<x>, </x>
+<publisher-loc>New York</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<label>[3]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sigel</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Siegel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1990</year>
+<x>). </x>
+<source>Metal Ions in Biological System: Compendium on Magnesium and
+its Role in Biology, Nutrition, and Physiology</source>
+<x>. </x>
+<volume>26</volume>
+<x>, </x>
+<publisher-name>M. Dekker</publisher-name>
+<x>, </x>
+<publisher-loc>New York</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<label>[4]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sigel</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Siegel</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1988</year>
+<x>). </x>
+<source>Metal Ions in Biological System: Nickel and its Role in Biology</source>
+<x>. </x>
+<volume>23</volume>
+<x>, </x>
+<publisher-name>M.
+Dekker</publisher-name>
+<x>, </x>
+<publisher-loc>New York</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b5">
+<label>[5]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Denkhaus</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Salnikow</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>Nickel Essentiality, Toxicity, and Carcinogenicity</article-title>
+<x>. </x>
+<source>Crit Rev Oncol Hematol</source>
+<x>,
+</x>
+<volume>42</volume>
+<x>, </x>
+<fpage>35</fpage>
+<x>&#x2013;</x>
+<lpage>56</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<label>[6]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Tang</surname>
+<x>, </x>
+<given-names>Y.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Travis</surname>
+<x>, </x>
+<given-names>E.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Wightman</surname>
+<x>, </x>
+<given-names>R.M.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Schneider</surname>
+<x>, </x>
+<given-names>A.S.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<article-title>Sodium&#x2013;calcium exchange affects local calcium signal decay and the rate of
+exocytotic secretion in single chromaffin cells</article-title>
+<x>. </x>
+<source>J Neurochem</source>
+<x>, </x>
+<volume>74</volume>
+<x>, </x>
+<fpage>702</fpage>
+<x>&#x2013;</x>
+<lpage>710</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b7">
+<label>[7]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Haynes</surname>
+<x>, </x>
+<given-names>C.L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Buhler</surname>
+<x>, </x>
+<given-names>L.A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Wightman</surname>
+<x>, </x>
+<given-names>R.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Vesicular Ca<sup>2+</sup>-induced secretion promoted by intracellular pH-Gradient
+disruption</article-title>
+<x>. </x>
+<source>Biophys Chem</source>
+<x>, </x>
+<volume>123</volume>
+<x>, </x>
+<fpage>20</fpage>
+<x>&#x2013;</x>
+<lpage>24</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b8">
+<label>[8]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Amatore</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Genovese</surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Maisonhaute</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Raouafi</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Sch&#x00F6;llhorn</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Towards electrochemically-driven release of nanoscale quantities of
+cations with kinetic and spatial resolution</article-title>
+<x>. </x>
+<source>Angew Chem Int Ed</source>
+<x>, </x>
+<volume>47</volume>
+<x>, </x>
+<fpage>5811</fpage>
+<x>&#x2013;</x>
+<lpage>5814</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b9">
+<label>[9]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sahli</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Raouafi</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boujlel</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Maisonhaute</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Sch&#x00F6;llhorn</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Amatore</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2011</year>
+<x>). </x>
+<article-title>Electrochemically active phenylenediamine probes for transition metal cation
+detection</article-title>
+<x>. </x>
+<source>New J Chem</source>
+<x>, </x>
+<volume>35</volume>
+<x>, </x>
+<fpage>709</fpage>
+<x>&#x2013;</x>
+<lpage>715</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b10">
+<label>[10]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Plenio</surname>
+<x>, </x>
+<given-names>H</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Burth</surname>
+<x>, </x>
+<given-names>D</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1996</year>
+<x>). </x>
+<article-title>Indenyl-crown ethers: heterotopic ligands with a
+<mml:math altimg="e30.gif" display="inline">
+<mml:mi>&#x03C0;</mml:mi></mml:math>- and
+a 
+<mml:math altimg="e31.gif" display="inline">
+<mml:mi>&#x03C3;</mml:mi></mml:math>-face
+and the synthesis of cymantrene- and cobaltocene-crown ethers and their alkaline
+metal ion complexes</article-title>
+<x>. </x>
+<source>Organometallics</source>
+<x>, </x>
+<volume>15</volume>
+<x>, </x>
+<fpage>1151</fpage>
+<x>&#x2013;</x>
+<lpage>1156</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b11">
+<label>[11]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lai</surname>
+<x>, </x>
+<given-names>R.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Chiba</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Kitamura</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Bard</surname>
+<x>, </x>
+<given-names>A.J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>Electrogenerated chemiluminescence. 68. Detection of sodium ion with a
+ruthenium(II) complex with crown ether moiety at the 3,3&#x2019;-positions on the
+2,2&#x2019;-bipyridine ligand</article-title>
+<x>. </x>
+<source>Anal Chem</source>
+<x>, </x>
+<volume>74</volume>
+<x>, </x>
+<fpage>551</fpage>
+<x>&#x2013;</x>
+<lpage>553</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b12">
+<label>[12]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Chesney</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bryce</surname>
+<x>, </x>
+<given-names>M.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Batsanov</surname>
+<x>, </x>
+<given-names>A.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Howard</surname>
+<x>, </x>
+<given-names>J.A.K.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Goldenberg</surname>
+<x>, </x>
+<given-names>L.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1998</year>
+<x>). </x>
+<article-title>Selective electrochemical magnesium and calcium sensors based on
+non-macrocyclic nitrogen-containing ferrocene ligands</article-title>
+<x>. </x>
+<source>Chem Commun</source>
+<x>, </x>
+<fpage>677</fpage>
+<x>&#x2013;</x>
+<lpage>679</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b13">
+<label>[13]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pearson</surname>
+<x>, </x>
+<given-names>A.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Hwang</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2001</year>
+<x>). </x>
+<article-title>Crown-annelated 
+<italic>p</italic>-phenylenediamine derivatives as electrochemical and
+fluorescence-responsive chemosensors: cyclic voltammetry studies</article-title>
+<x>. </x>
+<source>Tetrahedron Lett</source>
+<x>,
+</x>
+<volume>42</volume>
+<x>, </x>
+<fpage>3541</fpage>
+<x>&#x2013;</x>
+<lpage>3543</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b14">
+<label>[14]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Fricke</surname>
+<x>, </x>
+<given-names>T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Dickmans</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jana</surname>
+<x>, </x>
+<given-names>U.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zabel</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jones</surname>
+<x>, </x>
+<given-names>P.G.I.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Dix K&#x00F6;nig</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Herges</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>Synthesis and structure of bis-urea phenazines</article-title>
+<x>. </x>
+<source>Z Naturforsch B</source>
+<x>, </x>
+<volume>57</volume>
+<x>, </x>
+<fpage>937</fpage>
+<x>&#x2013;</x>
+<lpage>945</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b15">
+<label>[15]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Beer</surname>
+<x>, </x>
+<given-names>P.D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gale</surname>
+<x>, </x>
+<given-names>P.A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Chen</surname>
+<x>, </x>
+<given-names>Z.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Electrochemical recognition of charged and neutral guest species by
+redox-active receptor molecules</article-title>
+<x>. </x>
+<source>Adv Phys Org Chem</source>
+<x>, </x>
+<volume>31</volume>
+<x>, </x>
+<fpage>1</fpage>
+<x>&#x2013;</x>
+<lpage>90</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b16">
+<label>[16]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Bhattacharyya</surname>
+<x>, </x>
+<given-names>K.X.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boubakeur-Lecaque</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tapsoba</surname>
+<x>, </x>
+<given-names>I.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Maisonhaute</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Schollhorn</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Amatore</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2010</year>
+<x>). </x>
+<article-title>An organometallic derivative of a BAPTA ligand: towards electrochemically
+controlled cation release in biocompatible media</article-title>
+<x>. </x>
+<source>Chem Commun</source>
+<x>, </x>
+<volume>47</volume>
+<x>, </x>
+<fpage>5199</fpage>
+<x>&#x2013;</x>
+<lpage>5201</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b17">
+<label>[17]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ferreira</surname>
+<x>, </x>
+<given-names>D.C.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tapsoba</surname>
+<x>, </x>
+<given-names>I.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Arbault</surname>
+<x>, </x>
+<given-names>S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bouret</surname>
+<x>, </x>
+<given-names>Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Moreira</surname>
+<x>, </x>
+<given-names>M.S.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Pinto</surname>
+<x>, </x>
+<given-names>A.V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Goulart</surname>
+<x>, </x>
+<given-names>M.O.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Amatore</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2009</year>
+<x>). </x>
+<article-title>Ex Vivo Activities of beta-Lapachone and alpha-Lapachone on macrophages:
+a quantitative pharmacological analysis based on amperometric monitoring of
+oxidative bursts by single cells</article-title>
+<x>. </x>
+<source>ChemBioChem</source>
+<x>, </x>
+<volume>21</volume>
+<x>, </x>
+<fpage>528</fpage>
+<x>&#x2013;</x>
+<lpage>538</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b18">
+<label>[18]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Pearson</surname>
+<x>, </x>
+<given-names>A.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Xiao</surname>
+<x>, </x>
+<given-names>W.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003</year>
+<x>). </x>
+<article-title>Fluorescent photoinduced electron transfer (PET) sensing molecules with
+<italic>p</italic>-phenylenediamine as electron donor</article-title>
+<x>. </x>
+<source>J Org Chem</source>
+<x>, </x>
+<volume>68</volume>
+<x>, </x>
+<fpage>5361</fpage>
+<x>&#x2013;</x>
+<lpage>5368</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b19">
+<label>[19]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sibert</surname>
+<x>, </x>
+<given-names>J.W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Forshee</surname>
+<x>, </x>
+<given-names>P.B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lynch</surname>
+<x>, </x>
+<given-names>V.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>Wurster&#x2019;s thiacrown ethers:? synthesis, properties, and Pt(II)-coordination
+chemistry</article-title>
+<x>. </x>
+<source>Inorg Chem</source>
+<x>, </x>
+<volume>44</volume>
+<x>, </x>
+<fpage>8602</fpage>
+<x>&#x2013;</x>
+<lpage>8609</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b20">
+<label>[20]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sibert</surname>
+<x>, </x>
+<given-names>J.W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Forshee</surname>
+<x>, </x>
+<given-names>P.B.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lynch</surname>
+<x>, </x>
+<given-names>V.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Electron transfer vs. coordination chemistry:? isomer-specific binding of
+Hg(II) by an 
+<italic>ortho</italic>-Wurster&#x2019;s thiacrown ether</article-title>
+<x>. </x>
+<source>Inorg Chem</source>
+<x>, </x>
+<volume>45</volume>
+<x>, </x>
+<fpage>6108</fpage>
+<x>&#x2013;</x>
+<lpage>6110</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b21">
+<label>[21]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Long</surname>
+<x>, </x>
+<given-names>J.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Silvester</surname>
+<x>, </x>
+<given-names>D.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Barnes</surname>
+<x>, </x>
+<given-names>A.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Rees</surname>
+<x>, </x>
+<given-names>N.V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Aldous</surname>
+<x>, </x>
+<given-names>L.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hardacre</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Compton</surname>
+<x>, </x>
+<given-names>R.G.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Oxidation of several p-phenylenediamines in room temperature ionic liquids:
+estimation of transport and electrode kinetic parameters</article-title>
+<x>. </x>
+<source>J Phys Chem C</source>
+<x>, </x>
+<volume>112</volume>
+<x>,
+</x>
+<fpage>6993</fpage>
+<x>&#x2013;</x>
+<lpage>7000</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b22">
+<label>[22]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Nicholson</surname>
+<x>, </x>
+<given-names>R.S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Shain</surname>
+<x>, </x>
+<given-names>I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1964</year>
+<x>). </x>
+<article-title>Theory of stationary electrode polarography: single scan and cyclic methods
+applied to reversible, irreversible, and kinetic systems</article-title>
+<x>. </x>
+<source>Anal Chem</source>
+<x>, </x>
+<volume>36</volume>
+<x>, </x>
+<fpage>706</fpage>
+<x>&#x2013;</x>
+<lpage>723</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b23">
+<label>[23]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Polcyn</surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Shain</surname>
+<x>, </x>
+<given-names>I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1966</year>
+<x>). </x>
+<article-title>Multistep charge transfers in stationary electrode polarography</article-title>
+<x>. </x>
+<source>Anal Chem</source>
+<x>,
+</x>
+<volume>38</volume>
+<x>, </x>
+<fpage>370</fpage>
+<x>&#x2013;</x>
+<lpage>375</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b24">
+<label>[24]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Nicholson</surname>
+<x>, </x>
+<given-names>R.S.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Shain</surname>
+<x>, </x>
+<given-names>I.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1965</year>
+<x>). </x>
+<article-title>Theory of stationary electrode polarography for a chemical reaction coupled
+between two charge transfers</article-title>
+<x>. </x>
+<source>Anal Chem</source>
+<x>, </x>
+<volume>37</volume>
+<x>, </x>
+<fpage>178</fpage>
+<x>&#x2013;</x>
+<lpage>190</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b25">
+<label>[25]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sav&#x00E9;ant</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<source>Elements of Molecular and Biomolecular Electrochemistry: An
+Electrochemical Approach to Electron Transfer Chemistry</source>
+<x>. </x>
+<publisher-name>Wiley &#x0026; Sons</publisher-name>
+<x>, </x>
+<publisher-loc>New Jersey</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b26">
+<label>[26]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kabasakalo&#x011F;lu</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Talu</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Y&#x0131;ld&#x0131;r&#x0131;m</surname>
+<x>, </x>
+<given-names>F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Sar&#x0131;</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2003</year>
+<x>). </x>
+<article-title>The electrochemical homopolymerization of furan and thiophene and
+the structural elucidation of their bipolymer films</article-title>
+<x>. </x>
+<source>Appl Surf Sci</source>
+<x>, </x>
+<volume>28</volume>
+<x>, </x>
+<fpage>85</fpage>
+<x>&#x2013;</x>
+<lpage>97</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b27">
+<label>[27]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Moressi</surname>
+<x>, </x>
+<given-names>M.B.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Zon</surname>
+<x>, </x>
+<given-names>M.A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Fernandez</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2000</year>
+<x>). </x>
+<article-title>Solvent effects on the heterogeneous kinetics of N,N,N&#x2019;,N&#x2019;-Tetramethyl
+p-Phenylendiamine (TMPD) in nonaqueous binary solvent mixtures. The role
+of the preferential solvation phenomenon</article-title>
+<x>. </x>
+<source>Electrochim Acta</source>
+<x>, </x>
+<volume>45</volume>
+<x>, </x>
+<fpage>1669</fpage>
+<x>&#x2013;</x>
+<lpage>1682</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b28">
+<label>[28]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gale</surname>
+<x>, </x>
+<given-names>P.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Beer</surname>
+<x>, </x>
+<given-names>P.D.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Chen</surname>
+<x>, </x>
+<given-names>Z.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Mechanisms of electrochemical recognition of cations, anions and neutral
+guest species by redox-active receptor molecules</article-title>
+<x>. </x>
+<source>Coord Chem Rev</source>
+<x>, </x>
+<volume>185&#x2013;186</volume>
+<x>, </x>
+<fpage>3</fpage>
+<x>&#x2013;</x>
+<lpage>36</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b29">
+<label>[29]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sahli</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Raouafi</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Maisonhaute</surname>
+<x>, </x>
+<given-names>E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Boujlel</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Sch&#x00F6;llhorn</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2012</year>
+<x>). </x>
+<article-title>Thiophene-based electrochemically active probes for selective calcium
+detection</article-title>
+<x>. </x>
+<source>Electrochim Acta</source>
+<x>, </x>
+<volume>63</volume>
+<x>, </x>
+<fpage>228</fpage>
+<x>&#x2013;</x>
+<lpage>231</lpage>
+<x>. </x></element-citation></ref>
+</ref-list>
+</back></article>

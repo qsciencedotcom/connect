@@ -1,0 +1,3304 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title>QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name> </publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">7</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2012.7</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research
+article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Application of experimental design for extraction of BHA and BHT from edible vegetable oil and their determination using HPLC</article-title> 
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author">
+<string-name>         
+<given-names>M.R.</given-names>
+<x> </x>                
+<surname>Hadjmohammadi</surname>   </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<x><sup>,</sup></x> 
+<xref ref-type="corresp" rid="c1"><sup>&#x204E;</sup></xref>               
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>               
+<given-names>M.</given-names>
+<x> </x>
+<surname>Ehsani</surname> </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>                
+<x>, </x></contrib>   
+<contrib contrib-type="author">
+<string-name>                
+<given-names>K.</given-names>
+<x> </x>                 
+<surname>Kamel</surname> </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>                
+<x>, </x></contrib>
+<contrib contrib-type="author">
+<string-name>          
+<given-names>P.</given-names>
+<x> </x>                
+<surname>Biparva</surname> </string-name> 
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>               
+<x> </x></contrib> 
+<aff id="aff1"><sup>1</sup>Department of Chemistry,
+University of Mazandaran, Babolsar, Iran</aff> 
+<aff id="aff2"><sup>2</sup>Department of Basic Sciences, Sari
+Agricultural Sciences and Natural Resources University, Sari, Iran</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>&#x204E;</sup>Corresponding author. Email: Hadjmr@umz.ac.ir</corresp></author-notes> 
+<pub-date pub-type="pub"> 
+<day>27</day> 
+<month>8</month> 
+<year>2012</year> </pub-date>
+<issue content-type="issue-sequence">2012</issue>
+<elocation-id>7</elocation-id> 
+<history> 
+<date date-type="received">
+<day>17</day>
+<month>12</month>
+<year>2011</year></date> 
+<date date-type="accepted">
+<day>10</day>
+<month>7</month>
+<year>2012</year></date></history>
+<permissions> 
+<copyright-statement>&#x00A9;&#x00A0;2012 Hadjmohammadi et&#x00A0;al., licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement> 
+<copyright-year>2012</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.7.pdf" xmlns:xlink="http://www.w3.org/1999/xlink"/>  
+<abstract>
+<title>Abstract</title>
+<p>The optimal conditions of liquid&#x2013;liquid extraction of two synthetic phenolic antioxidants, BHA and BHT were investigated in five Iranian edible vegetable oil samples using the central composite design. Stepwise multiple linear regression method was used for construction of different models based on the experimental data. Optimum conditions for BHA and BHT were achieved using 3 ml of ethanolic solution containing (0.25% v/v) of glacial acetic acid, three extractions and a mixing time of 10 minutes. Analytes were separated using HPLC with a <!--\xdollar\rm -->            C
+<sub>18</sub><!--\xdollar--> column using methanol:water:glacial acetic acid (75:24:1, v/v/v) as the mobile phase. The limit of detections, linear ranges and relative standard deviation (<mml:math altimg="e1.gif" display="inline">
+<mml:mi>n</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>7</mml:mn></mml:math>) were <!--\xdollar\rm -->            0.04&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar-->, 0.5&#x2013;<!--\xdollar\rm -->            200&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar--> and 2.6% for BHA and <!--\xdollar\rm -->            0.30&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar-->, 1.0&#x2013;<!--\xdollar\rm -->            200&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar--> and 4.20% for BHT, (<mml:math altimg="e2.gif" display="inline">
+<mml:msup>
+<mml:mrow >
+<mml:mi>r</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msup > 
+<mml:mo>&#x003E;</mml:mo> 
+<mml:mn>0</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn>
+<mml:mn>9</mml:mn></mml:math>), respectively. Amounts of BHA and BHT in analyzed oil samples were in the ranges of 29.8&#x2013;<!--\xdollar\rm -->            54.5&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar--> and 0.0&#x2013;<!--\xdollar\rm -->            6.8&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar--> respectively.</p></abstract>
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>synthetic phenolic antioxidants</kwd>
+<x>, </x>
+<kwd>edible vegetable oil</kwd>
+<x>, </x>
+<kwd>liquid&#x2013;liquid extraction</kwd>
+<x>, </x>
+<kwd>HPLC</kwd>
+<x>, </x>
+<kwd>central
+composite design</kwd></kwd-group> 
+</article-meta>  
+</front> 
+<body>
+<sec>
+<title>Introduction</title>
+<p>Lipid oxidation not only lowers the quality and nutritional value of food
+it is also associated with aging, membrane damage, heart disease and
+cancer&#x00A0;<xref ref-type="bibr" rid="b1">[1]</xref>. In food systems naturally occurring antioxidants such as
+tocopherol and ascorbic acid protect against oxidation by either quenching
+free radical reactions or by scavenging oxygen&#x00A0;<xref ref-type="bibr" rid="b2">[2]</xref>. However,
+natural antioxidants often lost during processing and storage, necessitate
+the addition of exogenous antioxidants that will effectively retard the lipid
+oxidation&#x00A0;<xref ref-type="bibr" rid="b3">[3]</xref>. Two synthetic phenolic antioxidants (SPAs),
+t-butyl-4-hydroxyanisol (BHA) and 2, 6-di-t-butyl-hydroxytoluene (BHT) are widely
+used in the food, drug and cosmetic industries as direct or indirect additives through
+diffusion from plastic packaging&#x00A0;<xref ref-type="bibr" rid="b4">[4]</xref>. SPAs improve the stability
+and durability of pharmaceuticals, fat-soluble vitamins, cosmetics, rubber
+and plastics&#x00A0;<xref ref-type="bibr" rid="b3 b4 b5">[3&#x2013;5]</xref>. Studies have noted that use of
+BHA and BHT at a high dosage however, not only enhances liver and lung
+damages&#x00A0;<xref ref-type="bibr" rid="b6">[6]</xref>, but also causes stomach and urinary bladder carcinogenesis
+in animals&#x00A0;<xref ref-type="bibr" rid="b7 b8">[7,8]</xref>. Due to the potentially harmful effects of SPAs,
+their content in foodstuffs are regulated by law in many countries. The permissible
+substances and corresponding legal levels however are variable in different
+countries&#x00A0;<xref ref-type="bibr" rid="b9">[9]</xref>, for example in the European Union SPAs are forbidden
+in milk and cosmetics, but allowed in edible oils at a level not exceeding 50&#x2013;<!--\xdollar\rm -->200&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x00A0;g<sup>&#x2212;1</sup><!--\xdollar-->of fat&#x00A0;<xref ref-type="bibr" rid="b10">[10]</xref>. In Iran, usually 50&#x2013;<!--\xdollar\rm -->175&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g<!--\xdollar--> of
+several antioxidants per gram of fat either alone or in combination are allowed. The
+determination of BHA and BHT in food products is necessary to ensure fulfillment of
+the legal requirements. Various analytical methods have been reported for the
+determination of BHA and BHT in oils such as: thin-layer chromatography
+(TLC)&#x00A0;<xref ref-type="bibr" rid="b11">[11]</xref>, gas chromatography (GC)&#x00A0;<xref ref-type="bibr" rid="b12">[12]</xref>, gas
+chromatography mass spectrometry (GC-MS)&#x00A0;<xref ref-type="bibr" rid="b13">[13]</xref>, high
+performance liquid chromatography (HPLC)&#x00A0;<xref ref-type="bibr" rid="b7 b10 b14">[7,10,14]</xref>
+and micellar electrokinetic capillary chromatography (MECC)&#x00A0;<xref ref-type="bibr" rid="b15">[15]</xref>.
+The extraction methods that are carried out in the preliminary steps include solid
+phase extraction (SPE)&#x00A0;<xref ref-type="bibr" rid="b14">[14]</xref>, supercritical fluid extraction
+(SFE)&#x00A0;<xref ref-type="bibr" rid="b16">[16]</xref> and liquid&#x2013;liquid extraction (LLE)&#x00A0;<xref ref-type="bibr" rid="b7
+b13">[7,13]</xref>. Many factors can significantly influence the extraction efficiency such as
+the extraction solvent, extraction time, number of extractions and extraction
+temperature, amongst other factors. The traditional one-factor-at-a-time approach
+for process optimization is time consuming and the interactions between various
+factors may be ignored. Recent experimental efforts have focused on selecting the
+best conditions for extraction, instead of using a traditional strategy of optimizing
+each factor separately&#x00A0;<xref ref-type="bibr" rid="b17 b18">[17,18]</xref>. The purpose of this study was
+to investigate the optimization of factors in the liquid&#x2013;liquid extraction of
+BHA and BHT from Iranian edible vegetable oil. The factors that were
+studied for optimization included the effect of extraction solvent, extraction
+solvent volume, number of extractions, percentage of glacial acetic acid in the
+extraction solvent, and mixing time. Separation and determination of BHA and
+BHT was performed by HPLC-UV. The experiments for both modeling and
+optimization of LLE were conducted according to the central composite
+design (CCD) [19]. A stepwise multiple linear regression (MLR) method was
+used for the construction of different models based on the experimental
+data. The optimized conditions were applied to the extraction of BHA and
+BHT from five different types of Iranian edible vegetable oils. Separation
+and determination of these antioxidants were performed using the HPLC
+method.</p>
+</sec>
+<sec>
+<title>Materials and methods</title>
+<sec>
+<title>Reagents and materials</title>
+<p>Standards of BHA (&#x003E;98%) and BHT (99%) were purchased from Merck (Darmstadt,
+Germany) and Alfa Aesar (Karlsruhe, Germany), respectively. All of the solvents
+including methanol, anhydrous ethanol and acetonitril were obtained from Merck
+(Darmstadt, Germany). Glacial acetic acid was supplied by Riedel-de Haen,
+(Seezle-Germany). Water used was deionized, double distilled and filtered through a <!--\xdollar\rm -->0.45&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->m<!--\xdollar--> filter
+(Millipore membranes Bedford MA, USA) and degassed under vacuum. Oil not
+containing any SPAs were prepared by the Salej Syrup manufacture (Babolsar, Iran).
+Five different edible vegetable oils samples (one type of sunflower oil, three types of
+soybean oils and one type of olive oil) were purchased from local supermarkets in
+northern Iran. <!--\vspace *{-5pt}--></p></sec>
+<sec>
+<title>Preparation and storage of SPAs standards</title>
+<p>A stock solution containing 500 mg L<sup> - 1</sup> of both of BHA and BHT were prepared in methanol and
+stored at <!--\xdollar\rm -->          4<sup>&#x2218;</sup>C<!--\xdollar-->.
+Standard working solutions of different concentrations were prepared by diluting an
+appropriate volume of the stock solution in methanol. These solutions were stable at
+least for three months. <!--\vspace *{-5pt}--></p></sec>
+<sec>
+<title>Apparatus and chromatographic conditions</title>
+<p>The sample preparation was performed using an ultrasonic bath, (Dawe 6444A, UK),
+magnetic stirrer (Heidolph, MR 2002, Germany) and centrifuge (Denley BS400,
+England). The purpose of this was to increase the interaction between the two phases
+(oil and organic solvent) and to improve the recovery of the extraction method. The
+chromatographic measurements were carried out by a HPLC system from
+Perkin-Elmer (Norwalk, CT, USA), equipped with a series 10 LC pump, UV
+detector model LC-95 set at 285 nm and model 7125 manual injector with a <!--\xdollar\rm -->10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->&#x00A0;sample loop. Analytes were
+separated on a <!--\xdollar\rm -->          C
+<sub>18</sub><!--\xdollar-->reversed phase column (250&#x00A0;mm&#x00A0;&#x00D7;&#x00A0;4.5&#x00A0;mm, <!--\xdollar\rm -->10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->m<!--\xdollar-->) from
+Waters (Milford, Massachusetts, USA) using a methanol:water:glacial acetic acid
+mixture (75:24:1, v/v/v) as the mobile phase. The mobile phase was delivered with a
+flow rate of 1 mL/min<sup> - 1</sup> at room temperature. All statistical calculations were
+performed on a Pentium IV PC using the SPSS 11.5 software (SPSS, Bologna,
+Chicago).</p>
+<p><!--\vspace *{-5pt}--></p></sec>
+<sec>
+<title>Extraction procedure</title>
+<p>To one gram of edible vegetable oil sample, 1 ml anhydrous ethanolic solution
+containing 0.25% of glacial acetic acid was added and placed in an ultrasonic bath
+for 5 minutes. The mixture was then homogenized for 10 minutes using
+a magnetic stirrer (750 rpm) and centrifuged for 5 min at 3000 rpm. The
+ethanolic phase was collected and the oil phase subsequently extracted two
+more times. All of the extracted phases were combined and dried passing a <!--\xdollar\rm -->N
+<sub>2</sub><!--\xdollar--> gas
+stream. The dried residue was then dissolved in 1 mL of methanol and used for
+HPLC analysis. <!--\vspace *{-5pt}--></p>
+</sec>
+</sec>
+<sec>
+<title>Results</title>
+<sec>
+<title>Selection of extraction solvent</title>
+<p>To select the best type of extraction solvent for BHA and BHT from the oil samples,
+three organic solvents (anhydrous ethanol, methanol and acetonitril) were tested. The
+average recoveries for BHA and BHT extracted by ethanol, methanol and acetonitril
+were (91.8%, 91.0%, 88.2%) and (90.6%, 87.0%, 87.0%) respectively. Ethanol was
+chosen as the extraction solvent because of higher recoveries and less toxicity
+compared to other tested solvents.</p>
+</sec>
+<sec>
+<title>Optimization of extraction conditions</title>
+<p>Preliminary experiments showed the factors that affected the
+liquid&#x2013;liquid extraction were: volume of extraction solvent
+(<mml:math altimg="e3.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math>),
+percentage of glacial acetic acid in extraction solvent
+(<mml:math altimg="e4.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math>), number of extraction
+(<mml:math altimg="e5.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math>), extraction time
+(<mml:math altimg="e6.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math>) and extraction
+temperature (<mml:math altimg="e7.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math>).
+Selected factors and their corresponding boundaries are shown in
+<xref rid="tbl1">Table&#x00A0;1</xref>.
+<table-wrap  id="tbl1">  
+<label>Table&#x00A0;1.</label>  
+<caption> 
+<title>&#x00A0;Selected experimental factors for LLE of
+BHA and BHT and their corresponding boundaries. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">
+<bold>Level</bold> </td> 
+<td colspan="5"  align="center">
+<bold>Factors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </bold>
+ </td></tr> 
+<tr valign="top"> 
+<td align="left">              </td> 
+<td align="left">
+<mml:math altimg="e8.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e9.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e10.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e11.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e12.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math>                                                                                                                                                                                               </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">&#x002B;1                   </td> 
+<td align="left">3                                                                                                       </td> 
+<td align="left">1.0                                                                                                     </td> 
+<td align="left">3                                                                                                       </td> 
+<td align="left">30                                                                                                     </td> 
+<td align="left">45                                                                                                                                                                                                                                                                                                                                                                                                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">0                   </td> 
+<td align="left">2                                                                                                       </td> 
+<td align="left">0.5                                                                                                     </td> 
+<td align="left">2                                                                                                       </td> 
+<td align="left">20                                                                                                     </td> 
+<td align="left">35                                                                                                                                                                                                                                                                                                                                                                                                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">&#x2212;1                   </td> 
+<td align="left">1                                                                                                       </td> 
+<td align="left">0.0                                                                                                     </td> 
+<td align="left">1                                                                                                       </td> 
+<td align="left">10                                                                                                     </td> 
+<td align="left">25                                                                                                                                                                                                                                                                                                                                                                                                                 </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="6"  align="left">
+<mml:math altimg="e13.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math>: Volume of extraction solvent (ml) <!--\\--><mml:math altimg="e14.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math>: Percentage of glacial acetic acid (v/v) <!--\\--><mml:math altimg="e15.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math>: Number of extractions <!--\\--><mml:math altimg="e16.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math>: Extraction time (min) <!--\\--><mml:math altimg="e17.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math>: Extraction temperature (<!--\xdollar\rm --><sup>&#x2218;</sup>C<!--\xdollar-->)
+ </td></tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [b]{tbl1}--></p>
+<p>The exploration of the experimental domain was examined by a factorial design. A
+full factorial design of the five factors and two levels (for BHA and BHT) required 32
+experiments. To reduce the number of experiments, a two-level half fractional
+factorial design consisting of 2<sup>5 - 1</sup>(16) experiments were used. The experiments 1&#x2013;16
+(<xref rid="tbl2">Table&#x00A0;2</xref>) show the fractional factorial design (FFD) and their corresponding
+responses (sum of recoveries of BHA and BHT). The fractional factorial design
+allowed first estimation of the effects of the main factors and their second order
+interactions which are presented in
+<xref rid="tbl3">Table&#x00A0;3</xref>.<!--\pagebreak --> The results of the investigation (<xref rid="tbl3">Table&#x00A0;3</xref>) and their normal plot (<xref rid="fig1">Fig.&#x00A0;1</xref>) show the effect of extraction temperature
+(<mml:math altimg="e18.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math>)
+on the recovery was not very significant and therefore four variables
+(<mml:math altimg="e19.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub >
+<mml:mo>,</mml:mo>
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> and
+<mml:math altimg="e20.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math>) were selected
+as the essential factors for extraction of the two antioxidants. The normal plot shows that
+the most important effect on the extraction recovery was due to the volume of extraction
+solvent (<mml:math altimg="e21.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math>).
+<table-wrap  id="tbl2">  
+<label>Table&#x00A0;2.</label> <!--belowskip=-.5pc--><caption> 
+<title>&#x00A0;First estimation effects of the main factors and
+their second order interactions calculated from fractional factorial
+design for extraction of BHA and BHT from edible vegetable oil. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">
+<bold>Run</bold> </td> 
+<td colspan="5"  align="center">
+<bold>Factors</bold>                                                                                                                                                                                                                                                                                                                                    </td> 
+<td align="left">
+<bold>Response <!--\unskip \break -->(Sum of recoveries</bold>)                                                                                                                                                                                                                                </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">              </td> 
+<td align="left">
+<mml:math altimg="e22.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e23.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e24.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e25.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e26.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">                                                                                                                                                                       </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">1                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">147.7                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">2                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">173.7                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">3                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">118.6                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">4                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">168.6                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">5                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">130.8                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">6                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">163.5                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">7                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">125.5                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">8                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">192.0                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">9                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">149.9                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">10                   </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">119.7                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">11                   </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">130.0                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">12                   </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">171.0                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">13                   </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">100.9                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">14                   </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">118.8                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">15                   </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">98.5                                                                                                                                                                                                                                                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">16                   </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">165.0                                                                                                                                                                                                                                                               </td>
+</tr> 
+<tr valign="top"> 
+<td colspan="7"  align="left">HPLC conditions: mobile phase: methanol: water: glacial acetic acid (75: 24: 1, v/v/v); flow rate&#x00A0;<!--\xdollar\rm -->            =<!--\xdollar-->&#x00A0;1 mL min<sup> - 1</sup>; column <!--\xdollar\rm -->            C
+<sub>18</sub><!--\xdollar--> (250&#x00A0;mm&#x00A0;&#x00D7;&#x00A0;4.6&#x00A0;mm, <!--\xdollar\rm -->            10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->m<!--\xdollar-->); injection volume <!--\xdollar\rm -->            =10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->; 
+<mml:math altimg="e27.gif" display="inline">
+<mml:mi>&#x03BB;</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mn>5</mml:mn></mml:math> nm; room temperature.
+ </td></tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [t]{tbl2}--> <!--\setTable [t]{tbl3}--> <!--\setFloat [h]{fig1}--><table-wrap  id="tbl3">  
+<label>Table&#x00A0;3.</label> <!--belowskip=-.5pc--><caption> 
+<title>&#x00A0;Effects of factors and their interactions calculated from fractional
+factorial design (Experiments 1&#x2013;16 in
+<xref rid="tbl2">Table&#x00A0;2</xref>) for extraction of BHA and BHT from edible vegetable oil. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">
+<bold>Term</bold>                                                                                             </td> 
+<td align="left">
+<bold>Effect</bold>  </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e28.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">31.506 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e29.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">5.731   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e30.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;12.806 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e31.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;23.118 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e32.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;6.34    </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e33.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">19.918 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e34.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">9.806   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e35.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;12.281 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e36.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;7.900   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e37.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">6.430   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e38.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">8.494   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e39.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">4.000   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e40.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;13.618 </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e41.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">5.580   </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">
+<mml:math altimg="e42.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>5</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">&#x2212;3.750   </td>
+</tr> 
+</tbody> 
+</table> 
+</table-wrap>
+<fig  id="fig1">  
+<label>Figure&#x00A0;1.</label><!--belowskip=-2pt,abovecapskip=-2pt--><caption> 
+<title>&#x00A0;Normal plot of main effects and their interaction. </title> 
+</caption>       
+<graphic xlink:href="gr1.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig></p>
+<p>The experiments for both modeling and optimization of LLE for BHA and BHT were
+performed according to the central composite design&#x00A0;<xref ref-type="bibr" rid="b19">[19]</xref>.
+This design permitted the response surface to be modeled by fitting
+a second-order polynomial with the number of experiments equal to
+(<mml:math altimg="e43.gif" display="inline">
+<mml:msup>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow>
+<mml:mrow >
+<mml:mi>f</mml:mi></mml:mrow></mml:msup > 
+<mml:mo>+</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mi>f</mml:mi> 
+<mml:mo>+</mml:mo> 
+<mml:mi>n</mml:mi></mml:math>)
+where 
+<mml:math altimg="e44.gif" display="inline">
+<mml:mi>f</mml:mi></mml:math>
+and 
+<mml:math altimg="e45.gif" display="inline">
+<mml:mi>n</mml:mi></mml:math>
+are the number of factors and the number of center runs
+(<mml:math altimg="e46.gif" display="inline">
+<mml:mi>f</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>4</mml:mn></mml:math> and
+<mml:math altimg="e47.gif" display="inline">
+<mml:mi>n</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>2</mml:mn></mml:math>),
+respectively. Factor levels and the corresponding matrix design included twenty-six
+experiments and their responses are shown in
+<xref rid="tbl4">Table&#x00A0;4</xref>. A stepwise multiple linear regression (MLR) method was used for the
+construction of different models based on the experimental data. The model with the
+best-fitting statistical parameters including: higher Fisher-ratio (F), correlation coefficient
+values (<mml:math altimg="e48.gif" display="inline">
+<mml:mi>r</mml:mi></mml:math>)
+and lower standard error (SE) were then selected as the satisfactory response surface
+model.
+<table-wrap  id="tbl4">  
+<label>Table&#x00A0;4.</label>  
+<caption> 
+<title>&#x00A0;Coded factor levels and responses (sum of recoveries) of CCD for four factors in LLE. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="center"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="center">
+<bold>Run <!--\unskip \break -->Fractional points</bold> </td> 
+<td colspan="4"  align="center">
+<bold>Factors</bold>                                                                                                                                                                                                                                                                  </td> 
+<td align="left">
+<bold>Response <!--\unskip \break -->(Sum of recoveries)</bold> </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">                            </td> 
+<td align="left">
+<mml:math altimg="e49.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e50.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e51.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e52.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>X</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ></mml:math> </td> 
+<td align="left">                         </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="center">             1                     </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">147.7                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             2                     </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">173.7                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             3                     </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">118.6                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             4                     </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">168.6                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             5                     </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">130.8                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             6                     </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">163.5                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             7                     </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">125.5                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             8                     </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">192.0                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">             9                     </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">149.9                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            10                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">119.7                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            11                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">130.0                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            12                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">171.0                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            13                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">100.9                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            14                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">118.8                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            15                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">98.5                                  </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            16                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">146.7                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">       
+<bold>Central points</bold>            </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                         </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            17                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">115.7                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            18                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">110.4                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">         
+<bold>Star points</bold>               </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                                                                   </td> 
+<td align="left">                         </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            19                    </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">92.4                                  </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            20                    </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">154.3                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            21                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">130.0                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            22                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">157.0                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            23                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">142.5                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            24                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">141.0                                 </td>
+</tr> 
+<tr valign="top"> 
+<td align="center">            25                    </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">0                                                                                                       </td> 
+<td align="left">&#x002B;1                                                                                                       </td> 
+<td align="left">&#x2212;1                                                                                                       </td> 
+<td align="left">120.9                                 </td>
+</tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [t]{tbl4}--></p>
+<p><!--\pagebreak -->The obtained model and its coefficients are shown in Eq.
+<xref rid="FD1">(1)</xref>:   
+<disp-formula id="FD1"> 
+<label>(1)</label>
+<mml:math altimg="e53.gif" display="block">
+<mml:mi>Y</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>0</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>4</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ><!--\nonumber\\--><!--\qquad --><mml:mo>+</mml:mo><!--\,--><mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msub >
+<mml:msubsup>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msubsup >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>1</mml:mn>
+<mml:mn>4</mml:mn></mml:mrow></mml:msub >
+<mml:msubsup>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msubsup >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:msubsup>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msubsup > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn>
+<mml:mn>2</mml:mn></mml:mrow></mml:msub >
+<mml:msubsup>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msubsup > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn>
+<mml:mn>4</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>+</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub >
+<mml:msub>
+<mml:mrow >
+<mml:mi>x</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub ><!--\XXX --> </mml:math></disp-formula><!--\\--><disp-formula>
+<mml:math altimg="e54.gif" display="block">
+<mml:mtable>
+<mml:mtr>
+<mml:mtd columnalign="left">
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>0</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mn>4</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn>
+<mml:mn>2</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mn>1</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mn>0</mml:mn></mml:mtd></mml:mtr>
+<mml:mtr>
+<mml:mtd columnalign="left">
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mn>0</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn>
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mn>9</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mn>7</mml:mn></mml:mtd></mml:mtr>
+<mml:mtr>
+<mml:mtd columnalign="left">
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>1</mml:mn>
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>2</mml:mn>
+<mml:mn>7</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mn>9</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mn>3</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mn>3</mml:mn></mml:mtd></mml:mtr>
+<mml:mtr>
+<mml:mtd columnalign="left">
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>2</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mn>9</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mn>9</mml:mn></mml:mtd>
+<mml:mtd columnalign="left">
+<mml:mspace width="1em" class="quad"/>
+<mml:msub>
+<mml:mrow >
+<mml:mi>a</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>4</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>=</mml:mo> 
+<mml:mo>&#x2212;</mml:mo>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mn>1</mml:mn></mml:mtd>
+<mml:mtd columnalign="left"></mml:mtd></mml:mtr></mml:mtable><!--\YYY --></mml:math></disp-formula></p>
+<p>In the above equation 
+<mml:math altimg="e55.gif" display="inline">
+<mml:mi>Y</mml:mi> </mml:math>
+is response, where F, 
+<mml:math altimg="e56.gif" display="inline">
+<mml:mi>r</mml:mi></mml:math>
+and SE values for the model are 7.577, 0.914 and 13.28, respectively. The plot of the
+residual distribution (difference between the experimental and predicted recoveries
+against experimental recovery,
+<xref rid="fig2">Fig.&#x00A0;2</xref>) and 
+<mml:math altimg="e57.gif" display="inline">
+<mml:mi>r</mml:mi></mml:math>&#x00A0;value
+show that there is no systematic error and the model is satisfactory.  
+<fig  id="fig2">  
+<label>Figure&#x00A0;2.</label>
+<caption> 
+<title>&#x00A0;Residual plot for predicted sum of recoveries of BHA and BHT according to the
+regression model in <!--\unskip \break -->Eq.
+<xref rid="FD2">(2)</xref>. </title> 
+</caption>       
+<graphic xlink:href="gr2.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<!--\setFloat [h]{fig2}--></p>
+<p>In order to determine the optimum conditions for LLE, a grid search method was
+used. The responses were calculated by implementing a grid search method for the
+obtained equation (Eq.
+<xref rid="FD1">(1)</xref>), with varied factor levels from &#x2212;1 to &#x002B;1. In this method the dimension of each
+point in the grid framework (in the form of coded values) were applied to the
+equation and the corresponding responses were obtained. All the obtained responses
+were then compared and the response with the highest value was considered the
+optimum condition.</p>
+<p>To evaluate the accuracy of the results obtained by this model, three experiments
+were carried out under the optimum condition and the experimental results
+corresponding to this condition were found to be satisfactory. The maximum recovery
+under the optimum conditions (90.2&#x2013;101.3% for BHA; 90.0&#x2013;94.6% for BHT) were
+achieved by using 3 ml of ethanolic solution containing 0.25% v/v of glacial acetic
+acid, three extractions and a mixing time of 10 minutes. To evaluate the
+accuracy of the results obtained by the response surface model, triplicate
+experiments were then carried out under optimum conditions. The predicted and
+average experimental responses under optimum conditions were 193.2 and
+<mml:math altimg="e58.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>9</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math>,
+respectively. The results showed that there was good agreement between the
+predicted and experimental responses.</p>
+</sec>
+<sec>
+<title>Recovery studies</title>
+<p>For further evaluation of the accuracy of the method, a blank oil
+sample (containing no antioxidants) was spiked with known amounts of
+standards of BHA and BHT at three concentration levels (20, 50 and <!--\xdollar\rm -->100&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x00A0;g<sup>&#x2212;1</sup><!--\xdollar-->).
+Extraction was then performed under optimum conditions in triplicate
+experiments for each concentration. The percentage recovery,
+<mml:math altimg="e59.gif" display="inline">
+<mml:mi>%</mml:mi>
+<mml:mi>R</mml:mi></mml:math>, of
+each analyte was calculated using Eq.
+<xref rid="FD2">(2)</xref>:      
+<disp-formula id="FD2"> 
+<label>(2)</label>
+<mml:math altimg="e60.gif" display="block">
+<mml:mi>%</mml:mi>
+<mml:mi>R</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mrow>
+<mml:mo>[</mml:mo>
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub >
+<mml:mo>&#x002F;</mml:mo>
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub >
+<mml:mo>]</mml:mo></mml:mrow> 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mn>0</mml:mn></mml:math>
+</disp-formula>
+Where 
+<mml:math altimg="e61.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math>
+and 
+<mml:math altimg="e62.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math>
+are peak area of the extracted analyte from the spiked blank oil sample and standard
+(with the same amount of injection into the HPLC system) respectively. Accuracy of
+the method was determined by comparing spiked and extracted amounts of
+antioxidants in each concentration (<xref rid="tbl5">Table&#x00A0;5</xref>).
+<table-wrap  id="tbl5">  
+<label>Table&#x00A0;5.</label>  
+<caption> 
+<title>&#x00A0;Recoveries of the spiked blank oil sample by addition of known
+amounts of standard BHA and BHT under the optimum condition. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Analyte </td> 
+<td align="left">Amount added <!--\let \TexTMu \brmmu -->(<!--\xdollar\rm -->            <!--\TexTMu\removeaccent{-->&#x03BC;<!--}--><!--\xdollar-->g&#x00A0;g<sup> - 1</sup>) </td> 
+<td align="left">Average recovery (%)                                                                             </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">            </td> 
+<td align="left">20.0                                                                                                                                         </td> 
+<td align="left">
+<mml:math altimg="e63.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">BHA            </td> 
+<td align="left">50.0                                                                                                                                         </td> 
+<td align="left">
+<mml:math altimg="e64.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">            </td> 
+<td align="left">100.0                                                                                                                                       </td> 
+<td align="left">
+<mml:math altimg="e65.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn></mml:math> <!--\vspace *{1pc}--> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">            </td> 
+<td align="left">20.0                                                                                                                                         </td> 
+<td align="left">
+<mml:math altimg="e66.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">BHT            </td> 
+<td align="left">50.0                                                                                                                                         </td> 
+<td align="left">
+<mml:math altimg="e67.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">            </td> 
+<td align="left">100.0                                                                                                                                       </td> 
+<td align="left">
+<mml:math altimg="e68.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn></mml:math>  </td>
+</tr> 
+</tbody> 
+</table>
+</table-wrap>
+<!--\setTable [h]{tbl5}--></p>
+<p><!--\pagebreak --></p></sec>
+<sec>
+<title>Limit of detection, linearity and precision</title>
+<p>The limit of detection (LOD) was calculated on the basis of the equation
+<mml:math altimg="e69.gif" display="inline">
+<mml:mn>3</mml:mn>
+<mml:msub>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>S</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mi>b</mml:mi></mml:mrow></mml:msub ></mml:math>/m,
+where 
+<mml:math altimg="e70.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mstyle mathvariant="normal">
+<mml:mi>S</mml:mi></mml:mstyle></mml:mrow>
+<mml:mrow >
+<mml:mi>b</mml:mi></mml:mrow></mml:msub ></mml:math>
+is the standard deviation of the blank equal to the peak noise when only
+the mobile phase was passing through the column for 45 minutes and
+<mml:math altimg="e71.gif" display="inline">
+<mml:mi>m</mml:mi></mml:math> is the
+slope of calibration curve. Calibration curves were obtained by triplicate extraction of
+the spiked blank oil sample and their injection into the HPLC with subsequent
+plotting of the peak area against concentration.</p>
+<p>The linearity studies were carried out with the blank oil samples spiked with BHA
+and BHT in the range of 0.5&#x2013;100 mg/kg<sup> - 1</sup> (ten different concentrations). Extraction
+and separation were performed at optimum conditions with triplicate measurements
+(<mml:math altimg="e72.gif" display="inline">
+<mml:mi>n</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>3</mml:mn></mml:math>).
+The linear range (LR) of each analyte was carried out by plotting the peak area
+against concentration.</p>
+<p>Precision (RSD) was determined by analyzing a spiked sample containing <!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar--> of
+BHA and BHT in seven replicates. Limit of detections, linear ranges, precisions and
+squared correlation coefficient are listed in
+<xref rid="tbl6">Table&#x00A0;6</xref>.
+<table-wrap  id="tbl6">  
+<label>Table&#x00A0;6.</label>  
+<caption> 
+<title>&#x00A0;Limit of detection (LOD), linear range (LR), repeatability,
+squared correlation coefficient (<italic>
+<bold>r</bold></italic><sup>2</sup>) at the optimum condition for the
+determination of BHA and BHT in an edible vegetable oil sample. </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">Analyte </td> 
+<td align="left">LOD <!--\let \TexTMu \brmmu -->(<!--\xdollar\rm -->            <!--\TexTMu\removeaccent{-->&#x03BC;<!--}--><!--\xdollar-->g&#x00A0;g<sup> - 1</sup>) </td> 
+<td align="left">Linear range <!--\let \TexTMu \brmmu -->(<!--\xdollar\rm -->            <!--\TexTMu\removeaccent{-->&#x03BC;<!--}--><!--\xdollar-->g&#x00A0;g<sup> - 1</sup>) </td> 
+<td align="left">Repeatability R.S.D
+<xref rid="TF6.a"><sup>a</sup></xref>. (%) </td> 
+<td align="left">Squared correlation coefficient (<italic>
+<bold>r</bold></italic><sup>2</sup>) </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">BHA                </td> 
+<td align="left">0.04                                                                                                                            </td> 
+<td align="left">0.5&#x2013;200.0                                                                                                                               </td> 
+<td align="left">2.6                              </td> 
+<td align="left">0.9986                                     </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">BHT                </td> 
+<td align="left">0.30                                                                                                                            </td> 
+<td align="left">1.0&#x2013;200.0                                                                                                                               </td> 
+<td align="left">4.2                              </td> 
+<td align="left">0.9980                                     </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF6.a">
+<label>a</label>
+<p>Relative standard deviation for seven replicate extraction and determination of antioxidants
+(<mml:math altimg="e73.gif" display="inline">
+<mml:mi>n</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>7</mml:mn></mml:math>)</p></fn>
+</table-wrap-foot></table-wrap>
+<!--\setTable [h]{tbl6}--></p>
+</sec>
+<sec>
+<title>Determination of BHA and BHT in oil samples</title>
+<p>The optimum extraction conditions were applied for the determination of BHA
+and BHT in five edible vegetable oil samples from local supermarkets in
+Iran. Recoveries of each antioxidant were obtained by adding known
+amounts of standard antioxidants at two concentration levels (20 and <!--\xdollar\rm -->50&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<sup>&#x2212;1</sup><!--\xdollar-->) to oil
+samples. The percentage recovery of BHA and BHT were calculated using
+Eq.
+<xref rid="FD3">(3)</xref>:      
+<disp-formula id="FD3"> 
+<label>(3)</label>
+<mml:math altimg="e74.gif" display="block">
+<mml:mi>%</mml:mi>
+<mml:mi>R</mml:mi> 
+<mml:mo>=</mml:mo> <!--\left--><mml:mrow>
+<mml:mo>[</mml:mo>
+<mml:mfrac>
+<mml:mrow >
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub > 
+<mml:mo>&#x2212;</mml:mo> 
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:mrow>
+    
+<mml:mrow >
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:mrow></mml:mfrac>     <!--\right--><mml:mo>]</mml:mo></mml:mrow> 
+<mml:mo>&#x00D7;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mn>0</mml:mn></mml:math>
+</disp-formula>
+Where 
+<mml:math altimg="e75.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn></mml:mrow></mml:msub ></mml:math>,
+<mml:math altimg="e76.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>2</mml:mn></mml:mrow></mml:msub ></mml:math> and
+<mml:math altimg="e77.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>A</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>3</mml:mn></mml:mrow></mml:msub ></mml:math> are
+peak area of spiked, non-spiked and standard oil samples respectively. BHA and BHT
+contents of different edible vegetable oil samples (sunflower oil, soybean oil and olive
+oil samples) and their recoveries are listed in
+<xref rid="tbl7">Table&#x00A0;7</xref>. Typical chromatograms of (a) extract of non-spiked soybean oil sample,
+(b) extract of spiked soybean oil sample and (c) standards of BHA and BHT are
+shown in
+<xref rid="fig3">Fig.&#x00A0;3</xref>.  
+<fig  id="fig3">  
+<label>Figure&#x00A0;3.</label>  
+<caption> 
+<title>&#x00A0;Typical chromatograms of BHA and BHT: (a) extract of
+non-spiked soybean oil sample, (b) extract of soybean oil sample spiked with <!--\xdollar\rm -->20&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<!--\xdollar--> of two antioxidants
+and conditions mobile phase: methanol: water: glacial acetic acid (75: 24: 1, v/v/v); flow rate&#x00A0;<!--\xdollar\rm -->=<!--\xdollar-->&#x00A0;1 mL/min; column
+<mml:math altimg="e78.gif" display="inline">
+<mml:msub>
+<mml:mrow >
+<mml:mi>C</mml:mi></mml:mrow>
+<mml:mrow >
+<mml:mn>1</mml:mn>
+<mml:mn>8</mml:mn></mml:mrow></mml:msub ></mml:math> (250&#x00A0;mm&#x00A0;&#x00D7;&#x00A0;4.6&#x00A0;mm, <!--\xdollar\rm -->10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->m<!--\xdollar-->); injection
+volume&#x00A0;<!--\xdollar\rm -->          =10&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->L<!--\xdollar-->;
+<mml:math altimg="e79.gif" display="inline">
+<mml:mi>&#x03BB;</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mn>5</mml:mn></mml:math> nm;
+room temperature. </title> 
+</caption>       
+<graphic xlink:href="gr3.jpg" xmlns:xlink="http://www.w3.org/1999/xlink"/>      
+</fig>
+<table-wrap  id="tbl7">  
+<label>Table&#x00A0;7.</label>  
+<caption> 
+<title>&#x00A0;BHA and BHT contents in commercial Iranian
+edible vegetable oil samples and their extraction recoveries </title> 
+</caption>
+<table frame="hsides" rules="groups"> 
+<colgroup>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/>   
+<col align="left"/></colgroup>
+<thead> 
+<tr valign="top"> 
+<td align="left">
+<bold>Sample</bold> </td> 
+<td align="left">
+<bold>Added amounts <!--\let \TexTMu \brmmu -->(<!--\xdollar\rm -->            <!--\TexTMu\removeaccent{-->&#x03BC;<!--}--><!--\xdollar-->g) of BHA and BHT</bold> </td> 
+<td colspan="2"  align="center">
+<bold>Content <!--\let \TexTMu \brmmu -->(<!--\xdollar\rm -->            <!--\TexTMu\removeaccent{-->&#x03BC;<!--}--><!--\xdollar-->g&#x00A0;g<sup> - 1</sup></bold>)                                                                          
+<xref rid="TF7.a"><sup>a</sup></xref>  </td> 
+<td colspan="2"  align="center">
+<bold>Recovery (%) 
+<mml:math altimg="e80.gif" display="inline">
+<mml:mo>&#x00B1;</mml:mo></mml:math> RSD</bold>
+ </td></tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">                                                                                                          </td> 
+<td align="left">
+<bold>BHA</bold>                                                                                                  </td> 
+<td align="left">
+<bold>BHT</bold>                                                                                                  </td> 
+<td align="left">
+<bold>BHA</bold>                                                                                                  </td> 
+<td align="left">
+<bold>BHT</bold>                                                                                                   </td>
+</tr></thead>
+<tbody> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">&#x2013;                                                                                                                                                                     </td> 
+<td align="left">
+<mml:math altimg="e81.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math> </td> 
+<td align="left">ND
+<xref rid="TF7.b"><sup>b</sup></xref>                                                                                                    </td> 
+<td align="left">&#x2013;                                                                                                       </td> 
+<td align="left">&#x2013;                                                                                                        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Sunflower oil       </td> 
+<td align="left">20.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e82.gif" display="inline">
+<mml:mn>6</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e83.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e84.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>7</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e85.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">50.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e86.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e87.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e88.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e89.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn></mml:math> <!--\vspace *{5pt}--> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">&#x2013;                                                                                                                                                                     </td> 
+<td align="left">
+<mml:math altimg="e90.gif" display="inline">
+<mml:mn>2</mml:mn>
+<mml:mn>9</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn></mml:math> </td> 
+<td align="left">ND                                                                                                    </td> 
+<td align="left">&#x2013;                                                                                                       </td> 
+<td align="left">&#x2013;                                                                                                        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Soybean oil 1      </td> 
+<td align="left">20.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e91.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>9</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e92.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e93.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>7</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e94.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">50.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e95.gif" display="inline">
+<mml:mn>7</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e96.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>9</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e97.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e98.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn></mml:math> <!--\vspace *{5pt}--> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">&#x2013;                                                                                                                                                                     </td> 
+<td align="left">
+<mml:math altimg="e99.gif" display="inline">
+<mml:mn>5</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e100.gif" display="inline">
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>0</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn></mml:math> </td> 
+<td align="left">&#x2013;                                                                                                       </td> 
+<td align="left">&#x2013;                                                                                                        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Soybean oil 2      </td> 
+<td align="left">20.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e101.gif" display="inline">
+<mml:mn>7</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e102.gif" display="inline">
+<mml:mn>2</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e103.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e104.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">50.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e105.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>0</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e106.gif" display="inline">
+<mml:mn>5</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>1</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e107.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e108.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math> <!--\vspace *{5pt}--> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">&#x2013;                                                                                                                                                                     </td> 
+<td align="left">
+<mml:math altimg="e109.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn></mml:math> </td> 
+<td align="left">ND                                                                                                    </td> 
+<td align="left">&#x2013;                                                                                                       </td> 
+<td align="left">&#x2013;                                                                                                        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Soybean oil 3      </td> 
+<td align="left">20.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e110.gif" display="inline">
+<mml:mn>6</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e111.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e112.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e113.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>7</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">50.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e114.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e115.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e116.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>6</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e117.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>2</mml:mn></mml:math> <!--\vspace *{5pt}--> </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">&#x2013;                                                                                                                                                                     </td> 
+<td align="left">ND                                                                                                    </td> 
+<td align="left">ND                                                                                                    </td> 
+<td align="left">&#x2013;                                                                                                       </td> 
+<td align="left">&#x2013;                                                                                                        </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">Olive oil            </td> 
+<td align="left">20.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e118.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>9</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e119.gif" display="inline">
+<mml:mn>1</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e120.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>7</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>1</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e121.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn></mml:math>  </td>
+</tr> 
+<tr valign="top"> 
+<td align="left">               </td> 
+<td align="left">50.0                                                                                                                                                                 </td> 
+<td align="left">
+<mml:math altimg="e122.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>9</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>3</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>4</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e123.gif" display="inline">
+<mml:mn>4</mml:mn>
+<mml:mn>7</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>9</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>3</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>8</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e124.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>8</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>6</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>2</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>5</mml:mn></mml:math> </td> 
+<td align="left">
+<mml:math altimg="e125.gif" display="inline">
+<mml:mn>9</mml:mn>
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>4</mml:mn> 
+<mml:mo>&#x00B1;</mml:mo> 
+<mml:mn>5</mml:mn>
+<mml:mo>.</mml:mo>
+<mml:mn>0</mml:mn></mml:math>  </td>
+</tr> 
+</tbody> 
+</table>
+<table-wrap-foot>
+<fn id="TF7.a">
+<label>a</label>
+<p>Data were shown as mean &#x00B1;SD (<mml:math altimg="e126.gif" display="inline">
+<mml:mi>n</mml:mi> 
+<mml:mo>=</mml:mo> 
+<mml:mn>3</mml:mn></mml:math>).</p></fn>
+<fn id="TF7.b">
+<label>b</label>
+<p>Not detected.</p></fn>  
+</table-wrap-foot></table-wrap>
+<!--\setTable [h]{tbl7}--> <!--\setFloat [t]{fig3}--></p>
+<p><!--\pagebreak --></p></sec></sec>
+<sec>
+<title>Discussion</title>
+<p>A simple analytical method for the extraction of two SPAs (BHA and BHT) from five
+Iranian edible vegetable oils was found to be preferable in comparison to other
+extraction methods such as LLE and SPE as these are tedious methods and with
+high consumption of organic solvents which decrease the extraction efficiency. In this
+method less organic solvent was used and the effects of several factors were able to be
+studied simultaneously by chemometrics method in a reduced number of
+extractions. The analytical determination of SPAs in foods is a continuous
+activity for law enforcement agencies to ensure the safety of food produced
+and consumed in Iran. In order to improve the efficiency of liquid&#x2013;liquid
+extraction methods and to enable the evaluation of the effects of different
+factors simultaneously, extraction conditions such as the: volume of ethanol,
+number of extractions, percentage of glacial acetic acid in ethanol and mixing
+time were optimized in this study. The extraction solvent volume was found
+to be very low in comparison to previous studies&#x00A0;<xref ref-type="bibr" rid="b5 b7
+b10">[5,7,10]</xref>, with also a reduced number of extractions performed. Analysis
+of the five oil samples studied show that the total antioxidant contents of
+analyzed oil samples are in the permissible range for oils produced in Iran (50&#x2013;<!--\xdollar\rm -->175&#x00A0;<!--\TexTMu\removeaccent{-->&#x03BC;<!--}-->g&#x002F;g<!--\xdollar-->). The
+present method has not previously been performed for the determination of SPAs in
+Iran, or by comparing this to other applied extraction methods&#x00A0;<xref ref-type="bibr" rid="b5
+b7 b10 b12">[5,7,10,12]</xref>. The advantages of using such a method include the
+simultaneous evaluation of several factors on extraction conditions, decreasing the
+number of experiments, using ultrasonic extraction for increased effective contact two
+phases and studying the methods validity and considerable diminution of organic
+solvent volume. Although the statistical parameters that were applied to assess the
+method were found to be valid, the study however was not without its limitations. In
+this method an ultraviolet detector was used which is not as sensitive as a
+fluorescence detector. This extraction method may also be limited to the use of
+substances with more simple matrices and not as effective for the extraction of SPAs
+in solid food and in other more complex matrices. This limitation may be
+overcome by further studies of the optimum conditions of extraction in such
+substances.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>Due to the increasing use of synthetic chemical compounds in foodstuffs and their
+associated effects on human health, accurately determining the amounts of BHA and
+BHT is of great importance in order to detect products with high dosages that can
+cause disease.</p>
+<p>The proposed method is simple, rapid and reliable and the most important advantage
+of this experimental design in this study is the evaluation of the effects of
+several factors on extraction conditions simultaneously. Microextraction
+procedures as an alternative method can be applied to achieve more efficient
+pre-concentration of SPAs from different types of foods. Also, it is possible
+to test this method for extraction of metabolites of SPAs from different
+matrices.</p>
+</sec>
+<sec>
+<title>Author statements</title>
+<p>The authors of this study declare they do not have any competing interests.</p>
+<p><!--\noindent --> No funding was provided for this study.</p>
+<p><!--\noindent --> All authors have read and approved the final manuscript.</p>
+<p><!--\noindent --> No acknowledgments.</p></sec></body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="b1">
+<label>[1]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lien</surname>
+<x>, </x>
+<given-names>A.P.H.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hua</surname>
+<x>, </x>
+<given-names>H.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Chuong</surname>
+<x>, </x>
+<given-names>P.H.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Free radicals, antioxidants in disease and health</article-title>
+<x>. </x>
+<source>Intl J Biomed Sci</source>
+<x>, </x>
+<volume>4</volume>
+<x>, </x>
+<fpage>89</fpage>
+<x>&#x2013;</x>
+<lpage>96</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b2">
+<label>[2]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Kosar</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Dorman</surname>
+<x>, </x>
+<given-names>D.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Baser</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Hiltunen</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2004</year>
+<x>). </x>
+<article-title>An improved HPLC post-column methodology for the identification of free
+radical scavenging phytochemicals in complex mixtures</article-title>
+<x>. </x>
+<source>Chromatographia</source>
+<x>, </x>
+<volume>60</volume>
+<x>,
+</x>
+<fpage>635</fpage>
+<x>&#x2013;</x>
+<lpage>638</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b3">
+<label>[3]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Aardt</surname>
+<x>, </x>
+<given-names>M.V.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Duncan</surname>
+<x>, </x>
+<given-names>S.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Long</surname>
+<x>, </x>
+<given-names>T.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Marcy</surname>
+<x>, </x>
+<given-names>J.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Okeefe</surname>
+<x>, </x>
+<given-names>S.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Sims</surname>
+<x>, </x>
+<given-names>S.R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2004</year>
+<x>). </x>
+<article-title>Effect of antioxidants on oxidative stability of edible fats and oils:
+thermogravimetric analysis</article-title>
+<x>. </x>
+<source>J Agric Food Chem</source>
+<x>, </x>
+<volume>52</volume>
+<x>, </x>
+<fpage>587</fpage>
+<x>&#x2013;</x>
+<lpage>591</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b4">
+<label>[4]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dopico</surname>
+<x>, </x>
+<given-names>M.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gonzalez</surname>
+<x>, </x>
+<given-names>M.V.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lopez</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Antioxidant content of and migration from commercial polyethylene,
+polypropylene, and polyvinyl chloride packages</article-title>
+<x>. </x>
+<source>J Agric Food Chem</source>
+<x>, </x>
+<volume>55</volume>
+<x>, </x>
+<fpage>3225</fpage>
+<x>&#x2013;</x>
+<lpage>3231</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b5">
+<label>[5]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Mak</surname>
+<x>, </x>
+<given-names>C.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Sin</surname>
+<x>, </x>
+<given-names>W.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Sze</surname>
+<x>, </x>
+<given-names>S.T.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Wong</surname>
+<x>, </x>
+<given-names>C.Y.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Yao</surname>
+<x>, </x>
+<given-names>W.Y.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Determination of five phenolic antioxidants in edible oils: Method validation
+and estimation of measurement uncertainty</article-title>
+<x>. </x>
+<source>J Food Com Anal</source>
+<x>, </x>
+<volume>19</volume>
+<x>, </x>
+<fpage>784</fpage>
+<x>&#x2013;</x>
+<lpage>791</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b6">
+<label>[6]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1996</year>
+<x>). </x>
+<source>Food Antioxidants: Technological, Toxicological and Health Perspectives</source>
+<x>.
+</x>
+<x>Eds. </x>
+<person-group person-group-type="editor"> 
+<string-name>
+<surname>Madhavi</surname>
+<x>, </x>
+<given-names>D.L.</given-names>
+<x>, </x></string-name> 
+<string-name>
+<surname>Deshpande</surname>
+<x>, </x>
+<given-names>S.S.</given-names>
+<x> &#x0026; </x></string-name> 
+<string-name>
+<surname>Salunkhe</surname>
+<x>, </x>
+<given-names>D.K.</given-names></string-name></person-group>
+<x>, </x>
+<publisher-name>Marcel Dekker</publisher-name>
+<x>, </x>
+<publisher-loc>New York</publisher-loc>
+<x>. </x></element-citation></ref>
+<ref id="b7">
+<label>[7]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Ahmad</surname>
+<x>, </x>
+<given-names>K.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ali</surname>
+<x>, </x>
+<given-names>A.S.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Hashim</surname>
+<x>, </x>
+<given-names>N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Nawi</surname>
+<x>, </x>
+<given-names>M.A.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Saad</surname>
+<x>, </x>
+<given-names>B.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Saleh</surname>
+<x>, </x>
+<given-names>M.I.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Sing</surname>
+<x>, </x>
+<given-names>Y.Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Sulaimam</surname>
+<x>, </x>
+<given-names>S.F.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Talib</surname>
+<x>, </x>
+<given-names>K.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Determination of synthetic phenolic antioxidants in food items using
+reversed-phase HPLC</article-title>
+<x>. </x>
+<source>Food Chem</source>
+<x>, </x>
+<volume>105</volume>
+<x>, </x>
+<fpage>389</fpage>
+<x>&#x2013;</x>
+<lpage>394</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b8">
+<label>[8]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Williams</surname>
+<x>, </x>
+<given-names>G.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Iatropoulos</surname>
+<x>, </x>
+<given-names>M.J.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Whysner</surname>
+<x>, </x>
+<given-names>J.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Safety Assessment of Butylated Hydroxyanisole and Butylated
+Hydroxytoluene as Antioxidant Food Additives</article-title>
+<x>. </x>
+<source>Food Chem Tox</source>
+<x>, </x>
+<volume>37</volume>
+<x>, </x>
+<fpage>1027</fpage>
+<x>&#x2013;</x>
+<lpage>1038</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b9">
+<label>[9]</label>
+<mixed-citation publication-type="other">  FDA. In Division of Cosmetics Technology. Food and Drug Administration
+(Washington, DC, 1981) 33.</mixed-citation> </ref>
+<ref id="b10">
+<label>[10]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Meyer</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Perrin</surname>
+<x>, </x>
+<given-names>C.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2002</year>
+<x>). </x>
+<article-title>Quantification of synthetic phenolic antioxidants in dry foods by
+reversed-phase HPLC with photodiode array detection</article-title>
+<x>. </x>
+<source>Food Chem</source>
+<x>, </x>
+<volume>77</volume>
+<x>, </x>
+<fpage>93</fpage>
+<x>&#x2013;</x>
+<lpage>100</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b11">
+<label>[11]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Husain</surname>
+<x>, </x>
+<given-names>S.W.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jamshidi</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Mirzaei</surname>
+<x>, </x>
+<given-names>A.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>TLC quantification of methylparaben on an inorganic ion-exchanger in the
+presence of other food additives</article-title>
+<x>. </x>
+<source>J Plan Chromatogr Modern TLC</source>
+<x>, </x>
+<volume>20</volume>
+<x>, </x>
+<fpage>141</fpage>
+<x>&#x2013;</x>
+<lpage>143</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b12">
+<label>[12]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Gallego</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gonzalez</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Valcarcel</surname>
+<x>, </x>
+<given-names>M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Gas chromatographic flow method for the preconcentration and simultaneous
+determination of antioxidant and preservative additives in fatty foods</article-title>
+<x>. </x>
+<source>J Chromatogr
+A</source>
+<x>, </x>
+<volume>848</volume>
+<x>, </x>
+<fpage>529</fpage>
+<x>&#x2013;</x>
+<lpage>536</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b13">
+<label>[13]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Wan</surname>
+<x>, </x>
+<given-names>Y.Q.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Wu</surname>
+<x>, </x>
+<given-names>Y.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Xie</surname>
+<x>, </x>
+<given-names>M.Y.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Yan</surname>
+<x>, </x>
+<given-names>A.P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Simultaneous determination of five synthetic antioxidants in edible vegetable
+oil by GC&#x2013;MS</article-title>
+<x>. </x>
+<source>Anal Bioanal Chem</source>
+<x>, </x>
+<volume>386</volume>
+<x>, </x>
+<fpage>1881</fpage>
+<x>&#x2013;</x>
+<lpage>1887</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b14">
+<label>[14]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Dopico</surname>
+<x>, </x>
+<given-names>M.S.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Gonzalez</surname>
+<x>, </x>
+<given-names>M.V.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Lopez</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2005</year>
+<x>). </x>
+<article-title>Determination of antioxidants by solid-phase extraction method in aqueous
+food simulants</article-title>
+<x>. </x>
+<source>Talanta</source>
+<x>, </x>
+<volume>66</volume>
+<x>, </x>
+<fpage>1103</fpage>
+<x>&#x2013;</x>
+<lpage>1107</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b15">
+<label>[15]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Noguera</surname>
+<x>, </x>
+<given-names>J.F.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ramos</surname>
+<x>, </x>
+<given-names>G.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Villanueva</surname>
+<x>, </x>
+<given-names>R.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1999</year>
+<x>). </x>
+<article-title>Determination of phenolic antioxidants in vegetal and animal fats without
+previous extraction by dilution with n-propanol and micellar liquid chromatography</article-title>
+<x>.
+</x>
+<source>Anal Chim Acta</source>
+<x>, </x>
+<volume>402</volume>
+<x>, </x>
+<fpage>81</fpage>
+<x>&#x2013;</x>
+<lpage>86</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b16">
+<label>[16]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Lee</surname>
+<x>, </x>
+<given-names>M.R.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Li</surname>
+<x>, </x>
+<given-names>Z.G.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Lin</surname>
+<x>, </x>
+<given-names>C.Y.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Tsai</surname>
+<x>, </x>
+<given-names>T.F.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2006</year>
+<x>). </x>
+<article-title>Simultaneous analysis of antioxidants and preservatives in cosmetics by
+supercritical fluid extraction combined with liquid chromatography-mass
+spectrometry</article-title>
+<x>. </x>
+<source>J Chromatogr A</source>
+<x>, </x>
+<volume>1120</volume>
+<x>, </x>
+<fpage>244</fpage>
+<x>&#x2013;</x>
+<lpage>251</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b17">
+<label>[17]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Andrade</surname>
+<x>, </x>
+<given-names>J.B.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Breitkreitz</surname>
+<x>, </x>
+<given-names>M.C.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Bruns</surname>
+<x>, </x>
+<given-names>R.E.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>David</surname>
+<x>, </x>
+<given-names>J.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Ferreira</surname>
+<x>, </x>
+<given-names>W.N.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Jardim</surname>
+<x>, </x>
+<given-names>I.C.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Neto</surname>
+<x>, </x>
+<given-names>B.B.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Quintilla</surname>
+<x>, </x>
+<given-names>C.M.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Santos</surname>
+<x>, </x>
+<given-names>W.N.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Silva</surname>
+<x>, </x>
+<given-names>E.P.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2007</year>
+<x>). </x>
+<article-title>Statistical designs and response surface techniques for the optimization of
+chromatographic systems</article-title>
+<x>. </x>
+<source>J Chromatogr A</source>
+<x>, </x>
+<volume>1158</volume>
+<x>, </x>
+<fpage>2</fpage>
+<x>&#x2013;</x>
+<lpage>14</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b18">
+<label>[18]</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name>
+<surname>Sun</surname>
+<x>, </x>
+<given-names>J.B.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Cao</surname>
+<x>, </x>
+<given-names>Y.</given-names></string-name>
+<x>, </x>
+<string-name>
+<surname>Tian</surname>
+<x>, </x>
+<given-names>Y.</given-names></string-name>
+<x>, &#x0026; </x>
+<string-name>
+<surname>Li</surname>
+<x>, </x>
+<given-names>X.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>2008</year>
+<x>). </x>
+<article-title>Optimisation of ultrasound-assisted extraction of phenolic compounds from
+wheat bran</article-title>
+<x>. </x>
+<source>Food Chem</source>
+<x>, </x>
+<volume>106</volume>
+<x>, </x>
+<fpage>804</fpage>
+<x>&#x2013;</x>
+<lpage>810</lpage>
+<x>. </x></element-citation></ref>
+<ref id="b19">
+<label>[19]</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<string-name>
+<surname>Goupy</surname>
+<x>, </x>
+<given-names>J.L.</given-names></string-name>
+</person-group>
+<x>&#x00A0;</x>
+<x>(</x>
+<year>1993</year>
+<x>). </x>
+<source>Methods for Experimental Design, Principles and Applications for Physicists
+and Chemists</source>
+<x>. </x>
+<publisher-name>Elsevier</publisher-name>
+<x>, </x>
+<publisher-loc>Amsterdam</publisher-loc>
+<x>. </x></element-citation></ref>
+</ref-list>
+</back></article>
