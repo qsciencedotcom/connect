@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="pmc">connect</journal-id>
+			<journal-id journal-id-type="publisher-id">connect</journal-id>
+			<journal-title-group>
+				<journal-title xml:lang="en">QScience Connect</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2223-506X</issn>
+			<publisher>
+				<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">30</article-id>
+			<article-id pub-id-type="doi">10.5339/connect.2013.30</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Solvent-free synthesis, spectral correlations and antimicrobial activities of some 2', 3', 4'-trichlorophenyl chalcones</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>R.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Sundararajan</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>R.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Arulkumaran</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>S.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Vijayakumar</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>D.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Kamalakkannan</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>R.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Suresh</surname>
+					</string-name>
+				<x xml:space="preserve">, </x>
+				</contrib><contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>S. John</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Joseph</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>K. Ranganathan</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Sundararajan</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>G.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Vanangamudi</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>M.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Subramanian</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1, </sup>
+					</xref>
+					
+						<sup>*</sup>
+					
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>G.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Thirunarayanan</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>I.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Muthuvel</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>B.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Krishnakumar</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff3">
+						<sup>3</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<aff id="aff1">
+					<sup>1</sup>P.G. and Research Department of Chemistry, Government Arts College, C-Mutlur, Chidambaram-608102, India</aff>
+				<aff id="aff2">
+					<sup>2</sup>Department of Chemistry, Annamalai University, Annamalainagar-608002, India</aff>
+				<aff id="aff3">
+					<sup>3</sup>National Taiwan University of Science and Technology (NTUST), Taipei 10607, Taiwan</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<sup>*</sup>Email: drmsgacplcmcdm@gmail.com</corresp>
+			</author-notes>
+			<pub-date pub-type="pub">
+				<day>25</day>
+				<month>8</month>
+				<year>2013</year>
+			</pub-date>
+			<issue content-type="issue-sequence">2013</issue>
+			<elocation-id>30</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>6</day>
+					<month>8</month>
+					<year>2013</year>
+				</date>
+				<date date-type="accepted">
+					<day>13</day>
+					<month>8</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2013 Subramanian, et al, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+				<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="connect.2013.30.pdf" xlink:type="simple"></self-uri>
+			<abstract abstract-type="graphical">
+				<title>Abstract</title>
+				<p>Background: This study aimed to synthesize some 2', 3', 4'-trichlorophenyl chalcones [(E)-1-(2, 3, 4-trichlorophenyl)-3-(substituted phenyl)-2-propen-1-ones] using solvent-free sulfated Titania catalyzed aldol condensation between 2, 3, 4-trichloroacetophenone and substituted benzaldehydes under microwave irradiation. To characterize these chalcones using analytical, physical and spectroscopic data and also to study their the spectral correlation and antimicrobial activities.</p>
+<p>Methods: Solvent free microwave assisted aldol condensation method was used for synthesizing substituted styryl 2', 3', 4'-trichlorophenyl ketones. They were characterized by UV, IR, NMR and mass spectroscopic data. The UV, IR, NMR spectral data were correlated with substituent constants, F and R parameters, using Hammett equation, to study the effect of substituents.  The Bauer-Kirby method was used for the evaluation of antimicrobial activities of the synthesized chalcones.</p>
+<p>Results: The yields of the synthesized chalcones were more than 90%. The spectral data of these ketones had been correlated, using single and multi-linear regression analysis. These gave a satisfactory degree of correlations with some parameters and a fair degree of correlations with some parameters.  Few chalcones had excellent antimicrobial activities, whereas, others showed poor antimicrobial activities.</p>
+<p>Conclusion:  Easy work-up and handling, non-hazardous and environmentally benign aldol condensation method had been adopted for synthesizing chalcones with better yields. Some of the Hammett spectral correlations were found satisfactory with the observed spectroscopic data. Halo, methoxy, methyl and nitro substituted compounds had shown excellent antimicrobial activities based on their zone of inhibitions. 
+</p>
+			</abstract>
+		</article-meta>
+	</front>
+</article>

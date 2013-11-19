@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta> 
+<journal-id journal-id-type="pmc">connect</journal-id> 
+<journal-id journal-id-type="publisher-id">connect</journal-id> 
+<journal-title-group> 
+<journal-title xml:lang="en">QScience Connect</journal-title> 
+</journal-title-group> 
+<issn pub-type="ppub">2223-506X</issn> 
+<publisher> 
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+</publisher> 
+</journal-meta> 
+<article-meta> 
+<article-id pub-id-type="publisher-id">10</article-id> 
+<article-id pub-id-type="doi">10.5339/connect.2012.10</article-id> 
+<article-categories> 
+<subj-group subj-group-type="heading"> 
+<subject>Research article</subject> 
+</subj-group> 
+</article-categories> 
+<title-group> 
+<article-title>Synthesis and characterization of macrocyclic bisphosphonate dimers</article-title> 
+</title-group> 
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>          
+<given-names>Brian</given-names>
+<x xml:space="preserve"> </x>                 
+<surname>Patrick</surname> </string-name> 
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>                
+<x xml:space="preserve">, </x></contrib>   
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>                
+<given-names>Jennifer</given-names>
+<x xml:space="preserve"> </x>
+<surname>Yeh</surname> </string-name> 
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>               
+<x xml:space="preserve">, </x></contrib>   
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>               
+<given-names>Jeremy</given-names>
+<x xml:space="preserve"> </x>                
+<surname>Comba</surname> </string-name> 
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>               
+<x xml:space="preserve">, </x></contrib>   
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Eric M.</given-names>
+<x xml:space="preserve"> </x>               
+<surname>Everett</surname> </string-name> 
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>              
+<x xml:space="preserve">, </x></contrib>   
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>              
+<given-names>Kallum</given-names>
+<x xml:space="preserve"> </x>               
+<surname>Koczkur</surname> </string-name> 
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+<x xml:space="preserve">, </x></contrib>   
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>               
+<given-names><!--\break--> Michael D.</given-names>
+<x xml:space="preserve"> </x>                
+<surname>Pungente</surname>   </string-name> 
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+<x xml:space="preserve"><sup>,</sup></x> 
+<sup>⁎</sup>               
+<x xml:space="preserve"> </x></contrib> 
+<aff id="aff1"><sup>1</sup>Department of
+Chemistry, University of British Columbia, 2036 Main Mall, Vancouver,
+BC, Canada, V6T 1Z4</aff> 
+<aff id="aff2"><sup>2</sup>Faculty of Pharmaceutical Sciences, University of
+British Columbia, 2146 East Mall, Vancouver, British Columbia, Canada, V6T
+1Z3</aff> 
+<aff id="aff3"><sup>3</sup>Department of Chemistry, Lakehead University, 955 Oliver Road, Thunder Bay,
+ON, Canada, P7B 5E1</aff> 
+<aff id="aff4"><sup>4</sup>Premedical Unit, Weill Cornell Medical College in
+Qatar, P.O. Box 24144, Doha, Qatar</aff></contrib-group>
+<author-notes> 
+<corresp id="c1"><sup>⁎</sup>Email: mdp2001@qatar-med.cornell.edu</corresp></author-notes> 
+<pub-date pub-type="pub"> 
+<day>20</day> 
+<month>9</month> 
+<year>2012</year> </pub-date> 
+<issue content-type="issue-sequence">2012</issue>
+<elocation-id>10</elocation-id> 
+<history> 
+<date date-type="received">
+<day>5</day>
+<month>7</month>
+<year>2012</year></date> 
+<date date-type="accepted">
+<day>11</day>
+<month>9</month>
+<year>2012</year></date></history>
+<permissions> 
+<copyright-statement>© 2012
+Patrick, Yeh, Comba, Everett, Koczkur &amp; Pungente, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement> 
+<copyright-year>2012</copyright-year> 
+<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder> </permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.10.pdf" xlink:type="simple"></self-uri>  
+<abstract>
+<title>Abstract</title>
+<p><!--\noindent --><bold>Background</bold>: Attempts to optimize the synthetic yield of known macrocyclic phosphonates resulted in the discovery of two new macrocyclic bisphosphonate dimers. <!--\newline \noindent --><bold>Methods</bold>: An attempt was carried out to optimize the yield of a known macrocyclic bisphosphonate dimer, 
+<bold>6</bold>, over the yield of monomers 
+<bold>2</bold> and 
+<bold>3</bold>, using the Mitsunobu protocol in the macrocyclization step. Cyclization reactions were carried out at 0.003 M, 0.004 M, 0.005 M, 0.008 M and 0.02 M, compared to 0.002 M in our initial report of the synthesis of monomers. <!--\newline \noindent --><bold>Results</bold>: In this attempt to optimize the production of dimer 
+<bold>6</bold>, two new macrocyclic diastereomers of 
+<bold>6</bold>, namely 28-membered bisphosphonates 
+<bold>9</bold> and 
+<bold>10</bold>, were isolated in yields of 3% and 2%, respectively, and characterized by FTIR, LC-MS, 
+<mml:math altimg="e1.gif" display="inline" overflow="scroll">
+<mml:msup>
+<mml:mrow>
+<mml:mtext></mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow></mml:msup>
+<mml:mstyle mathvariant="normal">
+<mml:mi>H</mml:mi></mml:mstyle></mml:math>, 
+<mml:math altimg="e2.gif" display="inline" overflow="scroll">
+<mml:msup>
+<mml:mrow>
+<mml:mtext></mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn>
+<mml:mn>3</mml:mn></mml:mrow></mml:msup>
+<mml:mstyle mathvariant="normal">
+<mml:mi>C</mml:mi></mml:mstyle></mml:math> and 
+<mml:math altimg="e3.gif" display="inline" overflow="scroll">
+<mml:msup>
+<mml:mrow>
+<mml:mtext></mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mn>1</mml:mn></mml:mrow></mml:msup>
+<mml:mstyle mathvariant="normal">
+<mml:mi>P</mml:mi></mml:mstyle></mml:math> NMR as well as by X-ray crystallography. <!--\newline \noindent --><bold>Conclusions</bold>: The results described herein further illustrate the utility of the Mitsunobu macrocyclization (ring-closing) reaction toward the synthesis of macrocyclic phosphonates. The X-ray crystallographic characterization of the three bisphosphonate dimers, together with correlations to specific 
+<mml:math altimg="e4.gif" display="inline" overflow="scroll">
+<mml:msup>
+<mml:mrow>
+<mml:mtext></mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mn>1</mml:mn></mml:mrow></mml:msup>
+<mml:mstyle mathvariant="normal">
+<mml:mi>H</mml:mi></mml:mstyle></mml:math> and 
+<mml:math altimg="e5.gif" display="inline" overflow="scroll">
+<mml:msup>
+<mml:mrow>
+<mml:mtext></mml:mtext></mml:mrow>
+<mml:mrow>
+<mml:mn>3</mml:mn>
+<mml:mn>1</mml:mn></mml:mrow></mml:msup>
+<mml:mstyle mathvariant="normal">
+<mml:mi>P</mml:mi></mml:mstyle></mml:math> NMR resonances allowed for the assignments of relative stereochemistries between the various dimers. <!--\begin {center}--></p> 
+<p><!--\gdef \inlinefigscale {.99}--> <!--\vspace *{12pt}--><inline-graphic xlink:href="fx1" xlink:type="simple"></inline-graphic> <!--\end {center}--></p></abstract>
+<kwd-group kwd-group-type="author">
+<title>Keywords</title>
+<kwd>Synthetic lipids</kwd>
+<x xml:space="preserve">, </x>
+<kwd>cyclic phosphonates</kwd>
+<x xml:space="preserve">, </x>
+<kwd>Mitsunobu macrocyclization</kwd>
+<x xml:space="preserve">, </x>
+<kwd>28-membered
+bisphosphonates</kwd></kwd-group> 
+</article-meta>  
+</front> 
+
+</article>

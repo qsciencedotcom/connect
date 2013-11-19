@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.34</article-id>
+<article-id pub-id-type="publisher-id">34</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>On the presence and distribution of the Gulf sand gecko, <italic>Pseudoceramodactylus khobarensis</italic> Haas, 1957 (Reptilia: Squamata: Gekkonidae) in Qatar</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Valdeón et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Aitor</given-names>
+<x xml:space="preserve"> </x>
+<surname>Valdeón</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001 AF0002">
+<sup>1,2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Aurora M.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Castilla</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0003 AF0004">
+<sup>3,4</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Dan</given-names>
+<x xml:space="preserve"> </x>
+<surname>Cog&abreve;lniceanu</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0005">
+<sup>5</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Alberto</given-names>
+<x xml:space="preserve"> </x>
+<surname>Gosá</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Ali</given-names>
+<x xml:space="preserve"> </x>
+<surname>Alkuwary</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0006">
+<sup>6</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>E O H</given-names>
+<x xml:space="preserve"> </x>
+<surname>Saifelnasr</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0007 AF0008">
+<sup>7,8</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Elsa</given-names>
+<x xml:space="preserve"> </x>
+<surname>Naumann</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0009">
+<sup>9</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Paloma</given-names>
+<x xml:space="preserve"> </x>
+<surname>Mas-Peinado</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0010">
+<sup>10</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Renee</given-names>
+<x xml:space="preserve"> </x>
+<surname>Richer</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0011">
+<sup>11</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Ahmad Amer Mohd</given-names>
+<x xml:space="preserve"> </x>
+<surname>Al-Hemaidi</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0012">
+<sup>12</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Geography and Regional Planning. University of Zaragoza. Pedro Cerbuna, 12. Zaragoza, Spain</aff>
+<aff id="AF0002">
+<sup>2</sup>Department of Herpetology, Aranzadi Society of Sciences. Zorroagagaina, 11. San Sebastián, Spain</aff>
+<aff id="AF0003">
+<sup>3</sup>Department of Biodiversity, Qatar Environment and Energy Research Institute (QEERI), Qatar Foundation, Education City, P.O. Box 5825, Doha, Qatar</aff>
+<aff id="AF0004">
+<sup>4</sup>Forest Sciences Centre of Catalonia (CTFC)-Spanish National Research Council (CSIC), Solsona, Spain</aff>
+<aff id="AF0005">
+<sup>5</sup>University Ovidius Constan&tcedil;a, Faculty of Natural Sciences and Agricultural Sciences, Al. Universitatii 1, Corp B, 900740 Constan&tcedil;a, Romania</aff>
+<aff id="AF0006">
+<sup>6</sup>Wildlife Research Section, Ministry of Environment, Qatar, P.O. Box 7635, Doha, Qatar</aff>
+<aff id="AF0007">
+<sup>7</sup>Genetic Resources Department, Biotechnology Centre, Ministry of Environment, Qatar, P.O. Box 200022, Doha, Qatar</aff>
+<aff id="AF0008">
+<sup>8</sup>Agricultural Research Center (ARC), Ministry of Agriculture, Egypt</aff>
+<aff id="AF0009">
+<sup>9</sup>Email: <email xlink:href="elsa.naumann@gmail.com" xlink:type="simple">elsa.naumann@gmail.com</email>
+</aff>
+<aff id="AF0010">
+<sup>10</sup>Department of Biodiversity and Evolutionary Biology: National Museum of Natural Sciences; Spanish National Research Council (CSIC) (MNCN-CSIC): C/ José Gutiérrez Abascal 2, 28006 Madrid, Spain/Instituto de Estudios Ceutíes. Paseo de Revellín, 30. Apartado 593. 51080 Ceuta, España</aff>
+<aff id="AF0011">
+<sup>11</sup>Weill Cornell Medical College, Qatar Foundation, Education City, P.O. Box 5825, Doha, Qatar</aff>
+<aff id="AF0012">
+<sup>12</sup>Ministry of Environment, Qatar, P.O. Box 7634, Doha, Qatar</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="acastilla@qf.org.qa" xlink:type="simple">acastilla@qf.org.qa</email>; <email xlink:href="castilla.aurora@gmail.com" xlink:type="simple">castilla.aurora@gmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>10</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>34</elocation-id>
+<history>
+<date date-type="received">
+<day>20</day>
+<month>8</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>04</day>
+<month>9</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Valdeón, Castilla, Cog&abreve;lniceanu, Gosá, Alkuwary, Saifelnasr, Naumann, Mas-Peinado, Richer, Al-Hemaidi, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.34.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>The Gulf sand gecko (<italic>Pseudoceramodactylus khobarensis</italic> Haas, 1957) is a nocturnal gecko endemic to the Arabian Gulf countries. In this study we report the presence of this species in Qatar for the first time. Our findings bridge one of the current geographic gaps in the known distribution range of this species. In Qatar, the species has been found on the mainland and on two islands occupying coastal salty habitats with shrubs. The islands are the smallest where this species is known to occur. We believe that this gecko species is more widely distributed in Qatar than we report here and that an extensive inventory is required to map the full range of the species in Qatar and also in other countries of the Arabian Gulf.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Arabian Gulf</kwd>
+<x xml:space="preserve">; </x>
+<kwd>reptile</kwd>
+<x xml:space="preserve">; </x>
+<kwd>range</kwd>
+<x xml:space="preserve">; </x>
+<kwd>
+<italic>Stenodactylus khobarensis</italic>
+</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Atlas</kwd>
+<x xml:space="preserve">; </x>
+<kwd>biodiversity</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

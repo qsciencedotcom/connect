@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.32</article-id>
+<article-id pub-id-type="publisher-id">32</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research paper</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Effect of thermal conductivity on gravitational instability of quantum plasma having fine dust particles</article-title>
+<alt-title alt-title-type="rrh">Qscience Connect</alt-title>
+<alt-title alt-title-type="lrh">Shrivastava et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Vijayendra</given-names>
+<x xml:space="preserve"> </x>
+<surname>Shrivastava</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Ashok Kumar</given-names>
+<x xml:space="preserve"> </x>
+<surname>Patidar</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Ram Kumar</given-names>
+<x xml:space="preserve"> </x>
+<surname>Pensia</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Physics Department, Pacific University, Udaipur, Rajasthan 313024, India</aff>
+<aff id="AF0002">
+<sup>2</sup>Physics Department, Govt. Girls College, Neemuch, MP 458441, India</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="vijayendra.shrivastava@hotmail.com" xlink:type="simple">vijayendra.shrivastava@hotmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>10</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>32</elocation-id>
+<history>
+<date date-type="received">
+<day>19</day>
+<month>8</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>03</day>
+<month>9</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Shrivastava, Patidar, Pensia, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.32.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>Effect of thermal conductivity on gravitational instability of quantum plasma in the presence of fine dust particles has been investigated. Following the linearized stability theory and normal mode analysis, the paper established a general dispersion relation of the problem. Modified condition of Jeans gravitational instability is obtained due to quantum effect. Numerical calculations were performed to find the effect of each parameter on the growth rate of instability. The effect of fine dust particles does not affect the instability condition of the system but stabilizes the system by decreasing the growth rate of unstable mode. Curves show the destabilizing effect of thermal conductivity and stabilizing effect of quantum correction on the growth rate of unstable mode. The stability of the system is discussed by Routh-Hurwitz criterion of stability.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>gravitational instability</kwd>
+<x xml:space="preserve">; </x>
+<kwd>fine-dust particles</kwd>
+<x xml:space="preserve">; </x>
+<kwd>thermal conductivity</kwd>
+<x xml:space="preserve">; </x>
+<kwd>quantum correction</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

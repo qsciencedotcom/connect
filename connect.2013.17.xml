@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.17</article-id>
+<article-id pub-id-type="publisher-id">17</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research paper</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Modulation of extracellular matrix proteins and hepatate stellate cell activation following gadolinium chloride induced Kuffer cell blockade in an experimental model of liver fibrosis/cirrhosis</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Tekkesin et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Nilgün</given-names>
+<x xml:space="preserve"> </x>
+<surname>Tekkesin</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Yaz</given-names>
+<x xml:space="preserve"> </x>
+<surname>Taga</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Ayd&inodot;n</given-names>
+<x xml:space="preserve"> </x>
+<surname>Sav</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0003">
+<sup>3</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Süheyla</given-names>
+<x xml:space="preserve"> </x>
+<surname>Bozkurt</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0003">
+<sup>3</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Clinical Biochemistry Laboratory, Memorial Hospital, Istanbul, Turkey</aff>
+<aff id="AF0002">
+<sup>2</sup>Departn&inodot;ent of Biochemistry, Marmara University Medical School, Istanbul, Turkey</aff>
+<aff id="AF0003">
+<sup>3</sup>Department of Pathology, Marmara University Medical School, Istanbul, Turkey</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>E-mail: <email xlink:href="niltek@hotmail.com" xlink:type="simple">niltek@hotmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>10</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>17</elocation-id>
+<history>
+<date date-type="received">
+<day>30</day>
+<month>4</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>03</day>
+<month>6</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Tekkesin, Taga, Sav, Bozkurt, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.17.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>
+<bold>Background:</bold> Hepatic fibrosis results from an imbalance between fibrogenesis and fibrolysis in the liver. The process of Ito cell activation, which is thought to be the central pathogenic mechanism in liver fibrogenesis/cirrhosis, may involve distinct interactions with Kupffer cells (KCs) mediated by various cytokines and growth factors. The aim of this study was to determine whether targeting KC function using GdCl3, which specifically acts on Kupffer cells, interferes with the manifastation of carbon tetrachloride (CCl4) and dimethylnitrosamine (DMN) induced hepatic fibrosis/cirrhosis. <bold>Methods:</bold> We assesed the change in distribution of ECM proteins, laminin and fibronectin and the marker of HSC activation, alpha-smooth muscle actin (α-SMA) after liver injury and after KC inactivator, GdCl3-treatment with light microscope immunohistochemistry. Using light microscopy, characteristic changes of fibrosis/cirrhosis were seen in the hepatotoxin-administrated groups. <bold>Results:</bold> The immunohistochemical profile of anti-laminin was significantly altered in hepototoxin-treated groups (p &lt; 0.05) and GdCl3 blocked this effect. The immunoproducts of anti-fibronectin and anti-SMA antibody were not significantly altered in the CCl4-treated group. In contrast, after DMN-induced flbrosis/cirrhosis, laminin, fibronectin and α-SMA staining were significantly increased (p &lt; 0.05) and were present along the sinusoids in cirrhotic liver tissue. However, those ECM proteins and α-SMA staining in the parenchyma and fibrotic nodules decreased but not significantly after GdCl3 treatment. <bold>Conclusions:</bold> The results suggest that GdCl3 suppressed the activation of lipocytes and their transition from hepatic lipocytes to myofibroblast-like cells in cirrhotic livers in CCl4-treated mice. These results support that treatment with the selective Kupffer cell toxicant GdCl3 prevents stellate cell activation and prevents liver fibrosis/cirrhosis</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>immunohistochemistry</kwd>
+<x xml:space="preserve">; </x>
+<kwd>laminin</kwd>
+<x xml:space="preserve">; </x>
+<kwd>fibronectin</kwd>
+<x xml:space="preserve">; </x>
+<kwd>alpha-smooth muscle actin</kwd>
+<x xml:space="preserve">; </x>
+<kwd>cirrhosis</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

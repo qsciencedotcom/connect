@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.1</article-id>
+<article-id pub-id-type="publisher-id">1</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Properties of nanoclay PVA composites materials</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Ali et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mohamed H.M.</given-names>
+<surname>Ali</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001 AF0002">
+<sup>1,2,</sup>
+</xref>
+&midast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mohamoud M.</given-names>
+<surname>Kahder</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Khalid A.</given-names>
+<surname>Al-Saad</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Saeed</given-names>
+<surname>Al-Meer</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Chemistry, The University of Sydney, Sydney NSW, 2006, Australia</aff>
+<aff id="AF0002">
+<sup>2</sup>Current Address: Department of Chemistry and Earth Sciences, College of Arts and Sciences, Qatar University, P.O. Box: 2713, Doha, Qatar</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>E-mail: <email xlink:href="moaam@yahoo.com" xlink:type="simple">moaam@yahoo.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>1</day>
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>1</elocation-id>
+<history>
+<date date-type="received">
+<day>24</day>
+<month>10</month>
+<year>2012</year>
+</date>
+<date date-type="accepted">
+<day>21</day>
+<month>1</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Ali, Khader, Al Saad, Al-Meer, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution License CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.1.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>Polyvinyl alcohol (PVA)/Na-rich Montmorillonite (MMT) nanocomposites were prepared using solution method to create polymer-clay nanocomposite (PCN) material. The PCN material was studied using X-ray diffraction (XRD), demonstrating polymer-clay intercalation that has a high <italic>d</italic>-spacing (lower diffraction angles) in the PCN XRD pattern, compared to the pure MMT clay XRD pattern, which has a low <italic>d</italic>-spacing (high diffraction angles). The nano-scanning electron microscope (NSEM) was used to study the morphological image of the PVA, MMT and PCN materials. The results showed that intercalation that took place between the PVA and MMT produced the PCN material.</p>
+<p>The mechanical properties of the pure PVA and the intercalated polymer material were studied. It was found that the small amount of MMT clay made the tensile modulus and percentage of the total elongation of the nano-composite significantly higher than the pure PVA polymer value, due to polymer-clay intercalation. The thermal stability of the intercalated polymer has been studied using thermal analytical techniques such as thermogravimetric analysis (TGA) and differential scanning calorimetry (DSC). The results showed that the PCN material is more thermally stable than the pure PVA polymer.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Polyvinyl alcohol (PVA)</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Na-rich Montmorillonite (MMT)</kwd>
+<x xml:space="preserve">; </x>
+<kwd>X-ray diffraction (XRD)</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Differential Scanning Calorimetry (DSC)</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Mechanical properties</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.22</article-id>
+<article-id pub-id-type="publisher-id">22</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Characterizing the Copts in Egypt: Demographic, socioeconomic and health indicators</article-title>
+<alt-title alt-title-type="rrh">Qscience CONNECT</alt-title>
+<alt-title alt-title-type="lrh">Mohamoud et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Yousra A.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Mohamoud</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Diego F.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Cuadros</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001 AF0002">
+<sup>1,2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Laith J.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Abu-Raddad</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001 AF0002 AF0003">
+<sup>1,2,3</sup>
+</xref>
+&ast;
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Infectious Disease Epidemiology Group, Weill Cornell Medical College, Qatar; Cornell University, Qatar Foundation – Education City, Doha, Qatar</aff>
+<aff id="AF0002">
+<sup>2</sup>Department of Public Health, Weill Cornell Medical College, Cornell University, New York, NY, USA</aff>
+<aff id="AF0003">
+<sup>3</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="lja2002@qatar-med.cornell.edu" xlink:type="simple">lja2002@qatar-med.cornell.edu</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>08</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>22</elocation-id>
+<history>
+<date date-type="received">
+<day>20</day>
+<month>5</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>26</day>
+<month>6</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Mohamoud, Cuadros, Abu-Raddad, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.22.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p><bold>Background:</bold> The demography of Copts in Egypt is subject to an intense debate in the context of a dearth of analytical studies on this community. Our objective was to estimate the size of the Coptic community in Egypt, map its geographical clustering, and describe demographic, socioeconomic, and health-associated indicators. <bold>Methods:</bold> We conducted descriptive and Kulldorff spatial scan statistics analyses using the 2008 Egypt Demographic and Health Survey (EDHS) data. We also used chi-square trend analysis and earlier EDHS data to examine the temporal trend in the proportion of Copts. <bold>Results:</bold> The proportion of Copts in the 15–59 years population was 5.1% (95% confidence interval (CI): 4.6%–5.5%). This translates to 4,274,145 (95% CI: 3,855,111–4,609,372) Copts. We identified three main clusters of Copts: Minya-Assuit cluster (17.6%), Assuit-Souhag cluster (15.1%) and the metropolitan Cairo cluster (9.4%). The proportion of Copts was stable since 1988 (<italic>P</italic> &equals; 0.11). Copts had higher educational attainment (<italic>P</italic> &equals; 0.002), and a wealth index quintiles distribution skewed towards the rich (<italic>P</italic> &lt; 0.001). Copts also had stronger representation in white collar job types, but limited representation in security agencies. The majority of demographic, socioeconomic and health indicators were similar among Copts and Muslims. <bold>Conclusions:</bold> One in every 20 Egyptians is a Copt, a proportion smaller than commonly circulated in the scholarly literature and public sphere. Despite some identified disparities, our study indicates a well-integrated Egyptian society regardless of religious affiliation. Our study provides evidence to inform the ongoing debate on the status of Copts in Egypt.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Copts</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Egypt</kwd>
+<x xml:space="preserve">; </x>
+<kwd>demography</kwd>
+<x xml:space="preserve">; </x>
+<kwd>religion</kwd>
+<x xml:space="preserve">; </x>
+<kwd>minorities</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

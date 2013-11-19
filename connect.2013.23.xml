@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.23</article-id>
+<article-id pub-id-type="publisher-id">23</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>On reliability of homotopy analysis method for equation of vertically falling non-spherical particle</article-title>
+<alt-title alt-title-type="rrh">Qscience CONNECT</alt-title>
+<alt-title alt-title-type="lrh">Mohyud-Din et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Syed Tauseef</given-names>
+<x xml:space="preserve"> </x>
+<surname>Mohyud-Din</surname>
+</string-name>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Farah Jabben</given-names>
+<x xml:space="preserve"> </x>
+<surname>Awan</surname>
+</string-name>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Asif</given-names>
+<x xml:space="preserve"> </x>
+<surname>Mehmood</surname>
+</string-name>
+</contrib>
+<aff id="AF0001">Department of Mathematics, HITEC University, Taxila Cantt, Pakistan</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="syedtauseefs@hotmail.com" xlink:type="simple">syedtauseefs@hotmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>10</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>23</elocation-id>
+<history>
+<date date-type="received">
+<day>27</day>
+<month>6</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>27</day>
+<month>6</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Mohyud-Din, Awan, Mehmood, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.23.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>In this paper, the differential equation of a vertically falling non-spherical particle in incompressible Newtonian media is solved by homotopy analysis method (HAM). The results are analyzed using graphs and comparison tables.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>non-spherical</kwd>
+<x xml:space="preserve">; </x>
+<kwd>homotopy analysis method</kwd>
+<x xml:space="preserve">; </x>
+<kwd>h-curve</kwd>
+<x xml:space="preserve">; </x>
+<kwd>nonlinear problems</kwd>
+</kwd-group>
+<kwd-group>
+<title>PACS numbers:</title>
+<kwd>02.30.Jr</kwd>
+<x xml:space="preserve">; </x>
+<kwd>05.45.Yv</kwd>
+<x xml:space="preserve">; </x>
+<kwd>02.30.Ik</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

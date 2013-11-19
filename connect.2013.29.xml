@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="pmc">connect</journal-id>
+			<journal-id journal-id-type="publisher-id">connect</journal-id>
+			<journal-title-group>
+				<journal-title xml:lang="en">QScience Connect</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2223-506X</issn>
+			<publisher>
+				<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">29</article-id>
+			<article-id pub-id-type="doi">10.5339/connect.2013.29</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Sonochemical nano fabrication as a new method for activation of Ground Granulated Blast Furnace Slag (GGBFS)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Azadeh</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Askarinejad</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1, </sup>
+					</xref>
+					
+						<sup>*</sup>
+					
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Fatemeh</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Zisti</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Ali Reza</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Pourkhorshidi</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Tayebeh</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Parhizkar</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1">
+					<sup>1</sup>Department of Concrete, Building and Housing Research Center (BHRC), Tehran, Iran, P.O. Box 13145-1696</aff>
+				<aff id="aff2">
+					<sup>2</sup>Department of Chemistry, Payame Noor University, Abhar, Zanjan, Iran</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<sup>*</sup>Email: Askarinejada@hotmail.com</corresp>
+			</author-notes>
+			<pub-date pub-type="pub">
+				<day>25</day>
+				<month>8</month>
+				<year>2013</year>
+			</pub-date>
+			<issue content-type="issue-sequence">2013</issue>
+			<elocation-id>29</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>6</day>
+					<month>8</month>
+					<year>2013</year>
+				</date>
+				<date date-type="accepted">
+					<day>13</day>
+					<month>8</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2013 Askarinejad, et al, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+				<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="connect.2013.29.pdf" xlink:type="simple"></self-uri>
+			<abstract abstract-type="graphical">
+				<title>Abstract</title>
+				<p>Ground Granulated Blast Furnace Slag (GGBFS) is a byproduct in the manufacture of pig iron, which contains almost the same chemical compositions as cement. As a new method for activation of GGBFS, a simple sonochemical route was developed to synthesize nanoparticles of GGBFS. Chemical composition of the GGBFS sample was characterized using X-ray fluorescence (XRF). Crystallinity, morphology and reactivity of the GGBFS samples were compared before and after the sonochemical process, by using Powder X-ray Diffraction (XRD), Scanning Electron Microscopy (SEM), Thermal Gravimetry and Differential Thermal Analysis (TG/DTA). Based on the DTG results, Nano GGBFS showed a superior reactivity compared with the bulk form. Therefore, sonochemistry is an appropriate method for the activation of cement additives.
+				</p>
+			</abstract>
+		</article-meta>
+	</front>
+</article>

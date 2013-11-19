@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2012.11</article-id>
+<article-id pub-id-type="publisher-id">11</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Gene action for pre and post harvest traits in F<sub>2</sub> wheat populations</article-title>
+<subtitle>Research article</subtitle>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Jadoon et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Sultan Akbar</given-names>
+<surname>Jadoon</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Fida</given-names>
+<surname>Mohammad</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Hidayat</given-names>
+<surname>Ullah</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Iftikhar H</given-names>
+<surname>Khalil</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Agriculture, The University of Swabi-Khyber Pakhtunkhwa, Pakistan</aff>
+<aff id="AF0002">
+<sup>2</sup>Department of Plant Breeding and Genetics, The University of Agriculture, Peshawar, Pakistan</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="shabkadar@yahoo.com" xlink:type="simple">shabkadar@yahoo.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>11</elocation-id>
+<history>
+<date date-type="received">
+<day>09</day>
+<month>5</month>
+<year>2012</year>
+</date>
+<date date-type="accepted">
+<day>19</day>
+<month>11</month>
+<year>2012</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2012 Jadoon, Mohammad, Ullah, Khalil, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2012</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2012.11.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>The inheritance mechanism for plant height, days to heading, spike length, grains spike<sup>− 1</sup> and biological yield traits in 8 × 8 half diallel F<sub>2</sub> wheat populations was studied at Agricultural University, Peshawar, Pakistan, during 2006-07. The experiment was laid out in randomized complete block (RCB) design having four replications. Each experimental unit was assigned a four-row plot of 5 m length with row-row space of 30 cm. Analyses of variance displayed significant genotypic differences for studied traits. Diallel analyses reflected significance of both additive and non-additive components in the inheritance of these traits, however, genetic components revealed the importance of a non-additive component. The average degree of dominance being greater than unity indicated involvement of over-dominance for phenotypic expression of all traits studied. Broad-sense heritability values were much higher than narrow-sense and thus delayed selection till advance generations are suggested.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Wheat</kwd>
+<x xml:space="preserve">; </x>
+<kwd>diallel analysis</kwd>
+<x xml:space="preserve">; </x>
+<kwd>additive and non-additive gene effects</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

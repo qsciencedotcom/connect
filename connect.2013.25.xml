@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.25</article-id>
+<article-id pub-id-type="publisher-id">25</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>On the presence of <italic>Scaurus puncticollis</italic> Solier, 1838 (Coleoptera: Tenebrionidae) in Qatar</article-title>
+<alt-title alt-title-type="rrh">Connect</alt-title>
+<alt-title alt-title-type="lrh">Mas-Peindo et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>P.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Mas-Peinado</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001 AF0002">
+<sup>1,2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>J.L.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Ruiz</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>M.</given-names>
+<x xml:space="preserve"> </x>
+<surname>García-París</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>A.M.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Castilla</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0003 AF0004">
+<sup>3,4</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>A.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Valdeón</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0005 AF0006">
+<sup>5,6</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Essam O.H.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Saifelnasr</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0007 AF0008">
+<sup>7,8</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Biodiversity and Evolutionary Biology, Museo Nacional de Ciencias Naturales; Consejo Superior de Investigaciones Científicas (MNCN-CSIC), C/ José Gutiérrez Abascal 2, 28006 Madrid, Spain, p.mas@mncn.csic.es, mparis@mncn.csic.es</aff>
+<aff id="AF0002">
+<sup>2</sup>Instituto de Estudios Ceutíes, Paseo de Revellín, 30, Apartado 593, 51080 Ceuta, España, fake@fake.com</aff>
+<aff id="AF0003">
+<sup>3</sup>Department of Biodiversity, Qatar Environment and Energy Research Institute (QEERI), Qatar Foundation, Education City, P.O. Box 5825, Doha, Qatar</aff>
+<aff id="AF0004">
+<sup>4</sup>Forest Sciences Centre of Catalonia (CTFC), Road Sant Llorenç de Morunys km2, 25280 Solsona, Catalonia, Spain</aff>
+<aff id="AF0005">
+<sup>5</sup>Department of Geography and Regional Planning, University of Zaragoza, Pedro Cerbuna, 12, 50009 Zaragoza, Spain, emys@galpagosdenavarra.com</aff>
+<aff id="AF0006">
+<sup>6</sup>Department of Herpetology, Aranzadi Society of Sciences, Zorroagagaina 11, 20014 Donostia-San Sebastián, Spain</aff>
+<aff id="AF0007">
+<sup>7</sup>Genetic Resources Department, Biotechnology Centre, Ministry of Environment, Qatar, P.O. Box 200022, Doha, Qatar, es_saifelnasr@yahoo.com</aff>
+<aff id="AF0008">
+<sup>8</sup>Agricultural Research Center (ARC), Ministry of Agriculture, Egypt</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>E-mails: <email xlink:href="acastilla@qf.org.qa" xlink:type="simple">acastilla@qf.org.qa</email>; <email xlink:href="castilla.aurora@gmail.com" xlink:type="simple">castilla.aurora@gmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>09</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>25</elocation-id>
+<history>
+<date date-type="received">
+<day>02</day>
+<month>6</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>03</day>
+<month>7</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Mas-Peinado, Ruiz, García-París, Castilla, Valdeón, Saifelnasr, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.25.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>As part of the biodiversity surveys conducted by the Department of Biodiversity at the Qatar Environment and Energy Research Institute (QEERI), we can report the presence of <italic>Scaurus puncticollis</italic> Solier, 1838 in Qatar, and confirm the first record for the tribe Scaurini Billberg, 1820 in the country. We found two living specimens and remains of a third one distributed over the year (February, April and October) in three different locations of the Al Rayyan Municipality in Qatar. These findings reveal that the fauna of darkling beetles of Qatar is, despite previous efforts, still underestimated. To document and report the actual Biodiversity Heritage of Qatar, new exhaustive field biodiversity surveys should be conducted to complete the catalogue of Tenebrionoidae for the State of Qatar.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Arabian Gulf</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Biodiversity conservation</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Atlas</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Insect</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Mapping</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

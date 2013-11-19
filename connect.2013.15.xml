@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="review-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.15</article-id>
+<article-id pub-id-type="publisher-id">15</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Review article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Alcohol and nicotinic acetylcholine receptors</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Tang and Liao</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Jinsong</given-names>
+<surname>Tang</surname>
+</string-name>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Yanhui</given-names>
+<surname>Liao</surname>
+</string-name>
+&ast;
+</contrib>
+<aff id="AF0001">Mental Health Institute, The Second Xiangya Hospital, Central South University, Changsha, China, 41001.</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>E-mail: <email xlink:href="tangliaoyanhui@gmail.com" xlink:type="simple">tangliaoyanhui@gmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>1</day>
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>15</elocation-id>
+<history>
+<date date-type="received">
+<day>01</day>
+<month>3</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>06</day>
+<month>5</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Tang, Lia, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.15.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p><bold>Background:</bold> The frequent co-abuse of alcohol and tobacco may suggest that they share some common neurological mechanisms. For example, nicotine acts on Nicotinic acetylcholine receptors (nAChRs) in the brain to release dopamine to sustain addiction. Might nAChRs be entwined with alcohol? <bold>Objectives:</bold> This review summarizes recent studies on the relationship between alcohol and nAChRs, including the role of nAChRs in molecular biological studies, genetic studies and pharmacological studies on alcohol, which indicate that nAChRs have been potently modulated by alcohol. <bold>Methods:</bold> We performed a cross-referenced literature search on biological, genetic and pharmacological studies of alcohol and nAChRs. <bold>Results:</bold> Molecular biological and genetic studies indicated that nAChR (genes) may be important in mediating alcohol intake, but we still lack substantial evidence about how it works. Pharmacological studies proved the correlation between nAChRs and alcohol intake, and the association between nicotine and alcohol at the nAChRs. The positive findings of varenicline (a partial agonist at the α4β2 nAChR, smoking-cessation pharmaceutical) treatment for alcoholism, provides a new insight for treating co-abuse of these two substances. <bold>Conclusions:</bold> Molecular biological, genetic and pharmacological studies of alcohol at the nAChR level, provide a new sight for preventing and treating the co-abuse of alcohol and nicotine. Given the important role of nAChRs in nicotine dependence, the interaction between alcohol and nAChRs would provide a new insight in finding effective pharmacological treatments, in decreasing or stopping alcohol consumption and cigarette smoking concurrently.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Alcohol</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Nicotinic acetylcholine receptors</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Molecular biological studies</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Genetic studies</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Pharmacological studies</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

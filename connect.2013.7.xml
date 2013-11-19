@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.7</article-id>
+<article-id pub-id-type="publisher-id">7</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Solvent-free synthesis, spectral correlations and antimicrobial activities of some 3,4-dimethoxy chalcones</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Mala et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>V.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Mala</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>K.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Sathiyamoorthi</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>SP.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Sakthinathan</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>D.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Kamalakkannan</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>R.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Suresh</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>G.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Vanangamudi</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1,</sup>&ast;</xref>
+
+
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>G.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Thirunarayanan</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>PG &amp; Research Department of Chemistry, Government Arts College, C-Mutlur-608 102, Chidambaram, India</aff>
+<aff id="AF0002">
+<sup>2</sup>Department of Chemistry, Annamalai University Annamalainagar, 608002, India</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="drgvsibi@gmail.com" xlink:type="simple">drgvsibi@gmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>7</elocation-id>
+<history>
+<date date-type="received">
+<day>31</day>
+<month>10</month>
+<year>2012</year>
+</date>
+<date date-type="accepted">
+<day>31</day>
+<month>1</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Mala, Sathiyamoorthi, Sakthinathan, Kamalakkannan, Suresh, Vanangamudi, Thirunarayanan, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution License CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.7.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p><bold>Background:</bold> The aim of this study was to synthesise some substituted styryl 3,4-dimethoxy phenyl ketones using solvent-free SiO<sub>2</sub>–H<sub>2</sub>SO<sub>4</sub> catalyzed aldol condensation between 3,4-dimethoxy acetophenone and substituted benzaldehydes under microwave irradiation. Then to characterize them by their analytical, physical and spectroscopic data, and also to study their the spectral correlation and antimicrobial activities. <bold>Methods:</bold> Solvent free microwave assisted aldol condensation method was used for synthesising 3,4-dimethoxyphenyl chalcones. They were characterised by ultraviolet (UV), infrared (IR), nuclear magnetic resonance (NMR) and mass spectroscopic data. The UV, IR, NMR spectral data were correlated with substituent constants, F and R parameters, using Hammett equation, to study the effect of substituents. The Bauer-Kirby method was used for evaluation of antimicrobial activities of the synthesised chalcones. <bold>Results:</bold> Yields of synthesised chalcones were more than 85%. The spectral data of these ketones had been correlated, using single and multi-linear regression analysis. These gave a satisfactory degree of correlations with some parameters and a fair degree of correlations with other parameters. Few chalcones gave excellent antimicrobial activities, whereas others gave poor antimicrobial activities. <bold>Conclusion</bold> Easy handling, non-hazardous and environmentally benign aldol condensation method had been adopted for synthesising chalcones with better yields. Some of the Hammett spectral correlations were found to be satisfactory with the observed spectroscopic data. Halo, methoxy, methyl and nitro substituted compounds had shown excellent antimicrobial activities based on their zone of inhibitions.</p></abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Styryl 3,4-dimethoxyphenyl ketones</kwd>
+<x xml:space="preserve">; </x>
+<kwd>SiO<sub>2</sub>-H<sub>2</sub>SO<sub>4</sub>
+</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Crossed-Aldol condensation</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Solvent free synthesis</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Antimicrobial activities</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

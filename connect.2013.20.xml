@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.20</article-id>
+<article-id pub-id-type="publisher-id">20</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>
+<italic>Meloe (Mesomeloe) coelatus</italic> Reiche, 1857 (Coleoptera: Meloidae): first record for the fauna of Qatar and COI mtDNA data</article-title>
+<subtitle></subtitle>
+<alt-title alt-title-type="rrh">Qscience Connect</alt-title>
+<alt-title alt-title-type="lrh">García-París et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>M.</given-names>
+<x xml:space="preserve"> </x>
+<surname>García-París</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>J.L.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Ruiz</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Y.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Jiménez-Ruiz</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>A.M.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Castilla</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0003 AF0004">
+<sup>3,4</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Essam O.H.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Saifelnasr</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0005 AF0006">
+<sup>5,6</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Biodiversity and Evolutionary Biology, National Museum of Natural Sciences, Spanish National Research Council (CSIC), C/ José Gutiérrez Abascal 2, 28006 Madrid, Spain, mparis@mncn.csic.es, fake2@fake.com</aff>
+<aff id="AF0002">
+<sup>2</sup>Instituto de Estudios Ceutíes, Paseo del Revellín 30, Apartado 593, 51080 Ceuta, España, fake@fake.com</aff>
+<aff id="AF0003">
+<sup>3</sup>Department of Biodiversity, Qatar Environment and Energy Research Institute (QEERI), Qatar Foundation, Education City, P.O. Box 5825, Doha, Qatar</aff>
+<aff id="AF0004">
+<sup>4</sup>Forest Sciences Centre of Catalonia (CTFC), Road Sant Llorenç de Morunys km2, 25280 Solsona, Catalonia, Spain</aff>
+<aff id="AF0005">
+<sup>5</sup>Genetic Resources Department, Biotechnology Centre, Ministry of Environment, Qatar, P.O. Box 200022, Doha, Qatar, es_saifelnasr@yahoo.com</aff>
+<aff id="AF0006">
+<sup>6</sup>Agricultural Research Center (ARC), Ministry of Agriculture, Egypt</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="acastilla@qf.org.qa" xlink:type="simple">acastilla@qf.org.qa</email>; <email xlink:href="castilla.aurora@gmail.com" xlink:type="simple">castilla.aurora@gmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>09</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>20</elocation-id>
+<history>
+<date date-type="received">
+<day>28</day>
+<month>5</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>25</day>
+<month>6</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 García-París, Ruiz, Jiménez-Ruiz, Castilla, Saifelnasr, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.20.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>We report the discovery of the blister beetle, <italic>Meloe coelatus</italic> Reiche, 1957, in Qatar. According to the <italic>Catalogue of Palaearctic Coleoptera</italic> there is no record for the genus <italic>Meloe</italic> in Qatar, although the genus is well represented in other areas of the Arabian Peninsula. <italic>M. coelatus</italic> is a rare species, that is present along a wide area of Northern Africa and Western Asia. Our findings bridge the current geographic gap in the known distribution of the species from Saudi Arabia to Iran. We believe the Coleoptera fauna of Qatar might be underestimated. A thorough field survey is recommended in order to document the presence of other species of this family, and also to complete the catalogue of Coleoptera for the State of Qatar.</p></abstract>
+</article-meta>
+</front>
+</article>

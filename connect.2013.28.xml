@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="pmc">connect</journal-id>
+			<journal-id journal-id-type="publisher-id">connect</journal-id>
+			<journal-title-group>
+				<journal-title xml:lang="en">QScience Connect</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2223-506X</issn>
+			<publisher>
+				<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">28</article-id>
+			<article-id pub-id-type="doi">10.5339/connect.2013.28</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>First record of a gecko species to the fauna of Qatar: Hemidactylus persicus Anderson, 1872 (Gekkonidae)</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Aurora M</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Castilla</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1, </sup>
+					</xref>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2, </sup>
+					</xref>
+					
+						<sup>*</sup>
+					
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Aitor</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Valdeón</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff3">
+						<sup>3, </sup>
+					</xref>
+					<xref ref-type="aff" rid="aff4">
+						<sup>4</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Dan</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Cog_lniceanu</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff5">
+						<sup>5</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Alberto</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Gosá</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff3">
+						<sup>3</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Ali</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Alkuwary</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff6">
+						<sup>6</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Essam O. H.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Saifelnasr</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff7">
+						<sup>7, </sup>
+					</xref>
+					<xref ref-type="aff" rid="aff8">
+						<sup>8</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Sara</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Al Naimi</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff9">
+						<sup>9, </sup>
+					</xref>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Ahmad Amer Mohd</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Al-Hemaidi</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff10">
+						<sup>10</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1">
+					<sup>1</sup>Department of Biodiversity, Qatar Environment and Energy Research Institute (QEERI), Qatar Foundation, Education City, P.O. Box 5825, Doha, Qatar</aff>
+				<aff id="aff2">
+					<sup>2</sup>Forest Sciences Centre of Catalonia (CTFC), Spanish National Research Council (CSIC)</aff>
+				<aff id="aff3">
+					<sup>3</sup>Department of Herpetology, Aranzadi Society of Sciences, Zorroagagaina, 11. San Sebastián, Spain</aff>
+				<aff id="aff4">
+					<sup>4</sup>Department of Geography and Regional Planning, University of Zaragoza. Pedro Cerbuna, 12. Zaragoza, Spain</aff>
+				<aff id="aff5">
+					<sup>5</sup>University Ovidius Constan_a, Faculty of Natural Sciences and Agricultural Sciences, Al. Universitatii 1, corp B, 900740 Constan_a, Romania</aff>
+				<aff id="aff6">
+					<sup>6</sup>Wildlife Research Section, Ministry of Environment, Qatar, P.O. Box 7635, Doha, Qatar</aff>
+				<aff id="aff7">
+					<sup>7</sup>Genetic Resources Department, Biotechnology Centre, Ministry of Environment, Qatar, P.O. Box 200022, Doha, Qatar</aff>
+				<aff id="aff8">
+					<sup>8</sup>Agricultural Research Center (ARC), Ministry of Agriculture, Egypt</aff>
+				<aff id="aff9">
+					<sup>9</sup>Qatar University, College of Arts and Sciences, P.O. Box 2713, Doha, Qatar. E-Mail: s.m.alnaimi@hotmail.com. 1Department of Biodiversity, Qatar Environment and Energy Research Institute (QEERI), Qatar Foundation, Education City, P.O. Box 5825, Doha, Qatar</aff>
+				<aff id="aff10">
+					<sup>10</sup>1Qatar Petroleum. Halul Terminal and Export, P.O.Box 47, Doha, Qatar</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<sup>*</sup>Email: aurora.castilla@ctfc.cat; aurora@mncn.csic.es</corresp>
+			</author-notes>
+			<pub-date pub-type="pub">
+				<day>25</day>
+				<month>8</month>
+				<year>2013</year>
+			</pub-date>
+			<issue content-type="issue-sequence">2013</issue>
+			<elocation-id>28</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>30</day>
+					<month>7</month>
+					<year>2013</year>
+				</date>
+				<date date-type="accepted">
+					<day>6</day>
+					<month>8</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2013 Castilla, et al, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+				<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="connect.2013.28.pdf" xlink:type="simple"></self-uri>
+			<abstract abstract-type="graphical">
+				<title>Abstract</title>
+				<p>We report the discovery of a gecko species, the Persian leaf-toed gecko Hemidactylus persicus Anderson, 1872 (Gekkonidae) in Qatar, found on Halul Island. According to the Qatar National Biodiversity Surveys and the available international literature H. persicus was not previously recorded in Qatar. Its known range covers the north east of the Arabian Peninsula, Bahrain, the United Arab Emirates, and south western Asia. Our findings bridge the current geographic gap in the known distribution of the species from Saudi Arabia to Asia. We believe that the species could also be present in the Qatar peninsula. A thorough field survey is needed in order to map the range of this species in the State of Qatar.
+				</p>
+			</abstract>
+		</article-meta>
+	</front>
+</article>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.12</article-id>
+<article-id pub-id-type="publisher-id">12</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Biomass, root structure and morphological characteristics of the medicinal <italic>Sarcocephalus latifolius</italic> (Sm) E.A. Bruce shrub across different ecologies in Benin</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Goussanou et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Cedric A.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Goussanou</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Achille E.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Assogbadjo</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Gerard N.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Gouwakinnou</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1,</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Romain L.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Glèlè-Kakaï</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Sebastian</given-names>
+<x xml:space="preserve"> </x>
+<surname>Chakeredza</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Brice</given-names>
+<x xml:space="preserve"> </x>
+<surname>Sinsin</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Laboratoire d'Ecologie Appliquée, Faculté des Sciences Agronomiques, Université d'Abomey-Calavi, 01 BP 526, Cotonou, Bénin</aff>
+<aff id="AF0002">
+<sup>2</sup>African Network for Agriculture, Agroforestry and Natural Resources Education (ANAFE), United Nations Avenue; P.O. Box 30677-00100, Nairobi, Kenya</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="gougerano@yahoo.fr" xlink:type="simple">gougerano@yahoo.fr</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>12</elocation-id>
+<history>
+<date date-type="received">
+<day>11</day>
+<month>11</month>
+<year>2012</year>
+</date>
+<date date-type="accepted">
+<day>05</day>
+<month>4</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Goussanou, Assogbadjo, Gouwakinnou, Glèlè-Kakaï, Chakeredza, Sinsin, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution License CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.12.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>Medicinal plants play an important role in human livelihoods. However, the harvest of different organs may be destructive. <italic>Sarcocephalus latifolius</italic> is a species whose roots are harvested for medicinal purposes. This study was carried out to assess the root characteristics, biomass yield and morphological variations within different habitats of southern Benin. Forty-eight <italic>S. latifolius</italic> individual plants were randomly selected in three localities, representing four habitats for the species. Information collected was related to height, basal diameter, diameter at breast height, number, depth of insertion and the length and the diameter of the roots. Observations were also made on organ characteristics to identify morphologic variation. The study showed that the optimum development of the root system is established in fallow ground and savannas. The species presents two morphotypes at the stem and root levels. Root biomass varied according to the developmental stage and habitat. A model of root biomass estimation was established and can be used to determine the root biomass within habitats. Across habitat, the number of roots is the major determinant for root biomass yield. Therefore, harvest should take into consideration habitat and the developmental stage according to the use type.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>root system</kwd>
+<x xml:space="preserve">; </x>
+<kwd>biomass</kwd>
+<x xml:space="preserve">; </x>
+<kwd>morphological variation</kwd>
+<x xml:space="preserve">; </x>
+<kwd>
+<italic>Sarcocephalus latifolius</italic>
+</kwd>
+<x xml:space="preserve">; </x>
+<kwd>West Africa</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

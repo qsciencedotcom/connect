@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.16</article-id>
+<article-id pub-id-type="publisher-id">16</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Photodynamic therapy for hair removal</article-title>
+<subtitle></subtitle>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Ali et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mohamed H.M.</given-names>
+<surname>Ali</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+<sup>,</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mohamed M.</given-names>
+<surname>Hashem</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Amr</given-names>
+<surname>Zaher</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Soheir</given-names>
+<surname>Korraa</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0003">
+<sup>3</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Farouk</given-names>
+<surname>Hamouda</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Carmen M.</given-names>
+<surname>Ali</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0004">
+<sup>4</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Khalid A.</given-names>
+<surname>Al-Saad</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0005">
+<sup>5</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>School of Chemistry, The University of Sydney, NSW, 2006, Australia</aff>
+<aff id="AF0002">
+<sup>2</sup>National Institute for Laser Enhanced Sciences, Cairo University, Egypt</aff>
+<aff id="AF0003">
+<sup>3</sup>National Centre for Radiation Research and Technology, Cairo, Egypt</aff>
+<aff id="AF0004">
+<sup>4</sup>School of Veterinary Science, The University of Sydney, NSW, 2006, Australia</aff>
+<aff id="AF0005">
+<sup>5</sup>Department of Chemistry and Earth Sciences, College of Arts and Sciences, Qatar University, P.O. Box: 2713, Doha, Qatar</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="moaam@yahoo.com" xlink:type="simple">moaam@yahoo.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>06</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>16</elocation-id>
+<history>
+<date date-type="received">
+<day>01</day>
+<month>4</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>17</day>
+<month>5</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Ali, Hashem, Zaher, Korraa, Hamouda, Ali, Al-Saad, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.16.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p><bold>Background:</bold> Unwanted hair is one of the most common medical problems affecting women of reproductive age inducing a lot of psychological stress and threatening their femininity and self-esteem. Old methods of removing unwanted hair include shaving, waxing, chemical depilation, and electrolysis, all of which have temporary results. However laser-assisted hair removal is the most efficient method of long-term hair removal currently available. It is desirable to develop a reduced cost photodynamic therapy (PDT) system whose properties should include high efficiency and low side-effects. <bold>Method:</bold> Mice skin tissues were used in this study and divided into six groups such as controls, free methylene blue (MB) incubation, liposome methylene blue (MB) incubation, laser without methylene blue (MB), free methylene blue (MB) for 3 and 4 h and laser, liposome methylene blue (MB) for 3 h and laser. Methylene blue (MB) was applied to wax epilated areas. The areas were irradiated with CW He-Ne laser system that emits orange-red light with wavelength 632.8 nm and 10 mW at energy density of 5 J/cm<sup>2</sup> for 10 min. The UV-visible absorption spectrum was collected by Cary spectrophotometer. <bold>Results:</bold> Methylene blue (MB) is selectively absorbed by actively growing hair follicles due to its cationic property. Methylene blue (MB) untreated sections showed that hair follicle and sebaceous gland are intact and there is no change due to the laser exposure. Free methylene blue (MB) sections incubated for 3 h showed that He:Ne laser induced destruction in hair follicles, leaving an intact epidermis. Treated section with free methylene blue (MB) for 4 h showed degeneration and necrosis in hair follicle, leaving an intact epidermis. Liposomal methylene blue (MB) sections incubated for 3 h showed He:Ne laser induced destruction in hair follicles with intradermal leucocytic infiltration. <bold>Conclusion:</bold> Low power CW He:Ne laser and methylene blue (MB) offered a successful PDT system in selectively damaging hair follicles, leaving an intact epidermis. The current PDT system provides better outcome than hair destruction through laser heat transfer procedures and laser-mediated hair removal, due to complete destruction of hair follicles.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>Photodynamic therapy (PDT)</kwd>
+<x xml:space="preserve">; </x>
+<kwd>hair removal</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Methylene blue (MB) photosensitizer and He:Ne laser</kwd>
+<x xml:space="preserve">; </x>
+<kwd>UV-visible spectroscopy</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

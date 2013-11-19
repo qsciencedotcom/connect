@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.35</article-id>
+<article-id pub-id-type="publisher-id">35</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research paper</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>A novel stable cluster-based protocol for heterogeneous RFID enhanced wireless sensor networks</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Golsorkhtabaramiri and Hosseinzadeh</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mehdi</given-names>
+<x xml:space="preserve"> </x>
+<surname>Golsorkhtabaramiri</surname>
+</string-name>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mehdi</given-names>
+<x xml:space="preserve"> </x>
+<surname>Hosseinzadeh</surname>
+</string-name>
+</contrib>
+<aff id="AF0001">Science and Research Branch, Islamic Azad University, Tehran, Iran</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="m.golesorkh@srbiau.ac.ir" xlink:type="simple">m.golesorkh@srbiau.ac.ir</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>10</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>35</elocation-id>
+<history>
+<date date-type="received">
+<day>13</day>
+<month>8</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>05</day>
+<month>9</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Golsorkhtabaramiri, Hosseinzadeh, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.35.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>By integrating Radio Frequency Identification (RFID) technology with Wireless Sensor Networks (WSN), it is feasible to route RFID data from readers and RFID enhanced wireless sensor nodes (WSN) into base-stations through existing WSN clustering protocols. WSNs for reducing energy consumption and improving stability period can use clustering algorithms. Clustering sensor nodes are a useful topology control technique, but these algorithms are not always suitable for heterogeneous WSNs. Previous constructive algorithms, such as LEACH and SEP are not always stable in heterogeneous WSNs. They are designed without regard to appropriate parameters, such as remaining power and confidence value of the nodes for WSNs. In this paper we suggest and introduce a novel stable heterogeneous cluster-based protocol with cluster member bounds for heterogeneous RFID enhanced WSNs, which called SHCP. In SHCP, the probability of cluster-heads (CHs) election are weighted by the primary energy of a node relative to that of other nodes in the network and cluster formation, based on nodes current energy, numbers of current members which belong to a CH, distance between CHs and nodes and distance between CHs and base-station. Our conclusion shows the simulation results show SHCP achieves longer stability time until the first node dies (FND), half nodes die (HND) and improves energy utilization in WSNs.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>wireless sensor network</kwd>
+<x xml:space="preserve">; </x>
+<kwd>RFID</kwd>
+<x xml:space="preserve">; </x>
+<kwd>heterogeneous WSN</kwd>
+<x xml:space="preserve">; </x>
+<kwd>routing</kwd>
+<x xml:space="preserve">; </x>
+<kwd>clustering</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

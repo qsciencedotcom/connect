@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="pmc">connect</journal-id>
+			<journal-id journal-id-type="publisher-id">connect</journal-id>
+			<journal-title-group>
+				<journal-title xml:lang="en">QScience Connect</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2223-506X</issn>
+			<publisher>
+				<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">38</article-id>
+			<article-id pub-id-type="doi">10.5339/connect.2013.38</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Physicochemical and biological properties of nucleosides modified with an imidazole ring and their copper complexes</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Elzbieta</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Lodyga-Chruscinska</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1, </sup>
+					</xref>
+					
+						<sup>*</sup>
+					
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Malgorzata</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Sierant</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Justyna</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Pawlak</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Elzbieta </given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Sochacka</surname>
+					</string-name>
+					<xref ref-type="aff" rid="aff3">
+						<sup>3</sup>
+					</xref>
+				</contrib>
+				<aff id="aff1">
+					<sup>1</sup>Institute of General Food Chemistry, Lodz University of Technology, ul. Stefanowskiego 4/10, 90-924 Lodz, Poland</aff>
+				<aff id="aff2">
+					<sup>2</sup>Centre of Molecular and Macromolecular Studies, Polish Academy of Sciences, ul. Sienkiewicza 112, 90-363 Lodz, Poland</aff>
+				<aff id="aff3">
+					<sup>3</sup>Institute of Organic Chemistry, Lodz University of Technology, ul. _eromskiego 176, 90-924 Lodz, Poland</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<sup>*</sup>Email: elzbieta.lodyga-chruscinska@p.lodz.pl</corresp>
+			</author-notes>
+			<pub-date pub-type="pub">
+				<day>25</day>
+				<month>8</month>
+				<year>2013</year>
+			</pub-date>
+			<issue content-type="issue-sequence">2013</issue>
+			<elocation-id>38</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>3</day>
+					<month>7</month>
+					<year>2013</year>
+				</date>
+				<date date-type="accepted">
+					<day>30</day>
+					<month>9</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2013 Lodyga-Chruscinska, et al, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+				<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="connect.2013.38.pdf" xlink:type="simple"></self-uri>
+			<abstract abstract-type="graphical">
+				<title>Abstract</title>
+				<p>Copper(II) complexes with novel chelator-type nucleosides: histidine modified 2'-deoxyriboadenosine (N-[(9-β-D-2'-deoxyribofuranosylpurin-6-yl)-carbamoyl]histidine) and histamine modified 2'-deoxyriboadenosine (N-[(9-beta-D-2'-deoxyribofuranosylpurin-6-yl)-carbamoyl]histamine) were studied by potentiometric and spectroscopic (UV-VIS, CD, EPR) techniques. A histidine or histamine residue was inserted in the purine part of a nucleoside. The ligands can act as bidentate or tridentate, depending on the pH range. The Cu(II) ions bind specifically to the modified deoxynucleosides forming very stable chelates. In acidic pH, a very stable dimeric complex Cu<sub>2</sub>L<sub>2</sub> predominates, with coordination spheres of both metal ions composed of oxygen atoms from carboxylic groups, one oxygen atom from ureido group and two nitrogen atoms derived from a purine base and histidine ring. Above pH 5, deprotonation of carbamoyl nitrogens leads to the formation of CuL<sub>2</sub>, Cu<sub>2</sub>L<sub>2</sub>H-<sub>1</sub> and Cu<sub>2</sub>L<sub>2</sub>H-<sub>2</sub> species. The CuL<sub>2</sub>H-<sub>1</sub> and CuL<sub>2</sub>H-<sub>2</sub> complexes, with three or four nitrogens in Cu(II) coordination sphere, have been detected in alkaline medium. The cleavage of double stranded pEGFP-C1 in 5 mM Tris-HCl/5 mM NaCl buffer (pH, 7.5) by ligands and Cu(II) complexes, in the absence of any reducing agent has been studied by gel electrophoresis. The ligands and their copper complexes have introduced single-strand nicks into pEGFP-C1 plasmid DNA at micromolar concentrations, converting the supercoiled into open circular forms. The chelates have been found to be more active as DNA cleavers than the free ligands.
+				</p>
+			</abstract>
+		</article-meta>
+	</front>
+</article>

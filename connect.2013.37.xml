@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="research-article" dtd-version="3.0" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="pmc">connect</journal-id>
+			<journal-id journal-id-type="publisher-id">connect</journal-id>
+			<journal-title-group>
+				<journal-title xml:lang="en">QScience Connect</journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2223-506X</issn>
+			<publisher>
+				<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">37</article-id>
+			<article-id pub-id-type="doi">10.5339/connect.2013.37</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Effect of estradiol-17β on serum mineral concentrations of female Japanese quail</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Hüseyin B.</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Çiftci</surname>
+					</string-name>
+					
+						<sup>*</sup>
+					
+				<x xml:space="preserve">, </x>
+				</contrib>
+				<contrib contrib-type="author" xlink:type="simple">
+					<string-name>
+						<given-names>Iskender</given-names>
+						<x xml:space="preserve"> </x>
+						<surname>Yıldırım</surname>
+					</string-name>
+				</contrib>
+				<aff id="aff1">
+					<sup>1</sup>Department of Animal Science, School of Agriculture, Selçuk University, Konya 42075, Turkey. </aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<sup>*</sup>Email: hbciftci@selcuk.edu.tr</corresp>
+			</author-notes>
+			<pub-date pub-type="pub">
+				<day>25</day>
+				<month>8</month>
+				<year>2013</year>
+			</pub-date>
+			<issue content-type="issue-sequence">2013</issue>
+			<elocation-id>37</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>21</day>
+					<month>8</month>
+					<year>2013</year>
+				</date>
+				<date date-type="accepted">
+					<day>13</day>
+					<month>9</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© 2013 Çiftci, Yıldırım, licensee Bloomsbury Qatar
+Foundation Journals. This is an open access article distributed under the terms
+of the Creative Commons Attribution License CC BY 3.0 which permits
+unrestricted use, distribution and reproduction in any medium, provided the
+original work is properly cited.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+				<copyright-holder>Bloomsbury Qatar Foundation Journals</copyright-holder>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="connect.2013.37.pdf" xlink:type="simple"></self-uri>
+			<abstract abstract-type="graphical">
+				<title>Abstract</title>
+				<p>Minerals have a profound impact on reproduction. The relations between estradiol-17β (E<sub>2</sub>) and blood mineral levels have been studied mainly in human and rats, not quail. Therefore, the aim of this study was to test the effect of E<sub>2</sub> on serum mineral concentrations in Japanese quail (Coturnix japonica). The study was conducted at the Seljuk University animal farm thirteen week old female Japanese quails (n=33) were housed in cages (25x35x48 cm) under a 16 hours light: 8 hours dark cycle. During the course of the study, birds were fed ad libitum with a diet supplying 20% crude protein, 2901 kcal/kg metabolic energy, 2.5% calcium (Ca), 0.35% phosphorus (P), 1.02% lysine, 1.02% methionine and cysteine mixture. After a 7-day adaptation period, the birds were randomly assigned to 3 groups, one control (n=10) and two others as test groups (n=11 and n=12). Birds in test groups were subcutaneously injected with 0.1 or 0.2 mg E<sub>2</sub>. Blood samples were collected from the jugular vein and serum mineral concentrations were measured by HNO<sub>3</sub> digestion method. Injection of 0.2 mg E<sub>2</sub> resulted with a significant reduction in serum potassium concentration as compared to control group. Injection of 0.2 mg E<sub>2</sub> caused a significant reduction in serum iron concentration as compared to 0.1 mg E<sub>2</sub> injected group. Injection of 0.1 mg E<sub>2</sub> caused a significant increase in serum chromium concentration over the control. Serum boron concentration was significantly high after the injection of 0.1 or 0.2 mg E<sub>2</sub> over the control group.  Effect of E<sub>2</sub> on serum mineral concentration depends on injection dose. An injection of 0.1 or 0.2 mg E<sub>2</sub> significantly increased serum boron concentration, which is an indication for the effect of E<sub>2</sub> on bone mineralization and feed conversion ratio. Thus, administration of boron or E<sub>2</sub> may protect postmenopausal women against osteoporosis and estradiol can be employed for the treatment of osteoporosis. Injection of 0.1 mg E<sub>2</sub> caused a significant increase in serum chromium concentration, which indicates the function of E<sub>2</sub> on body growth and reproductive performance. Injection of 0.2 mg E<sub>2</sub> caused significant reduction in serum potassium (K) concentration, while there was a slight increase in serum sodium (Na) concentration. This indicates the involvement of E<sub>2</sub> in rennin-angiotensin-aldosterone system.
+				</p>
+			</abstract>
+		</article-meta>
+	</front>
+</article>

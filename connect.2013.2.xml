@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.2</article-id>
+<article-id pub-id-type="publisher-id">2</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Noncommutative phase spaces on Aristotle group</article-title>
+<subtitle></subtitle>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Ngendakumana et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Ancille</given-names>
+<x xml:space="preserve"> </x>
+<surname>Ngendakumana</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1,</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Joachim</given-names>
+<x xml:space="preserve"> </x>
+<surname>Nzotungicimpaye</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Leonard</given-names>
+<x xml:space="preserve"> </x>
+<surname>Todjihoundé</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Institut de Mathématiques et des Sciences Physiques (I.M.S.P), Porto-Novo, Bénin</aff>
+<aff id="AF0002">
+<sup>2</sup>Kigali Institute of Education, Kigali, Rwanda</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="nancille@yahoo.fr" xlink:type="simple">nancille@yahoo.fr</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>2</elocation-id>
+<history>
+<date date-type="received">
+<day>06</day>
+<month>11</month>
+<year>2012</year>
+</date>
+<date date-type="accepted">
+<day>17</day>
+<month>1</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Ngendakumana, Nzotungicimpaye, Todjihoundé, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.2.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>We realize noncommutative phase spaces as coadjoint orbits of extensions of the Aristotle group in a two-dimensional space. Through these constructions the momenta of the phase spaces do not commute due to the presence of a naturally introduced magnetic field. These cases correspond to the minimal coupling of the momentum with a magnetic potential.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>noncommutative phase space</kwd>
+<x xml:space="preserve">; </x>
+<kwd>coadjoint orbits</kwd>
+<x xml:space="preserve">; </x>
+<kwd>noncentral extension</kwd>
+<x xml:space="preserve">; </x>
+<kwd>symplectic realizations</kwd>
+<x xml:space="preserve">; </x>
+<kwd>magnetic fields</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

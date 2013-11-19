@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.18</article-id>
+<article-id pub-id-type="publisher-id">18</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research paper</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Synthesis of some substituted pyrazole-1-carbothioamides and spectral correlations in 3-(3,4-dibromophenyl)-5-(substituted phenyl)-4,5-dihydro-1<italic>H</italic>-pyrazole-1-carbothioamides</article-title>
+<alt-title alt-title-type="rrh">Qscience Connect</alt-title>
+<alt-title alt-title-type="lrh">Thirunarayanan and Sekar</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>G.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Thirunarayanan</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>K.G.</given-names>
+<x xml:space="preserve"> </x>
+<surname>Sekar</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2,</sup>
+</xref>
+&ast;
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>Department of Chemistry, Annamalai University, Annamalainagar-608002, India</aff>
+<aff id="AF0002">
+<sup>2</sup>Department of Chemistry, National College, Tiruchirappalli-620 001, India</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>Email: <email xlink:href="drkgsekar@yahoo.co.in" xlink:type="simple">drkgsekar@yahoo.co.in</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>01</day>
+<month>07</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>18</elocation-id>
+<history>
+<date date-type="received">
+<day>30</day>
+<month>4</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>03</day>
+<month>6</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Thirunarayanan, Sekar, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution license CC BY 3.0, which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.18.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>
+<bold>Background:</bold> This study aims to synthesise a series of 1-thiocarbomyl pyrazolines, including 3-(3,4-dibromophenyl)-5-(substituted phenyl)-4,5-dihydro-1<italic>H</italic>-pyrazole-1-carbothioamides, using solvent-free fly-ash:PTS catalyzed cyclization between chalcones and thiosemicarbazide, under microwave irradiation. Then to characterize them using analytical, physical and spectroscopic data.</p>
+<p>
+<bold>Methods:</bold> Solvent-free microwave assisted cyclization was adopted for the synthesis of 1-thiocarbomyl, including 3-(3,4-dibromophenyl)-5-(substituted phenyl)-4,5-dihydro-1<italic>H</italic>- pyrazole-1-carbothioamides, using fly-ash:PTS as the catalyst. They were characterised by IR, NMR and mass spectroscopic data. The infrared (IR) and nuclear magnetic resonance (NMR) spectral data was correlated with substituent constants, F and R parameters, using Hammett equation, to study the effect of substituents.</p>
+<p>
+<bold>Results:</bold> The yields of the synthesised chalcones were more than 85%. The spectral data of these 3-(3,4-dibromophenyl)-5-(substituted phenyl)-4,5-dihydro-1<italic>H</italic>-pyrazole-1-carbothioamides had been correlated, using single and multi-linear regression analysis. These gave a satisfactory or fair degree of correlation with some parameters.</p>
+<p>
+<bold>Conclusion:</bold> Easy handling, non-hazardous and environmentally benign cyclization method had been adopted for the synthesis of 1-thiocarbomyl pyrazolines using fly-ash:PTS as catalyst, with better yields. Some of the Hammett spectral correlations were found to be satisfactory, with the observed spectroscopic data.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>3-(3,4-dibromophenyl)-5-(substituted phenyl)-4,5-dihydro-1<italic>H</italic>-pyrazole-1-carbothioamides</kwd>
+<x xml:space="preserve">; </x>
+<kwd>fly-ash:PTS</kwd>
+<x xml:space="preserve">; </x>
+<kwd>solvent-free synthesis</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Hammett correlations</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>

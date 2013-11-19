@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.6 20130326//EN" "atypon-archivearticle3.dtd">
+<article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" article-type="research-article" dtd-version="3.0" xml:lang="en">
+<front>
+<journal-meta>
+<journal-id journal-id-type="pmc">CONNECT</journal-id>
+<journal-id journal-id-type="publisher-id">CONNECT</journal-id>
+<journal-title-group>
+<journal-title xml:lang="en">QScience Connect</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2223-506X</issn>
+<publisher>
+<publisher-name>Bloomsbury Qatar Foundation Journals</publisher-name>
+<publisher-loc>Qatar</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.5339/connect.2013.13</article-id>
+<article-id pub-id-type="publisher-id">13</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Using Simulation-Based Optimization to Improve Performance At a Tire Manufacturing Company</article-title>
+<alt-title alt-title-type="rrh">QScience Connect</alt-title>
+<alt-title alt-title-type="lrh">Darayi et al</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Mohamad</given-names>
+<surname>Darayi</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1,</sup>
+</xref>
+&ast;
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Hamidreza</given-names>
+<surname>Eskandari</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0001">
+<sup>1</sup>
+</xref>
+</contrib>
+<x xml:space="preserve">, </x>
+<contrib contrib-type="author" xlink:type="simple">
+<string-name>
+<given-names>Christopher D.</given-names>
+<surname>Geiger</surname>
+</string-name>
+<xref ref-type="aff" rid="AF0002">
+<sup>2</sup>
+</xref>
+</contrib>
+<aff id="AF0001">
+<sup>1</sup>School of Industrial Engineering, Advanced Simulation Laboratory, Tarbiat Modares University, 14117 Tehran, IRAN</aff>
+<aff id="AF0002">
+<sup>2</sup>Department of Industrial Engineering and Management Systems, University of Central Florida, OrlandoFL,  32816, USA</aff>
+</contrib-group>
+<author-notes>
+<corresp id="caf1">
+<sup>&ast;</sup>E-mail: <email xlink:href="moaam@yahoo.com" xlink:type="simple">mohamad.darayi84@gmail.com</email>
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>1</day>
+<month>6</month>
+<year>2013</year>
+</pub-date>
+<elocation-id>13</elocation-id>
+<history>
+<date date-type="received">
+<day>01</day>
+<month>3</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>21</day>
+<month>4</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>© 2013 Eskandari, Darayi, Geiger, licensee Bloomsbury Qatar Foundation Journals. This is an open access article distributed under the terms of the Creative Commons Attribution License CC BY 3.0 which permits unrestricted use, distribution and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+<copyright-year>2013</copyright-year>
+<copyright-holder>Brown, licensee Bloomsbury Qatar Foundation Journals.</copyright-holder>
+</permissions>
+<self-uri content-type="pdf" xlink:href="connect.2013.13.pdf" xlink:type="simple"></self-uri>
+<abstract>
+<p>In this paper, a simulation optimization-based decision support tool has been developed to study the capacity enhancement scenarios in a tire manufacturing company located in Iran. This company is experiencing challenges in synchronizing production output with customer demand causing an unbalanced work-in-process (WIP) inventory distribution throughout the tire manufacturing process. However, a new opportunity to increase the supplying of raw materials by fifty percent and increase the expected growth in market demand, necessitate this study of the current company situation. This research supported by the company, is to analyze whether the ongoing production logistics system can respond to the increased market demand, considering the raw material expansion. Implementation of a proposed hybrid push/pull production control strategy, together with the facility capacity enhancement options in bottleneck stations and/or heterogeneous lines within the plant, are investigated by the proposed simulation optimization methodology.</p>
+</abstract>
+<kwd-group>
+<title>Keywords:</title>
+<kwd>System simulation</kwd>
+<x xml:space="preserve">; </x>
+<kwd>Tire manufacturing Multi-criteria decision analysis</kwd>
+</kwd-group>
+</article-meta>
+</front>
+</article>
